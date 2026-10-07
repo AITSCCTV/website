@@ -7,16 +7,16 @@ import {ContactPhone} from "../components/ContactPhone";
 export default function Page4821(){return <div className="page-4821"><div data-layout-node={"n0"} className={"v0"}>
 <div data-layout-node={"n1"} className={"v1 section"}>
 <div data-layout-node={"n2"} className={"v2"}>
-<div data-layout-node={"n3"} className={"v3"}>
-<div data-layout-node={"n4"} className={"v4"}>
+<div data-layout-node={"n3"} className={"v3 text-widget"}>
+<div data-layout-node={"n4"} className={"v4 text-widget"}>
 <p data-layout-node={"n5"} className={"v5"}>
 {"WINDOW FILM "}
 </p>
 </div>
 </div>
-<div data-layout-node={"n6"} className={"v3"}>
-<div data-layout-node={"n7"} className={"v4"}>
-<p data-layout-node={"n8"} className={"v6"}>
+<div data-layout-node={"n6"} className={"v3 text-widget"}>
+<div data-layout-node={"n7"} className={"v4 text-widget"}>
+<p data-layout-node={"n8"} className={"v6 large-copy"}>
 {"ติดฟิล์มกระจกบ้าน"}
 </p>
 </div>
@@ -41,7 +41,7 @@ export default function Page4821(){return <div className="page-4821"><div data-l
 <div data-layout-node={"n19"} className={"v3"}>
 <div data-layout-node={"n20"} className={"v4"}>
 <div data-layout-node={"n21"} className={"v4"}>
-<SiteLink data-layout-node={"n22"} className={"v14"} href={"tel:0944606196"} target={"_blank"} rel={"noopener"}>
+<SiteLink data-layout-node={"n22"} className={"v14 action-link"} href={"tel:0944606196"} target={"_blank"} rel={"noopener"}>
 <span data-layout-node={"n23"} className={"v15"}>
 <span data-layout-node={"n24"} className={"v16"}>
 {"สนใจบริการติดฟิล์ม  โทรติดต่อเราได้ที่นี่"}
@@ -58,10 +58,10 @@ export default function Page4821(){return <div className="page-4821"><div data-l
 </div>
 </div>
 </div>
-<div data-layout-node={"n27"} className={"v12 section"}>
-<div data-layout-node={"n28"} className={"v19"}>
-<div data-layout-node={"n29"} className={"v3"}>
-<div data-layout-node={"n30"} className={"v4"}>
+<div data-layout-node={"n27"} className={"v12 section media-widget"}>
+<div data-layout-node={"n28"} className={"v19 media-widget"}>
+<div data-layout-node={"n29"} className={"v3 media-widget"}>
+<div data-layout-node={"n30"} className={"v4 media-widget"}>
 <img data-layout-node={"n31"} className={"v20"} src={"https://aitscctv.com/wp-content/uploads/2023/08/window-film-front-of-house.jpg"} alt={"Window film front of house"} loading={"lazy"} decoding={"async"} width={"1200"} height={"630"} />
 </div>
 </div>
@@ -73,8 +73,8 @@ export default function Page4821(){return <div className="page-4821"><div data-l
 </div>
 <div data-layout-node={"n32"} className={"v21 section"}>
 <div data-layout-node={"n33"} className={"v22"}>
-<div data-layout-node={"n34"} className={"v3"}>
-<div data-layout-node={"n35"} className={"v4"}>
+<div data-layout-node={"n34"} className={"v3 text-widget"}>
+<div data-layout-node={"n35"} className={"v4 text-widget"}>
 <p data-layout-node={"n36"} className={"v5"}>
 {"DESIGN AND SET UP WINDOW FILM "}
 </p>
@@ -94,8 +94,8 @@ export default function Page4821(){return <div className="page-4821"><div data-l
 </h2>
 </div>
 </div>
-<div data-layout-node={"n46"} className={"v3"}>
-<div data-layout-node={"n47"} className={"v4"}>
+<div data-layout-node={"n46"} className={"v3 media-widget"}>
+<div data-layout-node={"n47"} className={"v4 media-widget"}>
 <img data-layout-node={"n48"} className={"v30"} src={"https://aitscctv.com/wp-content/uploads/2023/08/window-film-single-house.jpg"} alt={"Window film single house"} loading={"lazy"} decoding={"async"} width={"1024"} height={"537"} />
 </div>
 </div>
@@ -107,7 +107,7 @@ export default function Page4821(){return <div className="page-4821"><div data-l
 <div data-layout-node={"n51"} className={"v3"}>
 <div data-layout-node={"n52"} className={"v31"}>
 <div data-layout-node={"n53"} className={"v4"}>
-<SiteLink data-layout-node={"n54"} className={"v32"} href={"https://page.line.me/852uanad?openQrModal=true"} target={"_blank"} rel={"noopener"}>
+<SiteLink data-layout-node={"n54"} className={"v32 action-link"} href={"https://page.line.me/852uanad?openQrModal=true"} target={"_blank"} rel={"noopener"}>
 <span data-layout-node={"n55"} className={"v33"}>
 <span data-layout-node={"n56"} className={"v34"}>
 {"ปรึกษาเรา บริการติดฟิล์มบ้าน "}
@@ -130,8 +130,8 @@ export default function Page4821(){return <div className="page-4821"><div data-l
 </h2>
 </div>
 </div>
-<div data-layout-node={"n63"} className={"v3"}>
-<div data-layout-node={"n64"} className={"v4"}>
+<div data-layout-node={"n63"} className={"v3 media-widget"}>
+<div data-layout-node={"n64"} className={"v4 media-widget"}>
 <img data-layout-node={"n65"} className={"v30"} src={"https://aitscctv.com/wp-content/uploads/2023/08/window-film-building.jpg"} alt={"Window film building"} loading={"lazy"} decoding={"async"} width={"1024"} height={"537"} />
 </div>
 </div>
@@ -143,7 +143,7 @@ export default function Page4821(){return <div className="page-4821"><div data-l
 <div data-layout-node={"n68"} className={"v3"}>
 <div data-layout-node={"n69"} className={"v31"}>
 <div data-layout-node={"n70"} className={"v4"}>
-<SiteLink data-layout-node={"n71"} className={"v32"} href={"https://page.line.me/852uanad?openQrModal=true"} target={"_blank"} rel={"noopener"}>
+<SiteLink data-layout-node={"n71"} className={"v32 action-link"} href={"https://page.line.me/852uanad?openQrModal=true"} target={"_blank"} rel={"noopener"}>
 <span data-layout-node={"n72"} className={"v33"}>
 <span data-layout-node={"n73"} className={"v34"}>
 {"ปรึกษาเรา"}
@@ -166,8 +166,8 @@ export default function Page4821(){return <div className="page-4821"><div data-l
 </h2>
 </div>
 </div>
-<div data-layout-node={"n80"} className={"v3"}>
-<div data-layout-node={"n81"} className={"v4"}>
+<div data-layout-node={"n80"} className={"v3 media-widget"}>
+<div data-layout-node={"n81"} className={"v4 media-widget"}>
 <img data-layout-node={"n82"} className={"v30"} src={"https://aitscctv.com/wp-content/uploads/2023/08/window-film-home.jpg"} alt={"Window film home"} loading={"lazy"} decoding={"async"} width={"1024"} height={"537"} />
 </div>
 </div>
@@ -179,7 +179,7 @@ export default function Page4821(){return <div className="page-4821"><div data-l
 <div data-layout-node={"n85"} className={"v3"}>
 <div data-layout-node={"n86"} className={"v31"}>
 <div data-layout-node={"n87"} className={"v4"}>
-<SiteLink data-layout-node={"n88"} className={"v32"} href={"https://page.line.me/852uanad?openQrModal=true"} target={"_blank"} rel={"noopener"}>
+<SiteLink data-layout-node={"n88"} className={"v32 action-link"} href={"https://page.line.me/852uanad?openQrModal=true"} target={"_blank"} rel={"noopener"}>
 <span data-layout-node={"n89"} className={"v33"}>
 <span data-layout-node={"n90"} className={"v34"}>
 {"ปรึกษาเรา "}
@@ -209,8 +209,8 @@ export default function Page4821(){return <div className="page-4821"><div data-l
 </h2>
 </div>
 </div>
-<div data-layout-node={"n98"} className={"v42"}>
-<div data-layout-node={"n99"} className={"v43"}>
+<div data-layout-node={"n98"} className={"v42 text-widget"}>
+<div data-layout-node={"n99"} className={"v43 text-widget"}>
 <p data-layout-node={"n100"} className={"v44"}>
 {"ฟิล์มติดกระจกบ้าน ติดเองได้ไหม ? ปัจจุบันการติดฟิล์มบ้าน สามารถทำเองได้ด้วยตนเอง เพราะสามารถใช้อุปกรณ์ที่สามารถหาเองได้ง่าย และมีวิธีติดฟิล์มกระจกบ้านที่ไม่ได้ยุ่งยากมากจนเกินไป จึงตอบโจทย์กับผู้ที่ต้องการประหยัดค่าใช้จ่าย และติดฟิล์มกระจกบ้านในบริเวณที่ไม่ได้เยอะหรือกว้างมาก แถมยังใช้งานได้ปกติแบบเดียวกับมีช่างมาติดให้กับเรา"}
 </p>
@@ -244,7 +244,7 @@ export default function Page4821(){return <div className="page-4821"><div data-l
 {"\r\n\t\t\t\t\t\tให้คำปรึกษาฟรี\t\t\t\t\t"}
 </SiteLink>
 </p>
-<p data-layout-node={"n117"} className={"v59"}>
+<p data-layout-node={"n117"} className={"v59 large-copy"}>
 {"\r\n\t\t\t\t\t\t094 460 6196\t\t\t\t\t"}
 </p>
 </div>
@@ -269,7 +269,7 @@ export default function Page4821(){return <div className="page-4821"><div data-l
 {"\r\n\t\t\t\t\t\tLine\t\t\t\t\t"}
 </SiteLink>
 </p>
-<p data-layout-node={"n128"} className={"v68"}>
+<p data-layout-node={"n128"} className={"v68 large-copy"}>
 {"\r\n\t\t\t\t\t\t@AITSCCTV\t\t\t\t\t"}
 </p>
 </div>
@@ -281,7 +281,7 @@ export default function Page4821(){return <div className="page-4821"><div data-l
 <div data-layout-node={"n130"} className={"v3"}>
 <div data-layout-node={"n131"} className={"v70"}>
 <div data-layout-node={"n132"} className={"v4"}>
-<SiteLink data-layout-node={"n133"} className={"v32"} href={"https://page.line.me/852uanad?openQrModal=true"} target={"_blank"} rel={"noopener"}>
+<SiteLink data-layout-node={"n133"} className={"v32 action-link"} href={"https://page.line.me/852uanad?openQrModal=true"} target={"_blank"} rel={"noopener"}>
 <span data-layout-node={"n134"} className={"v71"}>
 <span data-layout-node={"n135"} className={"v72"}>
 {"ปรึกษาฟรีคลิก"}
@@ -568,7 +568,7 @@ export default function Page4821(){return <div className="page-4821"><div data-l
 {"\r\n\t\t\t\t\t\tให้คำปรึกษาฟรี\t\t\t\t\t"}
 </SiteLink>
 </h2>
-<p data-layout-node={"n257"} className={"v59"}>
+<p data-layout-node={"n257"} className={"v59 large-copy"}>
 {"\r\n\t\t\t\t\t\t094 460 6196\t\t\t\t\t"}
 </p>
 </div>
@@ -593,7 +593,7 @@ export default function Page4821(){return <div className="page-4821"><div data-l
 {"\r\n\t\t\t\t\t\tLine\t\t\t\t\t"}
 </SiteLink>
 </p>
-<p data-layout-node={"n268"} className={"v68"}>
+<p data-layout-node={"n268"} className={"v68 large-copy"}>
 {"\r\n\t\t\t\t\t\t@AITSCCTV\t\t\t\t\t"}
 </p>
 </div>
@@ -605,7 +605,7 @@ export default function Page4821(){return <div className="page-4821"><div data-l
 <div data-layout-node={"n270"} className={"v3"}>
 <div data-layout-node={"n271"} className={"v70"}>
 <div data-layout-node={"n272"} className={"v4"}>
-<SiteLink data-layout-node={"n273"} className={"v32"} href={"https://page.line.me/852uanad?openQrModal=true"} target={"_blank"} rel={"noopener"}>
+<SiteLink data-layout-node={"n273"} className={"v32 action-link"} href={"https://page.line.me/852uanad?openQrModal=true"} target={"_blank"} rel={"noopener"}>
 <span data-layout-node={"n274"} className={"v71"}>
 <span data-layout-node={"n275"} className={"v72"}>
 {"ปรึกษาฟรีคลิก"}
@@ -642,10 +642,10 @@ export default function Page4821(){return <div className="page-4821"><div data-l
 </div>
 </div>
 </div>
-<div data-layout-node={"n288"} className={"v12 section"}>
-<div data-layout-node={"n289"} className={"v19"}>
-<div data-layout-node={"n290"} className={"v3"}>
-<div data-layout-node={"n291"} className={"v4"}>
+<div data-layout-node={"n288"} className={"v12 section media-widget"}>
+<div data-layout-node={"n289"} className={"v19 media-widget"}>
+<div data-layout-node={"n290"} className={"v3 media-widget"}>
+<div data-layout-node={"n291"} className={"v4 media-widget"}>
 <img data-layout-node={"n292"} className={"v20"} src={"https://aitscctv.com/wp-content/uploads/2023/08/window-film-office.jpg"} alt={"Window film office"} loading={"lazy"} decoding={"async"} width={"1200"} height={"630"} />
 </div>
 </div>
@@ -741,8 +741,8 @@ export default function Page4821(){return <div className="page-4821"><div data-l
 {"\r\n\t\t\t\t\t\t\tความเข้มของฟิล์มกรองแสงมีให้เลือกหลายแบบ และเราควรเลือกฟิล์มติดกระจกบ้าน แบบไหนดี ? ความเข้มเท่าไหร่ดี ? คำตอบ คือ เราเลือกปริมาณความเข้มของฟิล์มติดกระจกบ้านให้เหมาะกับรูปแบบห้อง และต้องคำนึงถึงทิศทางของแสงแดด ประกอบด้วย ได้แก่\r\n\t\t\t\t\t\t"}
 </div>
 </div>
-<div data-layout-node={"n333"} className={"v3"}>
-<div data-layout-node={"n334"} className={"v4"}>
+<div data-layout-node={"n333"} className={"v3 media-widget"}>
+<div data-layout-node={"n334"} className={"v4 media-widget"}>
 <img data-layout-node={"n335"} className={"v96"} src={"https://aitscctv.com/wp-content/uploads/2023/08/window-film-footpath.jpg"} alt={"Window film footpath"} loading={"lazy"} decoding={"async"} width={"1200"} height={"630"} />
 </div>
 </div>
@@ -827,8 +827,8 @@ export default function Page4821(){return <div className="page-4821"><div data-l
 </h2>
 </div>
 </div>
-<div data-layout-node={"n371"} className={"v17"}>
-<div data-layout-node={"n372"} className={"v18"}>
+<div data-layout-node={"n371"} className={"v17 text-widget"}>
+<div data-layout-node={"n372"} className={"v18 text-widget"}>
 <p data-layout-node={"n373"} className={"v81"}>
 {"ราคาติดฟิล์มอาคาร ติดฟิล์มบ้าน โดยทีมงานช่างจาก AITSCCTV เราจะคำนวณราคาติดตั้งเป็น ราคา/ตารางฟุต หรือ ราคา/ตารางเมตร ขึ้นอยู่กับความเหมาะสมของประเภทงานนั้น ๆ โดยราคาเริ่มต้นตั้งแต่ ตารางฟุตละ 50 – 450 บาท ขึ้นอยู่กับประเภทของฟิล์ม และยี่ห้อของฟิล์มกรองแสงติดบ้านที่เลือกใช้งาน หากต้องการประเมินราคาเบื้องต้น สามารถติดต่อได้ที่นี่ "}
 <span data-layout-node={"n374"} className={"v82"}>
@@ -894,7 +894,7 @@ export default function Page4821(){return <div className="page-4821"><div data-l
 {"\r\n\t\t\t\t\t\tให้คำปรึกษาฟรี\t\t\t\t\t"}
 </SiteLink>
 </p>
-<p data-layout-node={"n405"} className={"v59"}>
+<p data-layout-node={"n405"} className={"v59 large-copy"}>
 {"\r\n\t\t\t\t\t\t094 460 6196\t\t\t\t\t"}
 </p>
 </div>
@@ -919,7 +919,7 @@ export default function Page4821(){return <div className="page-4821"><div data-l
 {"\r\n\t\t\t\t\t\tLine\t\t\t\t\t"}
 </SiteLink>
 </p>
-<p data-layout-node={"n416"} className={"v68"}>
+<p data-layout-node={"n416"} className={"v68 large-copy"}>
 {"\r\n\t\t\t\t\t\t@AITSCCTV\t\t\t\t\t"}
 </p>
 </div>
@@ -931,7 +931,7 @@ export default function Page4821(){return <div className="page-4821"><div data-l
 <div data-layout-node={"n418"} className={"v3"}>
 <div data-layout-node={"n419"} className={"v70"}>
 <div data-layout-node={"n420"} className={"v4"}>
-<SiteLink data-layout-node={"n421"} className={"v32"} href={"https://page.line.me/852uanad?openQrModal=true"} target={"_blank"} rel={"noopener"}>
+<SiteLink data-layout-node={"n421"} className={"v32 action-link"} href={"https://page.line.me/852uanad?openQrModal=true"} target={"_blank"} rel={"noopener"}>
 <span data-layout-node={"n422"} className={"v71"}>
 <span data-layout-node={"n423"} className={"v72"}>
 {"ปรึกษาฟรีคลิก"}
@@ -1070,8 +1070,8 @@ export default function Page4821(){return <div className="page-4821"><div data-l
 </div>
 <div data-layout-node={"n482"} className={"v114 section"}>
 <div data-layout-node={"n483"} className={"v74"}>
-<div data-layout-node={"n484"} className={"v3"}>
-<div data-layout-node={"n485"} className={"v4"}>
+<div data-layout-node={"n484"} className={"v3 text-widget"}>
+<div data-layout-node={"n485"} className={"v4 text-widget"}>
 <p data-layout-node={"n486"} className={"v115"}>
 {"WHY AITSCCTV"}
 </p>
@@ -1090,8 +1090,8 @@ export default function Page4821(){return <div className="page-4821"><div data-l
 <div data-layout-node={"n492"} className={"v117"}>
 <div data-layout-node={"n493"} className={"v118"}>
 <div data-layout-node={"n494"} className={"v119"}>
-<figure data-layout-node={"n495"} className={"v120"}>
-<span data-layout-node={"n496"} className={"v121"}>
+<figure data-layout-node={"n495"} className={"v120 media-widget"}>
+<span data-layout-node={"n496"} className={"v121 media-widget"}>
 <img data-layout-node={"n497"} className={"v122"} src={"https://aitscctv.com/wp-content/uploads/2023/07/hand.png"} alt={"Hand"} loading={"lazy"} decoding={"async"} width={"512"} height={"512"} />
 </span>
 </figure>
@@ -1111,7 +1111,7 @@ export default function Page4821(){return <div className="page-4821"><div data-l
 <div data-layout-node={"n502"} className={"v117"}>
 <div data-layout-node={"n503"} className={"v118"}>
 <div data-layout-node={"n504"} className={"v119"}>
-<figure data-layout-node={"n505"} className={"v120"}>
+<figure data-layout-node={"n505"} className={"v120 media-widget"}>
 <img data-layout-node={"n506"} className={"v127"} src={"https://aitscctv.com/wp-content/uploads/2023/05/rating.png"} alt={"Rating"} loading={"lazy"} decoding={"async"} width={"512"} height={"512"} />
 </figure>
 <div data-layout-node={"n507"} className={"v123"}>
@@ -1128,7 +1128,7 @@ export default function Page4821(){return <div className="page-4821"><div data-l
 <div data-layout-node={"n510"} className={"v117"}>
 <div data-layout-node={"n511"} className={"v118"}>
 <div data-layout-node={"n512"} className={"v119"}>
-<figure data-layout-node={"n513"} className={"v120"}>
+<figure data-layout-node={"n513"} className={"v120 media-widget"}>
 <img data-layout-node={"n514"} className={"v127"} src={"https://aitscctv.com/wp-content/uploads/2023/08/design-team.png"} alt={"Design team"} loading={"lazy"} decoding={"async"} width={"512"} height={"512"} />
 </figure>
 <div data-layout-node={"n515"} className={"v123"}>
@@ -1145,7 +1145,7 @@ export default function Page4821(){return <div className="page-4821"><div data-l
 <div data-layout-node={"n518"} className={"v117"}>
 <div data-layout-node={"n519"} className={"v118"}>
 <div data-layout-node={"n520"} className={"v119"}>
-<figure data-layout-node={"n521"} className={"v120"}>
+<figure data-layout-node={"n521"} className={"v120 media-widget"}>
 <img data-layout-node={"n522"} className={"v127"} src={"https://aitscctv.com/wp-content/uploads/2023/08/technical-support.png"} alt={"Technical support"} loading={"lazy"} decoding={"async"} width={"512"} height={"512"} />
 </figure>
 <div data-layout-node={"n523"} className={"v123"}>
@@ -1245,8 +1245,8 @@ export default function Page4821(){return <div className="page-4821"><div data-l
 </div>
 </div>
 </div>
-<div data-layout-node={"n559"} className={"v138"}>
-<div data-layout-node={"n560"} className={"v139"}>
+<div data-layout-node={"n559"} className={"v138 text-widget"}>
+<div data-layout-node={"n560"} className={"v139 text-widget"}>
 <p data-layout-node={"n561"} className={"v140"}>
 <span data-layout-node={"n562"} className={"v141"}>
 {"** ราคาขึ้นอยู่กับยี่ห้อของแบรนด์ ประเภทฟิล์ม และความเข้มของฟิล์ม"}
@@ -1277,7 +1277,7 @@ export default function Page4821(){return <div className="page-4821"><div data-l
 {"\r\n\t\t\t\t\t\tให้คำปรึกษาฟรี\t\t\t\t\t"}
 </SiteLink>
 </p>
-<p data-layout-node={"n577"} className={"v59"}>
+<p data-layout-node={"n577"} className={"v59 large-copy"}>
 {"\r\n\t\t\t\t\t\t094 460 6196\t\t\t\t\t"}
 </p>
 </div>
@@ -1302,7 +1302,7 @@ export default function Page4821(){return <div className="page-4821"><div data-l
 {"\r\n\t\t\t\t\t\tLine\t\t\t\t\t"}
 </SiteLink>
 </p>
-<p data-layout-node={"n588"} className={"v68"}>
+<p data-layout-node={"n588"} className={"v68 large-copy"}>
 {"\r\n\t\t\t\t\t\t@AITSCCTV\t\t\t\t\t"}
 </p>
 </div>
@@ -1314,7 +1314,7 @@ export default function Page4821(){return <div className="page-4821"><div data-l
 <div data-layout-node={"n590"} className={"v3"}>
 <div data-layout-node={"n591"} className={"v70"}>
 <div data-layout-node={"n592"} className={"v4"}>
-<SiteLink data-layout-node={"n593"} className={"v32"} href={"https://page.line.me/852uanad?openQrModal=true"} target={"_blank"} rel={"noopener"}>
+<SiteLink data-layout-node={"n593"} className={"v32 action-link"} href={"https://page.line.me/852uanad?openQrModal=true"} target={"_blank"} rel={"noopener"}>
 <span data-layout-node={"n594"} className={"v71"}>
 <span data-layout-node={"n595"} className={"v72"}>
 {"ปรึกษาฟรีคลิก"}
@@ -1332,8 +1332,8 @@ export default function Page4821(){return <div className="page-4821"><div data-l
 <div data-layout-node={"n596"} className={"v142 section"}>
 <div data-layout-node={"n597"} className={"v143 layout-row"}>
 <div data-layout-node={"n598"} className={"v144 section"}>
-<div data-layout-node={"n599"} className={"v3"}>
-<div data-layout-node={"n600"} className={"v4"}>
+<div data-layout-node={"n599"} className={"v3 text-widget"}>
+<div data-layout-node={"n600"} className={"v4 text-widget"}>
 <p data-layout-node={"n601"} className={"v5"}>
 {"FAQ"}
 </p>
@@ -1423,9 +1423,9 @@ export default function Page4821(){return <div className="page-4821"><div data-l
 </div>
 <div data-layout-node={"n609"} className={"v145 section"}>
 <div data-layout-node={"n610"} className={"v146"}>
-<div data-layout-node={"n611"} className={"v3"}>
-<div data-layout-node={"n612"} className={"v4"}>
-<p data-layout-node={"n613"} className={"v147"}>
+<div data-layout-node={"n611"} className={"v3 text-widget"}>
+<div data-layout-node={"n612"} className={"v4 text-widget"}>
+<p data-layout-node={"n613"} className={"v147 large-copy"}>
 {"\" Let AITS Set Standard  ให้เราได้สร้างมาตรฐาน \"\r\n "}
 </p>
 </div>
@@ -1434,7 +1434,7 @@ export default function Page4821(){return <div className="page-4821"><div data-l
 <div data-layout-node={"n615"} className={"v149"}>
 <div data-layout-node={"n616"} className={"v4"}>
 <div data-layout-node={"n617"} className={"v4"}>
-<SiteLink data-layout-node={"n618"} className={"v150"} href={"tel:0944606196"}>
+<SiteLink data-layout-node={"n618"} className={"v150 action-link"} href={"tel:0944606196"}>
 <span data-layout-node={"n619"} className={"v151"}>
 <span data-layout-node={"n620"} className={"v152"}>
 {"โทรหาเรา"}
@@ -1447,7 +1447,7 @@ export default function Page4821(){return <div className="page-4821"><div data-l
 <div data-layout-node={"n621"} className={"v149"}>
 <div data-layout-node={"n622"} className={"v4"}>
 <div data-layout-node={"n623"} className={"v4"}>
-<SiteLink data-layout-node={"n624"} className={"v153"} href={"https://page.line.me/852uanad?openQrModal=true"} target={"_blank"} rel={"noopener"}>
+<SiteLink data-layout-node={"n624"} className={"v153 action-link"} href={"https://page.line.me/852uanad?openQrModal=true"} target={"_blank"} rel={"noopener"}>
 <span data-layout-node={"n625"} className={"v154"}>
 <span data-layout-node={"n626"} className={"v155"}>
 {"ปรึกษาฟรีคลิก"}

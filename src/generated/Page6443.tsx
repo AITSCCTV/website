@@ -34,8 +34,8 @@ export default function Page6443(){return <div className="page-6443"><div data-l
 </h3>
 </div>
 </div>
-<div data-layout-node={"n16"} className={"v8"}>
-<div data-layout-node={"n17"} className={"v9"}>
+<div data-layout-node={"n16"} className={"v8 media-widget"}>
+<div data-layout-node={"n17"} className={"v9 media-widget"}>
 <img data-layout-node={"n18"} className={"v15"} src={"https://aitscctv.com/wp-content/uploads/2025/08/Screenshot-2025-08-01-at-11.59.05-1024x475.png"} alt={"Screenshot 2025 08 01 at 11.59.05"} loading={"lazy"} decoding={"async"} width={"768"} height={"356"} />
 </div>
 </div>
@@ -76,8 +76,8 @@ export default function Page6443(){return <div className="page-6443"><div data-l
 </h2>
 </div>
 </div>
-<div data-layout-node={"n35"} className={"v16"}>
-<div data-layout-node={"n36"} className={"v17"}>
+<div data-layout-node={"n35"} className={"v16 text-widget"}>
+<div data-layout-node={"n36"} className={"v17 text-widget"}>
 <p data-layout-node={"n37"} className={"v18"}>
 {"เรากำลังมองหาผู้ร่วมทีมที่พร้อมเรียนรู้ เติบโต และสร้างสรรค์ไปพร้อมกับเรา ทั้งในสายงานบัญชี ฝ่ายขาย และงานสนับสนุนอื่น ๆ"}
 <br data-layout-node={"n38"} className={"v19"} />
@@ -88,7 +88,7 @@ export default function Page6443(){return <div className="page-6443"><div data-l
 <div data-layout-node={"n39"} className={"v8"}>
 <div data-layout-node={"n40"} className={"v9"}>
 <div data-layout-node={"n41"} className={"v9"}>
-<SiteLink data-layout-node={"n42"} className={"v26"} href={"https://docs.google.com/forms/d/e/1FAIpQLScgTICnnMJB7IfW-TSPeb_90m37j20laqzhOolVxnAKXnqm4Q/viewform?usp=sharing&ouid=103052298461699841149"}>
+<SiteLink data-layout-node={"n42"} className={"v26 action-link"} href={"https://docs.google.com/forms/d/e/1FAIpQLScgTICnnMJB7IfW-TSPeb_90m37j20laqzhOolVxnAKXnqm4Q/viewform?usp=sharing&ouid=103052298461699841149"}>
 <span data-layout-node={"n43"} className={"v27"}>
 <span data-layout-node={"n44"} className={"v28"}>
 {"สมัครงาน / ยื่นประวัติ"}
@@ -156,7 +156,7 @@ export default function Page6443(){return <div className="page-6443"><div data-l
 <div data-layout-node={"n69"} className={"v8"}>
 <div data-layout-node={"n70"} className={"v9"}>
 <div data-layout-node={"n71"} className={"v9"}>
-<SiteLink data-layout-node={"n72"} className={"v38"} href={"https://docs.google.com/forms/d/e/1FAIpQLScgTICnnMJB7IfW-TSPeb_90m37j20laqzhOolVxnAKXnqm4Q/viewform?usp=sharing&ouid=103052298461699841149"}>
+<SiteLink data-layout-node={"n72"} className={"v38 action-link"} href={"https://docs.google.com/forms/d/e/1FAIpQLScgTICnnMJB7IfW-TSPeb_90m37j20laqzhOolVxnAKXnqm4Q/viewform?usp=sharing&ouid=103052298461699841149"}>
 <span data-layout-node={"n73"} className={"v39"}>
 <span data-layout-node={"n74"} className={"v40"}>
 {"สมัครงาน"}
@@ -226,7 +226,7 @@ export default function Page6443(){return <div className="page-6443"><div data-l
 <div data-layout-node={"n99"} className={"v8"}>
 <div data-layout-node={"n100"} className={"v9"}>
 <div data-layout-node={"n101"} className={"v9"}>
-<SiteLink data-layout-node={"n102"} className={"v38"} href={"https://docs.google.com/forms/d/e/1FAIpQLScgTICnnMJB7IfW-TSPeb_90m37j20laqzhOolVxnAKXnqm4Q/viewform?usp=sharing&ouid=103052298461699841149"}>
+<SiteLink data-layout-node={"n102"} className={"v38 action-link"} href={"https://docs.google.com/forms/d/e/1FAIpQLScgTICnnMJB7IfW-TSPeb_90m37j20laqzhOolVxnAKXnqm4Q/viewform?usp=sharing&ouid=103052298461699841149"}>
 <span data-layout-node={"n103"} className={"v39"}>
 <span data-layout-node={"n104"} className={"v40"}>
 {"สมัครงาน"}
@@ -247,8 +247,8 @@ export default function Page6443(){return <div className="page-6443"><div data-l
 </h2>
 </div>
 </div>
-<div data-layout-node={"n109"} className={"v16"}>
-<div data-layout-node={"n110"} className={"v17"}>
+<div data-layout-node={"n109"} className={"v16 text-widget"}>
+<div data-layout-node={"n110"} className={"v17 text-widget"}>
 <p data-layout-node={"n111"} className={"v18"}>
 {"เปิดโอกาสให้ช่างติดตั้งอิสระ หรือทีมงานในแต่ละพื้นที่ สมัครเข้าร่วมเป็นพาร์ตเนอร์กับเรา"}
 <br data-layout-node={"n112"} className={"v19"} />
@@ -259,7 +259,7 @@ export default function Page6443(){return <div className="page-6443"><div data-l
 <div data-layout-node={"n113"} className={"v8"}>
 <div data-layout-node={"n114"} className={"v9"}>
 <div data-layout-node={"n115"} className={"v9"}>
-<SiteLink data-layout-node={"n116"} className={"v26"} href={"https://aitscctv.com/technician-register/"}>
+<SiteLink data-layout-node={"n116"} className={"v26 action-link"} href={"https://aitscctv.com/technician-register/"}>
 <span data-layout-node={"n117"} className={"v41"}>
 <span data-layout-node={"n118"} className={"v42"}>
 {"สมัครเป็นช่างเพื่อรับงาน"}

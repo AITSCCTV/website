@@ -7,16 +7,16 @@ import {ContactPhone} from "../components/ContactPhone";
 export default function Page4741(){return <div className="page-4741"><div data-layout-node={"n0"} className={"v0"}>
 <div data-layout-node={"n1"} className={"v1 section"}>
 <div data-layout-node={"n2"} className={"v2"}>
-<div data-layout-node={"n3"} className={"v3"}>
-<div data-layout-node={"n4"} className={"v4"}>
+<div data-layout-node={"n3"} className={"v3 text-widget"}>
+<div data-layout-node={"n4"} className={"v4 text-widget"}>
 <p data-layout-node={"n5"} className={"v5"}>
 {"CARD SCANNER  "}
 </p>
 </div>
 </div>
-<div data-layout-node={"n6"} className={"v3"}>
-<div data-layout-node={"n7"} className={"v4"}>
-<p data-layout-node={"n8"} className={"v6"}>
+<div data-layout-node={"n6"} className={"v3 text-widget"}>
+<div data-layout-node={"n7"} className={"v4 text-widget"}>
+<p data-layout-node={"n8"} className={"v6 large-copy"}>
 {"รับติดตั้งเครื่องทาบบัตร"}
 <br data-layout-node={"n9"} className={"v7"} />
 {" เครื่องสแกนบัตร"}
@@ -27,8 +27,8 @@ export default function Page4741(){return <div className="page-4741"><div data-l
 </div>
 <div data-layout-node={"n10"} className={"v8 section"}>
 <div data-layout-node={"n11"} className={"v2"}>
-<div data-layout-node={"n12"} className={"v3"}>
-<div data-layout-node={"n13"} className={"v4"}>
+<div data-layout-node={"n12"} className={"v3 text-widget"}>
+<div data-layout-node={"n13"} className={"v4 text-widget"}>
 <p data-layout-node={"n14"} className={"v9"}>
 {"CARD SCANNER  SYSTEM"}
 </p>
@@ -41,8 +41,8 @@ export default function Page4741(){return <div className="page-4741"><div data-l
 </h1>
 </div>
 </div>
-<div data-layout-node={"n18"} className={"v11"}>
-<div data-layout-node={"n19"} className={"v12"}>
+<div data-layout-node={"n18"} className={"v11 text-widget"}>
+<div data-layout-node={"n19"} className={"v12 text-widget"}>
 <p data-layout-node={"n20"} className={"v13"}>
 {"เรามีบริการรับติดตั้ง เครื่องสแกนบัตร เครื่องทาบบัตร ติดตั้งระบบรักษาความปลอดภัยทั้งในบ้าน ออฟฟิศ และสำนักงานแบบครบวงจร ติดตั้งประตูคีย์การ์ด สำหรับสแกนบัตร ด้วยทีมช่างผู้มีประสบการณ์มากกว่า 20 ปี พร้อมให้คำแนะนำทั้งการออกแบบระบบคีย์การ์ดประตู และติดตามระบบอย่างใกล้ชิด เพื่อให้ลูกค้าปลอดภัยและพึงพอใจมากที่สุด ด้วยมาตรฐานระดับสากล "}
 <span data-layout-node={"n21"} className={"v14"}>
@@ -74,10 +74,10 @@ export default function Page4741(){return <div className="page-4741"><div data-l
 </div>
 </div>
 </div>
-<div data-layout-node={"n33"} className={"v17 section"}>
-<div data-layout-node={"n34"} className={"v23"}>
-<div data-layout-node={"n35"} className={"v3"}>
-<div data-layout-node={"n36"} className={"v4"}>
+<div data-layout-node={"n33"} className={"v17 section media-widget"}>
+<div data-layout-node={"n34"} className={"v23 media-widget"}>
+<div data-layout-node={"n35"} className={"v3 media-widget"}>
+<div data-layout-node={"n36"} className={"v4 media-widget"}>
 <img data-layout-node={"n37"} className={"v24"} src={"https://aitscctv.com/wp-content/uploads/2023/07/smart-home-tablet-wall.jpg"} alt={"Smart home tablet wall"} loading={"lazy"} decoding={"async"} width={"6720"} height={"4480"} />
 </div>
 </div>
@@ -89,7 +89,7 @@ export default function Page4741(){return <div className="page-4741"><div data-l
 <div data-layout-node={"n39"} className={"v26"}>
 <div data-layout-node={"n40"} className={"v27"}>
 <div data-layout-node={"n41"} className={"v28"}>
-<figure data-layout-node={"n42"} className={"v29"}>
+<figure data-layout-node={"n42"} className={"v29 media-widget"}>
 <img data-layout-node={"n43"} className={"v30"} src={"https://aitscctv.com/wp-content/uploads/2023/05/home-security.png"} alt={"Home security"} loading={"lazy"} decoding={"async"} width={"512"} height={"512"} />
 </figure>
 <div data-layout-node={"n44"} className={"v31"}>
@@ -109,7 +109,7 @@ export default function Page4741(){return <div className="page-4741"><div data-l
 <div data-layout-node={"n48"} className={"v26"}>
 <div data-layout-node={"n49"} className={"v27"}>
 <div data-layout-node={"n50"} className={"v28"}>
-<figure data-layout-node={"n51"} className={"v29"}>
+<figure data-layout-node={"n51"} className={"v29 media-widget"}>
 <img data-layout-node={"n52"} className={"v35"} src={"https://aitscctv.com/wp-content/uploads/2023/05/rating.png"} alt={"Rating"} loading={"lazy"} decoding={"async"} width={"512"} height={"512"} />
 </figure>
 <div data-layout-node={"n53"} className={"v31"}>
@@ -126,7 +126,7 @@ export default function Page4741(){return <div className="page-4741"><div data-l
 <div data-layout-node={"n56"} className={"v26"}>
 <div data-layout-node={"n57"} className={"v27"}>
 <div data-layout-node={"n58"} className={"v28"}>
-<figure data-layout-node={"n59"} className={"v29"}>
+<figure data-layout-node={"n59"} className={"v29 media-widget"}>
 <img data-layout-node={"n60"} className={"v35"} src={"https://aitscctv.com/wp-content/uploads/2023/05/evidence.png"} alt={"Evidence"} loading={"lazy"} decoding={"async"} width={"512"} height={"512"} />
 </figure>
 <div data-layout-node={"n61"} className={"v31"}>
@@ -143,7 +143,7 @@ export default function Page4741(){return <div className="page-4741"><div data-l
 <div data-layout-node={"n64"} className={"v26"}>
 <div data-layout-node={"n65"} className={"v27"}>
 <div data-layout-node={"n66"} className={"v28"}>
-<figure data-layout-node={"n67"} className={"v29"}>
+<figure data-layout-node={"n67"} className={"v29 media-widget"}>
 <img data-layout-node={"n68"} className={"v30"} src={"https://aitscctv.com/wp-content/uploads/2023/07/contactless.png"} alt={"Contactless"} loading={"lazy"} decoding={"async"} width={"512"} height={"512"} />
 </figure>
 <div data-layout-node={"n69"} className={"v31"}>
@@ -160,7 +160,7 @@ export default function Page4741(){return <div className="page-4741"><div data-l
 <div data-layout-node={"n72"} className={"v26"}>
 <div data-layout-node={"n73"} className={"v27"}>
 <div data-layout-node={"n74"} className={"v28"}>
-<figure data-layout-node={"n75"} className={"v29"}>
+<figure data-layout-node={"n75"} className={"v29 media-widget"}>
 <img data-layout-node={"n76"} className={"v30"} src={"https://aitscctv.com/wp-content/uploads/2023/05/domotics.png"} alt={"Domotics"} loading={"lazy"} decoding={"async"} width={"512"} height={"512"} />
 </figure>
 <div data-layout-node={"n77"} className={"v31"}>
@@ -189,8 +189,8 @@ export default function Page4741(){return <div className="page-4741"><div data-l
 </h2>
 </div>
 </div>
-<div data-layout-node={"n88"} className={"v44"}>
-<div data-layout-node={"n89"} className={"v45"}>
+<div data-layout-node={"n88"} className={"v44 text-widget"}>
+<div data-layout-node={"n89"} className={"v45 text-widget"}>
 <p data-layout-node={"n90"} className={"v46"}>
 {"คุณสามารถมั่นใจได้เลยว่า จะได้รับการบริการที่ดีที่สุด มีความทันสมัยและตอบโจทย์การใช้งานอยู่เสมอ"}
 </p>
@@ -203,8 +203,8 @@ export default function Page4741(){return <div className="page-4741"><div data-l
 </div>
 <div data-layout-node={"n91"} className={"v8 section"}>
 <div data-layout-node={"n92"} className={"v47"}>
-<div data-layout-node={"n93"} className={"v3"}>
-<div data-layout-node={"n94"} className={"v4"}>
+<div data-layout-node={"n93"} className={"v3 text-widget"}>
+<div data-layout-node={"n94"} className={"v4 text-widget"}>
 <p data-layout-node={"n95"} className={"v5"}>
 {"DESIGN AND SET UP CARD SCANNER  SYSTEM"}
 </p>
@@ -217,8 +217,8 @@ export default function Page4741(){return <div className="page-4741"><div data-l
 </h2>
 </div>
 </div>
-<div data-layout-node={"n99"} className={"v11"}>
-<div data-layout-node={"n100"} className={"v12"}>
+<div data-layout-node={"n99"} className={"v11 text-widget"}>
+<div data-layout-node={"n100"} className={"v12 text-widget"}>
 <p data-layout-node={"n101"} className={"v13"}>
 <span data-layout-node={"n102"} className={"v14"}>
 <SiteLink data-layout-node={"n103"} className={"v14"} href={"https://aitscctv.com/access-control-system-1/"}>
@@ -233,7 +233,7 @@ export default function Page4741(){return <div className="page-4741"><div data-l
 <div data-layout-node={"n105"} className={"v26"}>
 <div data-layout-node={"n106"} className={"v50"}>
 <div data-layout-node={"n107"} className={"v51"}>
-<figure data-layout-node={"n108"} className={"v52"}>
+<figure data-layout-node={"n108"} className={"v52 media-widget"}>
 <img data-layout-node={"n109"} className={"v53"} src={"https://aitscctv.com/wp-content/uploads/2023/07/luxury-hotel-reception-hall-lounge-restaurant-with-high-ceiling-2048x1365.jpg"} alt={"Luxury hotel reception hall lounge restaurant with high ceiling"} loading={"lazy"} decoding={"async"} width={"1536"} height={"1023"} />
 </figure>
 <div data-layout-node={"n110"} className={"v54 text-widget"}>
@@ -247,7 +247,7 @@ export default function Page4741(){return <div className="page-4741"><div data-l
 <div data-layout-node={"n112"} className={"v26"}>
 <div data-layout-node={"n113"} className={"v50"}>
 <div data-layout-node={"n114"} className={"v51"}>
-<figure data-layout-node={"n115"} className={"v52"}>
+<figure data-layout-node={"n115"} className={"v52 media-widget"}>
 <img data-layout-node={"n116"} className={"v56"} src={"https://aitscctv.com/wp-content/uploads/2023/07/new-buildings-with-green-areas-scaled.jpg"} alt={"New buildings with green areas"} loading={"lazy"} decoding={"async"} width={"1536"} height={"1024"} />
 </figure>
 <div data-layout-node={"n117"} className={"v54 text-widget"}>
@@ -261,7 +261,7 @@ export default function Page4741(){return <div className="page-4741"><div data-l
 <div data-layout-node={"n119"} className={"v26"}>
 <div data-layout-node={"n120"} className={"v50"}>
 <div data-layout-node={"n121"} className={"v51"}>
-<figure data-layout-node={"n122"} className={"v52"}>
+<figure data-layout-node={"n122"} className={"v52 media-widget"}>
 <img data-layout-node={"n123"} className={"v56"} src={"https://aitscctv.com/wp-content/uploads/2023/07/empty-classroom-due-coronavirus-pandemic-scaled.jpg"} alt={"Empty classroom due to coronavirus pandemic."} loading={"lazy"} decoding={"async"} width={"1536"} height={"1024"} />
 </figure>
 <div data-layout-node={"n124"} className={"v54 text-widget"}>
@@ -275,7 +275,7 @@ export default function Page4741(){return <div className="page-4741"><div data-l
 <div data-layout-node={"n126"} className={"v26"}>
 <div data-layout-node={"n127"} className={"v50"}>
 <div data-layout-node={"n128"} className={"v51"}>
-<figure data-layout-node={"n129"} className={"v52"}>
+<figure data-layout-node={"n129"} className={"v52 media-widget"}>
 <img data-layout-node={"n130"} className={"v57"} src={"https://aitscctv.com/wp-content/uploads/2023/07/modern-office-design-with-computer-technology-success-generated-by-ai.jpg"} alt={"Modern office design with computer technology success generated by ai"} loading={"lazy"} decoding={"async"} width={"1000"} height={"571"} />
 </figure>
 <div data-layout-node={"n131"} className={"v54 text-widget"}>
@@ -289,7 +289,7 @@ export default function Page4741(){return <div className="page-4741"><div data-l
 <div data-layout-node={"n133"} className={"v26"}>
 <div data-layout-node={"n134"} className={"v50"}>
 <div data-layout-node={"n135"} className={"v51"}>
-<figure data-layout-node={"n136"} className={"v52"}>
+<figure data-layout-node={"n136"} className={"v52 media-widget"}>
 <img data-layout-node={"n137"} className={"v58"} src={"https://aitscctv.com/wp-content/uploads/2023/07/empty-hallway-background.jpg"} alt={"Empty hallway background"} loading={"lazy"} decoding={"async"} width={"3500"} height={"2502"} />
 </figure>
 <div data-layout-node={"n138"} className={"v54 text-widget"}>
@@ -459,18 +459,18 @@ export default function Page4741(){return <div className="page-4741"><div data-l
 </h3>
 </div>
 </div>
-<div data-layout-node={"n216"} className={"v71 section"}>
-<div data-layout-node={"n217"} className={"v72 layout-row"}>
-<div data-layout-node={"n218"} className={"v75"}>
-<div data-layout-node={"n219"} className={"v4"}>
+<div data-layout-node={"n216"} className={"v71 section media-widget"}>
+<div data-layout-node={"n217"} className={"v72 media-widget layout-row"}>
+<div data-layout-node={"n218"} className={"v75 media-widget"}>
+<div data-layout-node={"n219"} className={"v4 media-widget"}>
 <img data-layout-node={"n220"} className={"v76"} src={"https://aitscctv.com/wp-content/uploads/2023/04/yazaki-logo-500x500.png"} alt={"Yazaki logo"} loading={"lazy"} decoding={"async"} width={"300"} height={"300"} />
 </div>
 </div>
 </div>
 </div>
-<div data-layout-node={"n221"} className={"v77"}>
-<div data-layout-node={"n222"} className={"v78"}>
-<div data-layout-node={"n223"} className={"v79"}>
+<div data-layout-node={"n221"} className={"v77 video-shell"}>
+<div data-layout-node={"n222"} className={"v78 video-shell"}>
+<div data-layout-node={"n223"} className={"v79 video-shell"}>
 <VideoFrame src={"https://www.youtube.com/embed/o8-vmIs4v1w?controls=1&rel=0&playsinline=0&modestbranding=0&autoplay=0&enablejsapi=1&origin=https%3A%2F%2Faitscctv.com&widgetid=1&forigin=https%3A%2F%2Faitscctv.com%2Faccess-control-system%2Fcard-scanner%2F&aoriginsup=1&vf=1"} style={{"width":"684px","maxWidth":"100%","aspectRatio":"684/384.75","display":"flex","margin":"0px"}} />
 </div>
 </div>
@@ -498,7 +498,7 @@ export default function Page4741(){return <div className="page-4741"><div data-l
 {"\r\n\t\t\t\t\t\tให้คำปรึกษาฟรี\t\t\t\t\t"}
 </SiteLink>
 </h2>
-<p data-layout-node={"n238"} className={"v93"}>
+<p data-layout-node={"n238"} className={"v93 large-copy"}>
 {"\r\n\t\t\t\t\t\t094 460 6196\t\t\t\t\t"}
 </p>
 </div>
@@ -523,7 +523,7 @@ export default function Page4741(){return <div className="page-4741"><div data-l
 {"\r\n\t\t\t\t\t\tLine\t\t\t\t\t"}
 </SiteLink>
 </p>
-<p data-layout-node={"n249"} className={"v103"}>
+<p data-layout-node={"n249"} className={"v103 large-copy"}>
 {"\r\n\t\t\t\t\t\t@AITSCCTV\t\t\t\t\t"}
 </p>
 </div>
@@ -535,7 +535,7 @@ export default function Page4741(){return <div className="page-4741"><div data-l
 <div data-layout-node={"n251"} className={"v3"}>
 <div data-layout-node={"n252"} className={"v105"}>
 <div data-layout-node={"n253"} className={"v4"}>
-<SiteLink data-layout-node={"n254"} className={"v106"} href={"https://page.line.me/852uanad?openQrModal=true"} target={"_blank"} rel={"noopener"}>
+<SiteLink data-layout-node={"n254"} className={"v106 action-link"} href={"https://page.line.me/852uanad?openQrModal=true"} target={"_blank"} rel={"noopener"}>
 <span data-layout-node={"n255"} className={"v107"}>
 <span data-layout-node={"n256"} className={"v108"}>
 {"ปรึกษาฟรีคลิก"}
@@ -550,10 +550,10 @@ export default function Page4741(){return <div className="page-4741"><div data-l
 </div>
 </div>
 </div>
-<div data-layout-node={"n257"} className={"v8 section"}>
-<div data-layout-node={"n258"} className={"v109 layout-row"}>
-<div data-layout-node={"n259"} className={"v44"}>
-<div data-layout-node={"n260"} className={"v45"}>
+<div data-layout-node={"n257"} className={"v8 section text-widget"}>
+<div data-layout-node={"n258"} className={"v109 text-widget layout-row"}>
+<div data-layout-node={"n259"} className={"v44 text-widget"}>
+<div data-layout-node={"n260"} className={"v45 text-widget"}>
 <p data-layout-node={"n261"} className={"v46"}>
 {"สนใจติดต่อได้ที่ "}
 <span data-layout-node={"n262"} className={"v110"}>
@@ -571,8 +571,8 @@ export default function Page4741(){return <div className="page-4741"><div data-l
 </div>
 <div data-layout-node={"n265"} className={"v8 section"}>
 <div data-layout-node={"n266"} className={"v112"}>
-<div data-layout-node={"n267"} className={"v3"}>
-<div data-layout-node={"n268"} className={"v4"}>
+<div data-layout-node={"n267"} className={"v3 text-widget"}>
+<div data-layout-node={"n268"} className={"v4 text-widget"}>
 <p data-layout-node={"n269"} className={"v5"}>
 {"Our Team"}
 </p>
@@ -596,142 +596,142 @@ export default function Page4741(){return <div className="page-4741"><div data-l
 <div data-layout-node={"n278"} className={"v20"}>
 <div data-layout-node={"n279"} className={"v20"}>
 <div data-layout-node={"n280"} className={"v115"}>
-<figure data-layout-node={"n281"} className={"v116"}>
-<div data-layout-node={"n282"} className={"v117"}>
-<SiteLink data-layout-node={"n283"} className={"v118"} href={"https://aitscctv.com/wp-content/uploads/2023/03/17-wiring-3.jpg"}>
+<figure data-layout-node={"n281"} className={"v116 media-widget"}>
+<div data-layout-node={"n282"} className={"v117 media-widget"}>
+<SiteLink data-layout-node={"n283"} className={"v118 media-widget"} href={"https://aitscctv.com/wp-content/uploads/2023/03/17-wiring-3.jpg"}>
 <img data-layout-node={"n284"} className={"v119"} src={"https://aitscctv.com/wp-content/uploads/2023/03/17-wiring-3.jpg"} alt={"17 wiring"} loading={"lazy"} decoding={"async"} width={"600"} height={"400"} />
 </SiteLink>
 </div>
 </figure>
-<figure data-layout-node={"n285"} className={"v116"}>
-<div data-layout-node={"n286"} className={"v117"}>
-<SiteLink data-layout-node={"n287"} className={"v118"} href={"https://aitscctv.com/wp-content/uploads/2023/03/18-wiring-4.jpg"}>
+<figure data-layout-node={"n285"} className={"v116 media-widget"}>
+<div data-layout-node={"n286"} className={"v117 media-widget"}>
+<SiteLink data-layout-node={"n287"} className={"v118 media-widget"} href={"https://aitscctv.com/wp-content/uploads/2023/03/18-wiring-4.jpg"}>
 <img data-layout-node={"n288"} className={"v119"} src={"https://aitscctv.com/wp-content/uploads/2023/03/18-wiring-4.jpg"} alt={"18 wiring"} loading={"lazy"} decoding={"async"} width={"600"} height={"400"} />
 </SiteLink>
 </div>
 </figure>
-<figure data-layout-node={"n289"} className={"v116"}>
-<div data-layout-node={"n290"} className={"v117"}>
-<SiteLink data-layout-node={"n291"} className={"v118"} href={"https://aitscctv.com/wp-content/uploads/2023/03/19-wiring-5.jpg"}>
+<figure data-layout-node={"n289"} className={"v116 media-widget"}>
+<div data-layout-node={"n290"} className={"v117 media-widget"}>
+<SiteLink data-layout-node={"n291"} className={"v118 media-widget"} href={"https://aitscctv.com/wp-content/uploads/2023/03/19-wiring-5.jpg"}>
 <img data-layout-node={"n292"} className={"v119"} src={"https://aitscctv.com/wp-content/uploads/2023/03/19-wiring-5.jpg"} alt={"19 wiring"} loading={"lazy"} decoding={"async"} width={"600"} height={"400"} />
 </SiteLink>
 </div>
 </figure>
-<figure data-layout-node={"n293"} className={"v116"}>
-<div data-layout-node={"n294"} className={"v117"}>
-<SiteLink data-layout-node={"n295"} className={"v118"} href={"https://aitscctv.com/wp-content/uploads/2023/03/20-wiring-6.jpg"}>
+<figure data-layout-node={"n293"} className={"v116 media-widget"}>
+<div data-layout-node={"n294"} className={"v117 media-widget"}>
+<SiteLink data-layout-node={"n295"} className={"v118 media-widget"} href={"https://aitscctv.com/wp-content/uploads/2023/03/20-wiring-6.jpg"}>
 <img data-layout-node={"n296"} className={"v119"} src={"https://aitscctv.com/wp-content/uploads/2023/03/20-wiring-6.jpg"} alt={"20 wiring"} loading={"lazy"} decoding={"async"} width={"600"} height={"400"} />
 </SiteLink>
 </div>
 </figure>
-<figure data-layout-node={"n297"} className={"v116"}>
-<div data-layout-node={"n298"} className={"v117"}>
-<SiteLink data-layout-node={"n299"} className={"v118"} href={"https://aitscctv.com/wp-content/uploads/2023/03/1-bullet-camera.jpg"}>
+<figure data-layout-node={"n297"} className={"v116 media-widget"}>
+<div data-layout-node={"n298"} className={"v117 media-widget"}>
+<SiteLink data-layout-node={"n299"} className={"v118 media-widget"} href={"https://aitscctv.com/wp-content/uploads/2023/03/1-bullet-camera.jpg"}>
 <img data-layout-node={"n300"} className={"v119"} src={"https://aitscctv.com/wp-content/uploads/2023/03/1-bullet-camera.jpg"} alt={"1 bullet camera"} loading={"lazy"} decoding={"async"} width={"600"} height={"400"} />
 </SiteLink>
 </div>
 </figure>
-<figure data-layout-node={"n301"} className={"v116"}>
-<div data-layout-node={"n302"} className={"v117"}>
-<SiteLink data-layout-node={"n303"} className={"v118"} href={"https://aitscctv.com/wp-content/uploads/2023/03/2-bullet-camera.jpg"}>
+<figure data-layout-node={"n301"} className={"v116 media-widget"}>
+<div data-layout-node={"n302"} className={"v117 media-widget"}>
+<SiteLink data-layout-node={"n303"} className={"v118 media-widget"} href={"https://aitscctv.com/wp-content/uploads/2023/03/2-bullet-camera.jpg"}>
 <img data-layout-node={"n304"} className={"v119"} src={"https://aitscctv.com/wp-content/uploads/2023/03/2-bullet-camera.jpg"} alt={"2 bullet camera"} loading={"lazy"} decoding={"async"} width={"600"} height={"400"} />
 </SiteLink>
 </div>
 </figure>
-<figure data-layout-node={"n305"} className={"v116"}>
-<div data-layout-node={"n306"} className={"v117"}>
-<SiteLink data-layout-node={"n307"} className={"v118"} href={"https://aitscctv.com/wp-content/uploads/2023/03/3-bullet-camera.jpg"}>
+<figure data-layout-node={"n305"} className={"v116 media-widget"}>
+<div data-layout-node={"n306"} className={"v117 media-widget"}>
+<SiteLink data-layout-node={"n307"} className={"v118 media-widget"} href={"https://aitscctv.com/wp-content/uploads/2023/03/3-bullet-camera.jpg"}>
 <img data-layout-node={"n308"} className={"v119"} src={"https://aitscctv.com/wp-content/uploads/2023/03/3-bullet-camera.jpg"} alt={"3 bullet camera"} loading={"lazy"} decoding={"async"} width={"600"} height={"400"} />
 </SiteLink>
 </div>
 </figure>
-<figure data-layout-node={"n309"} className={"v116"}>
-<div data-layout-node={"n310"} className={"v117"}>
-<SiteLink data-layout-node={"n311"} className={"v118"} href={"https://aitscctv.com/wp-content/uploads/2023/03/4-bullet-camera.jpg"}>
+<figure data-layout-node={"n309"} className={"v116 media-widget"}>
+<div data-layout-node={"n310"} className={"v117 media-widget"}>
+<SiteLink data-layout-node={"n311"} className={"v118 media-widget"} href={"https://aitscctv.com/wp-content/uploads/2023/03/4-bullet-camera.jpg"}>
 <img data-layout-node={"n312"} className={"v119"} src={"https://aitscctv.com/wp-content/uploads/2023/03/4-bullet-camera.jpg"} alt={"4 bullet camera"} loading={"lazy"} decoding={"async"} width={"600"} height={"400"} />
 </SiteLink>
 </div>
 </figure>
-<figure data-layout-node={"n313"} className={"v116"}>
-<div data-layout-node={"n314"} className={"v117"}>
-<SiteLink data-layout-node={"n315"} className={"v118"} href={"https://aitscctv.com/wp-content/uploads/2023/03/5-bullet-camera.jpg"}>
+<figure data-layout-node={"n313"} className={"v116 media-widget"}>
+<div data-layout-node={"n314"} className={"v117 media-widget"}>
+<SiteLink data-layout-node={"n315"} className={"v118 media-widget"} href={"https://aitscctv.com/wp-content/uploads/2023/03/5-bullet-camera.jpg"}>
 <img data-layout-node={"n316"} className={"v119"} src={"https://aitscctv.com/wp-content/uploads/2023/03/5-bullet-camera.jpg"} alt={"5 bullet camera"} loading={"lazy"} decoding={"async"} width={"600"} height={"400"} />
 </SiteLink>
 </div>
 </figure>
-<figure data-layout-node={"n317"} className={"v116"}>
-<div data-layout-node={"n318"} className={"v117"}>
-<SiteLink data-layout-node={"n319"} className={"v118"} href={"https://aitscctv.com/wp-content/uploads/2023/03/6-bullet-camera.jpg"}>
+<figure data-layout-node={"n317"} className={"v116 media-widget"}>
+<div data-layout-node={"n318"} className={"v117 media-widget"}>
+<SiteLink data-layout-node={"n319"} className={"v118 media-widget"} href={"https://aitscctv.com/wp-content/uploads/2023/03/6-bullet-camera.jpg"}>
 <img data-layout-node={"n320"} className={"v119"} src={"https://aitscctv.com/wp-content/uploads/2023/03/6-bullet-camera.jpg"} alt={"6 bullet camera"} loading={"lazy"} decoding={"async"} width={"600"} height={"400"} />
 </SiteLink>
 </div>
 </figure>
-<figure data-layout-node={"n321"} className={"v116"}>
-<div data-layout-node={"n322"} className={"v117"}>
-<SiteLink data-layout-node={"n323"} className={"v118"} href={"https://aitscctv.com/wp-content/uploads/2023/03/7-bullet-camera.jpg"}>
+<figure data-layout-node={"n321"} className={"v116 media-widget"}>
+<div data-layout-node={"n322"} className={"v117 media-widget"}>
+<SiteLink data-layout-node={"n323"} className={"v118 media-widget"} href={"https://aitscctv.com/wp-content/uploads/2023/03/7-bullet-camera.jpg"}>
 <img data-layout-node={"n324"} className={"v119"} src={"https://aitscctv.com/wp-content/uploads/2023/03/7-bullet-camera.jpg"} alt={"7 bullet camera"} loading={"lazy"} decoding={"async"} width={"600"} height={"400"} />
 </SiteLink>
 </div>
 </figure>
-<figure data-layout-node={"n325"} className={"v116"}>
-<div data-layout-node={"n326"} className={"v117"}>
-<SiteLink data-layout-node={"n327"} className={"v118"} href={"https://aitscctv.com/wp-content/uploads/2023/03/8-bullet-camera.jpg"}>
+<figure data-layout-node={"n325"} className={"v116 media-widget"}>
+<div data-layout-node={"n326"} className={"v117 media-widget"}>
+<SiteLink data-layout-node={"n327"} className={"v118 media-widget"} href={"https://aitscctv.com/wp-content/uploads/2023/03/8-bullet-camera.jpg"}>
 <img data-layout-node={"n328"} className={"v119"} src={"https://aitscctv.com/wp-content/uploads/2023/03/8-bullet-camera.jpg"} alt={"8 bullet camera"} loading={"lazy"} decoding={"async"} width={"600"} height={"400"} />
 </SiteLink>
 </div>
 </figure>
-<figure data-layout-node={"n329"} className={"v116"}>
-<div data-layout-node={"n330"} className={"v117"}>
-<SiteLink data-layout-node={"n331"} className={"v118"} href={"https://aitscctv.com/wp-content/uploads/2023/03/9-cctv.jpg"}>
+<figure data-layout-node={"n329"} className={"v116 media-widget"}>
+<div data-layout-node={"n330"} className={"v117 media-widget"}>
+<SiteLink data-layout-node={"n331"} className={"v118 media-widget"} href={"https://aitscctv.com/wp-content/uploads/2023/03/9-cctv.jpg"}>
 <img data-layout-node={"n332"} className={"v119"} src={"https://aitscctv.com/wp-content/uploads/2023/03/9-cctv.jpg"} alt={"9 cctv"} loading={"lazy"} decoding={"async"} width={"600"} height={"400"} />
 </SiteLink>
 </div>
 </figure>
-<figure data-layout-node={"n333"} className={"v116"}>
-<div data-layout-node={"n334"} className={"v117"}>
-<SiteLink data-layout-node={"n335"} className={"v118"} href={"https://aitscctv.com/wp-content/uploads/2023/03/10-dome-camera-1.jpg"}>
+<figure data-layout-node={"n333"} className={"v116 media-widget"}>
+<div data-layout-node={"n334"} className={"v117 media-widget"}>
+<SiteLink data-layout-node={"n335"} className={"v118 media-widget"} href={"https://aitscctv.com/wp-content/uploads/2023/03/10-dome-camera-1.jpg"}>
 <img data-layout-node={"n336"} className={"v119"} src={"https://aitscctv.com/wp-content/uploads/2023/03/10-dome-camera-1.jpg"} alt={"10 dome camera"} loading={"lazy"} decoding={"async"} width={"600"} height={"400"} />
 </SiteLink>
 </div>
 </figure>
-<figure data-layout-node={"n337"} className={"v116"}>
-<div data-layout-node={"n338"} className={"v117"}>
-<SiteLink data-layout-node={"n339"} className={"v118"} href={"https://aitscctv.com/wp-content/uploads/2023/03/11-dome-camera-2.jpg"}>
+<figure data-layout-node={"n337"} className={"v116 media-widget"}>
+<div data-layout-node={"n338"} className={"v117 media-widget"}>
+<SiteLink data-layout-node={"n339"} className={"v118 media-widget"} href={"https://aitscctv.com/wp-content/uploads/2023/03/11-dome-camera-2.jpg"}>
 <img data-layout-node={"n340"} className={"v119"} src={"https://aitscctv.com/wp-content/uploads/2023/03/11-dome-camera-2.jpg"} alt={"11 dome camera"} loading={"lazy"} decoding={"async"} width={"600"} height={"400"} />
 </SiteLink>
 </div>
 </figure>
-<figure data-layout-node={"n341"} className={"v116"}>
-<div data-layout-node={"n342"} className={"v117"}>
-<SiteLink data-layout-node={"n343"} className={"v118"} href={"https://aitscctv.com/wp-content/uploads/2023/03/12-dome-camera-3.jpg"}>
+<figure data-layout-node={"n341"} className={"v116 media-widget"}>
+<div data-layout-node={"n342"} className={"v117 media-widget"}>
+<SiteLink data-layout-node={"n343"} className={"v118 media-widget"} href={"https://aitscctv.com/wp-content/uploads/2023/03/12-dome-camera-3.jpg"}>
 <img data-layout-node={"n344"} className={"v119"} src={"https://aitscctv.com/wp-content/uploads/2023/03/12-dome-camera-3.jpg"} alt={"12 dome camera"} loading={"lazy"} decoding={"async"} width={"600"} height={"400"} />
 </SiteLink>
 </div>
 </figure>
-<figure data-layout-node={"n345"} className={"v116"}>
-<div data-layout-node={"n346"} className={"v117"}>
-<SiteLink data-layout-node={"n347"} className={"v118"} href={"https://aitscctv.com/wp-content/uploads/2023/03/13-rack-1.jpg"}>
+<figure data-layout-node={"n345"} className={"v116 media-widget"}>
+<div data-layout-node={"n346"} className={"v117 media-widget"}>
+<SiteLink data-layout-node={"n347"} className={"v118 media-widget"} href={"https://aitscctv.com/wp-content/uploads/2023/03/13-rack-1.jpg"}>
 <img data-layout-node={"n348"} className={"v119"} src={"https://aitscctv.com/wp-content/uploads/2023/03/13-rack-1.jpg"} alt={"13 rack"} loading={"lazy"} decoding={"async"} width={"600"} height={"400"} />
 </SiteLink>
 </div>
 </figure>
-<figure data-layout-node={"n349"} className={"v116"}>
-<div data-layout-node={"n350"} className={"v117"}>
-<SiteLink data-layout-node={"n351"} className={"v118"} href={"https://aitscctv.com/wp-content/uploads/2023/03/14-rack-2.jpg"}>
+<figure data-layout-node={"n349"} className={"v116 media-widget"}>
+<div data-layout-node={"n350"} className={"v117 media-widget"}>
+<SiteLink data-layout-node={"n351"} className={"v118 media-widget"} href={"https://aitscctv.com/wp-content/uploads/2023/03/14-rack-2.jpg"}>
 <img data-layout-node={"n352"} className={"v119"} src={"https://aitscctv.com/wp-content/uploads/2023/03/14-rack-2.jpg"} alt={"14 rack"} loading={"lazy"} decoding={"async"} width={"600"} height={"400"} />
 </SiteLink>
 </div>
 </figure>
-<figure data-layout-node={"n353"} className={"v116"}>
-<div data-layout-node={"n354"} className={"v117"}>
-<SiteLink data-layout-node={"n355"} className={"v118"} href={"https://aitscctv.com/wp-content/uploads/2023/03/15-wiring-1.jpg"}>
+<figure data-layout-node={"n353"} className={"v116 media-widget"}>
+<div data-layout-node={"n354"} className={"v117 media-widget"}>
+<SiteLink data-layout-node={"n355"} className={"v118 media-widget"} href={"https://aitscctv.com/wp-content/uploads/2023/03/15-wiring-1.jpg"}>
 <img data-layout-node={"n356"} className={"v119"} src={"https://aitscctv.com/wp-content/uploads/2023/03/15-wiring-1.jpg"} alt={"15 wiring"} loading={"lazy"} decoding={"async"} width={"600"} height={"400"} />
 </SiteLink>
 </div>
 </figure>
-<figure data-layout-node={"n357"} className={"v116"}>
-<div data-layout-node={"n358"} className={"v117"}>
-<SiteLink data-layout-node={"n359"} className={"v118"} href={"https://aitscctv.com/wp-content/uploads/2023/03/16-wiring-2.jpg"}>
+<figure data-layout-node={"n357"} className={"v116 media-widget"}>
+<div data-layout-node={"n358"} className={"v117 media-widget"}>
+<SiteLink data-layout-node={"n359"} className={"v118 media-widget"} href={"https://aitscctv.com/wp-content/uploads/2023/03/16-wiring-2.jpg"}>
 <img data-layout-node={"n360"} className={"v119"} src={"https://aitscctv.com/wp-content/uploads/2023/03/16-wiring-2.jpg"} alt={"16 wiring"} loading={"lazy"} decoding={"async"} width={"600"} height={"400"} />
 </SiteLink>
 </div>
@@ -746,8 +746,8 @@ export default function Page4741(){return <div className="page-4741"><div data-l
 </div>
 <div data-layout-node={"n361"} className={"v8 section"}>
 <div data-layout-node={"n362"} className={"v112"}>
-<div data-layout-node={"n363"} className={"v3"}>
-<div data-layout-node={"n364"} className={"v4"}>
+<div data-layout-node={"n363"} className={"v3 text-widget"}>
+<div data-layout-node={"n364"} className={"v4 text-widget"}>
 <p data-layout-node={"n365"} className={"v5"}>
 {"OUR REVIEWS"}
 </p>
@@ -769,10 +769,10 @@ export default function Page4741(){return <div className="page-4741"><div data-l
 <div data-layout-node={"n372"} className={"v114"}>
 <div data-layout-node={"n373"} className={"v121"}>
 <div data-layout-node={"n374"} className={"v20"}>
-<div data-layout-node={"n375"} className={"v122 grid"}>
-<article data-layout-node={"n376"} className={"v123"}>
-<SiteLink data-layout-node={"n377"} className={"v124"} href={"https://aitscctv.com/upgrade-cctv/"}>
-<div data-layout-node={"n378"} className={"v125"}>
+<div data-layout-node={"n375"} className={"v122 grid listing-grid listing-grid listing-grid listing-grid listing-grid listing-grid listing-grid listing-grid listing-grid"}>
+<article data-layout-node={"n376"} className={"v123 listing-card"}>
+<SiteLink data-layout-node={"n377"} className={"v124 media-widget"} href={"https://aitscctv.com/upgrade-cctv/"}>
+<div data-layout-node={"n378"} className={"v125 media-widget"}>
 <img data-layout-node={"n379"} className={"v126"} src={"https://aitscctv.com/wp-content/uploads/2026/06/0-1-1024x768.jpg"} alt={"0"} loading={"lazy"} decoding={"async"} width={"768"} height={"576"} />
 </div>
 </SiteLink>
@@ -792,9 +792,9 @@ export default function Page4741(){return <div className="page-4741"><div data-l
 </SiteLink>
 </div>
 </article>
-<article data-layout-node={"n386"} className={"v133"}>
-<SiteLink data-layout-node={"n387"} className={"v134"} href={"https://aitscctv.com/solution/"}>
-<div data-layout-node={"n388"} className={"v135"}>
+<article data-layout-node={"n386"} className={"v133 listing-card"}>
+<SiteLink data-layout-node={"n387"} className={"v134 media-widget"} href={"https://aitscctv.com/solution/"}>
+<div data-layout-node={"n388"} className={"v135 media-widget"}>
 <img data-layout-node={"n389"} className={"v136"} src={"https://aitscctv.com/wp-content/uploads/2025/01/0-3-1024x565.jpg"} alt={"0"} loading={"lazy"} decoding={"async"} width={"768"} height={"423"} />
 </div>
 </SiteLink>
@@ -814,9 +814,9 @@ export default function Page4741(){return <div className="page-4741"><div data-l
 </SiteLink>
 </div>
 </article>
-<article data-layout-node={"n396"} className={"v140"}>
-<SiteLink data-layout-node={"n397"} className={"v124"} href={"https://aitscctv.com/%e0%b8%81%e0%b9%88%e0%b8%ad%e0%b8%aa%e0%b8%a3%e0%b9%89%e0%b8%b2%e0%b8%87/"}>
-<div data-layout-node={"n398"} className={"v125"}>
+<article data-layout-node={"n396"} className={"v140 listing-card"}>
+<SiteLink data-layout-node={"n397"} className={"v124 media-widget"} href={"https://aitscctv.com/%e0%b8%81%e0%b9%88%e0%b8%ad%e0%b8%aa%e0%b8%a3%e0%b9%89%e0%b8%b2%e0%b8%87/"}>
+<div data-layout-node={"n398"} className={"v125 media-widget"}>
 <img data-layout-node={"n399"} className={"v126"} src={"https://aitscctv.com/wp-content/uploads/2025/01/0-4-1024x768.jpg"} alt={"0"} loading={"lazy"} decoding={"async"} width={"768"} height={"576"} />
 </div>
 </SiteLink>
@@ -836,9 +836,9 @@ export default function Page4741(){return <div className="page-4741"><div data-l
 </SiteLink>
 </div>
 </article>
-<article data-layout-node={"n406"} className={"v141"}>
-<SiteLink data-layout-node={"n407"} className={"v124"} href={"https://aitscctv.com/%e0%b8%aa%e0%b8%a7%e0%b8%a2%e0%b8%87%e0%b8%b2%e0%b8%a1/"}>
-<div data-layout-node={"n408"} className={"v125"}>
+<article data-layout-node={"n406"} className={"v141 listing-card"}>
+<SiteLink data-layout-node={"n407"} className={"v124 media-widget"} href={"https://aitscctv.com/%e0%b8%aa%e0%b8%a7%e0%b8%a2%e0%b8%87%e0%b8%b2%e0%b8%a1/"}>
+<div data-layout-node={"n408"} className={"v125 media-widget"}>
 <img data-layout-node={"n409"} className={"v126"} src={"https://aitscctv.com/wp-content/uploads/2025/01/0-1-1024x768.jpg"} alt={"0"} loading={"lazy"} decoding={"async"} width={"768"} height={"576"} />
 </div>
 </SiteLink>
@@ -858,9 +858,9 @@ export default function Page4741(){return <div className="page-4741"><div data-l
 </SiteLink>
 </div>
 </article>
-<article data-layout-node={"n416"} className={"v142"}>
-<SiteLink data-layout-node={"n417"} className={"v143"} href={"https://aitscctv.com/%e0%b8%aa%e0%b8%a7%e0%b8%99/"}>
-<div data-layout-node={"n418"} className={"v144"}>
+<article data-layout-node={"n416"} className={"v142 listing-card"}>
+<SiteLink data-layout-node={"n417"} className={"v143 media-widget"} href={"https://aitscctv.com/%e0%b8%aa%e0%b8%a7%e0%b8%99/"}>
+<div data-layout-node={"n418"} className={"v144 media-widget"}>
 <img data-layout-node={"n419"} className={"v145"} src={"https://aitscctv.com/wp-content/uploads/2024/10/0-2-1024x768.jpg"} alt={"0"} loading={"lazy"} decoding={"async"} width={"768"} height={"576"} />
 </div>
 </SiteLink>
@@ -880,9 +880,9 @@ export default function Page4741(){return <div className="page-4741"><div data-l
 </SiteLink>
 </div>
 </article>
-<article data-layout-node={"n426"} className={"v146"}>
-<SiteLink data-layout-node={"n427"} className={"v147"} href={"https://aitscctv.com/%e0%b8%a1%e0%b8%b2%e0%b8%95%e0%b8%a3%e0%b8%90%e0%b8%b2%e0%b8%99%e0%b8%87%e0%b8%b2%e0%b8%99-%e0%b8%9d%e0%b9%89%e0%b8%b2/"}>
-<div data-layout-node={"n428"} className={"v148"}>
+<article data-layout-node={"n426"} className={"v146 listing-card"}>
+<SiteLink data-layout-node={"n427"} className={"v147 media-widget"} href={"https://aitscctv.com/%e0%b8%a1%e0%b8%b2%e0%b8%95%e0%b8%a3%e0%b8%90%e0%b8%b2%e0%b8%99%e0%b8%87%e0%b8%b2%e0%b8%99-%e0%b8%9d%e0%b9%89%e0%b8%b2/"}>
+<div data-layout-node={"n428"} className={"v148 media-widget"}>
 <img data-layout-node={"n429"} className={"v149"} src={"https://aitscctv.com/wp-content/uploads/2024/07/0-8-1024x1004.jpg"} alt={"0"} loading={"lazy"} decoding={"async"} width={"768"} height={"753"} />
 </div>
 </SiteLink>
@@ -902,9 +902,9 @@ export default function Page4741(){return <div className="page-4741"><div data-l
 </SiteLink>
 </div>
 </article>
-<article data-layout-node={"n436"} className={"v150"}>
-<SiteLink data-layout-node={"n437"} className={"v124"} href={"https://aitscctv.com/%e0%b8%a1%e0%b8%b2%e0%b8%95%e0%b8%a3%e0%b8%90%e0%b8%b2%e0%b8%99%e0%b8%87%e0%b8%b2%e0%b8%99-pvc/"}>
-<div data-layout-node={"n438"} className={"v125"}>
+<article data-layout-node={"n436"} className={"v150 listing-card"}>
+<SiteLink data-layout-node={"n437"} className={"v124 media-widget"} href={"https://aitscctv.com/%e0%b8%a1%e0%b8%b2%e0%b8%95%e0%b8%a3%e0%b8%90%e0%b8%b2%e0%b8%99%e0%b8%87%e0%b8%b2%e0%b8%99-pvc/"}>
+<div data-layout-node={"n438"} className={"v125 media-widget"}>
 <img data-layout-node={"n439"} className={"v126"} src={"https://aitscctv.com/wp-content/uploads/2024/07/0-7-1024x768.jpg"} alt={"0"} loading={"lazy"} decoding={"async"} width={"768"} height={"576"} />
 </div>
 </SiteLink>
@@ -924,9 +924,9 @@ export default function Page4741(){return <div className="page-4741"><div data-l
 </SiteLink>
 </div>
 </article>
-<article data-layout-node={"n446"} className={"v151"}>
-<SiteLink data-layout-node={"n447"} className={"v143"} href={"https://aitscctv.com/%e0%b8%a1%e0%b8%b2%e0%b8%95%e0%b8%a3%e0%b8%90%e0%b8%b2%e0%b8%99%e0%b8%87%e0%b8%b2%e0%b8%99%e0%b8%95%e0%b8%b4%e0%b8%94%e0%b8%95%e0%b8%b1%e0%b9%89%e0%b8%87-rack/"}>
-<div data-layout-node={"n448"} className={"v144"}>
+<article data-layout-node={"n446"} className={"v151 listing-card"}>
+<SiteLink data-layout-node={"n447"} className={"v143 media-widget"} href={"https://aitscctv.com/%e0%b8%a1%e0%b8%b2%e0%b8%95%e0%b8%a3%e0%b8%90%e0%b8%b2%e0%b8%99%e0%b8%87%e0%b8%b2%e0%b8%99%e0%b8%95%e0%b8%b4%e0%b8%94%e0%b8%95%e0%b8%b1%e0%b9%89%e0%b8%87-rack/"}>
+<div data-layout-node={"n448"} className={"v144 media-widget"}>
 <img data-layout-node={"n449"} className={"v145"} src={"https://aitscctv.com/wp-content/uploads/2024/07/0-6-1024x768.jpg"} alt={"0"} loading={"lazy"} decoding={"async"} width={"768"} height={"576"} />
 </div>
 </SiteLink>
@@ -946,9 +946,9 @@ export default function Page4741(){return <div className="page-4741"><div data-l
 </SiteLink>
 </div>
 </article>
-<article data-layout-node={"n456"} className={"v152"}>
-<SiteLink data-layout-node={"n457"} className={"v124"} href={"https://aitscctv.com/%e0%b9%82%e0%b8%a3%e0%b8%87%e0%b8%87%e0%b8%b2%e0%b8%99%e0%b8%97%e0%b8%b5%e0%b9%88%e0%b8%a1%e0%b8%b5%e0%b8%97%e0%b8%b5%e0%b9%88%e0%b8%aa%e0%b8%b9%e0%b8%87%e0%b9%81%e0%b8%a5%e0%b8%b0%e0%b8%a5%e0%b8%b2/"}>
-<div data-layout-node={"n458"} className={"v125"}>
+<article data-layout-node={"n456"} className={"v152 listing-card"}>
+<SiteLink data-layout-node={"n457"} className={"v124 media-widget"} href={"https://aitscctv.com/%e0%b9%82%e0%b8%a3%e0%b8%87%e0%b8%87%e0%b8%b2%e0%b8%99%e0%b8%97%e0%b8%b5%e0%b9%88%e0%b8%a1%e0%b8%b5%e0%b8%97%e0%b8%b5%e0%b9%88%e0%b8%aa%e0%b8%b9%e0%b8%87%e0%b9%81%e0%b8%a5%e0%b8%b0%e0%b8%a5%e0%b8%b2/"}>
+<div data-layout-node={"n458"} className={"v125 media-widget"}>
 <img data-layout-node={"n459"} className={"v126"} src={"https://aitscctv.com/wp-content/uploads/2024/05/0-3-1024x768.jpg"} alt={"0"} loading={"lazy"} decoding={"async"} width={"768"} height={"576"} />
 </div>
 </SiteLink>
@@ -974,7 +974,7 @@ export default function Page4741(){return <div className="page-4741"><div data-l
 <div data-layout-node={"n466"} className={"v3"}>
 <div data-layout-node={"n467"} className={"v153"}>
 <div data-layout-node={"n468"} className={"v4"}>
-<SiteLink data-layout-node={"n469"} className={"v106"} href={"/our-standard/"} target={"_blank"} rel={"noopener"}>
+<SiteLink data-layout-node={"n469"} className={"v106 action-link"} href={"/our-standard/"} target={"_blank"} rel={"noopener"}>
 <span data-layout-node={"n470"} className={"v154"}>
 <span data-layout-node={"n471"} className={"v155"}>
 {"กดเพื่อดูรีวิวเพิ่มเติม"}
@@ -991,8 +991,8 @@ export default function Page4741(){return <div className="page-4741"><div data-l
 <div data-layout-node={"n472"} className={"v156 section"}>
 <div data-layout-node={"n473"} className={"v157 layout-row"}>
 <div data-layout-node={"n474"} className={"v38 section"}>
-<div data-layout-node={"n475"} className={"v3"}>
-<div data-layout-node={"n476"} className={"v4"}>
+<div data-layout-node={"n475"} className={"v3 text-widget"}>
+<div data-layout-node={"n476"} className={"v4 text-widget"}>
 <p data-layout-node={"n477"} className={"v5"}>
 {"FAQ"}
 </p>
@@ -1059,7 +1059,7 @@ export default function Page4741(){return <div className="page-4741"><div data-l
 <div data-layout-node={"n490"} className={"v162"}>
 <div data-layout-node={"n491"} className={"v4"}>
 <div data-layout-node={"n492"} className={"v4"}>
-<SiteLink data-layout-node={"n493"} className={"v163"} href={"tel:0944606196"}>
+<SiteLink data-layout-node={"n493"} className={"v163 action-link"} href={"tel:0944606196"}>
 <span data-layout-node={"n494"} className={"v164"}>
 <span data-layout-node={"n495"} className={"v165"}>
 {"โทรหาเรา"}
@@ -1072,7 +1072,7 @@ export default function Page4741(){return <div className="page-4741"><div data-l
 <div data-layout-node={"n496"} className={"v162"}>
 <div data-layout-node={"n497"} className={"v4"}>
 <div data-layout-node={"n498"} className={"v4"}>
-<SiteLink data-layout-node={"n499"} className={"v166"} href={"https://page.line.me/852uanad?openQrModal=true"} target={"_blank"} rel={"noopener"}>
+<SiteLink data-layout-node={"n499"} className={"v166 action-link"} href={"https://page.line.me/852uanad?openQrModal=true"} target={"_blank"} rel={"noopener"}>
 <span data-layout-node={"n500"} className={"v167"}>
 <span data-layout-node={"n501"} className={"v168"}>
 {"ปรึกษาฟรีคลิก"}

@@ -39,3 +39,9 @@ With the local server running, `npm run verify` checks routes and assets. Instal
 Homepage standards cards are removed. The complete article archive remains at `/articles/`; English homepage and archive interface are at `/en/` and `/en/articles/`. Original articles and service details remain Thai.
 
 This is a preview build: search indexing is disabled and live CMS updates are not connected. External forms, technician login and original article bodies link to existing destinations. See README.txt for details.
+
+## Responsive layouts
+
+The shared layout stacks captured columns through 1024px to match the mobile navigation breakpoint. Text widgets and tables of contents use the available width, videos retain a 16:9 ratio, listing cards have consistent spacing, and footer/navigation targets remain easy to tap. Contact channels form a two-column grid on small screens. Questions and Careers copy uses a readable foreground on the captured dark background.
+
+Run `node scripts/responsive-all.mjs` against a running preview (default port 3002; override with `TEST_ORIGIN`) to check all 39 routes at 320, 360, 390, 430, 768 and 1024px. It checks clipped text, page overflow, section links, menu behavior, listing spacing, video embedding and FAQ expansion. Wide comparison tables scroll inside their own container. External WordPress article bodies, forms and account pages remain outside this frontend's layout scope. Visual screenshots and results are saved in the ignored `qa` directory. No Lighthouse score is inferred from these checks.

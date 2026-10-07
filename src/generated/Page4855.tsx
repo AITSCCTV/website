@@ -7,16 +7,16 @@ import {ContactPhone} from "../components/ContactPhone";
 export default function Page4855(){return <div className="page-4855"><div data-layout-node={"n0"} className={"v0"}>
 <div data-layout-node={"n1"} className={"v1 section"}>
 <div data-layout-node={"n2"} className={"v2"}>
-<div data-layout-node={"n3"} className={"v3"}>
-<div data-layout-node={"n4"} className={"v4"}>
+<div data-layout-node={"n3"} className={"v3 text-widget"}>
+<div data-layout-node={"n4"} className={"v4 text-widget"}>
 <p data-layout-node={"n5"} className={"v5"}>
 {"HOME RENOVATION"}
 </p>
 </div>
 </div>
-<div data-layout-node={"n6"} className={"v3"}>
-<div data-layout-node={"n7"} className={"v4"}>
-<p data-layout-node={"n8"} className={"v6"}>
+<div data-layout-node={"n6"} className={"v3 text-widget"}>
+<div data-layout-node={"n7"} className={"v4 text-widget"}>
+<p data-layout-node={"n8"} className={"v6 large-copy"}>
 {"รับเหมารีโนเวทบ้าน"}
 </p>
 </div>
@@ -39,7 +39,7 @@ export default function Page4855(){return <div className="page-4855"><div data-l
 <div data-layout-node={"n18"} className={"v3"}>
 <div data-layout-node={"n19"} className={"v4"}>
 <div data-layout-node={"n20"} className={"v4"}>
-<SiteLink data-layout-node={"n21"} className={"v13"} href={"tel:0944606196"} target={"_blank"} rel={"noopener"}>
+<SiteLink data-layout-node={"n21"} className={"v13 action-link"} href={"tel:0944606196"} target={"_blank"} rel={"noopener"}>
 <span data-layout-node={"n22"} className={"v14"}>
 <span data-layout-node={"n23"} className={"v15"}>
 {"สนใจบริการรีโนเวทบ้าน  โทรติดต่อเราได้ที่นี่"}
@@ -56,10 +56,10 @@ export default function Page4855(){return <div className="page-4855"><div data-l
 </div>
 </div>
 </div>
-<div data-layout-node={"n26"} className={"v11 section"}>
-<div data-layout-node={"n27"} className={"v18"}>
-<div data-layout-node={"n28"} className={"v3"}>
-<div data-layout-node={"n29"} className={"v4"}>
+<div data-layout-node={"n26"} className={"v11 section media-widget"}>
+<div data-layout-node={"n27"} className={"v18 media-widget"}>
+<div data-layout-node={"n28"} className={"v3 media-widget"}>
+<div data-layout-node={"n29"} className={"v4 media-widget"}>
 <img data-layout-node={"n30"} className={"v19"} src={"https://aitscctv.com/wp-content/uploads/2023/08/renovate_house-2048x1365.jpg"} alt={"House isolated in the field"} loading={"lazy"} decoding={"async"} width={"1536"} height={"1023"} />
 </div>
 </div>
@@ -71,8 +71,8 @@ export default function Page4855(){return <div className="page-4855"><div data-l
 </div>
 <div data-layout-node={"n31"} className={"v20 section"}>
 <div data-layout-node={"n32"} className={"v21"}>
-<div data-layout-node={"n33"} className={"v3"}>
-<div data-layout-node={"n34"} className={"v4"}>
+<div data-layout-node={"n33"} className={"v3 text-widget"}>
+<div data-layout-node={"n34"} className={"v4 text-widget"}>
 <p data-layout-node={"n35"} className={"v5"}>
 {"HOME RENOVATION SERVICE"}
 </p>
@@ -90,8 +90,8 @@ export default function Page4855(){return <div className="page-4855"><div data-l
 </h2>
 </div>
 </div>
-<div data-layout-node={"n44"} className={"v3"}>
-<div data-layout-node={"n45"} className={"v4"}>
+<div data-layout-node={"n44"} className={"v3 media-widget"}>
+<div data-layout-node={"n45"} className={"v4 media-widget"}>
 <img data-layout-node={"n46"} className={"v28"} src={"https://aitscctv.com/wp-content/uploads/2023/08/renovate_wooden-house-1536x1024.jpg"} alt={"Renovate wooden house"} loading={"lazy"} decoding={"async"} width={"1024"} height={"682"} />
 </div>
 </div>
@@ -103,7 +103,7 @@ export default function Page4855(){return <div className="page-4855"><div data-l
 <div data-layout-node={"n49"} className={"v3"}>
 <div data-layout-node={"n50"} className={"v29"}>
 <div data-layout-node={"n51"} className={"v4"}>
-<SiteLink data-layout-node={"n52"} className={"v30"} href={"https://page.line.me/852uanad?openQrModal=true"} target={"_blank"} rel={"noopener"}>
+<SiteLink data-layout-node={"n52"} className={"v30 action-link"} href={"https://page.line.me/852uanad?openQrModal=true"} target={"_blank"} rel={"noopener"}>
 <span data-layout-node={"n53"} className={"v31"}>
 <span data-layout-node={"n54"} className={"v32"}>
 {"ปรึกษาเรา"}
@@ -126,8 +126,8 @@ export default function Page4855(){return <div className="page-4855"><div data-l
 </h2>
 </div>
 </div>
-<div data-layout-node={"n61"} className={"v3"}>
-<div data-layout-node={"n62"} className={"v4"}>
+<div data-layout-node={"n61"} className={"v3 media-widget"}>
+<div data-layout-node={"n62"} className={"v4 media-widget"}>
 <img data-layout-node={"n63"} className={"v28"} src={"https://aitscctv.com/wp-content/uploads/2023/08/renovate_single-storey-house-1536x1024.jpg"} alt={"Old white house and garden"} loading={"lazy"} decoding={"async"} width={"1024"} height={"682"} />
 </div>
 </div>
@@ -139,7 +139,7 @@ export default function Page4855(){return <div className="page-4855"><div data-l
 <div data-layout-node={"n66"} className={"v3"}>
 <div data-layout-node={"n67"} className={"v29"}>
 <div data-layout-node={"n68"} className={"v4"}>
-<SiteLink data-layout-node={"n69"} className={"v30"} href={"https://page.line.me/852uanad?openQrModal=true"} target={"_blank"} rel={"noopener"}>
+<SiteLink data-layout-node={"n69"} className={"v30 action-link"} href={"https://page.line.me/852uanad?openQrModal=true"} target={"_blank"} rel={"noopener"}>
 <span data-layout-node={"n70"} className={"v34"}>
 <span data-layout-node={"n71"} className={"v35"}>
 {"ปรึกษาเรา"}
@@ -162,8 +162,8 @@ export default function Page4855(){return <div className="page-4855"><div data-l
 </h2>
 </div>
 </div>
-<div data-layout-node={"n78"} className={"v3"}>
-<div data-layout-node={"n79"} className={"v4"}>
+<div data-layout-node={"n78"} className={"v3 media-widget"}>
+<div data-layout-node={"n79"} className={"v4 media-widget"}>
 <img data-layout-node={"n80"} className={"v36"} src={"https://aitscctv.com/wp-content/uploads/2023/08/renovate_2-storey-house-1536x1185.jpg"} alt={"Front view of a residential apartment"} loading={"lazy"} decoding={"async"} width={"1024"} height={"790"} />
 </div>
 </div>
@@ -175,7 +175,7 @@ export default function Page4855(){return <div className="page-4855"><div data-l
 <div data-layout-node={"n83"} className={"v3"}>
 <div data-layout-node={"n84"} className={"v29"}>
 <div data-layout-node={"n85"} className={"v4"}>
-<SiteLink data-layout-node={"n86"} className={"v30"} href={"https://page.line.me/852uanad?openQrModal=true"} target={"_blank"} rel={"noopener"}>
+<SiteLink data-layout-node={"n86"} className={"v30 action-link"} href={"https://page.line.me/852uanad?openQrModal=true"} target={"_blank"} rel={"noopener"}>
 <span data-layout-node={"n87"} className={"v37"}>
 <span data-layout-node={"n88"} className={"v38"}>
 {"ปรึกษาเรา"}
@@ -343,8 +343,8 @@ export default function Page4855(){return <div className="page-4855"><div data-l
 </div>
 </div>
 </div>
-<div data-layout-node={"n157"} className={"v16"}>
-<div data-layout-node={"n158"} className={"v17"}>
+<div data-layout-node={"n157"} className={"v16 text-widget"}>
+<div data-layout-node={"n158"} className={"v17 text-widget"}>
 <p data-layout-node={"n159"} className={"v47"}>
 {"สำหรับใครที่ไม่ต้องการ รีโนเวทบ้านด้วยตนเอง หรือมองหาช่างที่มีประสบการณ์ในการรีโนเวทบ้าน สามารถปรึกษาและใช้บริการจากทีมช่างมืออาชีพด้านการ"}
 <span data-layout-node={"n160"} className={"v48"}>
@@ -379,7 +379,7 @@ export default function Page4855(){return <div className="page-4855"><div data-l
 {"\r\n\t\t\t\t\t\tให้คำปรึกษาฟรี\t\t\t\t\t"}
 </SiteLink>
 </p>
-<p data-layout-node={"n176"} className={"v63"}>
+<p data-layout-node={"n176"} className={"v63 large-copy"}>
 {"\r\n\t\t\t\t\t\t094 460 6196\t\t\t\t\t"}
 </p>
 </div>
@@ -404,7 +404,7 @@ export default function Page4855(){return <div className="page-4855"><div data-l
 {"\r\n\t\t\t\t\t\tLine\t\t\t\t\t"}
 </SiteLink>
 </p>
-<p data-layout-node={"n187"} className={"v72"}>
+<p data-layout-node={"n187"} className={"v72 large-copy"}>
 {"\r\n\t\t\t\t\t\t@AITSCCTV\t\t\t\t\t"}
 </p>
 </div>
@@ -416,7 +416,7 @@ export default function Page4855(){return <div className="page-4855"><div data-l
 <div data-layout-node={"n189"} className={"v3"}>
 <div data-layout-node={"n190"} className={"v74"}>
 <div data-layout-node={"n191"} className={"v4"}>
-<SiteLink data-layout-node={"n192"} className={"v30"} href={"https://page.line.me/852uanad?openQrModal=true"} target={"_blank"} rel={"noopener"}>
+<SiteLink data-layout-node={"n192"} className={"v30 action-link"} href={"https://page.line.me/852uanad?openQrModal=true"} target={"_blank"} rel={"noopener"}>
 <span data-layout-node={"n193"} className={"v75"}>
 <span data-layout-node={"n194"} className={"v76"}>
 {"ปรึกษาฟรีคลิก"}
@@ -444,13 +444,13 @@ export default function Page4855(){return <div className="page-4855"><div data-l
 </h2>
 </div>
 </div>
-<div data-layout-node={"n202"} className={"v3"}>
-<div data-layout-node={"n203"} className={"v4"}>
+<div data-layout-node={"n202"} className={"v3 media-widget"}>
+<div data-layout-node={"n203"} className={"v4 media-widget"}>
 <img data-layout-node={"n204"} className={"v79"} src={"https://aitscctv.com/wp-content/uploads/2023/08/renovate_house2.jpg"} alt={"Renovate house2"} loading={"lazy"} decoding={"async"} width={"900"} height={"644"} />
 </div>
 </div>
-<div data-layout-node={"n205"} className={"v16"}>
-<div data-layout-node={"n206"} className={"v17"}>
+<div data-layout-node={"n205"} className={"v16 text-widget"}>
+<div data-layout-node={"n206"} className={"v17 text-widget"}>
 <p data-layout-node={"n207"} className={"v47"}>
 {"– เพิ่มห้องชั้นล่าง ก่อกำแพง เพิ่มพื้นที่ใช้สอย"}
 <br data-layout-node={"n208"} className={"v80"} />
@@ -503,8 +503,8 @@ export default function Page4855(){return <div className="page-4855"><div data-l
 {"\r\n\t\t\t\t\t\t\t การรีโนเวทบ้านสไตล์มินิมอลเป็นการนำเอาลักษณะของสไตล์มินิมอลที่มีความเรียบง่ายและทันสมัยมาปรับใช้ในการปรับแต่งและตกแต่งบ้านของคุณ สไตล์มินิมอลเน้นความเรียบง่าย, ความสะอาด, และการใช้งานเน้นความสะดวกสบาย\t\t\t\t\t\t"}
 </div>
 </div>
-<div data-layout-node={"n232"} className={"v85"}>
-<div data-layout-node={"n233"} className={"v86"}>
+<div data-layout-node={"n232"} className={"v85 media-widget"}>
+<div data-layout-node={"n233"} className={"v86 media-widget"}>
 <img data-layout-node={"n234"} className={"v90"} src={"https://aitscctv.com/wp-content/uploads/2023/08/minimal-house-1024x684.jpg"} alt={"Minimal house"} loading={"lazy"} decoding={"async"} width={"768"} height={"513"} />
 </div>
 </div>
@@ -524,8 +524,8 @@ export default function Page4855(){return <div className="page-4855"><div data-l
 {"\r\n\t\t\t\t\t\t\tการรีโนเวทบ้านสไตล์ญี่ปุ่นเป็นการนำเอาลักษณะทางสถาปัตยกรรมและการออกแบบจากประเทศญี่ปุ่นมาปรับใช้ในบ้านของคุณ เอกลักษณ์ของสไตล์นี้คือความเรียบง่าย, ความสง่างาม, และความสมดุล\t\t\t\t\t\t"}
 </div>
 </div>
-<div data-layout-node={"n242"} className={"v85"}>
-<div data-layout-node={"n243"} className={"v86"}>
+<div data-layout-node={"n242"} className={"v85 media-widget"}>
+<div data-layout-node={"n243"} className={"v86 media-widget"}>
 <img data-layout-node={"n244"} className={"v91"} src={"https://aitscctv.com/wp-content/uploads/2023/08/Japanese-house-1024x685.jpg"} alt={"Japanese house"} loading={"lazy"} decoding={"async"} width={"768"} height={"513"} />
 </div>
 </div>
@@ -549,8 +549,8 @@ export default function Page4855(){return <div className="page-4855"><div data-l
 {"\r\n\t\t\t\t\t\t\tการรีโนเวทบ้านสไตล์โมเดิร์นเป็นการนำเอาลักษณะของสไตล์โมเดิร์นที่เน้นความสะดวกสบาย, ความสมดุล, และการใช้งานประโยชน์มาปรับใช้ในการปรับแต่งและตกแต่งบ้านของคุณ สไตล์โมเดิร์นมีความเรียบง่าย, รูปทรงที่มีความสมดุล, และความเป็นธรรมชาติ\t\t\t\t\t\t"}
 </div>
 </div>
-<div data-layout-node={"n254"} className={"v85"}>
-<div data-layout-node={"n255"} className={"v86"}>
+<div data-layout-node={"n254"} className={"v85 media-widget"}>
+<div data-layout-node={"n255"} className={"v86 media-widget"}>
 <img data-layout-node={"n256"} className={"v92"} src={"https://aitscctv.com/wp-content/uploads/2023/08/modern-house-1024x683.jpg"} alt={"Modern house"} loading={"lazy"} decoding={"async"} width={"768"} height={"512"} />
 </div>
 </div>
@@ -570,8 +570,8 @@ export default function Page4855(){return <div className="page-4855"><div data-l
 {"\r\n\t\t\t\t\t\t\tการรีโนเวทบ้านสไตล์ลอฟท์เป็นการนำเอาลักษณะทางสถาปัตยกรรมและการออกแบบของสไตล์ลอฟท์ที่มีความโปร่งแจ้งและเน้นความเรียบง่ายมาปรับใช้ในการปรับแต่งและตกแต่งบ้านของคุณ สไตล์ลอฟท์มีความเน้นการใช้แสงและสีสันที่สดใส และใช้วัสดุธรรมชาติเพื่อเพิ่มความอบอุ่นแก่บรรยากาศภายใน\t\t\t\t\t\t"}
 </div>
 </div>
-<div data-layout-node={"n264"} className={"v85"}>
-<div data-layout-node={"n265"} className={"v86"}>
+<div data-layout-node={"n264"} className={"v85 media-widget"}>
+<div data-layout-node={"n265"} className={"v86 media-widget"}>
 <img data-layout-node={"n266"} className={"v92"} src={"https://aitscctv.com/wp-content/uploads/2023/08/loft-house-1024x683.jpg"} alt={"Cafe and living room loft style"} loading={"lazy"} decoding={"async"} width={"768"} height={"512"} />
 </div>
 </div>
@@ -602,7 +602,7 @@ export default function Page4855(){return <div className="page-4855"><div data-l
 {"\r\n\t\t\t\t\t\tให้คำปรึกษาฟรี\t\t\t\t\t"}
 </SiteLink>
 </p>
-<p data-layout-node={"n281"} className={"v63"}>
+<p data-layout-node={"n281"} className={"v63 large-copy"}>
 {"\r\n\t\t\t\t\t\t094 460 6196\t\t\t\t\t"}
 </p>
 </div>
@@ -627,7 +627,7 @@ export default function Page4855(){return <div className="page-4855"><div data-l
 {"\r\n\t\t\t\t\t\tLine\t\t\t\t\t"}
 </SiteLink>
 </p>
-<p data-layout-node={"n292"} className={"v72"}>
+<p data-layout-node={"n292"} className={"v72 large-copy"}>
 {"\r\n\t\t\t\t\t\t@AITSCCTV\t\t\t\t\t"}
 </p>
 </div>
@@ -639,7 +639,7 @@ export default function Page4855(){return <div className="page-4855"><div data-l
 <div data-layout-node={"n294"} className={"v3"}>
 <div data-layout-node={"n295"} className={"v74"}>
 <div data-layout-node={"n296"} className={"v4"}>
-<SiteLink data-layout-node={"n297"} className={"v30"} href={"https://page.line.me/852uanad?openQrModal=true"} target={"_blank"} rel={"noopener"}>
+<SiteLink data-layout-node={"n297"} className={"v30 action-link"} href={"https://page.line.me/852uanad?openQrModal=true"} target={"_blank"} rel={"noopener"}>
 <span data-layout-node={"n298"} className={"v75"}>
 <span data-layout-node={"n299"} className={"v76"}>
 {"ปรึกษาฟรีคลิก"}
@@ -656,8 +656,8 @@ export default function Page4855(){return <div className="page-4855"><div data-l
 </div>
 <div data-layout-node={"n300"} className={"v93 section"}>
 <div data-layout-node={"n301"} className={"v78"}>
-<div data-layout-node={"n302"} className={"v3"}>
-<div data-layout-node={"n303"} className={"v4"}>
+<div data-layout-node={"n302"} className={"v3 text-widget"}>
+<div data-layout-node={"n303"} className={"v4 text-widget"}>
 <p data-layout-node={"n304"} className={"v94"}>
 {"WHY AITSCCTV"}
 </p>
@@ -672,8 +672,8 @@ export default function Page4855(){return <div className="page-4855"><div data-l
 </h2>
 </div>
 </div>
-<div data-layout-node={"n309"} className={"v3"}>
-<div data-layout-node={"n310"} className={"v4"}>
+<div data-layout-node={"n309"} className={"v3 media-widget"}>
+<div data-layout-node={"n310"} className={"v4 media-widget"}>
 <img data-layout-node={"n311"} className={"v95"} src={"https://aitscctv.com/wp-content/uploads/2023/08/renovate_house3.jpg"} alt={"Renovate house3"} loading={"lazy"} decoding={"async"} width={"768"} height={"512"} />
 </div>
 </div>
@@ -681,8 +681,8 @@ export default function Page4855(){return <div className="page-4855"><div data-l
 <div data-layout-node={"n313"} className={"v97"}>
 <div data-layout-node={"n314"} className={"v98"}>
 <div data-layout-node={"n315"} className={"v99"}>
-<figure data-layout-node={"n316"} className={"v100"}>
-<span data-layout-node={"n317"} className={"v101"}>
+<figure data-layout-node={"n316"} className={"v100 media-widget"}>
+<span data-layout-node={"n317"} className={"v101 media-widget"}>
 <img data-layout-node={"n318"} className={"v102"} src={"https://aitscctv.com/wp-content/uploads/2023/08/renewable.png"} alt={"Renewable"} loading={"lazy"} decoding={"async"} width={"512"} height={"512"} />
 </span>
 </figure>
@@ -702,7 +702,7 @@ export default function Page4855(){return <div className="page-4855"><div data-l
 <div data-layout-node={"n323"} className={"v97"}>
 <div data-layout-node={"n324"} className={"v98"}>
 <div data-layout-node={"n325"} className={"v99"}>
-<figure data-layout-node={"n326"} className={"v100"}>
+<figure data-layout-node={"n326"} className={"v100 media-widget"}>
 <img data-layout-node={"n327"} className={"v106"} src={"https://aitscctv.com/wp-content/uploads/2023/05/rating.png"} alt={"Rating"} loading={"lazy"} decoding={"async"} width={"512"} height={"512"} />
 </figure>
 <div data-layout-node={"n328"} className={"v45"}>
@@ -721,8 +721,8 @@ export default function Page4855(){return <div className="page-4855"><div data-l
 <div data-layout-node={"n332"} className={"v97"}>
 <div data-layout-node={"n333"} className={"v98"}>
 <div data-layout-node={"n334"} className={"v99"}>
-<figure data-layout-node={"n335"} className={"v100"}>
-<span data-layout-node={"n336"} className={"v101"}>
+<figure data-layout-node={"n335"} className={"v100 media-widget"}>
+<span data-layout-node={"n336"} className={"v101 media-widget"}>
 <img data-layout-node={"n337"} className={"v102"} src={"https://aitscctv.com/wp-content/uploads/2023/08/home-sweet-home.png"} alt={"Home sweet home"} loading={"lazy"} decoding={"async"} width={"512"} height={"512"} />
 </span>
 </figure>
@@ -742,7 +742,7 @@ export default function Page4855(){return <div className="page-4855"><div data-l
 <div data-layout-node={"n342"} className={"v97"}>
 <div data-layout-node={"n343"} className={"v98"}>
 <div data-layout-node={"n344"} className={"v99"}>
-<figure data-layout-node={"n345"} className={"v100"}>
+<figure data-layout-node={"n345"} className={"v100 media-widget"}>
 <img data-layout-node={"n346"} className={"v106"} src={"https://aitscctv.com/wp-content/uploads/2023/05/insurance.png"} alt={"Insurance"} loading={"lazy"} decoding={"async"} width={"512"} height={"512"} />
 </figure>
 <div data-layout-node={"n347"} className={"v45"}>
@@ -937,7 +937,7 @@ export default function Page4855(){return <div className="page-4855"><div data-l
 {"\r\n\t\t\t\t\t\tให้คำปรึกษาฟรี\t\t\t\t\t"}
 </SiteLink>
 </p>
-<p data-layout-node={"n434"} className={"v63"}>
+<p data-layout-node={"n434"} className={"v63 large-copy"}>
 {"\r\n\t\t\t\t\t\t094 460 6196\t\t\t\t\t"}
 </p>
 </div>
@@ -962,7 +962,7 @@ export default function Page4855(){return <div className="page-4855"><div data-l
 {"\r\n\t\t\t\t\t\tLine\t\t\t\t\t"}
 </SiteLink>
 </p>
-<p data-layout-node={"n445"} className={"v72"}>
+<p data-layout-node={"n445"} className={"v72 large-copy"}>
 {"\r\n\t\t\t\t\t\t@AITSCCTV\t\t\t\t\t"}
 </p>
 </div>
@@ -974,7 +974,7 @@ export default function Page4855(){return <div className="page-4855"><div data-l
 <div data-layout-node={"n447"} className={"v3"}>
 <div data-layout-node={"n448"} className={"v74"}>
 <div data-layout-node={"n449"} className={"v4"}>
-<SiteLink data-layout-node={"n450"} className={"v30"} href={"https://page.line.me/852uanad?openQrModal=true"} target={"_blank"} rel={"noopener"}>
+<SiteLink data-layout-node={"n450"} className={"v30 action-link"} href={"https://page.line.me/852uanad?openQrModal=true"} target={"_blank"} rel={"noopener"}>
 <span data-layout-node={"n451"} className={"v75"}>
 <span data-layout-node={"n452"} className={"v76"}>
 {"ปรึกษาฟรีคลิก"}
@@ -992,8 +992,8 @@ export default function Page4855(){return <div className="page-4855"><div data-l
 <div data-layout-node={"n453"} className={"v130 section"}>
 <div data-layout-node={"n454"} className={"v131 layout-row"}>
 <div data-layout-node={"n455"} className={"v132 section"}>
-<div data-layout-node={"n456"} className={"v3"}>
-<div data-layout-node={"n457"} className={"v4"}>
+<div data-layout-node={"n456"} className={"v3 text-widget"}>
+<div data-layout-node={"n457"} className={"v4 text-widget"}>
 <p data-layout-node={"n458"} className={"v5"}>
 {"FAQ"}
 </p>
@@ -1043,9 +1043,9 @@ export default function Page4855(){return <div className="page-4855"><div data-l
 </div>
 <div data-layout-node={"n466"} className={"v134 section"}>
 <div data-layout-node={"n467"} className={"v135"}>
-<div data-layout-node={"n468"} className={"v3"}>
-<div data-layout-node={"n469"} className={"v4"}>
-<p data-layout-node={"n470"} className={"v136"}>
+<div data-layout-node={"n468"} className={"v3 text-widget"}>
+<div data-layout-node={"n469"} className={"v4 text-widget"}>
+<p data-layout-node={"n470"} className={"v136 large-copy"}>
 {"\" Let AITS Set Standard  ให้เราได้สร้างมาตรฐาน \"\r\n "}
 </p>
 </div>
@@ -1054,7 +1054,7 @@ export default function Page4855(){return <div className="page-4855"><div data-l
 <div data-layout-node={"n472"} className={"v138"}>
 <div data-layout-node={"n473"} className={"v4"}>
 <div data-layout-node={"n474"} className={"v4"}>
-<SiteLink data-layout-node={"n475"} className={"v139"} href={"tel:0944606196"}>
+<SiteLink data-layout-node={"n475"} className={"v139 action-link"} href={"tel:0944606196"}>
 <span data-layout-node={"n476"} className={"v140"}>
 <span data-layout-node={"n477"} className={"v141"}>
 {"โทรหาเรา"}
@@ -1067,7 +1067,7 @@ export default function Page4855(){return <div className="page-4855"><div data-l
 <div data-layout-node={"n478"} className={"v138"}>
 <div data-layout-node={"n479"} className={"v4"}>
 <div data-layout-node={"n480"} className={"v4"}>
-<SiteLink data-layout-node={"n481"} className={"v142"} href={"https://page.line.me/852uanad?openQrModal=true"} target={"_blank"} rel={"noopener"}>
+<SiteLink data-layout-node={"n481"} className={"v142 action-link"} href={"https://page.line.me/852uanad?openQrModal=true"} target={"_blank"} rel={"noopener"}>
 <span data-layout-node={"n482"} className={"v143"}>
 <span data-layout-node={"n483"} className={"v144"}>
 {"ปรึกษาฟรีคลิก"}

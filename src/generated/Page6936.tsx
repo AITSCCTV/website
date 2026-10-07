@@ -41,9 +41,9 @@ export default function Page6936(){return <div className="page-6936"><h1 classNa
 <div data-layout-node={"n15"} className={"v1 section"}>
 <div data-layout-node={"n16"} className={"v13 layout-row"}>
 <div data-layout-node={"n17"} className={"v14 section"}>
-<div data-layout-node={"n18"} className={"v5"}>
-<div data-layout-node={"n19"} className={"v6"}>
-<SiteLink data-layout-node={"n20"} className={"v15"} href={"https://docs.google.com/forms/d/e/1FAIpQLSelu8hRj4QIM_0bJ4VgXSl_fMcoIItLwYi82iTW-T20xG4P_A/viewform"}>
+<div data-layout-node={"n18"} className={"v5 media-widget"}>
+<div data-layout-node={"n19"} className={"v6 media-widget"}>
+<SiteLink data-layout-node={"n20"} className={"v15 media-widget"} href={"https://docs.google.com/forms/d/e/1FAIpQLSelu8hRj4QIM_0bJ4VgXSl_fMcoIItLwYi82iTW-T20xG4P_A/viewform"}>
 <img data-layout-node={"n21"} className={"v16"} src={"https://aitscctv.com/wp-content/uploads/2025/01/20250121-AITS-Smart-Home-768x768.jpg"} alt={"20250121 AITS Smart Home"} loading={"lazy"} decoding={"async"} width={"300"} height={"300"} />
 </SiteLink>
 </div>
@@ -58,7 +58,7 @@ export default function Page6936(){return <div className="page-6936"><h1 classNa
 <div data-layout-node={"n25"} className={"v5"}>
 <div data-layout-node={"n26"} className={"v6"}>
 <div data-layout-node={"n27"} className={"v6"}>
-<SiteLink data-layout-node={"n28"} className={"v17"} href={"https://docs.google.com/forms/d/e/1FAIpQLSelu8hRj4QIM_0bJ4VgXSl_fMcoIItLwYi82iTW-T20xG4P_A/viewform"}>
+<SiteLink data-layout-node={"n28"} className={"v17 action-link"} href={"https://docs.google.com/forms/d/e/1FAIpQLSelu8hRj4QIM_0bJ4VgXSl_fMcoIItLwYi82iTW-T20xG4P_A/viewform"}>
 <span data-layout-node={"n29"} className={"v18"}>
 <span data-layout-node={"n30"} className={"v19"}>
 {"Smart Home Scope "}
@@ -79,9 +79,9 @@ export default function Page6936(){return <div className="page-6936"><h1 classNa
 </div>
 </div>
 <div data-layout-node={"n35"} className={"v14 section"}>
-<div data-layout-node={"n36"} className={"v5"}>
-<div data-layout-node={"n37"} className={"v6"}>
-<SiteLink data-layout-node={"n38"} className={"v15"} href={"https://docs.google.com/forms/d/e/1FAIpQLSfN_8MOsP4DMEIBHiwBdEYRs0L1tjFH9v9yLjJaVXXzK-gbtg/viewform"}>
+<div data-layout-node={"n36"} className={"v5 media-widget"}>
+<div data-layout-node={"n37"} className={"v6 media-widget"}>
+<SiteLink data-layout-node={"n38"} className={"v15 media-widget"} href={"https://docs.google.com/forms/d/e/1FAIpQLSfN_8MOsP4DMEIBHiwBdEYRs0L1tjFH9v9yLjJaVXXzK-gbtg/viewform"}>
 <img data-layout-node={"n39"} className={"v16"} src={"https://aitscctv.com/wp-content/uploads/2025/08/2-CCTV-final-768x768.jpg"} alt={"2 CCTV final"} loading={"lazy"} decoding={"async"} width={"300"} height={"300"} />
 </SiteLink>
 </div>
@@ -96,7 +96,7 @@ export default function Page6936(){return <div className="page-6936"><h1 classNa
 <div data-layout-node={"n43"} className={"v5"}>
 <div data-layout-node={"n44"} className={"v6"}>
 <div data-layout-node={"n45"} className={"v6"}>
-<SiteLink data-layout-node={"n46"} className={"v17"} href={"https://docs.google.com/forms/d/e/1FAIpQLSfN_8MOsP4DMEIBHiwBdEYRs0L1tjFH9v9yLjJaVXXzK-gbtg/viewform"}>
+<SiteLink data-layout-node={"n46"} className={"v17 action-link"} href={"https://docs.google.com/forms/d/e/1FAIpQLSfN_8MOsP4DMEIBHiwBdEYRs0L1tjFH9v9yLjJaVXXzK-gbtg/viewform"}>
 <span data-layout-node={"n47"} className={"v21"}>
 <span data-layout-node={"n48"} className={"v22"}>
 {"CCTV System Scope"}
@@ -117,9 +117,9 @@ export default function Page6936(){return <div className="page-6936"><h1 classNa
 </div>
 </div>
 <div data-layout-node={"n53"} className={"v14 section"}>
-<div data-layout-node={"n54"} className={"v5"}>
-<div data-layout-node={"n55"} className={"v6"}>
-<SiteLink data-layout-node={"n56"} className={"v15"} href={"https://docs.google.com/forms/d/e/1FAIpQLScNlElCG1nmfOG55mDhZOPjkloGmfjxil77jbTWbmnkBDji7w/viewform"}>
+<div data-layout-node={"n54"} className={"v5 media-widget"}>
+<div data-layout-node={"n55"} className={"v6 media-widget"}>
+<SiteLink data-layout-node={"n56"} className={"v15 media-widget"} href={"https://docs.google.com/forms/d/e/1FAIpQLScNlElCG1nmfOG55mDhZOPjkloGmfjxil77jbTWbmnkBDji7w/viewform"}>
 <img data-layout-node={"n57"} className={"v16"} src={"https://aitscctv.com/wp-content/uploads/2025/08/8-pro-lan-final-768x768.jpg"} alt={"8 pro lan final"} loading={"lazy"} decoding={"async"} width={"300"} height={"300"} />
 </SiteLink>
 </div>
@@ -134,7 +134,7 @@ export default function Page6936(){return <div className="page-6936"><h1 classNa
 <div data-layout-node={"n61"} className={"v5"}>
 <div data-layout-node={"n62"} className={"v6"}>
 <div data-layout-node={"n63"} className={"v6"}>
-<SiteLink data-layout-node={"n64"} className={"v17"} href={"https://docs.google.com/forms/d/e/1FAIpQLScNlElCG1nmfOG55mDhZOPjkloGmfjxil77jbTWbmnkBDji7w/viewform"}>
+<SiteLink data-layout-node={"n64"} className={"v17 action-link"} href={"https://docs.google.com/forms/d/e/1FAIpQLScNlElCG1nmfOG55mDhZOPjkloGmfjxil77jbTWbmnkBDji7w/viewform"}>
 <span data-layout-node={"n65"} className={"v23"}>
 <span data-layout-node={"n66"} className={"v24"}>
 {"Network System Scope"}
@@ -155,9 +155,9 @@ export default function Page6936(){return <div className="page-6936"><h1 classNa
 </div>
 </div>
 <div data-layout-node={"n71"} className={"v14 section"}>
-<div data-layout-node={"n72"} className={"v5"}>
-<div data-layout-node={"n73"} className={"v6"}>
-<SiteLink data-layout-node={"n74"} className={"v15"} href={"https://docs.google.com/forms/d/e/1FAIpQLSdPHCBm74yRHFM1OHP3PRzMblbGRtt1vRErfegf4I_N7qesRg/viewform"}>
+<div data-layout-node={"n72"} className={"v5 media-widget"}>
+<div data-layout-node={"n73"} className={"v6 media-widget"}>
+<SiteLink data-layout-node={"n74"} className={"v15 media-widget"} href={"https://docs.google.com/forms/d/e/1FAIpQLSdPHCBm74yRHFM1OHP3PRzMblbGRtt1vRErfegf4I_N7qesRg/viewform"}>
 <img data-layout-node={"n75"} className={"v16"} src={"https://aitscctv.com/wp-content/uploads/2025/08/9-old-and-kid-final-768x768.jpg"} alt={"9 old and kid final"} loading={"lazy"} decoding={"async"} width={"300"} height={"300"} />
 </SiteLink>
 </div>
@@ -172,7 +172,7 @@ export default function Page6936(){return <div className="page-6936"><h1 classNa
 <div data-layout-node={"n79"} className={"v5"}>
 <div data-layout-node={"n80"} className={"v6"}>
 <div data-layout-node={"n81"} className={"v6"}>
-<SiteLink data-layout-node={"n82"} className={"v17"} href={"https://docs.google.com/forms/d/e/1FAIpQLSdPHCBm74yRHFM1OHP3PRzMblbGRtt1vRErfegf4I_N7qesRg/viewform"}>
+<SiteLink data-layout-node={"n82"} className={"v17 action-link"} href={"https://docs.google.com/forms/d/e/1FAIpQLSdPHCBm74yRHFM1OHP3PRzMblbGRtt1vRErfegf4I_N7qesRg/viewform"}>
 <span data-layout-node={"n83"} className={"v25"}>
 <span data-layout-node={"n84"} className={"v26"}>
 {"Project Scope Info"}

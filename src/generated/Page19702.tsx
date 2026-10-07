@@ -7,16 +7,16 @@ import {ContactPhone} from "../components/ContactPhone";
 export default function Page19702(){return <div className="page-19702"><div data-layout-node={"n0"} className={"v0"}>
 <div data-layout-node={"n1"} className={"v1 section"}>
 <div data-layout-node={"n2"} className={"v2"}>
-<div data-layout-node={"n3"} className={"v3"}>
-<div data-layout-node={"n4"} className={"v4"}>
+<div data-layout-node={"n3"} className={"v3 text-widget"}>
+<div data-layout-node={"n4"} className={"v4 text-widget"}>
 <p data-layout-node={"n5"} className={"v5"}>
 {"SMART MEETING ROOM"}
 </p>
 </div>
 </div>
-<div data-layout-node={"n6"} className={"v3"}>
-<div data-layout-node={"n7"} className={"v4"}>
-<p data-layout-node={"n8"} className={"v6"}>
+<div data-layout-node={"n6"} className={"v3 text-widget"}>
+<div data-layout-node={"n7"} className={"v4 text-widget"}>
+<p data-layout-node={"n8"} className={"v6 large-copy"}>
 {"ระบบห้องประชุมอัจฉริยะ"}
 </p>
 </div>
@@ -39,7 +39,7 @@ export default function Page19702(){return <div className="page-19702"><div data
 <div data-layout-node={"n18"} className={"v3"}>
 <div data-layout-node={"n19"} className={"v4"}>
 <div data-layout-node={"n20"} className={"v4"}>
-<SiteLink data-layout-node={"n21"} className={"v13"} href={"tel:0944606196"} target={"_blank"} rel={"noopener"}>
+<SiteLink data-layout-node={"n21"} className={"v13 action-link"} href={"tel:0944606196"} target={"_blank"} rel={"noopener"}>
 <span data-layout-node={"n22"} className={"v14"}>
 <span data-layout-node={"n23"} className={"v15"}>
 {"สนใจติดตั้งระบบห้องประชุม ติดต่อเราได้ที่นี่"}
@@ -64,10 +64,10 @@ export default function Page19702(){return <div className="page-19702"><div data
 </div>
 </div>
 </div>
-<div data-layout-node={"n29"} className={"v11 section"}>
-<div data-layout-node={"n30"} className={"v19"}>
-<div data-layout-node={"n31"} className={"v3"}>
-<div data-layout-node={"n32"} className={"v4"}>
+<div data-layout-node={"n29"} className={"v11 section media-widget"}>
+<div data-layout-node={"n30"} className={"v19 media-widget"}>
+<div data-layout-node={"n31"} className={"v3 media-widget"}>
+<div data-layout-node={"n32"} className={"v4 media-widget"}>
 <img data-layout-node={"n33"} className={"v20"} src={"https://aitscctv.com/wp-content/uploads/2026/07/pexels-werner-pfennig-6949365-scaled.jpg"} alt={"ระบบห้องประชุมอัจฉริยะ Audio Video พร้อมจอและไมโครโฟน โดย AITS"} loading={"lazy"} decoding={"async"} width={"1536"} height={"2303"} />
 </div>
 </div>
@@ -79,8 +79,8 @@ export default function Page19702(){return <div className="page-19702"><div data
 </div>
 <div data-layout-node={"n34"} className={"v21 section"}>
 <div data-layout-node={"n35"} className={"v22"}>
-<div data-layout-node={"n36"} className={"v3"}>
-<div data-layout-node={"n37"} className={"v4"}>
+<div data-layout-node={"n36"} className={"v3 text-widget"}>
+<div data-layout-node={"n37"} className={"v4 text-widget"}>
 <p data-layout-node={"n38"} className={"v5"}>
 {"SMART MEETING ROOM SOLUTIONS"}
 </p>
@@ -105,8 +105,8 @@ export default function Page19702(){return <div className="page-19702"><div data
 </h2>
 </div>
 </div>
-<div data-layout-node={"n50"} className={"v3"}>
-<div data-layout-node={"n51"} className={"v4"}>
+<div data-layout-node={"n50"} className={"v3 media-widget"}>
+<div data-layout-node={"n51"} className={"v4 media-widget"}>
 <img data-layout-node={"n52"} className={"v30"} src={"https://aitscctv.com/wp-content/uploads/2026/07/pexels-werner-pfennig-6949364-1536x1024.jpg"} alt={"ระบบไมโครโฟนและเสียงสำหรับห้องประชุมอัจฉริยะ"} loading={"lazy"} decoding={"async"} width={"1024"} height={"682"} />
 </div>
 </div>
@@ -123,7 +123,7 @@ export default function Page19702(){return <div className="page-19702"><div data
 <div data-layout-node={"n57"} className={"v3"}>
 <div data-layout-node={"n58"} className={"v31"}>
 <div data-layout-node={"n59"} className={"v4"}>
-<SiteLink data-layout-node={"n60"} className={"v32"} href={"https://page.line.me/852uanad?openQrModal=true"} target={"_blank"} rel={"noopener"}>
+<SiteLink data-layout-node={"n60"} className={"v32 action-link"} href={"https://page.line.me/852uanad?openQrModal=true"} target={"_blank"} rel={"noopener"}>
 <span data-layout-node={"n61"} className={"v33"}>
 <span data-layout-node={"n62"} className={"v34"}>
 {"ปรึกษาเรา "}
@@ -146,8 +146,8 @@ export default function Page19702(){return <div className="page-19702"><div data
 </h2>
 </div>
 </div>
-<div data-layout-node={"n69"} className={"v3"}>
-<div data-layout-node={"n70"} className={"v4"}>
+<div data-layout-node={"n69"} className={"v3 media-widget"}>
+<div data-layout-node={"n70"} className={"v4 media-widget"}>
 <img data-layout-node={"n71"} className={"v36"} src={"https://aitscctv.com/wp-content/uploads/2026/07/pexels-mikhail-nilov-7989088-1536x1025.jpg"} alt={"จอ Interactive Display สำหรับเขียนและนำเสนอในห้องประชุม"} loading={"lazy"} decoding={"async"} width={"1024"} height={"683"} />
 </div>
 </div>
@@ -164,7 +164,7 @@ export default function Page19702(){return <div className="page-19702"><div data
 <div data-layout-node={"n76"} className={"v3"}>
 <div data-layout-node={"n77"} className={"v31"}>
 <div data-layout-node={"n78"} className={"v4"}>
-<SiteLink data-layout-node={"n79"} className={"v32"} href={"https://page.line.me/852uanad?openQrModal=true"} target={"_blank"} rel={"noopener"}>
+<SiteLink data-layout-node={"n79"} className={"v32 action-link"} href={"https://page.line.me/852uanad?openQrModal=true"} target={"_blank"} rel={"noopener"}>
 <span data-layout-node={"n80"} className={"v37"}>
 <span data-layout-node={"n81"} className={"v38"}>
 {"ปรึกษาเรา"}
@@ -187,8 +187,8 @@ export default function Page19702(){return <div className="page-19702"><div data
 </h2>
 </div>
 </div>
-<div data-layout-node={"n88"} className={"v3"}>
-<div data-layout-node={"n89"} className={"v4"}>
+<div data-layout-node={"n88"} className={"v3 media-widget"}>
+<div data-layout-node={"n89"} className={"v4 media-widget"}>
 <img data-layout-node={"n90"} className={"v39"} src={"https://aitscctv.com/wp-content/uploads/2026/07/pexels-silverkblack-30535630-1536x810.jpg"} alt={"ระบบ Video Conference สำหรับประชุมออนไลน์และ Hybrid Meeting"} loading={"lazy"} decoding={"async"} width={"1024"} height={"540"} />
 </div>
 </div>
@@ -208,7 +208,7 @@ export default function Page19702(){return <div className="page-19702"><div data
 <div data-layout-node={"n96"} className={"v3"}>
 <div data-layout-node={"n97"} className={"v31"}>
 <div data-layout-node={"n98"} className={"v4"}>
-<SiteLink data-layout-node={"n99"} className={"v32"} href={"https://page.line.me/852uanad?openQrModal=true"} target={"_blank"} rel={"noopener"}>
+<SiteLink data-layout-node={"n99"} className={"v32 action-link"} href={"https://page.line.me/852uanad?openQrModal=true"} target={"_blank"} rel={"noopener"}>
 <span data-layout-node={"n100"} className={"v40"}>
 <span data-layout-node={"n101"} className={"v41"}>
 {"ปรึกษาเรา"}
@@ -236,8 +236,8 @@ export default function Page19702(){return <div className="page-19702"><div data
 </h2>
 </div>
 </div>
-<div data-layout-node={"n108"} className={"v3"}>
-<div data-layout-node={"n109"} className={"v4"}>
+<div data-layout-node={"n108"} className={"v3 media-widget"}>
+<div data-layout-node={"n109"} className={"v4 media-widget"}>
 <img data-layout-node={"n110"} className={"v44"} src={"https://aitscctv.com/wp-content/uploads/2026/07/pexels-werner-pfennig-6949365-scaled.jpg"} alt={"ระบบห้องประชุมอัจฉริยะ Audio Video พร้อมจอและไมโครโฟน โดย AITS"} loading={"lazy"} decoding={"async"} width={"1707"} height={"2560"} />
 </div>
 </div>
@@ -302,8 +302,8 @@ export default function Page19702(){return <div className="page-19702"><div data
 </h3>
 </div>
 </div>
-<div data-layout-node={"n138"} className={"v16"}>
-<div data-layout-node={"n139"} className={"v17"}>
+<div data-layout-node={"n138"} className={"v16 text-widget"}>
+<div data-layout-node={"n139"} className={"v17 text-widget"}>
 <p data-layout-node={"n140"} className={"v18"}>
 {"เราตรวจสอบย่านความถี่ วางแผนช่องสัญญาณของไมโครโฟนแต่ละตัว และพิจารณาตำแหน่งเครื่องรับสัญญาณกับเสาอากาศ เพื่อลดปัญหาเสียงขาดหาย เสียงซ่า และการรบกวนระหว่างอุปกรณ์ไร้สาย"}
 </p>
@@ -439,7 +439,7 @@ export default function Page19702(){return <div className="page-19702"><div data
 {"\r\n\t\t\t\t\t\tให้คำปรึกษาฟรี\t\t\t\t\t"}
 </SiteLink>
 </p>
-<p data-layout-node={"n200"} className={"v63"}>
+<p data-layout-node={"n200"} className={"v63 large-copy"}>
 {"\r\n\t\t\t\t\t\t094 460 6196\t\t\t\t\t"}
 </p>
 </div>
@@ -464,7 +464,7 @@ export default function Page19702(){return <div className="page-19702"><div data
 {"\r\n\t\t\t\t\t\tLine\t\t\t\t\t"}
 </SiteLink>
 </p>
-<p data-layout-node={"n211"} className={"v72"}>
+<p data-layout-node={"n211"} className={"v72 large-copy"}>
 {"\r\n\t\t\t\t\t\t@AITSCCTV\t\t\t\t\t"}
 </p>
 </div>
@@ -476,7 +476,7 @@ export default function Page19702(){return <div className="page-19702"><div data
 <div data-layout-node={"n213"} className={"v3"}>
 <div data-layout-node={"n214"} className={"v74"}>
 <div data-layout-node={"n215"} className={"v4"}>
-<SiteLink data-layout-node={"n216"} className={"v32"} href={"https://page.line.me/852uanad?openQrModal=true"} target={"_blank"} rel={"noopener"}>
+<SiteLink data-layout-node={"n216"} className={"v32 action-link"} href={"https://page.line.me/852uanad?openQrModal=true"} target={"_blank"} rel={"noopener"}>
 <span data-layout-node={"n217"} className={"v75"}>
 <span data-layout-node={"n218"} className={"v76"}>
 {"ปรึกษาฟรีคลิก"}
@@ -500,13 +500,13 @@ export default function Page19702(){return <div className="page-19702"><div data
 </h2>
 </div>
 </div>
-<div data-layout-node={"n224"} className={"v3"}>
-<div data-layout-node={"n225"} className={"v4"}>
+<div data-layout-node={"n224"} className={"v3 media-widget"}>
+<div data-layout-node={"n225"} className={"v4 media-widget"}>
 <img data-layout-node={"n226"} className={"v79"} src={"https://aitscctv.com/wp-content/uploads/2026/07/IMG_5756.jpeg"} alt={"IMG"} loading={"lazy"} decoding={"async"} width={"1280"} height={"855"} />
 </div>
 </div>
-<div data-layout-node={"n227"} className={"v16"}>
-<div data-layout-node={"n228"} className={"v17"}>
+<div data-layout-node={"n227"} className={"v16 text-widget"}>
+<div data-layout-node={"n228"} className={"v17 text-widget"}>
 <p data-layout-node={"n229"} className={"v18"}>
 {"– ระบบไมโครโฟนประชุมแบบมีสายและไร้สาย"}
 <br data-layout-node={"n230"} className={"v80"} />
@@ -578,8 +578,8 @@ export default function Page19702(){return <div className="page-19702"><div data
 </p>
 </div>
 </div>
-<div data-layout-node={"n263"} className={"v85"}>
-<div data-layout-node={"n264"} className={"v86"}>
+<div data-layout-node={"n263"} className={"v85 media-widget"}>
+<div data-layout-node={"n264"} className={"v86 media-widget"}>
 <img data-layout-node={"n265"} className={"v91"} src={"https://aitscctv.com/wp-content/uploads/2026/07/IMG_5752-1024x683.jpeg"} alt={"IMG"} loading={"lazy"} decoding={"async"} width={"768"} height={"512"} />
 </div>
 </div>
@@ -604,8 +604,8 @@ export default function Page19702(){return <div className="page-19702"><div data
 </p>
 </div>
 </div>
-<div data-layout-node={"n275"} className={"v85"}>
-<div data-layout-node={"n276"} className={"v86"}>
+<div data-layout-node={"n275"} className={"v85 media-widget"}>
+<div data-layout-node={"n276"} className={"v86 media-widget"}>
 <img data-layout-node={"n277"} className={"v92"} src={"https://aitscctv.com/wp-content/uploads/2026/07/IMG_5753-1024x701.jpeg"} alt={"IMG"} loading={"lazy"} decoding={"async"} width={"768"} height={"525"} />
 </div>
 </div>
@@ -634,8 +634,8 @@ export default function Page19702(){return <div className="page-19702"><div data
 </p>
 </div>
 </div>
-<div data-layout-node={"n289"} className={"v85"}>
-<div data-layout-node={"n290"} className={"v86"}>
+<div data-layout-node={"n289"} className={"v85 media-widget"}>
+<div data-layout-node={"n290"} className={"v86 media-widget"}>
 <img data-layout-node={"n291"} className={"v93"} src={"https://aitscctv.com/wp-content/uploads/2026/07/IMG_5754-1024x682.jpeg"} alt={"IMG"} loading={"lazy"} decoding={"async"} width={"768"} height={"511"} />
 </div>
 </div>
@@ -660,8 +660,8 @@ export default function Page19702(){return <div className="page-19702"><div data
 </p>
 </div>
 </div>
-<div data-layout-node={"n301"} className={"v85"}>
-<div data-layout-node={"n302"} className={"v86"}>
+<div data-layout-node={"n301"} className={"v85 media-widget"}>
+<div data-layout-node={"n302"} className={"v86 media-widget"}>
 <img data-layout-node={"n303"} className={"v91"} src={"https://aitscctv.com/wp-content/uploads/2026/07/IMG_5751-1024x683.jpeg"} alt={"IMG"} loading={"lazy"} decoding={"async"} width={"768"} height={"512"} />
 </div>
 </div>
@@ -692,7 +692,7 @@ export default function Page19702(){return <div className="page-19702"><div data
 {"\r\n\t\t\t\t\t\tให้คำปรึกษาฟรี\t\t\t\t\t"}
 </SiteLink>
 </p>
-<p data-layout-node={"n318"} className={"v63"}>
+<p data-layout-node={"n318"} className={"v63 large-copy"}>
 {"\r\n\t\t\t\t\t\t094 460 6196\t\t\t\t\t"}
 </p>
 </div>
@@ -717,7 +717,7 @@ export default function Page19702(){return <div className="page-19702"><div data
 {"\r\n\t\t\t\t\t\tLine\t\t\t\t\t"}
 </SiteLink>
 </p>
-<p data-layout-node={"n329"} className={"v72"}>
+<p data-layout-node={"n329"} className={"v72 large-copy"}>
 {"\r\n\t\t\t\t\t\t@AITSCCTV\t\t\t\t\t"}
 </p>
 </div>
@@ -729,7 +729,7 @@ export default function Page19702(){return <div className="page-19702"><div data
 <div data-layout-node={"n331"} className={"v3"}>
 <div data-layout-node={"n332"} className={"v74"}>
 <div data-layout-node={"n333"} className={"v4"}>
-<SiteLink data-layout-node={"n334"} className={"v32"} href={"https://page.line.me/852uanad?openQrModal=true"} target={"_blank"} rel={"noopener"}>
+<SiteLink data-layout-node={"n334"} className={"v32 action-link"} href={"https://page.line.me/852uanad?openQrModal=true"} target={"_blank"} rel={"noopener"}>
 <span data-layout-node={"n335"} className={"v75"}>
 <span data-layout-node={"n336"} className={"v76"}>
 {"ปรึกษาฟรีคลิก"}
@@ -746,8 +746,8 @@ export default function Page19702(){return <div className="page-19702"><div data
 </div>
 <div data-layout-node={"n337"} className={"v94 section"}>
 <div data-layout-node={"n338"} className={"v78"}>
-<div data-layout-node={"n339"} className={"v3"}>
-<div data-layout-node={"n340"} className={"v4"}>
+<div data-layout-node={"n339"} className={"v3 text-widget"}>
+<div data-layout-node={"n340"} className={"v4 text-widget"}>
 <p data-layout-node={"n341"} className={"v95"}>
 {"WHY AITSCCTV"}
 </p>
@@ -760,8 +760,8 @@ export default function Page19702(){return <div className="page-19702"><div data
 </h2>
 </div>
 </div>
-<div data-layout-node={"n345"} className={"v3"}>
-<div data-layout-node={"n346"} className={"v4"}>
+<div data-layout-node={"n345"} className={"v3 media-widget"}>
+<div data-layout-node={"n346"} className={"v4 media-widget"}>
 <img data-layout-node={"n347"} className={"v96"} src={"https://aitscctv.com/wp-content/uploads/2026/07/IMG_5755-1024x682.jpeg"} alt={"IMG"} loading={"lazy"} decoding={"async"} width={"768"} height={"511"} />
 </div>
 </div>
@@ -769,8 +769,8 @@ export default function Page19702(){return <div className="page-19702"><div data
 <div data-layout-node={"n349"} className={"v98"}>
 <div data-layout-node={"n350"} className={"v99"}>
 <div data-layout-node={"n351"} className={"v100"}>
-<figure data-layout-node={"n352"} className={"v101"}>
-<span data-layout-node={"n353"} className={"v102"}>
+<figure data-layout-node={"n352"} className={"v101 media-widget"}>
+<span data-layout-node={"n353"} className={"v102 media-widget"}>
 <img data-layout-node={"n354"} className={"v103"} src={"https://aitscctv.com/wp-content/uploads/2023/08/renewable.png"} alt={"Renewable"} loading={"lazy"} decoding={"async"} width={"512"} height={"512"} />
 </span>
 </figure>
@@ -790,7 +790,7 @@ export default function Page19702(){return <div className="page-19702"><div data
 <div data-layout-node={"n359"} className={"v98"}>
 <div data-layout-node={"n360"} className={"v99"}>
 <div data-layout-node={"n361"} className={"v100"}>
-<figure data-layout-node={"n362"} className={"v101"}>
+<figure data-layout-node={"n362"} className={"v101 media-widget"}>
 <img data-layout-node={"n363"} className={"v107"} src={"https://aitscctv.com/wp-content/uploads/2023/05/rating.png"} alt={"Rating"} loading={"lazy"} decoding={"async"} width={"512"} height={"512"} />
 </figure>
 <div data-layout-node={"n364"} className={"v47"}>
@@ -809,8 +809,8 @@ export default function Page19702(){return <div className="page-19702"><div data
 <div data-layout-node={"n368"} className={"v98"}>
 <div data-layout-node={"n369"} className={"v99"}>
 <div data-layout-node={"n370"} className={"v100"}>
-<figure data-layout-node={"n371"} className={"v101"}>
-<span data-layout-node={"n372"} className={"v102"}>
+<figure data-layout-node={"n371"} className={"v101 media-widget"}>
+<span data-layout-node={"n372"} className={"v102 media-widget"}>
 <img data-layout-node={"n373"} className={"v103"} src={"https://aitscctv.com/wp-content/uploads/2023/08/home-sweet-home.png"} alt={"Home sweet home"} loading={"lazy"} decoding={"async"} width={"512"} height={"512"} />
 </span>
 </figure>
@@ -830,7 +830,7 @@ export default function Page19702(){return <div className="page-19702"><div data
 <div data-layout-node={"n378"} className={"v98"}>
 <div data-layout-node={"n379"} className={"v99"}>
 <div data-layout-node={"n380"} className={"v100"}>
-<figure data-layout-node={"n381"} className={"v101"}>
+<figure data-layout-node={"n381"} className={"v101 media-widget"}>
 <img data-layout-node={"n382"} className={"v107"} src={"https://aitscctv.com/wp-content/uploads/2023/05/insurance.png"} alt={"Insurance"} loading={"lazy"} decoding={"async"} width={"512"} height={"512"} />
 </figure>
 <div data-layout-node={"n383"} className={"v47"}>
@@ -856,8 +856,8 @@ export default function Page19702(){return <div className="page-19702"><div data
 </h2>
 </div>
 </div>
-<div data-layout-node={"n391"} className={"v16"}>
-<div data-layout-node={"n392"} className={"v17"}>
+<div data-layout-node={"n391"} className={"v16 text-widget"}>
+<div data-layout-node={"n392"} className={"v17 text-widget"}>
 <p data-layout-node={"n393"} className={"v18"}>
 {"ระบบห้องประชุมแต่ละแห่งมีความต้องการแตกต่างกัน การเตรียมข้อมูลให้ครบก่อนออกแบบจะช่วยให้เลือกอุปกรณ์ได้เหมาะสม ลดค่าใช้จ่ายที่ไม่จำเป็น และรองรับการขยายระบบในอนาคต"}
 </p>
@@ -1025,7 +1025,7 @@ export default function Page19702(){return <div className="page-19702"><div data
 {"\r\n\t\t\t\t\t\tให้คำปรึกษาฟรี\t\t\t\t\t"}
 </SiteLink>
 </p>
-<p data-layout-node={"n470"} className={"v63"}>
+<p data-layout-node={"n470"} className={"v63 large-copy"}>
 {"\r\n\t\t\t\t\t\t094 460 6196\t\t\t\t\t"}
 </p>
 </div>
@@ -1050,7 +1050,7 @@ export default function Page19702(){return <div className="page-19702"><div data
 {"\r\n\t\t\t\t\t\tLine\t\t\t\t\t"}
 </SiteLink>
 </p>
-<p data-layout-node={"n481"} className={"v72"}>
+<p data-layout-node={"n481"} className={"v72 large-copy"}>
 {"\r\n\t\t\t\t\t\t@AITSCCTV\t\t\t\t\t"}
 </p>
 </div>
@@ -1062,7 +1062,7 @@ export default function Page19702(){return <div className="page-19702"><div data
 <div data-layout-node={"n483"} className={"v3"}>
 <div data-layout-node={"n484"} className={"v74"}>
 <div data-layout-node={"n485"} className={"v4"}>
-<SiteLink data-layout-node={"n486"} className={"v32"} href={"https://page.line.me/852uanad?openQrModal=true"} target={"_blank"} rel={"noopener"}>
+<SiteLink data-layout-node={"n486"} className={"v32 action-link"} href={"https://page.line.me/852uanad?openQrModal=true"} target={"_blank"} rel={"noopener"}>
 <span data-layout-node={"n487"} className={"v75"}>
 <span data-layout-node={"n488"} className={"v76"}>
 {"ปรึกษาฟรีคลิก"}
@@ -1080,8 +1080,8 @@ export default function Page19702(){return <div className="page-19702"><div data
 <div data-layout-node={"n489"} className={"v130 section"}>
 <div data-layout-node={"n490"} className={"v131 layout-row"}>
 <div data-layout-node={"n491"} className={"v132 section"}>
-<div data-layout-node={"n492"} className={"v3"}>
-<div data-layout-node={"n493"} className={"v4"}>
+<div data-layout-node={"n492"} className={"v3 text-widget"}>
+<div data-layout-node={"n493"} className={"v4 text-widget"}>
 <p data-layout-node={"n494"} className={"v5"}>
 {"FAQ"}
 </p>
@@ -1169,9 +1169,9 @@ export default function Page19702(){return <div className="page-19702"><div data
 </div>
 <div data-layout-node={"n501"} className={"v134 section"}>
 <div data-layout-node={"n502"} className={"v135"}>
-<div data-layout-node={"n503"} className={"v3"}>
-<div data-layout-node={"n504"} className={"v4"}>
-<p data-layout-node={"n505"} className={"v136"}>
+<div data-layout-node={"n503"} className={"v3 text-widget"}>
+<div data-layout-node={"n504"} className={"v4 text-widget"}>
+<p data-layout-node={"n505"} className={"v136 large-copy"}>
 {"\" Let AITS Set Standard  ให้เราได้สร้างมาตรฐาน \"\r\n "}
 </p>
 </div>
@@ -1180,7 +1180,7 @@ export default function Page19702(){return <div className="page-19702"><div data
 <div data-layout-node={"n507"} className={"v138"}>
 <div data-layout-node={"n508"} className={"v4"}>
 <div data-layout-node={"n509"} className={"v4"}>
-<SiteLink data-layout-node={"n510"} className={"v139"} href={"tel:0944606196"}>
+<SiteLink data-layout-node={"n510"} className={"v139 action-link"} href={"tel:0944606196"}>
 <span data-layout-node={"n511"} className={"v140"}>
 <span data-layout-node={"n512"} className={"v141"}>
 {"โทรหาเรา"}
@@ -1193,7 +1193,7 @@ export default function Page19702(){return <div className="page-19702"><div data
 <div data-layout-node={"n513"} className={"v138"}>
 <div data-layout-node={"n514"} className={"v4"}>
 <div data-layout-node={"n515"} className={"v4"}>
-<SiteLink data-layout-node={"n516"} className={"v142"} href={"https://page.line.me/852uanad?openQrModal=true"} target={"_blank"} rel={"noopener"}>
+<SiteLink data-layout-node={"n516"} className={"v142 action-link"} href={"https://page.line.me/852uanad?openQrModal=true"} target={"_blank"} rel={"noopener"}>
 <span data-layout-node={"n517"} className={"v143"}>
 <span data-layout-node={"n518"} className={"v144"}>
 {"ปรึกษาฟรีคลิก"}

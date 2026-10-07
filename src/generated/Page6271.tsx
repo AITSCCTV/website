@@ -21,43 +21,43 @@ export default function Page6271(){return <div className="page-6271"><h1 classNa
 {"We hereby grant full permission for the use, submission, and commercialization of these stickers on the LINE Creators Market platform."}
 </p>
 <figure data-layout-node={"n8"} className={"v6"}>
-<figure data-layout-node={"n9"} className={"v7"}>
+<figure data-layout-node={"n9"} className={"v7 media-widget"}>
 <img data-layout-node={"n10"} className={"v8"} src={"https://aitscctv.com/wp-content/uploads/2025/04/main.png"} alt={""} loading={"lazy"} decoding={"async"} width={"240"} height={"240"} />
 </figure>
-<figure data-layout-node={"n11"} className={"v7"}>
+<figure data-layout-node={"n11"} className={"v7 media-widget"}>
 <img data-layout-node={"n12"} className={"v9"} src={"https://aitscctv.com/wp-content/uploads/2025/04/04-Miss-final.png"} alt={""} loading={"lazy"} decoding={"async"} width={"370"} height={"320"} />
 </figure>
-<figure data-layout-node={"n13"} className={"v7"}>
+<figure data-layout-node={"n13"} className={"v7 media-widget"}>
 <img data-layout-node={"n14"} className={"v9"} src={"https://aitscctv.com/wp-content/uploads/2025/04/05-Fighting-final.jpg"} alt={""} loading={"lazy"} decoding={"async"} width={"370"} height={"320"} />
 </figure>
-<figure data-layout-node={"n15"} className={"v7"}>
+<figure data-layout-node={"n15"} className={"v7 media-widget"}>
 <img data-layout-node={"n16"} className={"v10"} src={"https://aitscctv.com/wp-content/uploads/2025/04/06-Bye-final.png"} alt={""} loading={"lazy"} decoding={"async"} width={"370"} height={"320"} />
 </figure>
-<figure data-layout-node={"n17"} className={"v7"}>
+<figure data-layout-node={"n17"} className={"v7 media-widget"}>
 <img data-layout-node={"n18"} className={"v10"} src={"https://aitscctv.com/wp-content/uploads/2025/04/07-Got-it-final.png"} alt={""} loading={"lazy"} decoding={"async"} width={"370"} height={"320"} />
 </figure>
-<figure data-layout-node={"n19"} className={"v7"}>
+<figure data-layout-node={"n19"} className={"v7 media-widget"}>
 <img data-layout-node={"n20"} className={"v10"} src={"https://aitscctv.com/wp-content/uploads/2025/04/10-haha-final.png"} alt={""} loading={"lazy"} decoding={"async"} width={"370"} height={"320"} />
 </figure>
-<figure data-layout-node={"n21"} className={"v7"}>
+<figure data-layout-node={"n21"} className={"v7 media-widget"}>
 <img data-layout-node={"n22"} className={"v10"} src={"https://aitscctv.com/wp-content/uploads/2025/04/11-Night-final.png"} alt={""} loading={"lazy"} decoding={"async"} width={"370"} height={"320"} />
 </figure>
-<figure data-layout-node={"n23"} className={"v7"}>
+<figure data-layout-node={"n23"} className={"v7 media-widget"}>
 <img data-layout-node={"n24"} className={"v10"} src={"https://aitscctv.com/wp-content/uploads/2025/04/14-1-final.png"} alt={""} loading={"lazy"} decoding={"async"} width={"370"} height={"320"} />
 </figure>
-<figure data-layout-node={"n25"} className={"v7"}>
+<figure data-layout-node={"n25"} className={"v7 media-widget"}>
 <img data-layout-node={"n26"} className={"v10"} src={"https://aitscctv.com/wp-content/uploads/2025/04/15-driving.png"} alt={""} loading={"lazy"} decoding={"async"} width={"370"} height={"320"} />
 </figure>
-<figure data-layout-node={"n27"} className={"v7"}>
+<figure data-layout-node={"n27"} className={"v7 media-widget"}>
 <img data-layout-node={"n28"} className={"v9"} src={"https://aitscctv.com/wp-content/uploads/2025/04/16-Smart-Home-final.png"} alt={""} loading={"lazy"} decoding={"async"} width={"370"} height={"320"} />
 </figure>
-<figure data-layout-node={"n29"} className={"v7"}>
+<figure data-layout-node={"n29"} className={"v7 media-widget"}>
 <img data-layout-node={"n30"} className={"v9"} src={"https://aitscctv.com/wp-content/uploads/2025/04/goo-bye.png"} alt={""} loading={"lazy"} decoding={"async"} width={"370"} height={"320"} />
 </figure>
-<figure data-layout-node={"n31"} className={"v7"}>
+<figure data-layout-node={"n31"} className={"v7 media-widget"}>
 <img data-layout-node={"n32"} className={"v11"} src={"https://aitscctv.com/wp-content/uploads/2025/04/hahaha.png"} alt={""} loading={"lazy"} decoding={"async"} width={"1024"} height={"1024"} />
 </figure>
-<figure data-layout-node={"n33"} className={"v12"}>
+<figure data-layout-node={"n33"} className={"v12 media-widget"}>
 <img data-layout-node={"n34"} className={"v13"} src={"https://aitscctv.com/wp-content/uploads/2025/04/02-Sorry-final.png"} alt={""} loading={"lazy"} decoding={"async"} width={"370"} height={"320"} />
 </figure>
 </figure>

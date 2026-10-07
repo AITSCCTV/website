@@ -15,18 +15,18 @@ export default function Page40(){return <div className="page-40"><h1 className={
 </h2>
 </div>
 </div>
-<div data-layout-node={"n5"} className={"v2"}>
-<div data-layout-node={"n6"} className={"v3"}>
-<p data-layout-node={"n7"} className={"v5"}>
+<div data-layout-node={"n5"} className={"v2 text-widget"}>
+<div data-layout-node={"n6"} className={"v3 text-widget"}>
+<p data-layout-node={"n7"} className={"v5 large-copy"}>
 <SiteLink data-layout-node={"n8"} className={"v6"} href={"tel:028782951"}>
 {"02 878 2951"}
 </SiteLink>
 </p>
 </div>
 </div>
-<div data-layout-node={"n9"} className={"v2"}>
-<div data-layout-node={"n10"} className={"v3"}>
-<p data-layout-node={"n11"} className={"v5"}>
+<div data-layout-node={"n9"} className={"v2 text-widget"}>
+<div data-layout-node={"n10"} className={"v3 text-widget"}>
+<p data-layout-node={"n11"} className={"v5 large-copy"}>
 <SiteLink data-layout-node={"n12"} className={"v6"} href={"tel:0944606196"}>
 {"094 460 6196"}
 </SiteLink>

@@ -7,16 +7,16 @@ import {ContactPhone} from "../components/ContactPhone";
 export default function Page5163(){return <div className="page-5163"><div data-layout-node={"n0"} className={"v0"}>
 <div data-layout-node={"n1"} className={"v1 section"}>
 <div data-layout-node={"n2"} className={"v2"}>
-<div data-layout-node={"n3"} className={"v3"}>
-<div data-layout-node={"n4"} className={"v4"}>
+<div data-layout-node={"n3"} className={"v3 text-widget"}>
+<div data-layout-node={"n4"} className={"v4 text-widget"}>
 <p data-layout-node={"n5"} className={"v5"}>
 {"WiFi SYSTEM"}
 </p>
 </div>
 </div>
-<div data-layout-node={"n6"} className={"v3"}>
-<div data-layout-node={"n7"} className={"v4"}>
-<p data-layout-node={"n8"} className={"v6"}>
+<div data-layout-node={"n6"} className={"v3 text-widget"}>
+<div data-layout-node={"n7"} className={"v4 text-widget"}>
+<p data-layout-node={"n8"} className={"v6 large-copy"}>
 {"รับวางระบบ WiFi"}
 </p>
 </div>
@@ -36,8 +36,8 @@ export default function Page5163(){return <div className="page-5163"><div data-l
 <div data-layout-node={"n15"} className={"v10"}>
 <div data-layout-node={"n16"} className={"v11 section"}>
 <div data-layout-node={"n17"} className={"v12"}>
-<div data-layout-node={"n18"} className={"v13"}>
-<div data-layout-node={"n19"} className={"v14"}>
+<div data-layout-node={"n18"} className={"v13 text-widget"}>
+<div data-layout-node={"n19"} className={"v14 text-widget"}>
 <p data-layout-node={"n20"} className={"v15"}>
 {"บริการรับติดตั้ง WiFi ติดตั้งไวไฟบ้าน ราคาย่อมเยาและติดตั้งไวไฟไร้สาย "}
 <span data-layout-node={"n21"} className={"v16"}>
@@ -52,7 +52,7 @@ export default function Page5163(){return <div className="page-5163"><div data-l
 <div data-layout-node={"n23"} className={"v3"}>
 <div data-layout-node={"n24"} className={"v4"}>
 <div data-layout-node={"n25"} className={"v4"}>
-<SiteLink data-layout-node={"n26"} className={"v17"} href={"tel:0944606196"} target={"_blank"} rel={"noopener"}>
+<SiteLink data-layout-node={"n26"} className={"v17 action-link"} href={"tel:0944606196"} target={"_blank"} rel={"noopener"}>
 <span data-layout-node={"n27"} className={"v18"}>
 <span data-layout-node={"n28"} className={"v19"}>
 {"สนใจบริการติดตั้งไวไฟ บ้าน กับเรา คลิก!"}
@@ -64,10 +64,10 @@ export default function Page5163(){return <div className="page-5163"><div data-l
 </div>
 </div>
 </div>
-<div data-layout-node={"n29"} className={"v11 section"}>
-<div data-layout-node={"n30"} className={"v20"}>
-<div data-layout-node={"n31"} className={"v3"}>
-<div data-layout-node={"n32"} className={"v4"}>
+<div data-layout-node={"n29"} className={"v11 section media-widget"}>
+<div data-layout-node={"n30"} className={"v20 media-widget"}>
+<div data-layout-node={"n31"} className={"v3 media-widget"}>
+<div data-layout-node={"n32"} className={"v4 media-widget"}>
 <img data-layout-node={"n33"} className={"v21"} src={"https://aitscctv.com/wp-content/uploads/2023/09/cardano-blockchain-platform.webp"} alt={"Cardano blockchain platform"} loading={"lazy"} decoding={"async"} width={"1536"} height={"864"} />
 </div>
 </div>
@@ -79,8 +79,8 @@ export default function Page5163(){return <div className="page-5163"><div data-l
 </div>
 <div data-layout-node={"n34"} className={"v22 section"}>
 <div data-layout-node={"n35"} className={"v23"}>
-<div data-layout-node={"n36"} className={"v3"}>
-<div data-layout-node={"n37"} className={"v4"}>
+<div data-layout-node={"n36"} className={"v3 text-widget"}>
+<div data-layout-node={"n37"} className={"v4 text-widget"}>
 <p data-layout-node={"n38"} className={"v5"}>
 {"DESIGN AND SET UP WiFi SYTEM"}
 </p>
@@ -105,13 +105,13 @@ export default function Page5163(){return <div className="page-5163"><div data-l
 </h2>
 </div>
 </div>
-<div data-layout-node={"n50"} className={"v3"}>
-<div data-layout-node={"n51"} className={"v4"}>
+<div data-layout-node={"n50"} className={"v3 media-widget"}>
+<div data-layout-node={"n51"} className={"v4 media-widget"}>
 <img data-layout-node={"n52"} className={"v30"} src={"https://aitscctv.com/wp-content/uploads/2023/09/sofa-living-room-with-copy-space-1536x1075.webp"} alt={"Sofa living room with copy space"} loading={"lazy"} decoding={"async"} width={"1024"} height={"716"} />
 </div>
 </div>
-<div data-layout-node={"n53"} className={"v13"}>
-<div data-layout-node={"n54"} className={"v14"}>
+<div data-layout-node={"n53"} className={"v13 text-widget"}>
+<div data-layout-node={"n54"} className={"v14 text-widget"}>
 <p data-layout-node={"n55"} className={"v15"}>
 {"บริการติดตั้งไวไฟ "}
 <span data-layout-node={"n56"} className={"v16"}>
@@ -126,7 +126,7 @@ export default function Page5163(){return <div className="page-5163"><div data-l
 <div data-layout-node={"n58"} className={"v3"}>
 <div data-layout-node={"n59"} className={"v31"}>
 <div data-layout-node={"n60"} className={"v4"}>
-<SiteLink data-layout-node={"n61"} className={"v32"} href={"https://page.line.me/852uanad?openQrModal=true"} target={"_blank"} rel={"noopener"}>
+<SiteLink data-layout-node={"n61"} className={"v32 action-link"} href={"https://page.line.me/852uanad?openQrModal=true"} target={"_blank"} rel={"noopener"}>
 <span data-layout-node={"n62"} className={"v33"}>
 <span data-layout-node={"n63"} className={"v34"}>
 {"ปรึกษาเรา"}
@@ -149,8 +149,8 @@ export default function Page5163(){return <div className="page-5163"><div data-l
 </h2>
 </div>
 </div>
-<div data-layout-node={"n70"} className={"v3"}>
-<div data-layout-node={"n71"} className={"v4"}>
+<div data-layout-node={"n70"} className={"v3 media-widget"}>
+<div data-layout-node={"n71"} className={"v4 media-widget"}>
 <img data-layout-node={"n72"} className={"v37"} src={"https://aitscctv.com/wp-content/uploads/2023/09/new-buildings-with-green-areas-2-1536x1024.webp"} alt={"New buildings with green areas (2)"} loading={"lazy"} decoding={"async"} width={"1024"} height={"682"} />
 </div>
 </div>
@@ -162,7 +162,7 @@ export default function Page5163(){return <div className="page-5163"><div data-l
 <div data-layout-node={"n75"} className={"v3"}>
 <div data-layout-node={"n76"} className={"v31"}>
 <div data-layout-node={"n77"} className={"v4"}>
-<SiteLink data-layout-node={"n78"} className={"v32"} href={"https://page.line.me/852uanad?openQrModal=true"} target={"_blank"} rel={"noopener"}>
+<SiteLink data-layout-node={"n78"} className={"v32 action-link"} href={"https://page.line.me/852uanad?openQrModal=true"} target={"_blank"} rel={"noopener"}>
 <span data-layout-node={"n79"} className={"v38"}>
 <span data-layout-node={"n80"} className={"v39"}>
 {"ปรึกษาเรา"}
@@ -185,8 +185,8 @@ export default function Page5163(){return <div className="page-5163"><div data-l
 </h2>
 </div>
 </div>
-<div data-layout-node={"n87"} className={"v3"}>
-<div data-layout-node={"n88"} className={"v4"}>
+<div data-layout-node={"n87"} className={"v3 media-widget"}>
+<div data-layout-node={"n88"} className={"v4 media-widget"}>
 <img data-layout-node={"n89"} className={"v40"} src={"https://aitscctv.com/wp-content/uploads/2023/09/large-office-buildings-1536x1054.webp"} alt={"Large office buildings"} loading={"lazy"} decoding={"async"} width={"1024"} height={"702"} />
 </div>
 </div>
@@ -198,7 +198,7 @@ export default function Page5163(){return <div className="page-5163"><div data-l
 <div data-layout-node={"n92"} className={"v3"}>
 <div data-layout-node={"n93"} className={"v31"}>
 <div data-layout-node={"n94"} className={"v4"}>
-<SiteLink data-layout-node={"n95"} className={"v32"} href={"https://page.line.me/852uanad?openQrModal=true"} target={"_blank"} rel={"noopener"}>
+<SiteLink data-layout-node={"n95"} className={"v32 action-link"} href={"https://page.line.me/852uanad?openQrModal=true"} target={"_blank"} rel={"noopener"}>
 <span data-layout-node={"n96"} className={"v41"}>
 <span data-layout-node={"n97"} className={"v42"}>
 {"ปรึกษาเรา"}
@@ -226,8 +226,8 @@ export default function Page5163(){return <div className="page-5163"><div data-l
 </h2>
 </div>
 </div>
-<div data-layout-node={"n104"} className={"v3"}>
-<div data-layout-node={"n105"} className={"v4"}>
+<div data-layout-node={"n104"} className={"v3 media-widget"}>
+<div data-layout-node={"n105"} className={"v4 media-widget"}>
 <img data-layout-node={"n106"} className={"v44"} src={"https://aitscctv.com/wp-content/uploads/2023/09/CCTV.webp"} alt={"CCTV"} loading={"lazy"} decoding={"async"} width={"1006"} height={"566"} />
 </div>
 </div>
@@ -284,7 +284,7 @@ export default function Page5163(){return <div className="page-5163"><div data-l
 {"\r\n\t\t\t\t\t\tให้คำปรึกษาฟรี\t\t\t\t\t"}
 </SiteLink>
 </h2>
-<p data-layout-node={"n134"} className={"v63"}>
+<p data-layout-node={"n134"} className={"v63 large-copy"}>
 {"\r\n\t\t\t\t\t\t094 460 6196\t\t\t\t\t"}
 </p>
 </div>
@@ -309,7 +309,7 @@ export default function Page5163(){return <div className="page-5163"><div data-l
 {"\r\n\t\t\t\t\t\tLine\t\t\t\t\t"}
 </SiteLink>
 </p>
-<p data-layout-node={"n145"} className={"v73"}>
+<p data-layout-node={"n145"} className={"v73 large-copy"}>
 {"\r\n\t\t\t\t\t\t@AITSCCTV\t\t\t\t\t"}
 </p>
 </div>
@@ -321,7 +321,7 @@ export default function Page5163(){return <div className="page-5163"><div data-l
 <div data-layout-node={"n147"} className={"v3"}>
 <div data-layout-node={"n148"} className={"v75"}>
 <div data-layout-node={"n149"} className={"v4"}>
-<SiteLink data-layout-node={"n150"} className={"v76"} href={"https://page.line.me/852uanad?openQrModal=true"} target={"_blank"} rel={"noopener"}>
+<SiteLink data-layout-node={"n150"} className={"v76 action-link"} href={"https://page.line.me/852uanad?openQrModal=true"} target={"_blank"} rel={"noopener"}>
 <span data-layout-node={"n151"} className={"v77"}>
 <span data-layout-node={"n152"} className={"v78"}>
 {"ปรึกษาฟรีคลิก"}
@@ -481,8 +481,8 @@ export default function Page5163(){return <div className="page-5163"><div data-l
 <div data-layout-node={"n217"} className={"v91"}>
 <div data-layout-node={"n218"} className={"v92"}>
 <div data-layout-node={"n219"} className={"v93"}>
-<figure data-layout-node={"n220"} className={"v94"}>
-<span data-layout-node={"n221"} className={"v95"}>
+<figure data-layout-node={"n220"} className={"v94 media-widget"}>
+<span data-layout-node={"n221"} className={"v95 media-widget"}>
 <img data-layout-node={"n222"} className={"v96"} src={"https://aitscctv.com/wp-content/uploads/2023/08/technical-support.png"} alt={"Technical support"} loading={"lazy"} decoding={"async"} width={"512"} height={"512"} />
 </span>
 </figure>
@@ -502,7 +502,7 @@ export default function Page5163(){return <div className="page-5163"><div data-l
 <div data-layout-node={"n227"} className={"v91"}>
 <div data-layout-node={"n228"} className={"v92"}>
 <div data-layout-node={"n229"} className={"v93"}>
-<figure data-layout-node={"n230"} className={"v94"}>
+<figure data-layout-node={"n230"} className={"v94 media-widget"}>
 <img data-layout-node={"n231"} className={"v101"} src={"https://aitscctv.com/wp-content/uploads/2023/05/evidence.png"} alt={"Evidence"} loading={"lazy"} decoding={"async"} width={"512"} height={"512"} />
 </figure>
 <div data-layout-node={"n232"} className={"v97"}>
@@ -519,7 +519,7 @@ export default function Page5163(){return <div className="page-5163"><div data-l
 <div data-layout-node={"n235"} className={"v91"}>
 <div data-layout-node={"n236"} className={"v92"}>
 <div data-layout-node={"n237"} className={"v93"}>
-<figure data-layout-node={"n238"} className={"v94"}>
+<figure data-layout-node={"n238"} className={"v94 media-widget"}>
 <img data-layout-node={"n239"} className={"v101"} src={"https://aitscctv.com/wp-content/uploads/2023/08/bandwidth.png"} alt={"Bandwidth"} loading={"lazy"} decoding={"async"} width={"512"} height={"512"} />
 </figure>
 <div data-layout-node={"n240"} className={"v97"}>
@@ -536,7 +536,7 @@ export default function Page5163(){return <div className="page-5163"><div data-l
 <div data-layout-node={"n243"} className={"v91"}>
 <div data-layout-node={"n244"} className={"v92"}>
 <div data-layout-node={"n245"} className={"v93"}>
-<figure data-layout-node={"n246"} className={"v94"}>
+<figure data-layout-node={"n246"} className={"v94 media-widget"}>
 <img data-layout-node={"n247"} className={"v101"} src={"https://aitscctv.com/wp-content/uploads/2023/05/rating.png"} alt={"Rating"} loading={"lazy"} decoding={"async"} width={"512"} height={"512"} />
 </figure>
 <div data-layout-node={"n248"} className={"v97"}>
@@ -555,13 +555,13 @@ export default function Page5163(){return <div className="page-5163"><div data-l
 </div>
 </div>
 </div>
-<div data-layout-node={"n252"} className={"v102 section"}>
-<div data-layout-node={"n253"} className={"v103"}>
-<div data-layout-node={"n254"} className={"v11 section"}>
-<div data-layout-node={"n255"} className={"v104"}>
-<div data-layout-node={"n256"} className={"v105"}>
-<div data-layout-node={"n257"} className={"v106"}>
-<div data-layout-node={"n258"} className={"v107"}>
+<div data-layout-node={"n252"} className={"v102 section video-shell"}>
+<div data-layout-node={"n253"} className={"v103 video-shell"}>
+<div data-layout-node={"n254"} className={"v11 section video-shell"}>
+<div data-layout-node={"n255"} className={"v104 video-shell"}>
+<div data-layout-node={"n256"} className={"v105 video-shell"}>
+<div data-layout-node={"n257"} className={"v106 video-shell"}>
+<div data-layout-node={"n258"} className={"v107 video-shell"}>
 <VideoFrame src={"https://www.youtube.com/embed/kXtxdPzyTzY?controls=1&rel=0&playsinline=0&modestbranding=0&autoplay=0&enablejsapi=1&origin=https%3A%2F%2Faitscctv.com&widgetid=1&forigin=https%3A%2F%2Faitscctv.com%2Finternet-system%2Fwi-fi%2F&aoriginsup=1&vf=1"} style={{"width":"672px","maxWidth":"100%","aspectRatio":"672/378","display":"flex","margin":"0px"}} />
 </div>
 </div>
@@ -582,36 +582,36 @@ export default function Page5163(){return <div className="page-5163"><div data-l
 <div data-layout-node={"n264"} className={"v105"}>
 <div data-layout-node={"n265"} className={"v108"}>
 <div data-layout-node={"n266"} className={"v109"}>
-<LogoCarousel items={[<Fragment key={0}> <div data-layout-node={"n268"} className={"v111"}>
-<figure data-layout-node={"n269"} className={"v112"}>
+<LogoCarousel items={[<Fragment key={0}> <div data-layout-node={"n268"} className={"v111 media-widget"}>
+<figure data-layout-node={"n269"} className={"v112 media-widget"}>
 <img data-layout-node={"n270"} className={"v113"} src={"https://aitscctv.com/wp-content/uploads/2021/03/7-star-logo-white-1-1024x572.png"} alt={"7 star logo white 1"} loading={"lazy"} decoding={"async"} width={"1024"} height={"572"} />
 </figure>
-</div> </Fragment>,<Fragment key={1}> <div data-layout-node={"n271"} className={"v111"}>
-<figure data-layout-node={"n272"} className={"v112"}>
+</div> </Fragment>,<Fragment key={1}> <div data-layout-node={"n271"} className={"v111 media-widget"}>
+<figure data-layout-node={"n272"} className={"v112 media-widget"}>
 <img data-layout-node={"n273"} className={"v113"} src={"https://aitscctv.com/wp-content/uploads/2021/03/7-ptt-logo-white-1-1024x572.png"} alt={"7 ptt logo white 1"} loading={"lazy"} decoding={"async"} width={"1024"} height={"572"} />
 </figure>
-</div> </Fragment>,<Fragment key={2}> <div data-layout-node={"n274"} className={"v111"}>
-<figure data-layout-node={"n275"} className={"v112"}>
+</div> </Fragment>,<Fragment key={2}> <div data-layout-node={"n274"} className={"v111 media-widget"}>
+<figure data-layout-node={"n275"} className={"v112 media-widget"}>
 <img data-layout-node={"n276"} className={"v113"} src={"https://aitscctv.com/wp-content/uploads/2021/03/6-ptt-logo-white-1-1024x572.png"} alt={"6 ptt logo white 1"} loading={"lazy"} decoding={"async"} width={"1024"} height={"572"} />
 </figure>
-</div> </Fragment>,<Fragment key={3}> <div data-layout-node={"n277"} className={"v111"}>
-<figure data-layout-node={"n278"} className={"v112"}>
+</div> </Fragment>,<Fragment key={3}> <div data-layout-node={"n277"} className={"v111 media-widget"}>
+<figure data-layout-node={"n278"} className={"v112 media-widget"}>
 <img data-layout-node={"n279"} className={"v113"} src={"https://aitscctv.com/wp-content/uploads/2021/03/5-ptt-logo-white-1-1024x572.png"} alt={"5 ptt logo white 1"} loading={"lazy"} decoding={"async"} width={"1024"} height={"572"} />
 </figure>
-</div> </Fragment>,<Fragment key={4}> <div data-layout-node={"n280"} className={"v111"}>
-<figure data-layout-node={"n281"} className={"v112"}>
+</div> </Fragment>,<Fragment key={4}> <div data-layout-node={"n280"} className={"v111 media-widget"}>
+<figure data-layout-node={"n281"} className={"v112 media-widget"}>
 <img data-layout-node={"n282"} className={"v113"} src={"https://aitscctv.com/wp-content/uploads/2021/03/4-ptt-logo-white-1-1024x572.png"} alt={"4 ptt logo white 1"} loading={"lazy"} decoding={"async"} width={"1024"} height={"572"} />
 </figure>
-</div> </Fragment>,<Fragment key={5}> <div data-layout-node={"n283"} className={"v111"}>
-<figure data-layout-node={"n284"} className={"v112"}>
+</div> </Fragment>,<Fragment key={5}> <div data-layout-node={"n283"} className={"v111 media-widget"}>
+<figure data-layout-node={"n284"} className={"v112 media-widget"}>
 <img data-layout-node={"n285"} className={"v113"} src={"https://aitscctv.com/wp-content/uploads/2021/03/3-bts-logo-white-1-1024x572.png"} alt={"3 bts logo white 1"} loading={"lazy"} decoding={"async"} width={"1024"} height={"572"} />
 </figure>
-</div> </Fragment>,<Fragment key={6}> <div data-layout-node={"n286"} className={"v111"}>
-<figure data-layout-node={"n287"} className={"v112"}>
+</div> </Fragment>,<Fragment key={6}> <div data-layout-node={"n286"} className={"v111 media-widget"}>
+<figure data-layout-node={"n287"} className={"v112 media-widget"}>
 <img data-layout-node={"n288"} className={"v113"} src={"https://aitscctv.com/wp-content/uploads/2021/03/2-btu-logo-white-1024x572.png"} alt={"2 btu logo white"} loading={"lazy"} decoding={"async"} width={"1024"} height={"572"} />
 </figure>
-</div> </Fragment>,<Fragment key={7}> <div data-layout-node={"n289"} className={"v111"}>
-<figure data-layout-node={"n290"} className={"v112"}>
+</div> </Fragment>,<Fragment key={7}> <div data-layout-node={"n289"} className={"v111 media-widget"}>
+<figure data-layout-node={"n290"} className={"v112 media-widget"}>
 <img data-layout-node={"n291"} className={"v113"} src={"https://aitscctv.com/wp-content/uploads/2021/03/logo-1024x572.png"} alt={"logo"} loading={"lazy"} decoding={"async"} width={"1024"} height={"572"} />
 </figure>
 </div> </Fragment>]} />
@@ -649,8 +649,8 @@ export default function Page5163(){return <div className="page-5163"><div data-l
 <div data-layout-node={"n308"} className={"v123 section"}>
 <div data-layout-node={"n309"} className={"v124 layout-row"}>
 <div data-layout-node={"n310"} className={"v125 section"}>
-<div data-layout-node={"n311"} className={"v3"}>
-<div data-layout-node={"n312"} className={"v4"}>
+<div data-layout-node={"n311"} className={"v3 text-widget"}>
+<div data-layout-node={"n312"} className={"v4 text-widget"}>
 <p data-layout-node={"n313"} className={"v5"}>
 {"FAQ"}
 </p>
@@ -719,7 +719,7 @@ export default function Page5163(){return <div className="page-5163"><div data-l
 <div data-layout-node={"n327"} className={"v133"}>
 <div data-layout-node={"n328"} className={"v4"}>
 <div data-layout-node={"n329"} className={"v4"}>
-<SiteLink data-layout-node={"n330"} className={"v134"} href={"tel:0944606196"}>
+<SiteLink data-layout-node={"n330"} className={"v134 action-link"} href={"tel:0944606196"}>
 <span data-layout-node={"n331"} className={"v135"}>
 <span data-layout-node={"n332"} className={"v136"}>
 {"โทรหาเรา"}
@@ -732,7 +732,7 @@ export default function Page5163(){return <div className="page-5163"><div data-l
 <div data-layout-node={"n333"} className={"v133"}>
 <div data-layout-node={"n334"} className={"v4"}>
 <div data-layout-node={"n335"} className={"v4"}>
-<SiteLink data-layout-node={"n336"} className={"v137"} href={"https://page.line.me/852uanad?openQrModal=true"} target={"_blank"} rel={"noopener"}>
+<SiteLink data-layout-node={"n336"} className={"v137 action-link"} href={"https://page.line.me/852uanad?openQrModal=true"} target={"_blank"} rel={"noopener"}>
 <span data-layout-node={"n337"} className={"v138"}>
 <span data-layout-node={"n338"} className={"v139"}>
 {"ปรึกษาฟรีคลิก"}

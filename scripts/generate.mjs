@@ -14,6 +14,7 @@ function walk(node,fn){fn(node);for(const child of node.children||[])walk(child,
 function prepare(nodes){
  const elements=[];for(const n of nodes)walk(n,n=>{if(n.type==='tag')elements.push(n)});
  const headings=elements.filter(n=>/^h[1-6]$/.test(n.name));
+ const rulesFor=n=>capturedRules.get((n.attribs.class||'').split(' ').find(c=>/^v\d+$/.test(c)))||'';
  const addClass=(n,c)=>{n.attribs.class=(n.attribs.class||'')+' '+c};
  if(currentRoute==='/'){
   const byKey=new Map(elements.map(n=>[n.attribs['data-layout-node'],n]));
@@ -24,14 +25,39 @@ function prepare(nodes){
   for(const key of ['n59','n69','n79','n89']){
    const img=byKey.get(key),stem=img.attribs.src.replace(/\.webp$/,'');
    img.attribs.srcset=stem+'-320.webp 320w, '+stem+'-640.webp 640w, '+img.attribs.src+' '+img.attribs.width+'w';
-   img.attribs.sizes='(max-width: 767px) 96px, (max-width: 1024px) 45vw, 23vw';
+   img.attribs.sizes='(max-width: 1024px) 96px, 23vw';
   }
  }
- for(const h of headings){
+ for(const h of elements.filter(n=>/^h[1-6]$/.test(n.name)||n.name==='p')){
   for(let p=h.parent;p?.name==='div';p=p.parent){
    const children=p.children.filter(n=>n.type==='tag');
    if(children.length!==1)break;
    addClass(p,'text-widget');
+  }
+ }
+ for(const n of elements){
+  const rule=rulesFor(n);
+  if(n.name==='p'&&Number(rule.match(/font-size:([\d.]+)px/)?.[1])>28)addClass(n,'large-copy');
+  if(n.name==='a'&&(n.attribs.href||'').startsWith('#')){
+   addClass(n,'toc-link');
+   for(let p=n.parent;p&&['li','ul','ol','div'].includes(p.name);p=p.parent){
+    addClass(p,'toc-container');if(['ul','ol'].includes(p.name))break;
+   }
+  }
+  if(n.name==='a'&&(/padding-(?:top|bottom):(1[0-9]|[2-9][0-9])px/.test(rule)||/border-radius:[1-9]/.test(rule))&&plain(n).trim())addClass(n,'action-link');
+  if(n.name==='span'&&/^\d+$/.test(plain(n).trim())&&Number(rule.match(/font-size:([\d.]+)px/)?.[1])>40)addClass(n,'numeric-label');
+  if(n.name==='article'&&n.parent?.children.filter(c=>c.name==='article').length>1){addClass(n,'listing-card');addClass(n.parent,'listing-grid')}
+  if(n.attribs.class?.split(' ').includes('video-frame')){
+   for(let p=n.parent;p?.name==='div';p=p.parent){
+    if(p.children.filter(c=>c.type==='tag').length!==1)break;
+    addClass(p,'video-shell');
+   }
+  }
+  if(n.name==='img'&&Number(n.attribs.width)>200){
+   for(let p=n.parent;p&&['div','figure','a'].includes(p.name);p=p.parent){
+    if(p.children.filter(c=>c.type==='tag').length!==1)break;
+    addClass(p,'media-widget');
+   }
   }
  }
  for(const n of elements){

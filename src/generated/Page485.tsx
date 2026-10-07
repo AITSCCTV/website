@@ -18,7 +18,7 @@ export default function Page485(){return <div className="page-485"><div data-lay
 <div data-layout-node={"n7"} className={"v7"}>
 <div data-layout-node={"n8"} className={"v8"}>
 <div data-layout-node={"n9"} className={"v9"}>
-<div data-layout-node={"n10"} className={"v10"}>
+<div data-layout-node={"n10"} className={"v10 video-shell"}>
 <VideoFrame src={"https://www.youtube.com/embed/-zenFSa8GKM?enablejsapi=1&autoplay=0&cc_load_policy=0&cc_lang_pref=&iv_load_policy=1&loop=0&rel=0&fs=1&playsinline=0&autohide=2&theme=dark&color=red&controls=1&disablekb=0&"} style={{"width":"100%","maxWidth":"100%","aspectRatio":"1120/630.325","display":"block","position":"absolute","inset":"0","height":"100%","margin":"0px"}} />
 </div>
 <div data-layout-node={"n11"} className={"v11"}>
