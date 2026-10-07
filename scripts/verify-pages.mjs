@@ -18,6 +18,7 @@ function check(value,from){
 }
 function visit(node,file){
  for(const key of ['src','href','poster'])check(node.attribs?.[key],file);
+ for(const candidate of (node.attribs?.srcset||'').split(','))if(candidate.trim())check(candidate.trim().split(/\s+/)[0],file);
  for(const child of node.children||[])visit(child,file);
 }
 let pages=0;
