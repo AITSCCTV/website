@@ -1,5 +1,11 @@
 # AITSCCTV frontend
 
+GitHub Pages preview: https://aitscctv.github.io/website/
+
+The Pages workflow builds and deploys every push to `main`. In repository Settings → Pages, select **GitHub Actions** as the source. Pages must be available for the repository's visibility and account plan.
+
+For a Pages build, set `GITHUB_PAGES=true`, run `npm run build`, then `node scripts/prepare-pages.mjs`. Deploy the `out` directory. The export uses `/website` as its base path; the preparation step prefixes captured public asset URLs in HTML, client bundles, RSC payloads and CSS. Normal local development and server builds still run at `/`. Preview search indexing remains disabled.
+
 Next.js, React, TypeScript and Tailwind frontend with Thai and English homepages.
 
 ## Run locally
