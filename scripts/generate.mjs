@@ -15,6 +15,18 @@ function prepare(nodes){
  const elements=[];for(const n of nodes)walk(n,n=>{if(n.type==='tag')elements.push(n)});
  const headings=elements.filter(n=>/^h[1-6]$/.test(n.name));
  const addClass=(n,c)=>{n.attribs.class=(n.attribs.class||'')+' '+c};
+ if(currentRoute==='/'){
+  const byKey=new Map(elements.map(n=>[n.attribs['data-layout-node'],n]));
+  for(const [key,cls] of Object.entries({n53:'smart-cards',n105:'service-cards',n1782:'portfolio-copy',n1888:'cctv-reasons',n1975:'review-cards'}))addClass(byKey.get(key),cls);
+  for(const [key,cls] of [['n53','smart-card'],['n105','service-card'],['n1888','reason-card'],['n1975','review-card']]){
+   for(const child of byKey.get(key).children.filter(n=>n.type==='tag'))addClass(child,cls);
+  }
+  for(const key of ['n59','n69','n79','n89']){
+   const img=byKey.get(key),stem=img.attribs.src.replace(/\.webp$/,'');
+   img.attribs.srcset=stem+'-320.webp 320w, '+stem+'-640.webp 640w, '+img.attribs.src+' '+img.attribs.width+'w';
+   img.attribs.sizes='(max-width: 767px) 96px, (max-width: 1024px) 45vw, 23vw';
+  }
+ }
  for(const h of headings){
   for(let p=h.parent;p?.name==='div';p=p.parent){
    const children=p.children.filter(n=>n.type==='tag');
@@ -53,6 +65,7 @@ function jsx(node){
  if(node.name==='script'||node.name==='style')return '';
  // Keep the complete standards/article collection in the archive, not on home.
  if(currentRoute==='/'&&node.attribs['data-layout-node']==='n219')return '';
+ if(currentRoute==='/'&&node.attribs['data-layout-node']==='n1790')return '<div className="portfolio-actions"><SiteLink className="portfolio-video-link" href="https://www.youtube.com/@aitscctv9107" target="_blank" rel="noopener">{'+JSON.stringify(english?'Watch more videos':'ดูวีดีโอเพิ่มเติม')+'}</SiteLink><SiteLink className="portfolio-consult-link" href="tel:0944606196">{'+JSON.stringify(english?'Talk to our team':'ปรึกษาเราคลิก')+'}</SiteLink></div>';
  const classNames=node.attribs.class?.split(' ')||[];
  const rule=capturedRules.get(classNames.find(c=>/^v\d+$/.test(c)))||'';
  if(currentRoute==='/'&&node.attribs['data-layout-node']==='n36')return '<ContactPhone english={'+english+'} />';
