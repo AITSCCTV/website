@@ -1,0 +1,2 @@
+import {chromium,expect} from '@playwright/test';const b=await chromium.launch();const p=await b.newPage();await p.goto('http://127.0.0.1:3000/en/');await expect(p.locator('html')).toHaveAttribute('lang','en');expect(await p.locator('body').innerText()).not.toMatch(/[\u0e00-\u0e7f]/);await expect(p.locator('header').getByRole('link',{name:'CCTV rental (TH)',exact:true,includeHidden:true})).toHaveCount(1);console.log('English homepage and shared labels verified.');await b.close();
+

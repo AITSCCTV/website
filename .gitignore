@@ -1,0 +1,13 @@
+node_modules/
+.next/
+out/
+.env*.local
+*.tsbuildinfo
+
+.next-dev/
+
+.env
+.env.*
+!.env.example
+qa/
+*.log
