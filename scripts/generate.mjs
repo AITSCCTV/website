@@ -11,6 +11,23 @@ let capturedRules=new Map(),currentRoute='',english=false;
 const translations=JSON.parse(fs.readFileSync('src/lib/home-en.json','utf8'));
 function plain(node){return node.type==='text'?node.data:(node.children||[]).map(plain).join('')}
 function walk(node,fn){fn(node);for(const child of node.children||[])walk(child,fn)}
+function removeRepeatedSections(nodes){
+ if(currentRoute==='/')return;
+ const sections=new Set();
+ for(const root of nodes)walk(root,n=>{
+  const heading=/^h[1-6]$/.test(n.name)&&/^(?:FAQ|Our Reviews?|รีวิวลูกค้า|รีวิวจากลูกค้า|คำถามที่พบบ่อย)/i.test(plain(n).trim());
+  const faq=n.attribs?.class?.split(' ').includes('faq');
+  if(!heading&&!faq)return;
+  // Remove the complete section, including its padding and background wrappers.
+  let section;
+  for(let p=n.parent;p;p=p.parent)if(p.attribs?.class?.split(' ').includes('section'))section=p;
+  if(section)sections.add(section);
+ });
+ for(const section of sections){
+  const siblings=section.parent.children;
+  siblings.splice(siblings.indexOf(section),1);
+ }
+}
 function prepare(nodes){
  const elements=[];for(const n of nodes)walk(n,n=>{if(n.type==='tag')elements.push(n)});
  const headings=elements.filter(n=>/^h[1-6]$/.test(n.name));
@@ -132,6 +149,7 @@ for(const route of routes){
  currentRoute=route.path;english=false;
  const rawCss=fs.readFileSync(path.join(source,'pages',route.id+'.css'),'utf8');
  capturedRules=new Map([...rawCss.matchAll(/\.(v\d+)\{([^}]+)\}/g)].map(m=>[m[1],m[2]]));
+ removeRepeatedSections(nodes);
  prepare(nodes);
  // These computed values came from 10%/5% section padding at the reference width.
  // Keep them fluid instead of freezing desktop-sized gaps onto phones.

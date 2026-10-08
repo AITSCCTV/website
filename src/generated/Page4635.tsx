@@ -769,56 +769,6 @@ export default function Page4635(){return <div className="page-4635"><div data-l
 </div>
 </div>
 </div>
-<div data-layout-node={"n350"} className={"v168 section"}>
-<div data-layout-node={"n351"} className={"v169 layout-row"}>
-<div data-layout-node={"n352"} className={"v44 section"}>
-<div data-layout-node={"n353"} className={"v3 text-widget"}>
-<div data-layout-node={"n354"} className={"v4 text-widget"}>
-<p data-layout-node={"n355"} className={"v5"}>
-{"FAQ"}
-</p>
-</div>
-</div>
-<div data-layout-node={"n356"} className={"v3 text-widget"}>
-<div data-layout-node={"n357"} className={"v4 text-widget"}>
-<h2 data-layout-node={"n358"} className={"v9"}>
-{"คำถามที่พบบ่อย\r\n"}
-</h2>
-</div>
-</div>
-<div data-layout-node={"n359"} className={"v170"}>
-<div data-layout-node={"n360"} className={"v99"}>
-<div data-layout-node={"n361"} className={"v171"}>
-<details className={"faq"}>
-<summary>
-{"กล้องวงจรปิด 8 ตัวยี่ห้อไหนดี"}
-</summary>
-<div>
-{"ความจริงแล้วยี่ห้อของกล้องวงจรปิดที่ดีนั้นจะขึ้นอยู่กับรูปแบบการใช้งานที่คุณต้องการ แต่สำหรับยี่ห้อยอดนิยมนั้นจะมีทั้ง TP-Link AXON และ WATASHI แต่ก่อนจะเลือกนั้นไม่ควรเลือกแค่เฉพาะแบรนด์ ต้องพิจารณาควบคู่ไปกับระบบการติดตั้งและการส่งสัญญาณด้วย"}
-</div>
-</details>
-<details className={"faq"}>
-<summary>
-{"ค่าแรงติดกล้องวงจรปิด 8 ตัว"}
-</summary>
-<div>
-{"โดยเฉลี่ยแล้วเฉพาะค่าแรงจะคิดเป็นจุด เริ่มที่จุดละประมาณ 500 บาทขึ้นไป\r\n"}
-</div>
-</details>
-<details className={"faq"}>
-<summary>
-{"สิ่งที่ต้องเตรียมก่อนติดกล้องวงจรปิด 8 ตัว"}
-</summary>
-<div>
-{"หลัก ๆ แล้วจะต้องเตรียมจอภาพ monitor เพื่อต่อกับ DVR เพื่อแสดงผล หากไม่มีจอภาพใช้ทีวีได้ และเตรียมตัว NVR WIFI หรือ DVR ต้องเสียบสาย LAN เข้ากับ Wifi internet ที่บ้าน หรือสามารถสอบถามก่อนเริ่มติดตั้งกับทางบริษัทได้\r\n"}
-</div>
-</details>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
 <div data-layout-node={"n362"} className={"v172 section"}>
 <div data-layout-node={"n363"} className={"v173"}>
 <div data-layout-node={"n364"} className={"v3 text-widget"}>

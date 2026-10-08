@@ -646,66 +646,6 @@ export default function Page5163(){return <div className="page-5163"><div data-l
 </div>
 </div>
 </div>
-<div data-layout-node={"n308"} className={"v123 section"}>
-<div data-layout-node={"n309"} className={"v124 layout-row"}>
-<div data-layout-node={"n310"} className={"v125 section"}>
-<div data-layout-node={"n311"} className={"v3 text-widget"}>
-<div data-layout-node={"n312"} className={"v4 text-widget"}>
-<p data-layout-node={"n313"} className={"v5"}>
-{"FAQ"}
-</p>
-</div>
-</div>
-<div data-layout-node={"n314"} className={"v3 text-widget"}>
-<div data-layout-node={"n315"} className={"v4 text-widget"}>
-<h2 data-layout-node={"n316"} className={"v8"}>
-{"คำถามที่พบบ่อย"}
-<br data-layout-node={"n317"} className={"v126"} />
-{" สำหรับบริการติดตั้งไวไฟ บ้าน ติดตั้ง WiFi"}
-</h2>
-</div>
-</div>
-<div data-layout-node={"n318"} className={"v105"}>
-<div data-layout-node={"n319"} className={"v127"}>
-<div data-layout-node={"n320"} className={"v128"}>
-<details className={"faq"}>
-<summary>
-{"ติดไวไฟบ้าน ราคาเท่าไหร่"}
-</summary>
-<div>
-{"สำหรับราคาติดไวไฟบ้าน นั้นมีหลากหลายราคาขึ้นอยู่กับอุปกรณ์และจำนวนจุดที่ติดตั้ง ซึ่งราคาทั่วไปจะเริ่มต้นที่ 490 – 1,000 บาท ซึ่งยังไม่รวมค่าบริการอื่น ๆ"}
-</div>
-</details>
-<details className={"faq"}>
-<summary>
-{"ติดไวไฟบ้าน ต้องทำอย่างไร"}
-</summary>
-<div>
-{"หากคุณต้องการความง่ายและสะดวก สำหรับการติดไวไฟบ้าน แนะนำให้ AITSCCTV ให้บริการเพราะเรามีบริการติดตั้งและวางระบบ WiFi แบบครบวงจร ไม่ต้องเสียเวลาหาอุปกรณ์เองหรือต้องเช็กข้อมูลให้เหนื่อย"}
-</div>
-</details>
-<details className={"faq"}>
-<summary>
-{"ติดตั้งไวไฟไร้สาย ตรงไหนดี"}
-</summary>
-<div>
-{"เลือกจุดติดตั้งไว้ที่ตำแหน่งกึ่งกลางของตัวบ้านหรือส่วนกลางของสถานที่ต่าง ๆ เพราะจะช่วยกระจายสัญญาณ WiFi ออกไปได้ทั่วถึงและครอบคลุมจุดต่าง ๆ ที่ใช้งานมากที่สุด หรืออาจจะติดตั้งในตำแหน่งที่เราใช้งานบ่อย ๆ เช่นโต๊ะทำงาน เป็นต้น"}
-</div>
-</details>
-<details className={"faq"}>
-<summary>
-{"ติดเน็ตบ้าน 2 ชั้น ทำอย่างไร"}
-</summary>
-<div>
-{"การติดเน็ตบ้านสองชั้นสามารถทำได้โดยการใช้ระบบเครือข่ายไร้สาย (WiFi) หรือการใช้สาย Ethernet เพื่อเชื่อมต่ออุปกรณ์ที่ต้องการในทั้งสองชั้นของบ้าน"}
-</div>
-</details>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
 <div data-layout-node={"n321"} className={"v129 section"}>
 <div data-layout-node={"n322"} className={"v130"}>
 <div data-layout-node={"n323"} className={"v3 text-widget"}>

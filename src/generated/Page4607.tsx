@@ -785,48 +785,6 @@ export default function Page4607(){return <div className="page-4607"><div data-l
 </div>
 </div>
 </div>
-<div data-layout-node={"n356"} className={"v181 section"}>
-<div data-layout-node={"n357"} className={"v182 layout-row"}>
-<div data-layout-node={"n358"} className={"v53 section"}>
-<div data-layout-node={"n359"} className={"v3 text-widget"}>
-<div data-layout-node={"n360"} className={"v4 text-widget"}>
-<p data-layout-node={"n361"} className={"v5"}>
-{"FAQ"}
-</p>
-</div>
-</div>
-<div data-layout-node={"n362"} className={"v3 text-widget"}>
-<div data-layout-node={"n363"} className={"v4 text-widget"}>
-<h2 data-layout-node={"n364"} className={"v9"}>
-{"คำถามที่พบบ่อย\r\n"}
-</h2>
-</div>
-</div>
-<div data-layout-node={"n365"} className={"v183"}>
-<div data-layout-node={"n366"} className={"v112"}>
-<div data-layout-node={"n367"} className={"v17"}>
-<details className={"faq"}>
-<summary>
-{"ติดตั้งกล้องวงจรปิด 4 ตัว ครบชุด งบเท่าไร"}
-</summary>
-<div>
-{"สำหรับราคาในการติดตั้งเองนั้นเริ่มที่ 2,000-4,000 บาท แต่แน่นอนว่าไม่มีระบบความปลอดภัย และการส่งสัญญาณที่มีคุณภาพเท่าการติดตั้งกับบริษัทผู้เชี่ยวชาญ โดยราคาในการติดตั้งกับบริษัทส่วนใหญ่จะมาพร้อมอุปกรณ์หน่วยความจำ และสายสัญญาณราคาจะเริ่มต้นที่ประมาณ 10,000 บาทขึ้นไป\r\n"}
-</div>
-</details>
-<details className={"faq"}>
-<summary>
-{"ราคาค่าแรงติดตั้งกล้องวงจรปิด 4 ตัว"}
-</summary>
-<div>
-{"ส่วนใหญ่แล้วถ้าเป็นการซื้อกล้องจากทางบริษัทค่าแรงจะรวมอยู่ภายในนั้นเรียบร้อยแล้ว แต่หากคุณมีกล้องและต้องการช่างมาติดตั้งส่วนนี้ราคาจะคิดเป็นจุดเริ่มต้นที่จุดแรกประมาณ 1,000 บาท จุดถัดไป 900, 800 และ 700 บาท ตามลำดับ แต่ทั้งนี้ต้องสอบถามหน้างานกันอีกครั้งหนึ่ง"}
-</div>
-</details>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
 <div data-layout-node={"n368"} className={"v184 section"}>
 <div data-layout-node={"n369"} className={"v185"}>
 <div data-layout-node={"n370"} className={"v3 text-widget"}>

@@ -163,9 +163,9 @@ export default function Page4900(){return <div className="page-4900"><div data-l
 </li>
 <li data-layout-node={"n72"} className={"v29 toc-container"}>
 <div data-layout-node={"n73"} className={"v30 toc-container"}>
-<SiteLink data-layout-node={"n74"} className={"v40 toc-link"} href={"#elementor-toc__heading-anchor-9"}>
+<span data-layout-node={"n74"} className={"v40 toc-link inactive-control"}>
 {"คำถามที่พบบ่อย เกี่ยวกับสายไฟเบอร์ออฟติก"}
-</SiteLink>
+</span>
 </div>
 </li>
 </ol>
@@ -1428,67 +1428,6 @@ export default function Page4900(){return <div className="page-4900"><div data-l
 </span>
 </SiteLink>
 </div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-<div data-layout-node={"n650"} className={"v180 section"}>
-<div data-layout-node={"n651"} className={"v181 layout-row"}>
-<div data-layout-node={"n652"} className={"v45 section"}>
-<div data-layout-node={"n653"} className={"v3 text-widget"}>
-<div data-layout-node={"n654"} className={"v4 text-widget"}>
-<p data-layout-node={"n655"} className={"v5"}>
-{"FAQ"}
-</p>
-</div>
-</div>
-<div data-layout-node={"n656"} className={"v3"}>
-<div data-layout-node={"n657"} className={"v4"}>
-<span data-layout-node={"n658"} className={"v46"}>
-
-</span>
-<h2 data-layout-node={"n659"} className={"v47"} id={"elementor-toc__heading-anchor-9"}>
-{"คำถามที่พบบ่อย เกี่ยวกับสายไฟเบอร์ออฟติก"}
-</h2>
-</div>
-</div>
-<div data-layout-node={"n660"} className={"v21"}>
-<div data-layout-node={"n661"} className={"v59"}>
-<div data-layout-node={"n662"} className={"v64"}>
-<details className={"faq"}>
-<summary>
-{"สายไฟเบอร์ออฟติก มีกี่คอร์"}
-</summary>
-<div>
-{"สายไฟเบอร์ออฟติก (Optical Fiber Cable) สามารถมีจำนวนคอร์ (Core) ต่างกันไปตามการใช้งานและความต้องการของเครือข่าย โดยปกติแล้วมีคอร์ในช่วง 1 ถึง 144 คอร์ หรือมากกว่านั้น แต่ค่าที่ใช้งานมากที่สุดในเครือข่ายทั่วไปคือ 4 และ 8 คอร์ ซึ่งจะถูกนำมาใช้ในการสื่อสารและเครือข่ายทั่วไป เช่น อินเทอร์เน็ตบ้าน หรือเครือข่ายองค์กรขนาดเล็กถึงกลาง\r\n"}
-</div>
-</details>
-<details className={"faq"}>
-<summary>
-{"มาตรฐานการติดตั้ง สาย Fiber Optic มีอะไรบ้าง"}
-</summary>
-<div>
-{"มาตรฐานการติดตั้งสายไฟเบอร์ออฟติก (Fiber Optic) มีหลายระบบและมาตรฐานที่ใช้กันทั่วไปในอุตสาหกรรมเครือข่าย ตัวอย่างของมาตรฐานการติดตั้งสายไฟเบอร์ออฟติกเช่นSingle-Mode Fiber (SMF) สายไฟเบอร์ออฟติกโหมดเดี่ยวเป็นมาตรฐานที่ใช้ในการสื่อสารเครือข่ายที่ต้องการระยะทางไกลและประสิทธิภาพสูง มีคอร์เดียวและใช้แสงเลเซอร์ในการส่งสัญญาณ มีความผิดพลาดต่ำและเหมาะสำหรับการสื่อสารระยะไกลMulti-Mode Fiber (MMF) สายไฟเบอร์ออฟติกที่ใช้แสง LED หรือแสงเลเซอร์ในการส่งสัญญาณ มีคอร์หลายเส้น มีรูปแบบที่เหมาะกับระยะทางสั้น ๆ และเร็วพอสมควรในระยะสั้น"}
-</div>
-</details>
-<details className={"faq"}>
-<summary>
-{"เดินสาย Fiber Optic คอนโดอย่างไร"}
-</summary>
-<div>
-{"การเดินสาย Fiber Optic ในคอนโด ต้องอาศัยปัจจัยหลาย ๆ อย่าง โดยขั้นตอนเริ่มต้นตั้งแต่การวางแผนระบบ เลือกเส้นทางที่เหมาะสมในการเดินสาย และเลือกวัสดูเพื่อให้ใช้งานได้นานมากที่สุด"}
-</div>
-</details>
-<details className={"faq"}>
-<summary>
-{"ราคากลาง เดินสาย Fiber Optic เท่าไหร่"}
-</summary>
-<div>
-{"รายละเอียดสำหรับการเดินสาย Fiber Optic ราคากลางขึ้นอยู่กับระยะทางที่ติดตั้ง โดยเริ่มต้นตั้งแต่ระยะ 100 เมตร – 2,000 เมตร ราคาจะเริ่มต้นที่ 20,000 – 100,000 บาท"}
-</div>
-</details>
 </div>
 </div>
 </div>

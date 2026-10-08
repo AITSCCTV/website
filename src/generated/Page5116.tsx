@@ -797,66 +797,6 @@ export default function Page5116(){return <div className="page-5116"><div data-l
 </div>
 </div>
 </div>
-<div data-layout-node={"n373"} className={"v127 section"}>
-<div data-layout-node={"n374"} className={"v128 layout-row"}>
-<div data-layout-node={"n375"} className={"v129 section"}>
-<div data-layout-node={"n376"} className={"v3 text-widget"}>
-<div data-layout-node={"n377"} className={"v4 text-widget"}>
-<p data-layout-node={"n378"} className={"v130"}>
-{"FAQ"}
-</p>
-</div>
-</div>
-<div data-layout-node={"n379"} className={"v3 text-widget"}>
-<div data-layout-node={"n380"} className={"v4 text-widget"}>
-<h2 data-layout-node={"n381"} className={"v8"}>
-{"คำถามที่พบบ่อย"}
-<br data-layout-node={"n382"} className={"v81"} />
-{" สำหรับบริการติดตั้ง Access Point หรือตัวขยายสัญญาณไวไฟ"}
-</h2>
-</div>
-</div>
-<div data-layout-node={"n383"} className={"v41"}>
-<div data-layout-node={"n384"} className={"v42"}>
-<div data-layout-node={"n385"} className={"v108"}>
-<details className={"faq"}>
-<summary>
-{"ตัวขยายสัญญาณ WiFi ได้ไกลแค่ไหน"}
-</summary>
-<div>
-{"ตัวขยายสัญญาณ WiFi ที่มาพร้อมความสามารถในการขยายสัญญาณในระยะประมาณ 30-50 เมตรเป็นระยะที่พบบ่อยในตัวขยายสัญญาณ WiFi ส่วนใหญ่ โดยระยะที่แนะนำจะอยู่ในช่วงนี้เพื่อให้คุณสามารถครอบคลุมพื้นที่ในบ้านของคุณได้อย่างมีประสิทธิภาพ. หากต้องการขยายระยะไปไกลขึ้น เช่น 100 เมตร หรือมากกว่านั้น คุณจะต้องพิจารณาตัวขยายสัญญาณ WiFi ระยะไกลที่มาพร้อมกับความสามารถในการขยายสัญญาณในระยะไกล"}
-</div>
-</details>
-<details className={"faq"}>
-<summary>
-{"ตัวกระจายสัญญาณ WiFi ขึ้น ชั้น 2 อย่างไร"}
-</summary>
-<div>
-{"การติดตั้งตัวกระจายสัญญาณ WiFi ขึ้นชั้น 2 หรือชั้นบนของอาคารสามารถกระจายสัญญาณได้อยู่แล้วขึ้นอยู่กับวิธีการติดตั้งว่าไม่อยู่ในจุดอับสัญญาณ หรือใช้อุปกรณ์ที่ได้รับมาตรฐาน"}
-</div>
-</details>
-<details className={"faq"}>
-<summary>
-{"วิธีขยายสัญญาณ WiFi ด้วย Router"}
-</summary>
-<div>
-{"การขยายสัญญาณ WiFi ด้วย Router สามารถทำได้โดยใช้เราเตอร์ที่มีฟังก์ชั่นตัวขยายสัญญาณ (Repeater Mode) หรือ Access Point Mode (AP Mode) ซึ่งจะช่วยเพิ่มพื้นที่ครอบคลุมสัญญาณ WiFi ของคุณในบริเวณที่มีปัญหาในเรื่องของสัญญาณ WiFi อ่อนหรือไม่เพียงพอ"}
-</div>
-</details>
-<details className={"faq"}>
-<summary>
-{"ขยายสัญญาณ WiFi Access Point"}
-</summary>
-<div>
-{"การขยายสัญญาณ WiFi ด้วย Access Point (AP) คือกระบวนการที่คุณใช้อุปกรณ์ Access Point เพื่อเพิ่มพื้นที่ครอบคลุมสัญญาณ WiFi ในบริเวณที่มีปัญหาในเรื่องของสัญญาณ WiFi อ่อนหรือไม่เพียงพอ"}
-</div>
-</details>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
 <div data-layout-node={"n386"} className={"v131 section"}>
 <div data-layout-node={"n387"} className={"v132"}>
 <div data-layout-node={"n388"} className={"v3 text-widget"}>

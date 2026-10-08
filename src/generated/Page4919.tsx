@@ -159,9 +159,9 @@ export default function Page4919(){return <div className="page-4919"><div data-l
 </li>
 <li data-layout-node={"n70"} className={"v29 toc-container"}>
 <div data-layout-node={"n71"} className={"v30 toc-container"}>
-<SiteLink data-layout-node={"n72"} className={"v40 toc-link"} href={"#elementor-toc__heading-anchor-9"}>
+<span data-layout-node={"n72"} className={"v40 toc-link inactive-control"}>
 {"คำถามที่พบบ่อย เกี่ยวกับสายแลน"}
-</SiteLink>
+</span>
 </div>
 </li>
 </ol>
@@ -1246,59 +1246,6 @@ export default function Page4919(){return <div className="page-4919"><div data-l
 </span>
 </SiteLink>
 </div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-<div data-layout-node={"n556"} className={"v178 section"}>
-<div data-layout-node={"n557"} className={"v179 layout-row"}>
-<div data-layout-node={"n558"} className={"v43 section"}>
-<div data-layout-node={"n559"} className={"v3 text-widget"}>
-<div data-layout-node={"n560"} className={"v4 text-widget"}>
-<p data-layout-node={"n561"} className={"v5"}>
-{"FAQ"}
-</p>
-</div>
-</div>
-<div data-layout-node={"n562"} className={"v3"}>
-<div data-layout-node={"n563"} className={"v4"}>
-<span data-layout-node={"n564"} className={"v44"}>
-
-</span>
-<h2 data-layout-node={"n565"} className={"v45"} id={"elementor-toc__heading-anchor-9"}>
-{"คำถามที่พบบ่อย เกี่ยวกับสายแลน"}
-</h2>
-</div>
-</div>
-<div data-layout-node={"n566"} className={"v21"}>
-<div data-layout-node={"n567"} className={"v62"}>
-<div data-layout-node={"n568"} className={"v60"}>
-<details className={"faq"}>
-<summary>
-{"รับเดินสาย LAN  ในบ้าน"}
-</summary>
-<div>
-{"การรับเดินสาย LAN ในบ้านเพื่อให้มีการเชื่อมต่อเครือข่ายในหลายจุดและส่งสัญญาณอินเทอร์เน็ตไปยังอุปกรณ์ต่าง ๆ มีขั้นตอนหลายขั้นตอน แนะนำให้ผู้เชี่ยวชาญดูแล อย่าง AITSCCTV เรามีบริการเดินสายและ วางระบบได้อย่างตรงจุด ดำเนินงานโดยผู้เชี่ยวชาญ"}
-</div>
-</details>
-<details className={"faq"}>
-<summary>
-{"ราคากลาง เดินสายแลน CAT6 "}
-</summary>
-<div>
-{"ราคาสายแลน CAT6  อาจแตกต่างกันขึ้นอยู่กับแบรนด์ผู้ผลิต, ความยาวของสาย, คุณภาพของวัสดุ โดยราคากลางสายแลน CAT6 อยู่ในช่วงประมาณ 300 – 1,500 บาท สำหรับสายที่มีความยาวประมาณ 1 เมตรถึง 5 เมตร"}
-</div>
-</details>
-<details className={"faq"}>
-<summary>
-{"เดินสายแลน ในท่อ"}
-</summary>
-<div>
-{"การเดินสายแลนในท่อเป็นวิธีที่ดีในการปกป้องสายแลนและลดการพันของสายแลน ช่วยป้องกันอันตราย ทำให้เครือข่ายเสถียรและมีความเรียบร้อย "}
-</div>
-</details>
 </div>
 </div>
 </div>
