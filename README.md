@@ -45,3 +45,15 @@ This is a preview build: search indexing is disabled and live CMS updates are no
 The shared layout stacks captured columns through 1024px to match the mobile navigation breakpoint. Text widgets and tables of contents use the available width, videos retain a 16:9 ratio, listing cards have consistent spacing, and footer/navigation targets remain easy to tap. Contact channels form a two-column grid on small screens. Questions and Careers copy uses a readable foreground on the captured dark background.
 
 Run `node scripts/responsive-all.mjs` against a running preview (default port 3002; override with `TEST_ORIGIN`) to check all 39 routes at 320, 360, 390, 430, 768 and 1024px. It checks clipped text, page overflow, section links, menu behavior, listing spacing, video embedding and FAQ expansion. Wide comparison tables scroll inside their own container. External WordPress article bodies, forms and account pages remain outside this frontend's layout scope. Visual screenshots and results are saved in the ignored `qa` directory. No Lighthouse score is inferred from these checks.
+
+## Images, icons and captured CSS
+
+Static raster images have local WebP candidates at up to 160, 320, 640 and 1280 pixels. Generated pages and the article archive use `srcset` and `sizes`; phone backgrounds use smaller candidates. SVG and animated media keep their original formats. Full-size promotion links still open the original images.
+
+After adding or changing captured images, run `npm run optimize:images`, then `npm run generate`. The optimizer downloads external originals into the ignored `qa/image-originals` cache. The versioned `src/lib/image-assets.json` and `public/assets` variants make regular builds independent of WordPress. Check `qa/image-optimization.json` for failures. Node Sharp is pinned as a development dependency.
+
+Header and footer links use `prefetch={false}` while retaining Next.js client navigation. Kanit uses three weights (300, 400, 600); the other text weights map to these. Legacy icon fonts are replaced with small SVG masks made from their original outlines. Versioned icons need no Python during normal builds. Optional `scripts/export-svg-icons.py` requires fonttools and brotli to regenerate outlines; copyright and Font Awesome license notices are included with the assets.
+
+The generator keeps only rendered classes, factors 46 common declarations into `public/pages/shared.css`, and groups identical remaining rules. Source captures are kept intact for future regeneration. Current captured CSS is approximately 1.6 MB across all 36 pages, down from 6 MB; these are uncompressed totals, not per-visit downloads.
+
+Run `npm run test:performance` against a production preview (set `TEST_ORIGIN` when using another port). It checks responsive raster images across all 39 pages, intrinsic image dimensions, missing local resources, legacy font downloads and navigation/footer prefetching. Measured asset sizes are saved to `qa/performance-regression.json`; these local checks do not represent a public PageSpeed score.
