@@ -223,7 +223,30 @@ for(const route of routes){
  // These computed values came from 10%/5% section padding at the reference width.
  // Keep them fluid instead of freezing desktop-sized gaps onto phones.
  const css=rawCss.replace(/(padding-(?:top|right|bottom|left)):152\.075px/g,'$1:10%').replace(/(padding-(?:top|right|bottom|left)):76\.0375px/g,'$1:5%').replace(/\{([^}]+)\}/g,(_,rule)=>'{'+rewriteStyle(rule)+'}');
- const rendered=nodes.map(jsx).join('');
+ let rendered=nodes.map(jsx).join('');
+ if(route.path==='/video/'){
+  const videos=[];
+  for(const root of nodes)walk(root,n=>{
+   if(!n.attribs?.class?.split(' ').includes('v16'))return;
+   let title='',image;
+   walk(n,child=>{
+    if(child.attribs?.class?.split(' ').includes('v21'))title=plain(child).trim();
+    for(const cls of (child.attribs?.class||'').split(' ')){
+     const url=capturedRules.get(cls)?.match(/background-image:url\(["']?([^"')]+)/)?.[1];
+     if(url?.includes('i.ytimg.com/vi/'))image=url;
+    }
+   });
+   const id=image?.match(/\/vi\/([^/]+)/)?.[1];
+   if(id&&title&&!videos.some(v=>v.id===id)){
+    const {src,srcset,sizes,width,height}=responsiveImage(image,'(max-width: 639px) calc(100vw - 40px), (max-width: 1023px) calc((100vw - 64px) / 2), 360px');
+    if(!src)throw new Error('Missing optimized video thumbnail: '+image);
+    videos.push({id,title,image:src,srcSet:srcset,sizes,width,height});
+   }
+  });
+  if(videos.length!==20)throw new Error('Expected 20 captured videos');
+  fs.writeFileSync('src/generated/videos.json',JSON.stringify(videos,null,2));
+  rendered='<VideoLibrary />';
+ }
  const used=new Set([...rendered.matchAll(/\bv\d+\b/g)].map(m=>m[0]));
  const phoneRules=[...rawCss.matchAll(/(\.v\d+)\{([^}]+)\}/g)].filter(m=>used.has(m[1].slice(1))&&m[2].includes('background-image:url')).map(m=>{
   const background=m[2].match(/background-image:([^;]+)/)?.[1];
@@ -231,7 +254,7 @@ for(const route of routes){
  });
  stylePages.push({id:route.id,css,used,phoneBackgrounds:phoneRules.length?'\n@media(max-width:640px){'+phoneRules.join('')+'}':''});
  const prelude='// Generated from the design capture. Corrections are applied in the generator.\nimport {Fragment} from "react";\nimport {SiteLink} from "../components/SiteLink";\nimport {VideoFrame} from "../components/VideoFrame";\nimport {LogoCarousel} from "../components/LogoCarousel";\nimport {ContactPhone} from "../components/ContactPhone";\nimport {ServiceTrust,ServiceContents,ServiceBenefits,ServicePricing,ServiceWarranty,ServiceProjects,ServiceContact,AboutTeamGallery} from "../components/ServiceContent";\n';
- fs.writeFileSync(path.join(base,'src/generated','Page'+route.id+'.tsx'),prelude+'export default function Page'+route.id+'(){return <div className="page-'+route.id+' captured-page">'+rendered+'</div>}\n');
+ fs.writeFileSync(path.join(base,'src/generated','Page'+route.id+'.tsx'),prelude+(route.path==='/video/'?'import {VideoLibrary} from "../components/VideoLibrary";\n':'')+'export default function Page'+route.id+'(){return <div className="page-'+route.id+' captured-page">'+rendered+'</div>}\n');
  if(route.path==='/'){
   english=true;const en=nodes.map(jsx).join('');english=false;
   fs.writeFileSync('src/generated/HomeEnglish.tsx',prelude+'export default function HomeEnglish(){return <div lang="en" className="page-'+route.id+' english-home captured-page">'+en+'</div>}');
