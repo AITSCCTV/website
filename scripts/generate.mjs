@@ -3,6 +3,7 @@ import path from 'node:path';
 import {parseDocument} from 'htmlparser2';
 import {attributesToProps} from 'html-react-parser';
 import {writeCaptureStyles} from './capture-styles.mjs';
+import {generateEnglishEditorial} from './english-editorial.mjs';
 import {createEditorialContent,restructureContent} from './restructure-content.mjs';
 const base=process.cwd(), source=path.join(base,'design-source');
 for(const dir of ['src/generated','src/app','public/assets','public/pages'])fs.mkdirSync(path.join(base,dir),{recursive:true});
@@ -10,11 +11,16 @@ const routes=JSON.parse(fs.readFileSync(path.join(source,'routes.json'),'utf8'))
 // Optimized design assets are versioned in public/assets.
 const voids=new Set(['img','br','hr','input','source','wbr']);
 let capturedRules=new Map(),currentRoute='',english=false;
-const translations=JSON.parse(fs.readFileSync('src/lib/home-en.json','utf8'));
+const translations={...JSON.parse(fs.readFileSync('src/lib/home-en.json','utf8')),...JSON.parse(fs.readFileSync('src/lib/site-en.json','utf8'))};
+let englishEditorialLinks={};
+const englishMissing=new Set();
+function translate(text){const key=text.trim();if(/[\u0e00-\u0e7f]/.test(key)&&!translations[key])englishMissing.add(key);return translations[key]||text}
+function englishHref(href){if(englishEditorialLinks[href])return englishEditorialLinks[href];const route=routes.find(r=>r.path===href||'https://aitscctv.com'+r.path===href);return route?'/en'+route.path:href}
 const imageAssets=JSON.parse(fs.readFileSync('src/lib/image-assets.json','utf8'));
 const iconAssets=JSON.parse(fs.readFileSync('src/lib/icon-assets.json','utf8'));
 const thumbnails=JSON.parse(fs.readFileSync('src/lib/thumbnail-assets.json','utf8'));
 const editorial=createEditorialContent(routes,source,imageAssets,translations,thumbnails);
+englishEditorialLinks=generateEnglishEditorial(translations,imageAssets);
 function responsiveImage(src,sizes){
  const image=imageAssets[src];if(!image)return {};
  const fallback=image.variants.find(v=>v.width>=640)||image.variants.at(-1);
@@ -160,12 +166,12 @@ function prepare(nodes){
  }
 }
 function jsx(node){
- if(node.name==='aits-service-comparison')return '<ServiceComparison kind={'+JSON.stringify(node.attribs.kind)+'} />';
- if(node.type==='text')return node.data.trim()?'{'+JSON.stringify(english?(translations[node.data.trim()]||node.data):node.data)+'}':'';
+ if(node.name==='aits-service-comparison')return '<ServiceComparison kind={'+JSON.stringify(node.attribs.kind)+'} english={'+english+'} />';
+ if(node.type==='text')return node.data.trim()?'{'+JSON.stringify(english?translate(node.data):node.data)+'}':'';
  if(node.type!=='tag')return '';
  if(node.name==='script'||node.name==='style')return '';
  const serviceBlocks={'aits-service-trust':'ServiceTrust','aits-service-contents':'ServiceContents','aits-service-benefits':'ServiceBenefits','aits-service-pricing':'ServicePricing','aits-service-warranty':'ServiceWarranty','aits-service-projects':'ServiceProjects','aits-service-contact':'ServiceContact','aits-about-team':'AboutTeamGallery'};
- if(serviceBlocks[node.name])return '<'+serviceBlocks[node.name]+(['aits-service-trust','aits-service-contents','aits-about-team'].includes(node.name)?'':' path={'+JSON.stringify(currentRoute)+'}')+' />';
+ if(serviceBlocks[node.name])return '<'+serviceBlocks[node.name]+(['aits-service-trust','aits-service-contents','aits-about-team'].includes(node.name)?'':' path={'+JSON.stringify(currentRoute)+'}')+' english={'+english+'} />';
  // Keep the complete standards/article collection in the archive, not on home.
  if(currentRoute==='/'&&node.attribs['data-layout-node']==='n219')return '';
  if(currentRoute==='/'&&node.attribs['data-layout-node']==='n1790')return '<div className="portfolio-actions"><SiteLink className="portfolio-video-link" href="https://www.youtube.com/@aitscctv9107" target="_blank" rel="noopener">{'+JSON.stringify(english?'Watch more videos':'ดูวีดีโอเพิ่มเติม')+'}</SiteLink><SiteLink className="portfolio-consult-link" href="tel:0944606196">{'+JSON.stringify(english?'Talk to our team':'ปรึกษาเราคลิก')+'}</SiteLink></div>';
@@ -192,18 +198,18 @@ function jsx(node){
  if(classNames.includes('slider'))return '<LogoCarousel items={['+node.children.filter(n=>n.type==='tag').map((n,i)=>'<Fragment key={'+i+'}> '+jsx(n)+' </Fragment>').join(',')+']} />';
  if(node.attribs.class?.split(' ').includes('video-frame')){
   const link=node.children.find(n=>n.name==='a');
-  if(link?.attribs['data-video'])return '<VideoFrame src={'+JSON.stringify(link.attribs['data-video'])+'} style={'+JSON.stringify(attributesToProps({...node.attribs,style:rewriteStyle(node.attribs.style||'',true)}).style||{})+'} />';
+  if(link?.attribs['data-video'])return '<VideoFrame src={'+JSON.stringify(link.attribs['data-video'])+'} english={'+english+'} style={'+JSON.stringify(attributesToProps({...node.attribs,style:rewriteStyle(node.attribs.style||'',true)}).style||{})+'} />';
  }
  if(classNames.some(c=>/^v\d+$/.test(c))&&!node.attribs.class.includes('captured-style'))node.attribs.class+=' captured-style';
  const props=attributesToProps(node.attribs);
- if(english&&typeof props.alt==='string'&&/[\u0e00-\u0e7f]/.test(props.alt))props.alt=translations[props.alt.trim()]||'AITSCCTV';
+ if(english){for(const key of ['alt','title','aria-label','placeholder','value'])if(typeof props[key]==='string')props[key]=translate(props[key]);if(typeof props.href==='string')props.href=englishHref(props.href)}
  for(const key of ['colSpan','rowSpan','tabIndex','start'])if(typeof props[key]==='string')props[key]=Number(props[key]);
  const tag=node.name==='a'?'SiteLink':node.name;
  const attrs=Object.entries(props).filter(([k])=>!k.startsWith('on')).map(([k,v])=>' '+k+'={'+JSON.stringify(v)+'}').join('');
  if(voids.has(node.name))return '<'+tag+attrs+' />';
  return '<'+tag+attrs+'>\n'+node.children.map(jsx).filter(Boolean).join('\n')+'\n</'+tag+'>';
 }
-const imports=[],registry=[],stylePages=[],serviceContent={},serviceAudit=[],heroes={};
+const imports=[],registry=[],importsEn=[],registryEn=[],stylePages=[],serviceContent={},serviceAudit=[],heroes={};
 for(const route of routes){
  if(route.path==='/blog/')continue;
  const html=fs.readFileSync(path.join(source,'pages',route.id+'.html'),'utf8');
@@ -258,6 +264,7 @@ for(const route of routes){
   });
   if(videos.length!==20)throw new Error('Expected 20 captured videos');
   fs.writeFileSync('src/generated/videos.json',JSON.stringify(videos,null,2));
+    fs.writeFileSync('src/generated/videos-en.json',JSON.stringify(videos.map(v=>({...v,title:translate(v.title)})),null,2));
   rendered='<VideoLibrary />';
  }
  const used=new Set([...rendered.matchAll(/\bv\d+\b/g)].map(m=>m[0]));
@@ -275,6 +282,11 @@ for(const route of routes){
   const articles=feed.children.filter(n=>n.type==='tag').map(n=>{const all=[];walk(n,x=>all.push(x));const link=all.find(x=>x.name==='a'&&plain(x).trim().length>20);const img=all.find(x=>x.name==='img');return link?{title:plain(link).trim(),titleEn:translations[plain(link).trim()]||null,href:link.attribs.href,...(thumbnails[img?.originalSource]||{image:img?.attribs.src||null,srcSet:img?.attribs.srcset||null,width:Number(img?.attribs.width)||undefined,height:Number(img?.attribs.height)||undefined})}:null}).filter(Boolean);
   fs.writeFileSync('src/generated/articles.json',JSON.stringify(articles,null,2));
  }
+ english=true;const enRendered=route.path==='/video/'?'<VideoLibrary english />':nodes.map(jsx).join('');english=false;
+ const nativeImports=(['/network-service/','/security-system/'].includes(route.path)?'import {ServiceComparison} from "../components/ServiceComparison";\n':'')+(route.path==='/video/'?'import {VideoLibrary} from "../components/VideoLibrary";\n':'');
+ fs.writeFileSync('src/generated/EnglishPage'+route.id+'.tsx',prelude+nativeImports+'export default function EnglishPage'+route.id+'(){return <div lang="en" className="page-'+route.id+' english-page captured-page">'+enRendered+'</div>}\n');
+ importsEn.push('import EnglishPage'+route.id+' from "./EnglishPage'+route.id+'";');
+ registryEn.push(JSON.stringify(route.path)+': {id:'+JSON.stringify(route.id)+',title:'+JSON.stringify(translate(ref.title))+',description:'+JSON.stringify(translate(ref.description||''))+',Component:EnglishPage'+route.id+'}');
  imports.push('import Page'+route.id+' from "./Page'+route.id+'";');
  registry.push(JSON.stringify(route.path)+': {id:'+JSON.stringify(route.id)+',title:'+JSON.stringify(ref.title)+',description:'+JSON.stringify(ref.description||'')+',Component:Page'+route.id+'}');
 }
@@ -286,3 +298,8 @@ fs.writeFileSync(path.join(base,'src/generated/pages.ts'),imports.join('\n')+'\n
 fs.writeFileSync(path.join(base,'src/generated/routes.json'),JSON.stringify(routes));
 console.log('Generated '+registry.length+' typed React pages, '+serviceAudit.length+' structured service pages and the legacy blog alias.');
 
+
+fs.writeFileSync('src/generated/english-pages.ts',importsEn.join('\n')+'\nexport const englishPages={'+registryEn.join(',\n')+'};\n');
+fs.mkdirSync('qa/english',{recursive:true});
+fs.writeFileSync('qa/english/pending-captured.json',JSON.stringify([...englishMissing],null,2));
+console.log('English catalogue: '+englishMissing.size+' captured strings still require translation.');

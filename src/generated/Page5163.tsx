@@ -79,16 +79,16 @@ export default function Page5163(){return <div className="page-5163 captured-pag
 </div>
 </div>
 </div>
-<ServiceTrust />
+<ServiceTrust english={false} />
 </section>
-<ServiceContents />
+<ServiceContents english={false} />
 <section id={"service-benefits"} className={"service-stage"} data-service-stage={"benefits"}>
 <div className={"service-stage-heading"}>
 <h2>
 {"ประโยชน์และการใช้งาน"}
 </h2>
 </div>
-<ServiceBenefits path={"/internet-system/wi-fi/"} />
+<ServiceBenefits path={"/internet-system/wi-fi/"} english={false} />
 <details className={"service-detail"}>
 <summary>
 {"รายละเอียดประโยชน์และการใช้งาน"}
@@ -265,7 +265,7 @@ export default function Page5163(){return <div className="page-5163 captured-pag
 {"รูปแบบบริการและราคา"}
 </h2>
 </div>
-<ServicePricing path={"/internet-system/wi-fi/"} />
+<ServicePricing path={"/internet-system/wi-fi/"} english={false} />
 <div data-layout-node={"n34"} className={"v22 section captured-style"}>
 <div data-layout-node={"n35"} className={"v23 captured-style"}>
 <div data-layout-node={"n36"} className={"v3 text-widget captured-style"}>
@@ -447,7 +447,7 @@ export default function Page5163(){return <div className="page-5163 captured-pag
 </div>
 </div>
 </div>
-<ServiceWarranty path={"/internet-system/wi-fi/"} />
+<ServiceWarranty path={"/internet-system/wi-fi/"} english={false} />
 <details className={"service-detail"}>
 <summary>
 {"รายละเอียดทางเทคนิคและแนวทางเลือกใช้งาน"}
@@ -522,7 +522,7 @@ export default function Page5163(){return <div className="page-5163 captured-pag
 <div data-layout-node={"n256"} className={"v105 video-shell captured-style"}>
 <div data-layout-node={"n257"} className={"v106 video-shell captured-style"}>
 <div data-layout-node={"n258"} className={"v107 video-shell captured-style"}>
-<VideoFrame src={"https://www.youtube.com/embed/kXtxdPzyTzY?controls=1&rel=0&playsinline=0&modestbranding=0&autoplay=0&enablejsapi=1&origin=https%3A%2F%2Faitscctv.com&widgetid=1&forigin=https%3A%2F%2Faitscctv.com%2Finternet-system%2Fwi-fi%2F&aoriginsup=1&vf=1"} style={{"width":"672px","maxWidth":"100%","aspectRatio":"672/378","display":"flex","margin":"0px"}} />
+<VideoFrame src={"https://www.youtube.com/embed/kXtxdPzyTzY?controls=1&rel=0&playsinline=0&modestbranding=0&autoplay=0&enablejsapi=1&origin=https%3A%2F%2Faitscctv.com&widgetid=1&forigin=https%3A%2F%2Faitscctv.com%2Finternet-system%2Fwi-fi%2F&aoriginsup=1&vf=1"} english={false} style={{"width":"672px","maxWidth":"100%","aspectRatio":"672/378","display":"flex","margin":"0px"}} />
 </div>
 </div>
 </div>
@@ -539,7 +539,7 @@ export default function Page5163(){return <div className="page-5163 captured-pag
 {"ผลงานและเนื้อหาที่เกี่ยวข้อง"}
 </h2>
 </div>
-<ServiceProjects path={"/internet-system/wi-fi/"} />
+<ServiceProjects path={"/internet-system/wi-fi/"} english={false} />
 </section>
 <section id={"service-contact"} className={"service-stage"} data-service-stage={"contact"}>
 <div className={"service-stage-heading"}>
@@ -547,6 +547,6 @@ export default function Page5163(){return <div className="page-5163 captured-pag
 {"ขอใบเสนอราคาและติดต่อทีมงาน"}
 </h2>
 </div>
-<ServiceContact path={"/internet-system/wi-fi/"} />
+<ServiceContact path={"/internet-system/wi-fi/"} english={false} />
 </section>
 </div></div>}

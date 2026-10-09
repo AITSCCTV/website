@@ -14,10 +14,20 @@ for(const file of fs.readdirSync('design-source/pages')){
 // The design capture includes the complete archive; include the shared header.
 sources.add('/assets/d32bdcfe9b2edc06.webp');
 const previous=fs.existsSync('src/lib/image-assets.json')?JSON.parse(fs.readFileSync('src/lib/image-assets.json')):{};
+// Include article bodies as well as captured pages, preserving existing assets.
+for(const src of Object.keys(previous))sources.add(src);
+const editorial='design-source/editorial/posts.json';
+if(fs.existsSync(editorial))for(const post of JSON.parse(fs.readFileSync(editorial)))walk(parseDocument(post.content.rendered));
 const manifest={},failures=[];
 async function optimize(src){
  try{
-  if(previous[src]&&previous[src].variants.every(v=>fs.existsSync('public'+v.src))){manifest[src]=previous[src];return}
+  if(previous[src]&&previous[src].variants.every(v=>fs.existsSync('public'+v.src))){
+   for(const variant of previous[src].variants)if(!variant.height||!variant.bytes){
+    const file='public'+variant.src,metadata=await sharp(file).metadata();
+    variant.width=metadata.width;variant.height=metadata.height;variant.bytes=fs.statSync(file).size;
+   }
+   manifest[src]=previous[src];return;
+  }
   if(!/\.(?:jpe?g|png|webp)(?:\?|$)/i.test(src))return;
   const local=src.startsWith('/assets/')||src.startsWith('../assets/');
   const localSrc=src.replace(/^\.\.\//,'/');

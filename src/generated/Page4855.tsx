@@ -71,16 +71,16 @@ export default function Page4855(){return <div className="page-4855 captured-pag
 </div>
 </div>
 </div>
-<ServiceTrust />
+<ServiceTrust english={false} />
 </section>
-<ServiceContents />
+<ServiceContents english={false} />
 <section id={"service-benefits"} className={"service-stage"} data-service-stage={"benefits"}>
 <div className={"service-stage-heading"}>
 <h2>
 {"ประโยชน์และการใช้งาน"}
 </h2>
 </div>
-<ServiceBenefits path={"/home-renovation/"} />
+<ServiceBenefits path={"/home-renovation/"} english={false} />
 <details className={"service-detail"}>
 <summary>
 {"รายละเอียดประโยชน์และการใช้งาน"}
@@ -200,7 +200,7 @@ export default function Page4855(){return <div className="page-4855 captured-pag
 {"รูปแบบบริการและราคา"}
 </h2>
 </div>
-<ServicePricing path={"/home-renovation/"} />
+<ServicePricing path={"/home-renovation/"} english={false} />
 <div data-layout-node={"n31"} className={"v20 section captured-style"}>
 <div data-layout-node={"n32"} className={"v21 captured-style"}>
 <div data-layout-node={"n33"} className={"v3 text-widget captured-style"}>
@@ -431,7 +431,7 @@ export default function Page4855(){return <div className="page-4855 captured-pag
 </div>
 </div>
 </div>
-<ServiceWarranty path={"/home-renovation/"} />
+<ServiceWarranty path={"/home-renovation/"} english={false} />
 <details className={"service-detail"}>
 <summary>
 {"รายละเอียดทางเทคนิคและแนวทางเลือกใช้งาน"}
@@ -812,7 +812,7 @@ export default function Page4855(){return <div className="page-4855 captured-pag
 {"ผลงานและเนื้อหาที่เกี่ยวข้อง"}
 </h2>
 </div>
-<ServiceProjects path={"/home-renovation/"} />
+<ServiceProjects path={"/home-renovation/"} english={false} />
 </section>
 <section id={"service-contact"} className={"service-stage"} data-service-stage={"contact"}>
 <div className={"service-stage-heading"}>
@@ -820,6 +820,6 @@ export default function Page4855(){return <div className="page-4855 captured-pag
 {"ขอใบเสนอราคาและติดต่อทีมงาน"}
 </h2>
 </div>
-<ServiceContact path={"/home-renovation/"} />
+<ServiceContact path={"/home-renovation/"} english={false} />
 </section>
 </div></div>}

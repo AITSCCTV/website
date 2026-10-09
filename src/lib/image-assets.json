@@ -539,7 +539,9 @@
       },
       {
         "src": "/assets/17390b496320155f-responsive-192.webp",
-        "width": 192
+        "width": 192,
+        "height": 288,
+        "bytes": 10214
       },
       {
         "src": "/assets/17390b496320155f-responsive-320.webp",
@@ -1970,7 +1972,9 @@
       },
       {
         "src": "/assets/86acf4265a5bc69d-responsive-192.webp",
-        "width": 192
+        "width": 192,
+        "height": 269,
+        "bytes": 9152
       },
       {
         "src": "/assets/86acf4265a5bc69d-responsive-320.webp",
@@ -3128,7 +3132,9 @@
       },
       {
         "src": "/assets/c8c69f4efe99ce8b-responsive-192.webp",
-        "width": 192
+        "width": 192,
+        "height": 288,
+        "bytes": 9908
       },
       {
         "src": "/assets/c8c69f4efe99ce8b-responsive-320.webp",
@@ -3560,7 +3566,9 @@
       },
       {
         "src": "/assets/e83d735bb084122f-responsive-192.webp",
-        "width": 192
+        "width": 192,
+        "height": 288,
+        "bytes": 8190
       },
       {
         "src": "/assets/e83d735bb084122f-responsive-320.webp",
@@ -3889,6 +3897,378 @@
         "width": 1024,
         "height": 1536,
         "bytes": 78856
+      }
+    ]
+  },
+  "http://aitscctv.com/wp-content/uploads/2026/01/11-3.jpg": {
+    "width": 2016,
+    "height": 1512,
+    "originalBytes": 606462,
+    "variants": [
+      {
+        "src": "/assets/remote-3590154d9c488b35-responsive-160.webp",
+        "width": 160,
+        "height": 120,
+        "bytes": 3624
+      },
+      {
+        "src": "/assets/remote-3590154d9c488b35-responsive-320.webp",
+        "width": 320,
+        "height": 240,
+        "bytes": 11990
+      },
+      {
+        "src": "/assets/remote-3590154d9c488b35-responsive-640.webp",
+        "width": 640,
+        "height": 480,
+        "bytes": 51390
+      },
+      {
+        "src": "/assets/remote-3590154d9c488b35-responsive-1280.webp",
+        "width": 1280,
+        "height": 960,
+        "bytes": 188432
+      }
+    ]
+  },
+  "http://aitscctv.com/wp-content/uploads/2026/01/22-2.jpg": {
+    "width": 2016,
+    "height": 1512,
+    "originalBytes": 487829,
+    "variants": [
+      {
+        "src": "/assets/remote-69b961519ed0d7d8-responsive-160.webp",
+        "width": 160,
+        "height": 120,
+        "bytes": 3708
+      },
+      {
+        "src": "/assets/remote-69b961519ed0d7d8-responsive-320.webp",
+        "width": 320,
+        "height": 240,
+        "bytes": 11346
+      },
+      {
+        "src": "/assets/remote-69b961519ed0d7d8-responsive-640.webp",
+        "width": 640,
+        "height": 480,
+        "bytes": 42440
+      },
+      {
+        "src": "/assets/remote-69b961519ed0d7d8-responsive-1280.webp",
+        "width": 1280,
+        "height": 960,
+        "bytes": 145436
+      }
+    ]
+  },
+  "http://aitscctv.com/wp-content/uploads/2026/01/33-2.jpg": {
+    "width": 2016,
+    "height": 1512,
+    "originalBytes": 1052936,
+    "variants": [
+      {
+        "src": "/assets/remote-d6c2188dc0e3c903-responsive-160.webp",
+        "width": 160,
+        "height": 120,
+        "bytes": 5614
+      },
+      {
+        "src": "/assets/remote-d6c2188dc0e3c903-responsive-320.webp",
+        "width": 320,
+        "height": 240,
+        "bytes": 21098
+      },
+      {
+        "src": "/assets/remote-d6c2188dc0e3c903-responsive-640.webp",
+        "width": 640,
+        "height": 480,
+        "bytes": 98312
+      },
+      {
+        "src": "/assets/remote-d6c2188dc0e3c903-responsive-1280.webp",
+        "width": 1280,
+        "height": 960,
+        "bytes": 389428
+      }
+    ]
+  },
+  "http://aitscctv.com/wp-content/uploads/2026/01/55.jpg": {
+    "width": 2016,
+    "height": 1512,
+    "originalBytes": 272912,
+    "variants": [
+      {
+        "src": "/assets/remote-3a56ba00f4a92511-responsive-160.webp",
+        "width": 160,
+        "height": 120,
+        "bytes": 2472
+      },
+      {
+        "src": "/assets/remote-3a56ba00f4a92511-responsive-320.webp",
+        "width": 320,
+        "height": 240,
+        "bytes": 6640
+      },
+      {
+        "src": "/assets/remote-3a56ba00f4a92511-responsive-640.webp",
+        "width": 640,
+        "height": 480,
+        "bytes": 21322
+      },
+      {
+        "src": "/assets/remote-3a56ba00f4a92511-responsive-1280.webp",
+        "width": 1280,
+        "height": 960,
+        "bytes": 57968
+      }
+    ]
+  },
+  "http://aitscctv.com/wp-content/uploads/2026/01/66.jpg": {
+    "width": 2016,
+    "height": 1512,
+    "originalBytes": 417974,
+    "variants": [
+      {
+        "src": "/assets/remote-f17baced0c2c6c81-responsive-160.webp",
+        "width": 160,
+        "height": 120,
+        "bytes": 2290
+      },
+      {
+        "src": "/assets/remote-f17baced0c2c6c81-responsive-320.webp",
+        "width": 320,
+        "height": 240,
+        "bytes": 6906
+      },
+      {
+        "src": "/assets/remote-f17baced0c2c6c81-responsive-640.webp",
+        "width": 640,
+        "height": 480,
+        "bytes": 28856
+      },
+      {
+        "src": "/assets/remote-f17baced0c2c6c81-responsive-1280.webp",
+        "width": 1280,
+        "height": 960,
+        "bytes": 105746
+      }
+    ]
+  },
+  "http://aitscctv.com/wp-content/uploads/2026/04/11-1.jpg": {
+    "width": 1108,
+    "height": 1477,
+    "originalBytes": 170697,
+    "variants": [
+      {
+        "src": "/assets/remote-d6aeaf886e45232f-responsive-160.webp",
+        "width": 160,
+        "height": 213,
+        "bytes": 2950
+      },
+      {
+        "src": "/assets/remote-d6aeaf886e45232f-responsive-320.webp",
+        "width": 320,
+        "height": 426,
+        "bytes": 9754
+      },
+      {
+        "src": "/assets/remote-d6aeaf886e45232f-responsive-640.webp",
+        "width": 640,
+        "height": 853,
+        "bytes": 39914
+      },
+      {
+        "src": "/assets/remote-d6aeaf886e45232f-responsive-1108.webp",
+        "width": 1108,
+        "height": 1477,
+        "bytes": 94774
+      }
+    ]
+  },
+  "http://aitscctv.com/wp-content/uploads/2026/04/11.jpg": {
+    "width": 1477,
+    "height": 1108,
+    "originalBytes": 151122,
+    "variants": [
+      {
+        "src": "/assets/remote-090664447b31f838-responsive-160.webp",
+        "width": 160,
+        "height": 120,
+        "bytes": 2310
+      },
+      {
+        "src": "/assets/remote-090664447b31f838-responsive-320.webp",
+        "width": 320,
+        "height": 240,
+        "bytes": 6224
+      },
+      {
+        "src": "/assets/remote-090664447b31f838-responsive-640.webp",
+        "width": 640,
+        "height": 480,
+        "bytes": 20782
+      },
+      {
+        "src": "/assets/remote-090664447b31f838-responsive-1280.webp",
+        "width": 1280,
+        "height": 960,
+        "bytes": 57944
+      }
+    ]
+  },
+  "http://aitscctv.com/wp-content/uploads/2026/04/22-1.jpg": {
+    "width": 1108,
+    "height": 1477,
+    "originalBytes": 202911,
+    "variants": [
+      {
+        "src": "/assets/remote-1092b091867a637f-responsive-160.webp",
+        "width": 160,
+        "height": 213,
+        "bytes": 4488
+      },
+      {
+        "src": "/assets/remote-1092b091867a637f-responsive-320.webp",
+        "width": 320,
+        "height": 426,
+        "bytes": 12476
+      },
+      {
+        "src": "/assets/remote-1092b091867a637f-responsive-640.webp",
+        "width": 640,
+        "height": 853,
+        "bytes": 43002
+      },
+      {
+        "src": "/assets/remote-1092b091867a637f-responsive-1108.webp",
+        "width": 1108,
+        "height": 1477,
+        "bytes": 123214
+      }
+    ]
+  },
+  "http://aitscctv.com/wp-content/uploads/2026/04/22.jpg": {
+    "width": 1477,
+    "height": 1108,
+    "originalBytes": 165922,
+    "variants": [
+      {
+        "src": "/assets/remote-755c3e8f62eae19a-responsive-160.webp",
+        "width": 160,
+        "height": 120,
+        "bytes": 2092
+      },
+      {
+        "src": "/assets/remote-755c3e8f62eae19a-responsive-320.webp",
+        "width": 320,
+        "height": 240,
+        "bytes": 5602
+      },
+      {
+        "src": "/assets/remote-755c3e8f62eae19a-responsive-640.webp",
+        "width": 640,
+        "height": 480,
+        "bytes": 19292
+      },
+      {
+        "src": "/assets/remote-755c3e8f62eae19a-responsive-1280.webp",
+        "width": 1280,
+        "height": 960,
+        "bytes": 65718
+      }
+    ]
+  },
+  "http://aitscctv.com/wp-content/uploads/2026/04/33.jpg": {
+    "width": 1477,
+    "height": 1108,
+    "originalBytes": 109991,
+    "variants": [
+      {
+        "src": "/assets/remote-2282e61707ec4ed2-responsive-160.webp",
+        "width": 160,
+        "height": 120,
+        "bytes": 1606
+      },
+      {
+        "src": "/assets/remote-2282e61707ec4ed2-responsive-320.webp",
+        "width": 320,
+        "height": 240,
+        "bytes": 4204
+      },
+      {
+        "src": "/assets/remote-2282e61707ec4ed2-responsive-640.webp",
+        "width": 640,
+        "height": 480,
+        "bytes": 13030
+      },
+      {
+        "src": "/assets/remote-2282e61707ec4ed2-responsive-1280.webp",
+        "width": 1280,
+        "height": 960,
+        "bytes": 36118
+      }
+    ]
+  },
+  "http://aitscctv.com/wp-content/uploads/2026/04/44.jpg": {
+    "width": 1477,
+    "height": 1108,
+    "originalBytes": 190959,
+    "variants": [
+      {
+        "src": "/assets/remote-4d893ec0b719a67a-responsive-160.webp",
+        "width": 160,
+        "height": 120,
+        "bytes": 3136
+      },
+      {
+        "src": "/assets/remote-4d893ec0b719a67a-responsive-320.webp",
+        "width": 320,
+        "height": 240,
+        "bytes": 8546
+      },
+      {
+        "src": "/assets/remote-4d893ec0b719a67a-responsive-640.webp",
+        "width": 640,
+        "height": 480,
+        "bytes": 27038
+      },
+      {
+        "src": "/assets/remote-4d893ec0b719a67a-responsive-1280.webp",
+        "width": 1280,
+        "height": 960,
+        "bytes": 73842
+      }
+    ]
+  },
+  "http://aitscctv.com/wp-content/uploads/2026/04/55.jpg": {
+    "width": 1477,
+    "height": 1108,
+    "originalBytes": 143929,
+    "variants": [
+      {
+        "src": "/assets/remote-e8237675db416b62-responsive-160.webp",
+        "width": 160,
+        "height": 120,
+        "bytes": 1748
+      },
+      {
+        "src": "/assets/remote-e8237675db416b62-responsive-320.webp",
+        "width": 320,
+        "height": 240,
+        "bytes": 4744
+      },
+      {
+        "src": "/assets/remote-e8237675db416b62-responsive-640.webp",
+        "width": 640,
+        "height": 480,
+        "bytes": 15544
+      },
+      {
+        "src": "/assets/remote-e8237675db416b62-responsive-1280.webp",
+        "width": 1280,
+        "height": 960,
+        "bytes": 49328
       }
     ]
   },
@@ -5808,6 +6188,63 @@
         "width": 994,
         "height": 1536,
         "bytes": 98632
+      }
+    ]
+  },
+  "https://aitscctv.com/wp-content/uploads/2023/04/1-1-300x225.jpg": {
+    "width": 300,
+    "height": 225,
+    "originalBytes": 10050,
+    "variants": [
+      {
+        "src": "/assets/remote-27cdcbc7038552c6-responsive-160.webp",
+        "width": 160,
+        "height": 120,
+        "bytes": 802
+      },
+      {
+        "src": "/assets/remote-27cdcbc7038552c6-responsive-300.webp",
+        "width": 300,
+        "height": 225,
+        "bytes": 1848
+      }
+    ]
+  },
+  "https://aitscctv.com/wp-content/uploads/2023/04/22-300x225.jpg": {
+    "width": 300,
+    "height": 225,
+    "originalBytes": 10247,
+    "variants": [
+      {
+        "src": "/assets/remote-ddc5b33f9efb4dae-responsive-160.webp",
+        "width": 160,
+        "height": 120,
+        "bytes": 882
+      },
+      {
+        "src": "/assets/remote-ddc5b33f9efb4dae-responsive-300.webp",
+        "width": 300,
+        "height": 225,
+        "bytes": 1894
+      }
+    ]
+  },
+  "https://aitscctv.com/wp-content/uploads/2023/04/3-1-300x225.jpg": {
+    "width": 300,
+    "height": 225,
+    "originalBytes": 18571,
+    "variants": [
+      {
+        "src": "/assets/remote-20d1c6fd50b943ad-responsive-160.webp",
+        "width": 160,
+        "height": 120,
+        "bytes": 2832
+      },
+      {
+        "src": "/assets/remote-20d1c6fd50b943ad-responsive-300.webp",
+        "width": 300,
+        "height": 225,
+        "bytes": 6460
       }
     ]
   },
@@ -12753,6 +13190,347 @@
       }
     ]
   },
+  "https://aitscctv.com/wp-content/uploads/2024/01/1-2-1024x768.jpg": {
+    "width": 1024,
+    "height": 768,
+    "originalBytes": 78578,
+    "variants": [
+      {
+        "src": "/assets/remote-bc1f3d2981785319-responsive-160.webp",
+        "width": 160,
+        "height": 120,
+        "bytes": 1594
+      },
+      {
+        "src": "/assets/remote-bc1f3d2981785319-responsive-320.webp",
+        "width": 320,
+        "height": 240,
+        "bytes": 4214
+      },
+      {
+        "src": "/assets/remote-bc1f3d2981785319-responsive-640.webp",
+        "width": 640,
+        "height": 480,
+        "bytes": 13898
+      },
+      {
+        "src": "/assets/remote-bc1f3d2981785319-responsive-1024.webp",
+        "width": 1024,
+        "height": 768,
+        "bytes": 26918
+      }
+    ]
+  },
+  "https://aitscctv.com/wp-content/uploads/2024/01/1-5-1024x768.jpg": {
+    "width": 1024,
+    "height": 768,
+    "originalBytes": 103474,
+    "variants": [
+      {
+        "src": "/assets/remote-64d8dae3971e0120-responsive-160.webp",
+        "width": 160,
+        "height": 120,
+        "bytes": 3020
+      },
+      {
+        "src": "/assets/remote-64d8dae3971e0120-responsive-320.webp",
+        "width": 320,
+        "height": 240,
+        "bytes": 7936
+      },
+      {
+        "src": "/assets/remote-64d8dae3971e0120-responsive-640.webp",
+        "width": 640,
+        "height": 480,
+        "bytes": 24306
+      },
+      {
+        "src": "/assets/remote-64d8dae3971e0120-responsive-1024.webp",
+        "width": 1024,
+        "height": 768,
+        "bytes": 46260
+      }
+    ]
+  },
+  "https://aitscctv.com/wp-content/uploads/2024/01/1-7-1024x768.jpg": {
+    "width": 1024,
+    "height": 768,
+    "originalBytes": 97038,
+    "variants": [
+      {
+        "src": "/assets/remote-20dad0af3190682b-responsive-160.webp",
+        "width": 160,
+        "height": 120,
+        "bytes": 2350
+      },
+      {
+        "src": "/assets/remote-20dad0af3190682b-responsive-320.webp",
+        "width": 320,
+        "height": 240,
+        "bytes": 6126
+      },
+      {
+        "src": "/assets/remote-20dad0af3190682b-responsive-640.webp",
+        "width": 640,
+        "height": 480,
+        "bytes": 20214
+      },
+      {
+        "src": "/assets/remote-20dad0af3190682b-responsive-1024.webp",
+        "width": 1024,
+        "height": 768,
+        "bytes": 40334
+      }
+    ]
+  },
+  "https://aitscctv.com/wp-content/uploads/2024/01/2-2-1024x780.jpg": {
+    "width": 1024,
+    "height": 780,
+    "originalBytes": 85542,
+    "variants": [
+      {
+        "src": "/assets/remote-29ea410b4c6203ce-responsive-160.webp",
+        "width": 160,
+        "height": 122,
+        "bytes": 2088
+      },
+      {
+        "src": "/assets/remote-29ea410b4c6203ce-responsive-320.webp",
+        "width": 320,
+        "height": 244,
+        "bytes": 5882
+      },
+      {
+        "src": "/assets/remote-29ea410b4c6203ce-responsive-640.webp",
+        "width": 640,
+        "height": 488,
+        "bytes": 19874
+      },
+      {
+        "src": "/assets/remote-29ea410b4c6203ce-responsive-1024.webp",
+        "width": 1024,
+        "height": 780,
+        "bytes": 39378
+      }
+    ]
+  },
+  "https://aitscctv.com/wp-content/uploads/2024/01/2-5-1024x768.jpg": {
+    "width": 1024,
+    "height": 768,
+    "originalBytes": 33129,
+    "variants": [
+      {
+        "src": "/assets/remote-b365aceb814fc5f8-responsive-160.webp",
+        "width": 160,
+        "height": 120,
+        "bytes": 586
+      },
+      {
+        "src": "/assets/remote-b365aceb814fc5f8-responsive-320.webp",
+        "width": 320,
+        "height": 240,
+        "bytes": 1432
+      },
+      {
+        "src": "/assets/remote-b365aceb814fc5f8-responsive-640.webp",
+        "width": 640,
+        "height": 480,
+        "bytes": 4566
+      },
+      {
+        "src": "/assets/remote-b365aceb814fc5f8-responsive-1024.webp",
+        "width": 1024,
+        "height": 768,
+        "bytes": 9108
+      }
+    ]
+  },
+  "https://aitscctv.com/wp-content/uploads/2024/01/2-7-1024x768.jpg": {
+    "width": 1024,
+    "height": 768,
+    "originalBytes": 108269,
+    "variants": [
+      {
+        "src": "/assets/remote-ea04b2b0edf2c48a-responsive-160.webp",
+        "width": 160,
+        "height": 120,
+        "bytes": 650
+      },
+      {
+        "src": "/assets/remote-ea04b2b0edf2c48a-responsive-320.webp",
+        "width": 320,
+        "height": 240,
+        "bytes": 2764
+      },
+      {
+        "src": "/assets/remote-ea04b2b0edf2c48a-responsive-640.webp",
+        "width": 640,
+        "height": 480,
+        "bytes": 19492
+      },
+      {
+        "src": "/assets/remote-ea04b2b0edf2c48a-responsive-1024.webp",
+        "width": 1024,
+        "height": 768,
+        "bytes": 54050
+      }
+    ]
+  },
+  "https://aitscctv.com/wp-content/uploads/2024/01/2-8-1024x768.jpg": {
+    "width": 1024,
+    "height": 768,
+    "originalBytes": 122695,
+    "variants": [
+      {
+        "src": "/assets/remote-3cde9cefb1043007-responsive-160.webp",
+        "width": 160,
+        "height": 120,
+        "bytes": 2642
+      },
+      {
+        "src": "/assets/remote-3cde9cefb1043007-responsive-320.webp",
+        "width": 320,
+        "height": 240,
+        "bytes": 7364
+      },
+      {
+        "src": "/assets/remote-3cde9cefb1043007-responsive-640.webp",
+        "width": 640,
+        "height": 480,
+        "bytes": 25976
+      },
+      {
+        "src": "/assets/remote-3cde9cefb1043007-responsive-1024.webp",
+        "width": 1024,
+        "height": 768,
+        "bytes": 55204
+      }
+    ]
+  },
+  "https://aitscctv.com/wp-content/uploads/2024/01/3-1-1024x832.jpg": {
+    "width": 1024,
+    "height": 832,
+    "originalBytes": 87269,
+    "variants": [
+      {
+        "src": "/assets/remote-8595d7ef34c46c83-responsive-160.webp",
+        "width": 160,
+        "height": 130,
+        "bytes": 1760
+      },
+      {
+        "src": "/assets/remote-8595d7ef34c46c83-responsive-320.webp",
+        "width": 320,
+        "height": 260,
+        "bytes": 4294
+      },
+      {
+        "src": "/assets/remote-8595d7ef34c46c83-responsive-640.webp",
+        "width": 640,
+        "height": 520,
+        "bytes": 14376
+      },
+      {
+        "src": "/assets/remote-8595d7ef34c46c83-responsive-1024.webp",
+        "width": 1024,
+        "height": 832,
+        "bytes": 29624
+      }
+    ]
+  },
+  "https://aitscctv.com/wp-content/uploads/2024/01/3-3-1024x768.jpg": {
+    "width": 1024,
+    "height": 768,
+    "originalBytes": 99002,
+    "variants": [
+      {
+        "src": "/assets/remote-a26f9cdd376221ef-responsive-160.webp",
+        "width": 160,
+        "height": 120,
+        "bytes": 2764
+      },
+      {
+        "src": "/assets/remote-a26f9cdd376221ef-responsive-320.webp",
+        "width": 320,
+        "height": 240,
+        "bytes": 7456
+      },
+      {
+        "src": "/assets/remote-a26f9cdd376221ef-responsive-640.webp",
+        "width": 640,
+        "height": 480,
+        "bytes": 22590
+      },
+      {
+        "src": "/assets/remote-a26f9cdd376221ef-responsive-1024.webp",
+        "width": 1024,
+        "height": 768,
+        "bytes": 44578
+      }
+    ]
+  },
+  "https://aitscctv.com/wp-content/uploads/2024/01/3-5-1024x768.jpg": {
+    "width": 1024,
+    "height": 768,
+    "originalBytes": 178167,
+    "variants": [
+      {
+        "src": "/assets/remote-758272e87a51785e-responsive-160.webp",
+        "width": 160,
+        "height": 120,
+        "bytes": 1222
+      },
+      {
+        "src": "/assets/remote-758272e87a51785e-responsive-320.webp",
+        "width": 320,
+        "height": 240,
+        "bytes": 6862
+      },
+      {
+        "src": "/assets/remote-758272e87a51785e-responsive-640.webp",
+        "width": 640,
+        "height": 480,
+        "bytes": 57376
+      },
+      {
+        "src": "/assets/remote-758272e87a51785e-responsive-1024.webp",
+        "width": 1024,
+        "height": 768,
+        "bytes": 140978
+      }
+    ]
+  },
+  "https://aitscctv.com/wp-content/uploads/2024/01/3-6-1024x768.jpg": {
+    "width": 1024,
+    "height": 768,
+    "originalBytes": 103019,
+    "variants": [
+      {
+        "src": "/assets/remote-c5786556f453f2f1-responsive-160.webp",
+        "width": 160,
+        "height": 120,
+        "bytes": 3022
+      },
+      {
+        "src": "/assets/remote-c5786556f453f2f1-responsive-320.webp",
+        "width": 320,
+        "height": 240,
+        "bytes": 7822
+      },
+      {
+        "src": "/assets/remote-c5786556f453f2f1-responsive-640.webp",
+        "width": 640,
+        "height": 480,
+        "bytes": 23926
+      },
+      {
+        "src": "/assets/remote-c5786556f453f2f1-responsive-1024.webp",
+        "width": 1024,
+        "height": 768,
+        "bytes": 45296
+      }
+    ]
+  },
   "https://aitscctv.com/wp-content/uploads/2024/04/0-1-1024x768.jpg": {
     "width": 1024,
     "height": 768,
@@ -12846,6 +13624,161 @@
       }
     ]
   },
+  "https://aitscctv.com/wp-content/uploads/2024/04/1-2-1024x768.jpg": {
+    "width": 1024,
+    "height": 768,
+    "originalBytes": 138915,
+    "variants": [
+      {
+        "src": "/assets/remote-5b59c7e48bbf3708-responsive-160.webp",
+        "width": 160,
+        "height": 120,
+        "bytes": 1922
+      },
+      {
+        "src": "/assets/remote-5b59c7e48bbf3708-responsive-320.webp",
+        "width": 320,
+        "height": 240,
+        "bytes": 7610
+      },
+      {
+        "src": "/assets/remote-5b59c7e48bbf3708-responsive-640.webp",
+        "width": 640,
+        "height": 480,
+        "bytes": 38186
+      },
+      {
+        "src": "/assets/remote-5b59c7e48bbf3708-responsive-1024.webp",
+        "width": 1024,
+        "height": 768,
+        "bytes": 83628
+      }
+    ]
+  },
+  "https://aitscctv.com/wp-content/uploads/2024/04/1-3-1024x768.jpg": {
+    "width": 1024,
+    "height": 768,
+    "originalBytes": 112052,
+    "variants": [
+      {
+        "src": "/assets/remote-0b99cef34a347ae7-responsive-160.webp",
+        "width": 160,
+        "height": 120,
+        "bytes": 2766
+      },
+      {
+        "src": "/assets/remote-0b99cef34a347ae7-responsive-320.webp",
+        "width": 320,
+        "height": 240,
+        "bytes": 7352
+      },
+      {
+        "src": "/assets/remote-0b99cef34a347ae7-responsive-640.webp",
+        "width": 640,
+        "height": 480,
+        "bytes": 23832
+      },
+      {
+        "src": "/assets/remote-0b99cef34a347ae7-responsive-1024.webp",
+        "width": 1024,
+        "height": 768,
+        "bytes": 46790
+      }
+    ]
+  },
+  "https://aitscctv.com/wp-content/uploads/2024/04/1-4-1024x768.jpg": {
+    "width": 1024,
+    "height": 768,
+    "originalBytes": 54606,
+    "variants": [
+      {
+        "src": "/assets/remote-a9c0a1b538869c11-responsive-160.webp",
+        "width": 160,
+        "height": 120,
+        "bytes": 1264
+      },
+      {
+        "src": "/assets/remote-a9c0a1b538869c11-responsive-320.webp",
+        "width": 320,
+        "height": 240,
+        "bytes": 2892
+      },
+      {
+        "src": "/assets/remote-a9c0a1b538869c11-responsive-640.webp",
+        "width": 640,
+        "height": 480,
+        "bytes": 8956
+      },
+      {
+        "src": "/assets/remote-a9c0a1b538869c11-responsive-1024.webp",
+        "width": 1024,
+        "height": 768,
+        "bytes": 17572
+      }
+    ]
+  },
+  "https://aitscctv.com/wp-content/uploads/2024/04/2-2-1024x768.jpg": {
+    "width": 1024,
+    "height": 768,
+    "originalBytes": 114077,
+    "variants": [
+      {
+        "src": "/assets/remote-786193745472e5a9-responsive-160.webp",
+        "width": 160,
+        "height": 120,
+        "bytes": 2554
+      },
+      {
+        "src": "/assets/remote-786193745472e5a9-responsive-320.webp",
+        "width": 320,
+        "height": 240,
+        "bytes": 6462
+      },
+      {
+        "src": "/assets/remote-786193745472e5a9-responsive-640.webp",
+        "width": 640,
+        "height": 480,
+        "bytes": 22688
+      },
+      {
+        "src": "/assets/remote-786193745472e5a9-responsive-1024.webp",
+        "width": 1024,
+        "height": 768,
+        "bytes": 56014
+      }
+    ]
+  },
+  "https://aitscctv.com/wp-content/uploads/2024/04/2-3-1024x768.jpg": {
+    "width": 1024,
+    "height": 768,
+    "originalBytes": 118088,
+    "variants": [
+      {
+        "src": "/assets/remote-cc6774fe23605e69-responsive-160.webp",
+        "width": 160,
+        "height": 120,
+        "bytes": 2970
+      },
+      {
+        "src": "/assets/remote-cc6774fe23605e69-responsive-320.webp",
+        "width": 320,
+        "height": 240,
+        "bytes": 7926
+      },
+      {
+        "src": "/assets/remote-cc6774fe23605e69-responsive-640.webp",
+        "width": 640,
+        "height": 480,
+        "bytes": 25296
+      },
+      {
+        "src": "/assets/remote-cc6774fe23605e69-responsive-1024.webp",
+        "width": 1024,
+        "height": 768,
+        "bytes": 50020
+      }
+    ]
+  },
   "https://aitscctv.com/wp-content/uploads/2024/04/2-3.jpg": {
     "width": 1479,
     "height": 1109,
@@ -12874,6 +13807,130 @@
         "width": 1280,
         "height": 960,
         "bytes": 74802
+      }
+    ]
+  },
+  "https://aitscctv.com/wp-content/uploads/2024/04/3-1-1024x768.jpg": {
+    "width": 1024,
+    "height": 768,
+    "originalBytes": 179893,
+    "variants": [
+      {
+        "src": "/assets/remote-f3ae144a89275c19-responsive-160.webp",
+        "width": 160,
+        "height": 120,
+        "bytes": 3888
+      },
+      {
+        "src": "/assets/remote-f3ae144a89275c19-responsive-320.webp",
+        "width": 320,
+        "height": 240,
+        "bytes": 11842
+      },
+      {
+        "src": "/assets/remote-f3ae144a89275c19-responsive-640.webp",
+        "width": 640,
+        "height": 480,
+        "bytes": 44446
+      },
+      {
+        "src": "/assets/remote-f3ae144a89275c19-responsive-1024.webp",
+        "width": 1024,
+        "height": 768,
+        "bytes": 91176
+      }
+    ]
+  },
+  "https://aitscctv.com/wp-content/uploads/2024/04/3-1024x768.jpg": {
+    "width": 1024,
+    "height": 768,
+    "originalBytes": 139175,
+    "variants": [
+      {
+        "src": "/assets/remote-af1ed6690c090de3-responsive-160.webp",
+        "width": 160,
+        "height": 120,
+        "bytes": 2992
+      },
+      {
+        "src": "/assets/remote-af1ed6690c090de3-responsive-320.webp",
+        "width": 320,
+        "height": 240,
+        "bytes": 8964
+      },
+      {
+        "src": "/assets/remote-af1ed6690c090de3-responsive-640.webp",
+        "width": 640,
+        "height": 480,
+        "bytes": 35962
+      },
+      {
+        "src": "/assets/remote-af1ed6690c090de3-responsive-1024.webp",
+        "width": 1024,
+        "height": 768,
+        "bytes": 71622
+      }
+    ]
+  },
+  "https://aitscctv.com/wp-content/uploads/2024/04/3-2-1024x768.jpg": {
+    "width": 1024,
+    "height": 768,
+    "originalBytes": 61015,
+    "variants": [
+      {
+        "src": "/assets/remote-f9e06b43fb65df76-responsive-160.webp",
+        "width": 160,
+        "height": 120,
+        "bytes": 1414
+      },
+      {
+        "src": "/assets/remote-f9e06b43fb65df76-responsive-320.webp",
+        "width": 320,
+        "height": 240,
+        "bytes": 3576
+      },
+      {
+        "src": "/assets/remote-f9e06b43fb65df76-responsive-640.webp",
+        "width": 640,
+        "height": 480,
+        "bytes": 11470
+      },
+      {
+        "src": "/assets/remote-f9e06b43fb65df76-responsive-1024.webp",
+        "width": 1024,
+        "height": 768,
+        "bytes": 22208
+      }
+    ]
+  },
+  "https://aitscctv.com/wp-content/uploads/2024/04/4-1024x768.jpg": {
+    "width": 1024,
+    "height": 768,
+    "originalBytes": 111377,
+    "variants": [
+      {
+        "src": "/assets/remote-53788faa7b57cbf1-responsive-160.webp",
+        "width": 160,
+        "height": 120,
+        "bytes": 1882
+      },
+      {
+        "src": "/assets/remote-53788faa7b57cbf1-responsive-320.webp",
+        "width": 320,
+        "height": 240,
+        "bytes": 5756
+      },
+      {
+        "src": "/assets/remote-53788faa7b57cbf1-responsive-640.webp",
+        "width": 640,
+        "height": 480,
+        "bytes": 25780
+      },
+      {
+        "src": "/assets/remote-53788faa7b57cbf1-responsive-1024.webp",
+        "width": 1024,
+        "height": 768,
+        "bytes": 55144
       }
     ]
   },
@@ -12995,6 +14052,378 @@
       }
     ]
   },
+  "https://aitscctv.com/wp-content/uploads/2024/05/1-1-1024x768.jpg": {
+    "width": 1024,
+    "height": 768,
+    "originalBytes": 162080,
+    "variants": [
+      {
+        "src": "/assets/remote-265dd4c3ea154816-responsive-160.webp",
+        "width": 160,
+        "height": 120,
+        "bytes": 4814
+      },
+      {
+        "src": "/assets/remote-265dd4c3ea154816-responsive-320.webp",
+        "width": 320,
+        "height": 240,
+        "bytes": 13276
+      },
+      {
+        "src": "/assets/remote-265dd4c3ea154816-responsive-640.webp",
+        "width": 640,
+        "height": 480,
+        "bytes": 41796
+      },
+      {
+        "src": "/assets/remote-265dd4c3ea154816-responsive-1024.webp",
+        "width": 1024,
+        "height": 768,
+        "bytes": 80398
+      }
+    ]
+  },
+  "https://aitscctv.com/wp-content/uploads/2024/05/1-1024x768.jpg": {
+    "width": 1024,
+    "height": 768,
+    "originalBytes": 96164,
+    "variants": [
+      {
+        "src": "/assets/remote-cad87feeef936cbb-responsive-160.webp",
+        "width": 160,
+        "height": 120,
+        "bytes": 2294
+      },
+      {
+        "src": "/assets/remote-cad87feeef936cbb-responsive-320.webp",
+        "width": 320,
+        "height": 240,
+        "bytes": 6202
+      },
+      {
+        "src": "/assets/remote-cad87feeef936cbb-responsive-640.webp",
+        "width": 640,
+        "height": 480,
+        "bytes": 21330
+      },
+      {
+        "src": "/assets/remote-cad87feeef936cbb-responsive-1024.webp",
+        "width": 1024,
+        "height": 768,
+        "bytes": 42108
+      }
+    ]
+  },
+  "https://aitscctv.com/wp-content/uploads/2024/05/1-2-1024x768.jpg": {
+    "width": 1024,
+    "height": 768,
+    "originalBytes": 135255,
+    "variants": [
+      {
+        "src": "/assets/remote-3ee484dd6b24ccf2-responsive-160.webp",
+        "width": 160,
+        "height": 120,
+        "bytes": 2912
+      },
+      {
+        "src": "/assets/remote-3ee484dd6b24ccf2-responsive-320.webp",
+        "width": 320,
+        "height": 240,
+        "bytes": 8428
+      },
+      {
+        "src": "/assets/remote-3ee484dd6b24ccf2-responsive-640.webp",
+        "width": 640,
+        "height": 480,
+        "bytes": 33272
+      },
+      {
+        "src": "/assets/remote-3ee484dd6b24ccf2-responsive-1024.webp",
+        "width": 1024,
+        "height": 768,
+        "bytes": 74498
+      }
+    ]
+  },
+  "https://aitscctv.com/wp-content/uploads/2024/05/1-3-1024x768.jpg": {
+    "width": 1024,
+    "height": 768,
+    "originalBytes": 138628,
+    "variants": [
+      {
+        "src": "/assets/remote-364cf3f40eca9896-responsive-160.webp",
+        "width": 160,
+        "height": 120,
+        "bytes": 2684
+      },
+      {
+        "src": "/assets/remote-364cf3f40eca9896-responsive-320.webp",
+        "width": 320,
+        "height": 240,
+        "bytes": 7692
+      },
+      {
+        "src": "/assets/remote-364cf3f40eca9896-responsive-640.webp",
+        "width": 640,
+        "height": 480,
+        "bytes": 30826
+      },
+      {
+        "src": "/assets/remote-364cf3f40eca9896-responsive-1024.webp",
+        "width": 1024,
+        "height": 768,
+        "bytes": 64078
+      }
+    ]
+  },
+  "https://aitscctv.com/wp-content/uploads/2024/05/2-1-768x1024.jpg": {
+    "width": 768,
+    "height": 1024,
+    "originalBytes": 110144,
+    "variants": [
+      {
+        "src": "/assets/remote-59d360ad9d3c65c0-responsive-160.webp",
+        "width": 160,
+        "height": 213,
+        "bytes": 3424
+      },
+      {
+        "src": "/assets/remote-59d360ad9d3c65c0-responsive-320.webp",
+        "width": 320,
+        "height": 427,
+        "bytes": 10838
+      },
+      {
+        "src": "/assets/remote-59d360ad9d3c65c0-responsive-640.webp",
+        "width": 640,
+        "height": 853,
+        "bytes": 45054
+      },
+      {
+        "src": "/assets/remote-59d360ad9d3c65c0-responsive-768.webp",
+        "width": 768,
+        "height": 1024,
+        "bytes": 59800
+      }
+    ]
+  },
+  "https://aitscctv.com/wp-content/uploads/2024/05/2-1024x768.jpg": {
+    "width": 1024,
+    "height": 768,
+    "originalBytes": 64520,
+    "variants": [
+      {
+        "src": "/assets/remote-7f0d0fd135f1200d-responsive-160.webp",
+        "width": 160,
+        "height": 120,
+        "bytes": 1150
+      },
+      {
+        "src": "/assets/remote-7f0d0fd135f1200d-responsive-320.webp",
+        "width": 320,
+        "height": 240,
+        "bytes": 3690
+      },
+      {
+        "src": "/assets/remote-7f0d0fd135f1200d-responsive-640.webp",
+        "width": 640,
+        "height": 480,
+        "bytes": 15072
+      },
+      {
+        "src": "/assets/remote-7f0d0fd135f1200d-responsive-1024.webp",
+        "width": 1024,
+        "height": 768,
+        "bytes": 28532
+      }
+    ]
+  },
+  "https://aitscctv.com/wp-content/uploads/2024/05/2-2-1024x768.jpg": {
+    "width": 1024,
+    "height": 768,
+    "originalBytes": 293418,
+    "variants": [
+      {
+        "src": "/assets/remote-5a14e682fba7de14-responsive-160.webp",
+        "width": 160,
+        "height": 120,
+        "bytes": 5454
+      },
+      {
+        "src": "/assets/remote-5a14e682fba7de14-responsive-320.webp",
+        "width": 320,
+        "height": 240,
+        "bytes": 19376
+      },
+      {
+        "src": "/assets/remote-5a14e682fba7de14-responsive-640.webp",
+        "width": 640,
+        "height": 480,
+        "bytes": 86348
+      },
+      {
+        "src": "/assets/remote-5a14e682fba7de14-responsive-1024.webp",
+        "width": 1024,
+        "height": 768,
+        "bytes": 210332
+      }
+    ]
+  },
+  "https://aitscctv.com/wp-content/uploads/2024/05/2-3-1024x768.jpg": {
+    "width": 1024,
+    "height": 768,
+    "originalBytes": 200740,
+    "variants": [
+      {
+        "src": "/assets/remote-bf5be17d67ecae7a-responsive-160.webp",
+        "width": 160,
+        "height": 120,
+        "bytes": 3756
+      },
+      {
+        "src": "/assets/remote-bf5be17d67ecae7a-responsive-320.webp",
+        "width": 320,
+        "height": 240,
+        "bytes": 13584
+      },
+      {
+        "src": "/assets/remote-bf5be17d67ecae7a-responsive-640.webp",
+        "width": 640,
+        "height": 480,
+        "bytes": 54916
+      },
+      {
+        "src": "/assets/remote-bf5be17d67ecae7a-responsive-1024.webp",
+        "width": 1024,
+        "height": 768,
+        "bytes": 115488
+      }
+    ]
+  },
+  "https://aitscctv.com/wp-content/uploads/2024/05/3-1-1024x768.jpg": {
+    "width": 1024,
+    "height": 768,
+    "originalBytes": 164822,
+    "variants": [
+      {
+        "src": "/assets/remote-1808fc94201499b0-responsive-160.webp",
+        "width": 160,
+        "height": 120,
+        "bytes": 2698
+      },
+      {
+        "src": "/assets/remote-1808fc94201499b0-responsive-320.webp",
+        "width": 320,
+        "height": 240,
+        "bytes": 9112
+      },
+      {
+        "src": "/assets/remote-1808fc94201499b0-responsive-640.webp",
+        "width": 640,
+        "height": 480,
+        "bytes": 46170
+      },
+      {
+        "src": "/assets/remote-1808fc94201499b0-responsive-1024.webp",
+        "width": 1024,
+        "height": 768,
+        "bytes": 111874
+      }
+    ]
+  },
+  "https://aitscctv.com/wp-content/uploads/2024/05/3-1024x768.jpg": {
+    "width": 1024,
+    "height": 768,
+    "originalBytes": 191427,
+    "variants": [
+      {
+        "src": "/assets/remote-303126f3dd65e19c-responsive-160.webp",
+        "width": 160,
+        "height": 120,
+        "bytes": 6504
+      },
+      {
+        "src": "/assets/remote-303126f3dd65e19c-responsive-320.webp",
+        "width": 320,
+        "height": 240,
+        "bytes": 16568
+      },
+      {
+        "src": "/assets/remote-303126f3dd65e19c-responsive-640.webp",
+        "width": 640,
+        "height": 480,
+        "bytes": 46540
+      },
+      {
+        "src": "/assets/remote-303126f3dd65e19c-responsive-1024.webp",
+        "width": 1024,
+        "height": 768,
+        "bytes": 84504
+      }
+    ]
+  },
+  "https://aitscctv.com/wp-content/uploads/2024/05/3-2-1024x768.jpg": {
+    "width": 1024,
+    "height": 768,
+    "originalBytes": 185123,
+    "variants": [
+      {
+        "src": "/assets/remote-51dce41e5bb56fef-responsive-160.webp",
+        "width": 160,
+        "height": 120,
+        "bytes": 3540
+      },
+      {
+        "src": "/assets/remote-51dce41e5bb56fef-responsive-320.webp",
+        "width": 320,
+        "height": 240,
+        "bytes": 11304
+      },
+      {
+        "src": "/assets/remote-51dce41e5bb56fef-responsive-640.webp",
+        "width": 640,
+        "height": 480,
+        "bytes": 47792
+      },
+      {
+        "src": "/assets/remote-51dce41e5bb56fef-responsive-1024.webp",
+        "width": 1024,
+        "height": 768,
+        "bytes": 109400
+      }
+    ]
+  },
+  "https://aitscctv.com/wp-content/uploads/2024/05/3-3-1024x768.jpg": {
+    "width": 1024,
+    "height": 768,
+    "originalBytes": 176421,
+    "variants": [
+      {
+        "src": "/assets/remote-bd6ce2019cbe30b0-responsive-160.webp",
+        "width": 160,
+        "height": 120,
+        "bytes": 3640
+      },
+      {
+        "src": "/assets/remote-bd6ce2019cbe30b0-responsive-320.webp",
+        "width": 320,
+        "height": 240,
+        "bytes": 11024
+      },
+      {
+        "src": "/assets/remote-bd6ce2019cbe30b0-responsive-640.webp",
+        "width": 640,
+        "height": 480,
+        "bytes": 47170
+      },
+      {
+        "src": "/assets/remote-bd6ce2019cbe30b0-responsive-1024.webp",
+        "width": 1024,
+        "height": 768,
+        "bytes": 106086
+      }
+    ]
+  },
   "https://aitscctv.com/wp-content/uploads/2024/07/0-6-1024x768.jpg": {
     "width": 1024,
     "height": 768,
@@ -13088,6 +14517,68 @@
       }
     ]
   },
+  "https://aitscctv.com/wp-content/uploads/2024/07/1-10-1024x861.jpg": {
+    "width": 1024,
+    "height": 861,
+    "originalBytes": 51658,
+    "variants": [
+      {
+        "src": "/assets/remote-9bb8ae3a3e8ce415-responsive-160.webp",
+        "width": 160,
+        "height": 134,
+        "bytes": 1126
+      },
+      {
+        "src": "/assets/remote-9bb8ae3a3e8ce415-responsive-320.webp",
+        "width": 320,
+        "height": 269,
+        "bytes": 2710
+      },
+      {
+        "src": "/assets/remote-9bb8ae3a3e8ce415-responsive-640.webp",
+        "width": 640,
+        "height": 538,
+        "bytes": 9408
+      },
+      {
+        "src": "/assets/remote-9bb8ae3a3e8ce415-responsive-1024.webp",
+        "width": 1024,
+        "height": 861,
+        "bytes": 19388
+      }
+    ]
+  },
+  "https://aitscctv.com/wp-content/uploads/2024/07/1-2-1024x768.jpg": {
+    "width": 1024,
+    "height": 768,
+    "originalBytes": 129853,
+    "variants": [
+      {
+        "src": "/assets/remote-6be3d0c6f748a56a-responsive-160.webp",
+        "width": 160,
+        "height": 120,
+        "bytes": 3122
+      },
+      {
+        "src": "/assets/remote-6be3d0c6f748a56a-responsive-320.webp",
+        "width": 320,
+        "height": 240,
+        "bytes": 9066
+      },
+      {
+        "src": "/assets/remote-6be3d0c6f748a56a-responsive-640.webp",
+        "width": 640,
+        "height": 480,
+        "bytes": 31950
+      },
+      {
+        "src": "/assets/remote-6be3d0c6f748a56a-responsive-1024.webp",
+        "width": 1024,
+        "height": 768,
+        "bytes": 61548
+      }
+    ]
+  },
   "https://aitscctv.com/wp-content/uploads/2024/07/1-6-1086x1536.jpg": {
     "width": 1086,
     "height": 1536,
@@ -13116,6 +14607,68 @@
         "width": 1086,
         "height": 1536,
         "bytes": 98320
+      }
+    ]
+  },
+  "https://aitscctv.com/wp-content/uploads/2024/07/1-8-1024x768.jpg": {
+    "width": 1024,
+    "height": 768,
+    "originalBytes": 120265,
+    "variants": [
+      {
+        "src": "/assets/remote-b4486829f88c1908-responsive-160.webp",
+        "width": 160,
+        "height": 120,
+        "bytes": 4078
+      },
+      {
+        "src": "/assets/remote-b4486829f88c1908-responsive-320.webp",
+        "width": 320,
+        "height": 240,
+        "bytes": 10782
+      },
+      {
+        "src": "/assets/remote-b4486829f88c1908-responsive-640.webp",
+        "width": 640,
+        "height": 480,
+        "bytes": 32194
+      },
+      {
+        "src": "/assets/remote-b4486829f88c1908-responsive-1024.webp",
+        "width": 1024,
+        "height": 768,
+        "bytes": 58344
+      }
+    ]
+  },
+  "https://aitscctv.com/wp-content/uploads/2024/07/1-9-1024x768.jpg": {
+    "width": 1024,
+    "height": 768,
+    "originalBytes": 42059,
+    "variants": [
+      {
+        "src": "/assets/remote-885631699d10dda7-responsive-160.webp",
+        "width": 160,
+        "height": 120,
+        "bytes": 684
+      },
+      {
+        "src": "/assets/remote-885631699d10dda7-responsive-320.webp",
+        "width": 320,
+        "height": 240,
+        "bytes": 1636
+      },
+      {
+        "src": "/assets/remote-885631699d10dda7-responsive-640.webp",
+        "width": 640,
+        "height": 480,
+        "bytes": 5278
+      },
+      {
+        "src": "/assets/remote-885631699d10dda7-responsive-1024.webp",
+        "width": 1024,
+        "height": 768,
+        "bytes": 11442
       }
     ]
   },
@@ -13150,6 +14703,99 @@
       }
     ]
   },
+  "https://aitscctv.com/wp-content/uploads/2024/07/2-6-1024x768.jpg": {
+    "width": 1024,
+    "height": 768,
+    "originalBytes": 88064,
+    "variants": [
+      {
+        "src": "/assets/remote-b8634ffaacdef3d8-responsive-160.webp",
+        "width": 160,
+        "height": 120,
+        "bytes": 2248
+      },
+      {
+        "src": "/assets/remote-b8634ffaacdef3d8-responsive-320.webp",
+        "width": 320,
+        "height": 240,
+        "bytes": 5952
+      },
+      {
+        "src": "/assets/remote-b8634ffaacdef3d8-responsive-640.webp",
+        "width": 640,
+        "height": 480,
+        "bytes": 19836
+      },
+      {
+        "src": "/assets/remote-b8634ffaacdef3d8-responsive-1024.webp",
+        "width": 1024,
+        "height": 768,
+        "bytes": 38212
+      }
+    ]
+  },
+  "https://aitscctv.com/wp-content/uploads/2024/07/2-7-1024x768.jpg": {
+    "width": 1024,
+    "height": 768,
+    "originalBytes": 91558,
+    "variants": [
+      {
+        "src": "/assets/remote-c0d3027783a1213f-responsive-160.webp",
+        "width": 160,
+        "height": 120,
+        "bytes": 1108
+      },
+      {
+        "src": "/assets/remote-c0d3027783a1213f-responsive-320.webp",
+        "width": 320,
+        "height": 240,
+        "bytes": 3560
+      },
+      {
+        "src": "/assets/remote-c0d3027783a1213f-responsive-640.webp",
+        "width": 640,
+        "height": 480,
+        "bytes": 18556
+      },
+      {
+        "src": "/assets/remote-c0d3027783a1213f-responsive-1024.webp",
+        "width": 1024,
+        "height": 768,
+        "bytes": 39088
+      }
+    ]
+  },
+  "https://aitscctv.com/wp-content/uploads/2024/07/3-1-1024x768.jpg": {
+    "width": 1024,
+    "height": 768,
+    "originalBytes": 98972,
+    "variants": [
+      {
+        "src": "/assets/remote-408313448f8a16a5-responsive-160.webp",
+        "width": 160,
+        "height": 120,
+        "bytes": 2316
+      },
+      {
+        "src": "/assets/remote-408313448f8a16a5-responsive-320.webp",
+        "width": 320,
+        "height": 240,
+        "bytes": 6288
+      },
+      {
+        "src": "/assets/remote-408313448f8a16a5-responsive-640.webp",
+        "width": 640,
+        "height": 480,
+        "bytes": 21370
+      },
+      {
+        "src": "/assets/remote-408313448f8a16a5-responsive-1024.webp",
+        "width": 1024,
+        "height": 768,
+        "bytes": 41322
+      }
+    ]
+  },
   "https://aitscctv.com/wp-content/uploads/2024/07/3-4-1086x1536.jpg": {
     "width": 1086,
     "height": 1536,
@@ -13178,6 +14824,99 @@
         "width": 1086,
         "height": 1536,
         "bytes": 262444
+      }
+    ]
+  },
+  "https://aitscctv.com/wp-content/uploads/2024/07/3-6-768x1024.jpg": {
+    "width": 768,
+    "height": 1024,
+    "originalBytes": 131117,
+    "variants": [
+      {
+        "src": "/assets/remote-0627a70a35052fe0-responsive-160.webp",
+        "width": 160,
+        "height": 213,
+        "bytes": 6574
+      },
+      {
+        "src": "/assets/remote-0627a70a35052fe0-responsive-320.webp",
+        "width": 320,
+        "height": 427,
+        "bytes": 18152
+      },
+      {
+        "src": "/assets/remote-0627a70a35052fe0-responsive-640.webp",
+        "width": 640,
+        "height": 853,
+        "bytes": 52622
+      },
+      {
+        "src": "/assets/remote-0627a70a35052fe0-responsive-768.webp",
+        "width": 768,
+        "height": 1024,
+        "bytes": 68966
+      }
+    ]
+  },
+  "https://aitscctv.com/wp-content/uploads/2024/07/3-7-1024x768.jpg": {
+    "width": 1024,
+    "height": 768,
+    "originalBytes": 233758,
+    "variants": [
+      {
+        "src": "/assets/remote-94b57e567b9370f1-responsive-160.webp",
+        "width": 160,
+        "height": 120,
+        "bytes": 5902
+      },
+      {
+        "src": "/assets/remote-94b57e567b9370f1-responsive-320.webp",
+        "width": 320,
+        "height": 240,
+        "bytes": 20898
+      },
+      {
+        "src": "/assets/remote-94b57e567b9370f1-responsive-640.webp",
+        "width": 640,
+        "height": 480,
+        "bytes": 82012
+      },
+      {
+        "src": "/assets/remote-94b57e567b9370f1-responsive-1024.webp",
+        "width": 1024,
+        "height": 768,
+        "bytes": 176612
+      }
+    ]
+  },
+  "https://aitscctv.com/wp-content/uploads/2024/07/3-8.jpg": {
+    "width": 896,
+    "height": 933,
+    "originalBytes": 57536,
+    "variants": [
+      {
+        "src": "/assets/remote-9b1d69b799b14f63-responsive-160.webp",
+        "width": 160,
+        "height": 166,
+        "bytes": 936
+      },
+      {
+        "src": "/assets/remote-9b1d69b799b14f63-responsive-320.webp",
+        "width": 320,
+        "height": 333,
+        "bytes": 2500
+      },
+      {
+        "src": "/assets/remote-9b1d69b799b14f63-responsive-640.webp",
+        "width": 640,
+        "height": 666,
+        "bytes": 14124
+      },
+      {
+        "src": "/assets/remote-9b1d69b799b14f63-responsive-896.webp",
+        "width": 896,
+        "height": 933,
+        "bytes": 29488
       }
     ]
   },
@@ -13212,6 +14951,37 @@
       }
     ]
   },
+  "https://aitscctv.com/wp-content/uploads/2024/07/4-2-1024x768.jpg": {
+    "width": 1024,
+    "height": 768,
+    "originalBytes": 131600,
+    "variants": [
+      {
+        "src": "/assets/remote-e495b2c054389bd5-responsive-160.webp",
+        "width": 160,
+        "height": 120,
+        "bytes": 3580
+      },
+      {
+        "src": "/assets/remote-e495b2c054389bd5-responsive-320.webp",
+        "width": 320,
+        "height": 240,
+        "bytes": 10844
+      },
+      {
+        "src": "/assets/remote-e495b2c054389bd5-responsive-640.webp",
+        "width": 640,
+        "height": 480,
+        "bytes": 40354
+      },
+      {
+        "src": "/assets/remote-e495b2c054389bd5-responsive-1024.webp",
+        "width": 1024,
+        "height": 768,
+        "bytes": 79410
+      }
+    ]
+  },
   "https://aitscctv.com/wp-content/uploads/2024/07/5-1-1086x1536.jpg": {
     "width": 1086,
     "height": 1536,
@@ -13240,6 +15010,68 @@
         "width": 1086,
         "height": 1536,
         "bytes": 123194
+      }
+    ]
+  },
+  "https://aitscctv.com/wp-content/uploads/2024/07/5-2-1024x768.jpg": {
+    "width": 1024,
+    "height": 768,
+    "originalBytes": 113195,
+    "variants": [
+      {
+        "src": "/assets/remote-f207e127d627ea4b-responsive-160.webp",
+        "width": 160,
+        "height": 120,
+        "bytes": 3960
+      },
+      {
+        "src": "/assets/remote-f207e127d627ea4b-responsive-320.webp",
+        "width": 320,
+        "height": 240,
+        "bytes": 10394
+      },
+      {
+        "src": "/assets/remote-f207e127d627ea4b-responsive-640.webp",
+        "width": 640,
+        "height": 480,
+        "bytes": 30686
+      },
+      {
+        "src": "/assets/remote-f207e127d627ea4b-responsive-1024.webp",
+        "width": 1024,
+        "height": 768,
+        "bytes": 55962
+      }
+    ]
+  },
+  "https://aitscctv.com/wp-content/uploads/2024/07/6-1-1024x646.jpg": {
+    "width": 1024,
+    "height": 646,
+    "originalBytes": 83050,
+    "variants": [
+      {
+        "src": "/assets/remote-b4159aafdf8bd514-responsive-160.webp",
+        "width": 160,
+        "height": 101,
+        "bytes": 2354
+      },
+      {
+        "src": "/assets/remote-b4159aafdf8bd514-responsive-320.webp",
+        "width": 320,
+        "height": 202,
+        "bytes": 6552
+      },
+      {
+        "src": "/assets/remote-b4159aafdf8bd514-responsive-640.webp",
+        "width": 640,
+        "height": 404,
+        "bytes": 20464
+      },
+      {
+        "src": "/assets/remote-b4159aafdf8bd514-responsive-1024.webp",
+        "width": 1024,
+        "height": 646,
+        "bytes": 38002
       }
     ]
   },
@@ -13398,6 +15230,161 @@
       }
     ]
   },
+  "https://aitscctv.com/wp-content/uploads/2024/10/1-3-1024x768.jpg": {
+    "width": 1024,
+    "height": 768,
+    "originalBytes": 154317,
+    "variants": [
+      {
+        "src": "/assets/remote-3f9547e8347445d0-responsive-160.webp",
+        "width": 160,
+        "height": 120,
+        "bytes": 3480
+      },
+      {
+        "src": "/assets/remote-3f9547e8347445d0-responsive-320.webp",
+        "width": 320,
+        "height": 240,
+        "bytes": 11156
+      },
+      {
+        "src": "/assets/remote-3f9547e8347445d0-responsive-640.webp",
+        "width": 640,
+        "height": 480,
+        "bytes": 46346
+      },
+      {
+        "src": "/assets/remote-3f9547e8347445d0-responsive-1024.webp",
+        "width": 1024,
+        "height": 768,
+        "bytes": 105190
+      }
+    ]
+  },
+  "https://aitscctv.com/wp-content/uploads/2024/10/2-3-1024x768.jpg": {
+    "width": 1024,
+    "height": 768,
+    "originalBytes": 110307,
+    "variants": [
+      {
+        "src": "/assets/remote-53b3e757f4edc9f1-responsive-160.webp",
+        "width": 160,
+        "height": 120,
+        "bytes": 2320
+      },
+      {
+        "src": "/assets/remote-53b3e757f4edc9f1-responsive-320.webp",
+        "width": 320,
+        "height": 240,
+        "bytes": 6656
+      },
+      {
+        "src": "/assets/remote-53b3e757f4edc9f1-responsive-640.webp",
+        "width": 640,
+        "height": 480,
+        "bytes": 28346
+      },
+      {
+        "src": "/assets/remote-53b3e757f4edc9f1-responsive-1024.webp",
+        "width": 1024,
+        "height": 768,
+        "bytes": 66408
+      }
+    ]
+  },
+  "https://aitscctv.com/wp-content/uploads/2024/10/4-3-1024x768.jpg": {
+    "width": 1024,
+    "height": 768,
+    "originalBytes": 78830,
+    "variants": [
+      {
+        "src": "/assets/remote-b4bfaf43fcbabc3e-responsive-160.webp",
+        "width": 160,
+        "height": 120,
+        "bytes": 1734
+      },
+      {
+        "src": "/assets/remote-b4bfaf43fcbabc3e-responsive-320.webp",
+        "width": 320,
+        "height": 240,
+        "bytes": 5188
+      },
+      {
+        "src": "/assets/remote-b4bfaf43fcbabc3e-responsive-640.webp",
+        "width": 640,
+        "height": 480,
+        "bytes": 20422
+      },
+      {
+        "src": "/assets/remote-b4bfaf43fcbabc3e-responsive-1024.webp",
+        "width": 1024,
+        "height": 768,
+        "bytes": 41650
+      }
+    ]
+  },
+  "https://aitscctv.com/wp-content/uploads/2024/10/5-1-1024x768.jpg": {
+    "width": 1024,
+    "height": 768,
+    "originalBytes": 102489,
+    "variants": [
+      {
+        "src": "/assets/remote-d8b0b8f5706be0f4-responsive-160.webp",
+        "width": 160,
+        "height": 120,
+        "bytes": 3346
+      },
+      {
+        "src": "/assets/remote-d8b0b8f5706be0f4-responsive-320.webp",
+        "width": 320,
+        "height": 240,
+        "bytes": 8582
+      },
+      {
+        "src": "/assets/remote-d8b0b8f5706be0f4-responsive-640.webp",
+        "width": 640,
+        "height": 480,
+        "bytes": 28162
+      },
+      {
+        "src": "/assets/remote-d8b0b8f5706be0f4-responsive-1024.webp",
+        "width": 1024,
+        "height": 768,
+        "bytes": 54484
+      }
+    ]
+  },
+  "https://aitscctv.com/wp-content/uploads/2024/10/6-1-1024x768.jpg": {
+    "width": 1024,
+    "height": 768,
+    "originalBytes": 95569,
+    "variants": [
+      {
+        "src": "/assets/remote-9bf45a78194d615f-responsive-160.webp",
+        "width": 160,
+        "height": 120,
+        "bytes": 2436
+      },
+      {
+        "src": "/assets/remote-9bf45a78194d615f-responsive-320.webp",
+        "width": 320,
+        "height": 240,
+        "bytes": 6430
+      },
+      {
+        "src": "/assets/remote-9bf45a78194d615f-responsive-640.webp",
+        "width": 640,
+        "height": 480,
+        "bytes": 19070
+      },
+      {
+        "src": "/assets/remote-9bf45a78194d615f-responsive-1024.webp",
+        "width": 1024,
+        "height": 768,
+        "bytes": 35778
+      }
+    ]
+  },
   "https://aitscctv.com/wp-content/uploads/2025/01/0-1-1024x768.jpg": {
     "width": 1024,
     "height": 768,
@@ -13491,6 +15478,471 @@
       }
     ]
   },
+  "https://aitscctv.com/wp-content/uploads/2025/01/1-1024x768.jpg": {
+    "width": 1024,
+    "height": 768,
+    "originalBytes": 143845,
+    "variants": [
+      {
+        "src": "/assets/remote-5a6b7de41e5b2a0e-responsive-160.webp",
+        "width": 160,
+        "height": 120,
+        "bytes": 2758
+      },
+      {
+        "src": "/assets/remote-5a6b7de41e5b2a0e-responsive-320.webp",
+        "width": 320,
+        "height": 240,
+        "bytes": 9368
+      },
+      {
+        "src": "/assets/remote-5a6b7de41e5b2a0e-responsive-640.webp",
+        "width": 640,
+        "height": 480,
+        "bytes": 40916
+      },
+      {
+        "src": "/assets/remote-5a6b7de41e5b2a0e-responsive-1024.webp",
+        "width": 1024,
+        "height": 768,
+        "bytes": 92134
+      }
+    ]
+  },
+  "https://aitscctv.com/wp-content/uploads/2025/01/1-2-1024x768.jpg": {
+    "width": 1024,
+    "height": 768,
+    "originalBytes": 96729,
+    "variants": [
+      {
+        "src": "/assets/remote-676768c7987e49de-responsive-160.webp",
+        "width": 160,
+        "height": 120,
+        "bytes": 2012
+      },
+      {
+        "src": "/assets/remote-676768c7987e49de-responsive-320.webp",
+        "width": 320,
+        "height": 240,
+        "bytes": 5888
+      },
+      {
+        "src": "/assets/remote-676768c7987e49de-responsive-640.webp",
+        "width": 640,
+        "height": 480,
+        "bytes": 21538
+      },
+      {
+        "src": "/assets/remote-676768c7987e49de-responsive-1024.webp",
+        "width": 1024,
+        "height": 768,
+        "bytes": 47048
+      }
+    ]
+  },
+  "https://aitscctv.com/wp-content/uploads/2025/01/1-3-1024x768.jpg": {
+    "width": 1024,
+    "height": 768,
+    "originalBytes": 161677,
+    "variants": [
+      {
+        "src": "/assets/remote-5cd9d412b0f36497-responsive-160.webp",
+        "width": 160,
+        "height": 120,
+        "bytes": 3306
+      },
+      {
+        "src": "/assets/remote-5cd9d412b0f36497-responsive-320.webp",
+        "width": 320,
+        "height": 240,
+        "bytes": 10976
+      },
+      {
+        "src": "/assets/remote-5cd9d412b0f36497-responsive-640.webp",
+        "width": 640,
+        "height": 480,
+        "bytes": 47766
+      },
+      {
+        "src": "/assets/remote-5cd9d412b0f36497-responsive-1024.webp",
+        "width": 1024,
+        "height": 768,
+        "bytes": 104556
+      }
+    ]
+  },
+  "https://aitscctv.com/wp-content/uploads/2025/01/10-1024x587.jpg": {
+    "width": 1024,
+    "height": 587,
+    "originalBytes": 40313,
+    "variants": [
+      {
+        "src": "/assets/remote-ec6ef41f4cf5a009-responsive-160.webp",
+        "width": 160,
+        "height": 91,
+        "bytes": 810
+      },
+      {
+        "src": "/assets/remote-ec6ef41f4cf5a009-responsive-320.webp",
+        "width": 320,
+        "height": 183,
+        "bytes": 1752
+      },
+      {
+        "src": "/assets/remote-ec6ef41f4cf5a009-responsive-640.webp",
+        "width": 640,
+        "height": 367,
+        "bytes": 5042
+      },
+      {
+        "src": "/assets/remote-ec6ef41f4cf5a009-responsive-1024.webp",
+        "width": 1024,
+        "height": 587,
+        "bytes": 9964
+      }
+    ]
+  },
+  "https://aitscctv.com/wp-content/uploads/2025/01/10-2-1024x768.jpg": {
+    "width": 1024,
+    "height": 768,
+    "originalBytes": 118122,
+    "variants": [
+      {
+        "src": "/assets/remote-2452de81ad480325-responsive-160.webp",
+        "width": 160,
+        "height": 120,
+        "bytes": 3030
+      },
+      {
+        "src": "/assets/remote-2452de81ad480325-responsive-320.webp",
+        "width": 320,
+        "height": 240,
+        "bytes": 8448
+      },
+      {
+        "src": "/assets/remote-2452de81ad480325-responsive-640.webp",
+        "width": 640,
+        "height": 480,
+        "bytes": 30060
+      },
+      {
+        "src": "/assets/remote-2452de81ad480325-responsive-1024.webp",
+        "width": 1024,
+        "height": 768,
+        "bytes": 62070
+      }
+    ]
+  },
+  "https://aitscctv.com/wp-content/uploads/2025/01/11-1024x584.jpg": {
+    "width": 1024,
+    "height": 584,
+    "originalBytes": 84208,
+    "variants": [
+      {
+        "src": "/assets/remote-4c33ce41284db30c-responsive-160.webp",
+        "width": 160,
+        "height": 91,
+        "bytes": 1890
+      },
+      {
+        "src": "/assets/remote-4c33ce41284db30c-responsive-320.webp",
+        "width": 320,
+        "height": 183,
+        "bytes": 5358
+      },
+      {
+        "src": "/assets/remote-4c33ce41284db30c-responsive-640.webp",
+        "width": 640,
+        "height": 365,
+        "bytes": 19734
+      },
+      {
+        "src": "/assets/remote-4c33ce41284db30c-responsive-1024.webp",
+        "width": 1024,
+        "height": 584,
+        "bytes": 44424
+      }
+    ]
+  },
+  "https://aitscctv.com/wp-content/uploads/2025/01/11-2-1024x768.jpg": {
+    "width": 1024,
+    "height": 768,
+    "originalBytes": 196562,
+    "variants": [
+      {
+        "src": "/assets/remote-d0c21e9f5fe0c782-responsive-160.webp",
+        "width": 160,
+        "height": 120,
+        "bytes": 4806
+      },
+      {
+        "src": "/assets/remote-d0c21e9f5fe0c782-responsive-320.webp",
+        "width": 320,
+        "height": 240,
+        "bytes": 16200
+      },
+      {
+        "src": "/assets/remote-d0c21e9f5fe0c782-responsive-640.webp",
+        "width": 640,
+        "height": 480,
+        "bytes": 66066
+      },
+      {
+        "src": "/assets/remote-d0c21e9f5fe0c782-responsive-1024.webp",
+        "width": 1024,
+        "height": 768,
+        "bytes": 138026
+      }
+    ]
+  },
+  "https://aitscctv.com/wp-content/uploads/2025/01/12-1024x768.jpg": {
+    "width": 1024,
+    "height": 768,
+    "originalBytes": 130796,
+    "variants": [
+      {
+        "src": "/assets/remote-39a46da88896cd27-responsive-160.webp",
+        "width": 160,
+        "height": 120,
+        "bytes": 2588
+      },
+      {
+        "src": "/assets/remote-39a46da88896cd27-responsive-320.webp",
+        "width": 320,
+        "height": 240,
+        "bytes": 8028
+      },
+      {
+        "src": "/assets/remote-39a46da88896cd27-responsive-640.webp",
+        "width": 640,
+        "height": 480,
+        "bytes": 34732
+      },
+      {
+        "src": "/assets/remote-39a46da88896cd27-responsive-1024.webp",
+        "width": 1024,
+        "height": 768,
+        "bytes": 79136
+      }
+    ]
+  },
+  "https://aitscctv.com/wp-content/uploads/2025/01/12-2-1024x768.jpg": {
+    "width": 1024,
+    "height": 768,
+    "originalBytes": 91655,
+    "variants": [
+      {
+        "src": "/assets/remote-0fc7c235208e29f7-responsive-160.webp",
+        "width": 160,
+        "height": 120,
+        "bytes": 2144
+      },
+      {
+        "src": "/assets/remote-0fc7c235208e29f7-responsive-320.webp",
+        "width": 320,
+        "height": 240,
+        "bytes": 6070
+      },
+      {
+        "src": "/assets/remote-0fc7c235208e29f7-responsive-640.webp",
+        "width": 640,
+        "height": 480,
+        "bytes": 20852
+      },
+      {
+        "src": "/assets/remote-0fc7c235208e29f7-responsive-1024.webp",
+        "width": 1024,
+        "height": 768,
+        "bytes": 39934
+      }
+    ]
+  },
+  "https://aitscctv.com/wp-content/uploads/2025/01/13-1024x768.jpg": {
+    "width": 1024,
+    "height": 768,
+    "originalBytes": 114836,
+    "variants": [
+      {
+        "src": "/assets/remote-68a24e341b23ee58-responsive-160.webp",
+        "width": 160,
+        "height": 120,
+        "bytes": 2196
+      },
+      {
+        "src": "/assets/remote-68a24e341b23ee58-responsive-320.webp",
+        "width": 320,
+        "height": 240,
+        "bytes": 6964
+      },
+      {
+        "src": "/assets/remote-68a24e341b23ee58-responsive-640.webp",
+        "width": 640,
+        "height": 480,
+        "bytes": 27368
+      },
+      {
+        "src": "/assets/remote-68a24e341b23ee58-responsive-1024.webp",
+        "width": 1024,
+        "height": 768,
+        "bytes": 57500
+      }
+    ]
+  },
+  "https://aitscctv.com/wp-content/uploads/2025/01/14-1024x768.jpg": {
+    "width": 1024,
+    "height": 768,
+    "originalBytes": 247058,
+    "variants": [
+      {
+        "src": "/assets/remote-bb153f0035b14c69-responsive-160.webp",
+        "width": 160,
+        "height": 120,
+        "bytes": 6006
+      },
+      {
+        "src": "/assets/remote-bb153f0035b14c69-responsive-320.webp",
+        "width": 320,
+        "height": 240,
+        "bytes": 21338
+      },
+      {
+        "src": "/assets/remote-bb153f0035b14c69-responsive-640.webp",
+        "width": 640,
+        "height": 480,
+        "bytes": 85416
+      },
+      {
+        "src": "/assets/remote-bb153f0035b14c69-responsive-1024.webp",
+        "width": 1024,
+        "height": 768,
+        "bytes": 188236
+      }
+    ]
+  },
+  "https://aitscctv.com/wp-content/uploads/2025/01/15-1024x768.jpg": {
+    "width": 1024,
+    "height": 768,
+    "originalBytes": 163736,
+    "variants": [
+      {
+        "src": "/assets/remote-d007af204918aeec-responsive-160.webp",
+        "width": 160,
+        "height": 120,
+        "bytes": 5288
+      },
+      {
+        "src": "/assets/remote-d007af204918aeec-responsive-320.webp",
+        "width": 320,
+        "height": 240,
+        "bytes": 16344
+      },
+      {
+        "src": "/assets/remote-d007af204918aeec-responsive-640.webp",
+        "width": 640,
+        "height": 480,
+        "bytes": 53688
+      },
+      {
+        "src": "/assets/remote-d007af204918aeec-responsive-1024.webp",
+        "width": 1024,
+        "height": 768,
+        "bytes": 98480
+      }
+    ]
+  },
+  "https://aitscctv.com/wp-content/uploads/2025/01/2-1024x768.jpg": {
+    "width": 1024,
+    "height": 768,
+    "originalBytes": 91315,
+    "variants": [
+      {
+        "src": "/assets/remote-d0c85264cf81d1db-responsive-160.webp",
+        "width": 160,
+        "height": 120,
+        "bytes": 1970
+      },
+      {
+        "src": "/assets/remote-d0c85264cf81d1db-responsive-320.webp",
+        "width": 320,
+        "height": 240,
+        "bytes": 6206
+      },
+      {
+        "src": "/assets/remote-d0c85264cf81d1db-responsive-640.webp",
+        "width": 640,
+        "height": 480,
+        "bytes": 22228
+      },
+      {
+        "src": "/assets/remote-d0c85264cf81d1db-responsive-1024.webp",
+        "width": 1024,
+        "height": 768,
+        "bytes": 46184
+      }
+    ]
+  },
+  "https://aitscctv.com/wp-content/uploads/2025/01/2-2-1024x768.jpg": {
+    "width": 1024,
+    "height": 768,
+    "originalBytes": 102454,
+    "variants": [
+      {
+        "src": "/assets/remote-201668b05a4c1ec1-responsive-160.webp",
+        "width": 160,
+        "height": 120,
+        "bytes": 2046
+      },
+      {
+        "src": "/assets/remote-201668b05a4c1ec1-responsive-320.webp",
+        "width": 320,
+        "height": 240,
+        "bytes": 5522
+      },
+      {
+        "src": "/assets/remote-201668b05a4c1ec1-responsive-640.webp",
+        "width": 640,
+        "height": 480,
+        "bytes": 21188
+      },
+      {
+        "src": "/assets/remote-201668b05a4c1ec1-responsive-1024.webp",
+        "width": 1024,
+        "height": 768,
+        "bytes": 44308
+      }
+    ]
+  },
+  "https://aitscctv.com/wp-content/uploads/2025/01/2-3-1024x768.jpg": {
+    "width": 1024,
+    "height": 768,
+    "originalBytes": 154046,
+    "variants": [
+      {
+        "src": "/assets/remote-0eba3f7eda7afe57-responsive-160.webp",
+        "width": 160,
+        "height": 120,
+        "bytes": 3828
+      },
+      {
+        "src": "/assets/remote-0eba3f7eda7afe57-responsive-320.webp",
+        "width": 320,
+        "height": 240,
+        "bytes": 11744
+      },
+      {
+        "src": "/assets/remote-0eba3f7eda7afe57-responsive-640.webp",
+        "width": 640,
+        "height": 480,
+        "bytes": 46396
+      },
+      {
+        "src": "/assets/remote-0eba3f7eda7afe57-responsive-1024.webp",
+        "width": 1024,
+        "height": 768,
+        "bytes": 98750
+      }
+    ]
+  },
   "https://aitscctv.com/wp-content/uploads/2025/01/20250121-AITS-Smart-Home-768x768.jpg": {
     "width": 768,
     "height": 768,
@@ -13519,6 +15971,626 @@
         "width": 768,
         "height": 768,
         "bytes": 67672
+      }
+    ]
+  },
+  "https://aitscctv.com/wp-content/uploads/2025/01/3-1024x768.jpg": {
+    "width": 1024,
+    "height": 768,
+    "originalBytes": 82817,
+    "variants": [
+      {
+        "src": "/assets/remote-7bbd91e486e5c07c-responsive-160.webp",
+        "width": 160,
+        "height": 120,
+        "bytes": 1738
+      },
+      {
+        "src": "/assets/remote-7bbd91e486e5c07c-responsive-320.webp",
+        "width": 320,
+        "height": 240,
+        "bytes": 5638
+      },
+      {
+        "src": "/assets/remote-7bbd91e486e5c07c-responsive-640.webp",
+        "width": 640,
+        "height": 480,
+        "bytes": 19904
+      },
+      {
+        "src": "/assets/remote-7bbd91e486e5c07c-responsive-1024.webp",
+        "width": 1024,
+        "height": 768,
+        "bytes": 39108
+      }
+    ]
+  },
+  "https://aitscctv.com/wp-content/uploads/2025/01/3-2-1024x768.jpg": {
+    "width": 1024,
+    "height": 768,
+    "originalBytes": 194763,
+    "variants": [
+      {
+        "src": "/assets/remote-965bc633a25d50dc-responsive-160.webp",
+        "width": 160,
+        "height": 120,
+        "bytes": 4980
+      },
+      {
+        "src": "/assets/remote-965bc633a25d50dc-responsive-320.webp",
+        "width": 320,
+        "height": 240,
+        "bytes": 16368
+      },
+      {
+        "src": "/assets/remote-965bc633a25d50dc-responsive-640.webp",
+        "width": 640,
+        "height": 480,
+        "bytes": 62264
+      },
+      {
+        "src": "/assets/remote-965bc633a25d50dc-responsive-1024.webp",
+        "width": 1024,
+        "height": 768,
+        "bytes": 130176
+      }
+    ]
+  },
+  "https://aitscctv.com/wp-content/uploads/2025/01/3-3-1024x768.jpg": {
+    "width": 1024,
+    "height": 768,
+    "originalBytes": 143962,
+    "variants": [
+      {
+        "src": "/assets/remote-d6a6ca076e53ae46-responsive-160.webp",
+        "width": 160,
+        "height": 120,
+        "bytes": 4102
+      },
+      {
+        "src": "/assets/remote-d6a6ca076e53ae46-responsive-320.webp",
+        "width": 320,
+        "height": 240,
+        "bytes": 11684
+      },
+      {
+        "src": "/assets/remote-d6a6ca076e53ae46-responsive-640.webp",
+        "width": 640,
+        "height": 480,
+        "bytes": 42430
+      },
+      {
+        "src": "/assets/remote-d6a6ca076e53ae46-responsive-1024.webp",
+        "width": 1024,
+        "height": 768,
+        "bytes": 88426
+      }
+    ]
+  },
+  "https://aitscctv.com/wp-content/uploads/2025/01/4-1024x817.jpg": {
+    "width": 1024,
+    "height": 817,
+    "originalBytes": 77143,
+    "variants": [
+      {
+        "src": "/assets/remote-5517f874825f7515-responsive-160.webp",
+        "width": 160,
+        "height": 128,
+        "bytes": 2102
+      },
+      {
+        "src": "/assets/remote-5517f874825f7515-responsive-320.webp",
+        "width": 320,
+        "height": 255,
+        "bytes": 5178
+      },
+      {
+        "src": "/assets/remote-5517f874825f7515-responsive-640.webp",
+        "width": 640,
+        "height": 511,
+        "bytes": 15726
+      },
+      {
+        "src": "/assets/remote-5517f874825f7515-responsive-1024.webp",
+        "width": 1024,
+        "height": 817,
+        "bytes": 30522
+      }
+    ]
+  },
+  "https://aitscctv.com/wp-content/uploads/2025/01/4-2-1024x768.jpg": {
+    "width": 1024,
+    "height": 768,
+    "originalBytes": 177424,
+    "variants": [
+      {
+        "src": "/assets/remote-8484f935a772dcad-responsive-160.webp",
+        "width": 160,
+        "height": 120,
+        "bytes": 3218
+      },
+      {
+        "src": "/assets/remote-8484f935a772dcad-responsive-320.webp",
+        "width": 320,
+        "height": 240,
+        "bytes": 10912
+      },
+      {
+        "src": "/assets/remote-8484f935a772dcad-responsive-640.webp",
+        "width": 640,
+        "height": 480,
+        "bytes": 53190
+      },
+      {
+        "src": "/assets/remote-8484f935a772dcad-responsive-1024.webp",
+        "width": 1024,
+        "height": 768,
+        "bytes": 123882
+      }
+    ]
+  },
+  "https://aitscctv.com/wp-content/uploads/2025/01/4-3-1024x768.jpg": {
+    "width": 1024,
+    "height": 768,
+    "originalBytes": 81245,
+    "variants": [
+      {
+        "src": "/assets/remote-a2919f50aed7eae4-responsive-160.webp",
+        "width": 160,
+        "height": 120,
+        "bytes": 1704
+      },
+      {
+        "src": "/assets/remote-a2919f50aed7eae4-responsive-320.webp",
+        "width": 320,
+        "height": 240,
+        "bytes": 5030
+      },
+      {
+        "src": "/assets/remote-a2919f50aed7eae4-responsive-640.webp",
+        "width": 640,
+        "height": 480,
+        "bytes": 20140
+      },
+      {
+        "src": "/assets/remote-a2919f50aed7eae4-responsive-1024.webp",
+        "width": 1024,
+        "height": 768,
+        "bytes": 43808
+      }
+    ]
+  },
+  "https://aitscctv.com/wp-content/uploads/2025/01/5-2-1024x768.jpg": {
+    "width": 1024,
+    "height": 768,
+    "originalBytes": 201146,
+    "variants": [
+      {
+        "src": "/assets/remote-e35eb39e82b8bd78-responsive-160.webp",
+        "width": 160,
+        "height": 120,
+        "bytes": 2596
+      },
+      {
+        "src": "/assets/remote-e35eb39e82b8bd78-responsive-320.webp",
+        "width": 320,
+        "height": 240,
+        "bytes": 10764
+      },
+      {
+        "src": "/assets/remote-e35eb39e82b8bd78-responsive-640.webp",
+        "width": 640,
+        "height": 480,
+        "bytes": 64694
+      },
+      {
+        "src": "/assets/remote-e35eb39e82b8bd78-responsive-1024.webp",
+        "width": 1024,
+        "height": 768,
+        "bytes": 163412
+      }
+    ]
+  },
+  "https://aitscctv.com/wp-content/uploads/2025/01/5-3-1024x768.jpg": {
+    "width": 1024,
+    "height": 768,
+    "originalBytes": 65700,
+    "variants": [
+      {
+        "src": "/assets/remote-0e3cbf0cab31a33f-responsive-160.webp",
+        "width": 160,
+        "height": 120,
+        "bytes": 976
+      },
+      {
+        "src": "/assets/remote-0e3cbf0cab31a33f-responsive-320.webp",
+        "width": 320,
+        "height": 240,
+        "bytes": 2518
+      },
+      {
+        "src": "/assets/remote-0e3cbf0cab31a33f-responsive-640.webp",
+        "width": 640,
+        "height": 480,
+        "bytes": 10058
+      },
+      {
+        "src": "/assets/remote-0e3cbf0cab31a33f-responsive-1024.webp",
+        "width": 1024,
+        "height": 768,
+        "bytes": 21412
+      }
+    ]
+  },
+  "https://aitscctv.com/wp-content/uploads/2025/01/5-994x1024.jpg": {
+    "width": 994,
+    "height": 1024,
+    "originalBytes": 167896,
+    "variants": [
+      {
+        "src": "/assets/remote-406a705872a8b94c-responsive-160.webp",
+        "width": 160,
+        "height": 165,
+        "bytes": 3820
+      },
+      {
+        "src": "/assets/remote-406a705872a8b94c-responsive-320.webp",
+        "width": 320,
+        "height": 330,
+        "bytes": 12228
+      },
+      {
+        "src": "/assets/remote-406a705872a8b94c-responsive-640.webp",
+        "width": 640,
+        "height": 659,
+        "bytes": 49352
+      },
+      {
+        "src": "/assets/remote-406a705872a8b94c-responsive-994.webp",
+        "width": 994,
+        "height": 1024,
+        "bytes": 104298
+      }
+    ]
+  },
+  "https://aitscctv.com/wp-content/uploads/2025/01/6-1024x630.jpg": {
+    "width": 1024,
+    "height": 630,
+    "originalBytes": 74417,
+    "variants": [
+      {
+        "src": "/assets/remote-8fa44646627464f1-responsive-160.webp",
+        "width": 160,
+        "height": 98,
+        "bytes": 320
+      },
+      {
+        "src": "/assets/remote-8fa44646627464f1-responsive-320.webp",
+        "width": 320,
+        "height": 197,
+        "bytes": 796
+      },
+      {
+        "src": "/assets/remote-8fa44646627464f1-responsive-640.webp",
+        "width": 640,
+        "height": 394,
+        "bytes": 8716
+      },
+      {
+        "src": "/assets/remote-8fa44646627464f1-responsive-1024.webp",
+        "width": 1024,
+        "height": 630,
+        "bytes": 33398
+      }
+    ]
+  },
+  "https://aitscctv.com/wp-content/uploads/2025/01/6-2-1024x768.jpg": {
+    "width": 1024,
+    "height": 768,
+    "originalBytes": 191291,
+    "variants": [
+      {
+        "src": "/assets/remote-ae370537a7d87d15-responsive-160.webp",
+        "width": 160,
+        "height": 120,
+        "bytes": 4562
+      },
+      {
+        "src": "/assets/remote-ae370537a7d87d15-responsive-320.webp",
+        "width": 320,
+        "height": 240,
+        "bytes": 14554
+      },
+      {
+        "src": "/assets/remote-ae370537a7d87d15-responsive-640.webp",
+        "width": 640,
+        "height": 480,
+        "bytes": 59506
+      },
+      {
+        "src": "/assets/remote-ae370537a7d87d15-responsive-1024.webp",
+        "width": 1024,
+        "height": 768,
+        "bytes": 128762
+      }
+    ]
+  },
+  "https://aitscctv.com/wp-content/uploads/2025/01/6-3-1024x768.jpg": {
+    "width": 1024,
+    "height": 768,
+    "originalBytes": 164325,
+    "variants": [
+      {
+        "src": "/assets/remote-356cc6eabbe95759-responsive-160.webp",
+        "width": 160,
+        "height": 120,
+        "bytes": 3986
+      },
+      {
+        "src": "/assets/remote-356cc6eabbe95759-responsive-320.webp",
+        "width": 320,
+        "height": 240,
+        "bytes": 12418
+      },
+      {
+        "src": "/assets/remote-356cc6eabbe95759-responsive-640.webp",
+        "width": 640,
+        "height": 480,
+        "bytes": 48776
+      },
+      {
+        "src": "/assets/remote-356cc6eabbe95759-responsive-1024.webp",
+        "width": 1024,
+        "height": 768,
+        "bytes": 107734
+      }
+    ]
+  },
+  "https://aitscctv.com/wp-content/uploads/2025/01/7-1-1024x768.jpg": {
+    "width": 1024,
+    "height": 768,
+    "originalBytes": 103718,
+    "variants": [
+      {
+        "src": "/assets/remote-2adb2de81631f111-responsive-160.webp",
+        "width": 160,
+        "height": 120,
+        "bytes": 2388
+      },
+      {
+        "src": "/assets/remote-2adb2de81631f111-responsive-320.webp",
+        "width": 320,
+        "height": 240,
+        "bytes": 7336
+      },
+      {
+        "src": "/assets/remote-2adb2de81631f111-responsive-640.webp",
+        "width": 640,
+        "height": 480,
+        "bytes": 26990
+      },
+      {
+        "src": "/assets/remote-2adb2de81631f111-responsive-1024.webp",
+        "width": 1024,
+        "height": 768,
+        "bytes": 58512
+      }
+    ]
+  },
+  "https://aitscctv.com/wp-content/uploads/2025/01/7-1024x768.jpg": {
+    "width": 1024,
+    "height": 768,
+    "originalBytes": 103395,
+    "variants": [
+      {
+        "src": "/assets/remote-ee8f2abfafd3a244-responsive-160.webp",
+        "width": 160,
+        "height": 120,
+        "bytes": 2816
+      },
+      {
+        "src": "/assets/remote-ee8f2abfafd3a244-responsive-320.webp",
+        "width": 320,
+        "height": 240,
+        "bytes": 7460
+      },
+      {
+        "src": "/assets/remote-ee8f2abfafd3a244-responsive-640.webp",
+        "width": 640,
+        "height": 480,
+        "bytes": 25076
+      },
+      {
+        "src": "/assets/remote-ee8f2abfafd3a244-responsive-1024.webp",
+        "width": 1024,
+        "height": 768,
+        "bytes": 50712
+      }
+    ]
+  },
+  "https://aitscctv.com/wp-content/uploads/2025/01/8-1024x768.jpg": {
+    "width": 1024,
+    "height": 768,
+    "originalBytes": 52422,
+    "variants": [
+      {
+        "src": "/assets/remote-d24795046c3e9e02-responsive-160.webp",
+        "width": 160,
+        "height": 120,
+        "bytes": 1182
+      },
+      {
+        "src": "/assets/remote-d24795046c3e9e02-responsive-320.webp",
+        "width": 320,
+        "height": 240,
+        "bytes": 2812
+      },
+      {
+        "src": "/assets/remote-d24795046c3e9e02-responsive-640.webp",
+        "width": 640,
+        "height": 480,
+        "bytes": 8798
+      },
+      {
+        "src": "/assets/remote-d24795046c3e9e02-responsive-1024.webp",
+        "width": 1024,
+        "height": 768,
+        "bytes": 16872
+      }
+    ]
+  },
+  "https://aitscctv.com/wp-content/uploads/2025/01/8-2-1024x768.jpg": {
+    "width": 1024,
+    "height": 768,
+    "originalBytes": 121261,
+    "variants": [
+      {
+        "src": "/assets/remote-3b6abbc11b04c1a2-responsive-160.webp",
+        "width": 160,
+        "height": 120,
+        "bytes": 2596
+      },
+      {
+        "src": "/assets/remote-3b6abbc11b04c1a2-responsive-320.webp",
+        "width": 320,
+        "height": 240,
+        "bytes": 8114
+      },
+      {
+        "src": "/assets/remote-3b6abbc11b04c1a2-responsive-640.webp",
+        "width": 640,
+        "height": 480,
+        "bytes": 32308
+      },
+      {
+        "src": "/assets/remote-3b6abbc11b04c1a2-responsive-1024.webp",
+        "width": 1024,
+        "height": 768,
+        "bytes": 71398
+      }
+    ]
+  },
+  "https://aitscctv.com/wp-content/uploads/2025/01/8-3-1024x768.jpg": {
+    "width": 1024,
+    "height": 768,
+    "originalBytes": 83977,
+    "variants": [
+      {
+        "src": "/assets/remote-b19fa31685067d85-responsive-160.webp",
+        "width": 160,
+        "height": 120,
+        "bytes": 2322
+      },
+      {
+        "src": "/assets/remote-b19fa31685067d85-responsive-320.webp",
+        "width": 320,
+        "height": 240,
+        "bytes": 6664
+      },
+      {
+        "src": "/assets/remote-b19fa31685067d85-responsive-640.webp",
+        "width": 640,
+        "height": 480,
+        "bytes": 21750
+      },
+      {
+        "src": "/assets/remote-b19fa31685067d85-responsive-1024.webp",
+        "width": 1024,
+        "height": 768,
+        "bytes": 43958
+      }
+    ]
+  },
+  "https://aitscctv.com/wp-content/uploads/2025/01/9-2-1024x768.jpg": {
+    "width": 1024,
+    "height": 768,
+    "originalBytes": 160134,
+    "variants": [
+      {
+        "src": "/assets/remote-2a6bb05f5f0f3293-responsive-160.webp",
+        "width": 160,
+        "height": 120,
+        "bytes": 3784
+      },
+      {
+        "src": "/assets/remote-2a6bb05f5f0f3293-responsive-320.webp",
+        "width": 320,
+        "height": 240,
+        "bytes": 11846
+      },
+      {
+        "src": "/assets/remote-2a6bb05f5f0f3293-responsive-640.webp",
+        "width": 640,
+        "height": 480,
+        "bytes": 46426
+      },
+      {
+        "src": "/assets/remote-2a6bb05f5f0f3293-responsive-1024.webp",
+        "width": 1024,
+        "height": 768,
+        "bytes": 102352
+      }
+    ]
+  },
+  "https://aitscctv.com/wp-content/uploads/2025/01/9-3-1024x768.jpg": {
+    "width": 1024,
+    "height": 768,
+    "originalBytes": 247176,
+    "variants": [
+      {
+        "src": "/assets/remote-12209d31c2b2c846-responsive-160.webp",
+        "width": 160,
+        "height": 120,
+        "bytes": 5112
+      },
+      {
+        "src": "/assets/remote-12209d31c2b2c846-responsive-320.webp",
+        "width": 320,
+        "height": 240,
+        "bytes": 18614
+      },
+      {
+        "src": "/assets/remote-12209d31c2b2c846-responsive-640.webp",
+        "width": 640,
+        "height": 480,
+        "bytes": 85704
+      },
+      {
+        "src": "/assets/remote-12209d31c2b2c846-responsive-1024.webp",
+        "width": 1024,
+        "height": 768,
+        "bytes": 203862
+      }
+    ]
+  },
+  "https://aitscctv.com/wp-content/uploads/2025/01/9-930x1024.jpg": {
+    "width": 930,
+    "height": 1024,
+    "originalBytes": 76715,
+    "variants": [
+      {
+        "src": "/assets/remote-92b6269d451440f3-responsive-160.webp",
+        "width": 160,
+        "height": 177,
+        "bytes": 1820
+      },
+      {
+        "src": "/assets/remote-92b6269d451440f3-responsive-320.webp",
+        "width": 320,
+        "height": 352,
+        "bytes": 4622
+      },
+      {
+        "src": "/assets/remote-92b6269d451440f3-responsive-640.webp",
+        "width": 640,
+        "height": 705,
+        "bytes": 14096
+      },
+      {
+        "src": "/assets/remote-92b6269d451440f3-responsive-930.webp",
+        "width": 930,
+        "height": 1024,
+        "bytes": 25842
       }
     ]
   },
@@ -13847,6 +16919,242 @@
       }
     ]
   },
+  "https://aitscctv.com/wp-content/uploads/2025/08/1-1-1024x472.jpg": {
+    "width": 1024,
+    "height": 472,
+    "originalBytes": 172365,
+    "variants": [
+      {
+        "src": "/assets/remote-ca1547afbed7f0a4-responsive-160.webp",
+        "width": 160,
+        "height": 74,
+        "bytes": 4206
+      },
+      {
+        "src": "/assets/remote-ca1547afbed7f0a4-responsive-320.webp",
+        "width": 320,
+        "height": 148,
+        "bytes": 13620
+      },
+      {
+        "src": "/assets/remote-ca1547afbed7f0a4-responsive-640.webp",
+        "width": 640,
+        "height": 295,
+        "bytes": 53294
+      },
+      {
+        "src": "/assets/remote-ca1547afbed7f0a4-responsive-1024.webp",
+        "width": 1024,
+        "height": 472,
+        "bytes": 114680
+      }
+    ]
+  },
+  "https://aitscctv.com/wp-content/uploads/2025/08/1-2-1024x473.jpg": {
+    "width": 1024,
+    "height": 473,
+    "originalBytes": 159237,
+    "variants": [
+      {
+        "src": "/assets/remote-aeba91a50f9305fe-responsive-160.webp",
+        "width": 160,
+        "height": 74,
+        "bytes": 4120
+      },
+      {
+        "src": "/assets/remote-aeba91a50f9305fe-responsive-320.webp",
+        "width": 320,
+        "height": 148,
+        "bytes": 12838
+      },
+      {
+        "src": "/assets/remote-aeba91a50f9305fe-responsive-640.webp",
+        "width": 640,
+        "height": 296,
+        "bytes": 46252
+      },
+      {
+        "src": "/assets/remote-aeba91a50f9305fe-responsive-1024.webp",
+        "width": 1024,
+        "height": 473,
+        "bytes": 105170
+      }
+    ]
+  },
+  "https://aitscctv.com/wp-content/uploads/2025/08/1-4-768x1024.jpg": {
+    "width": 768,
+    "height": 1024,
+    "originalBytes": 202528,
+    "variants": [
+      {
+        "src": "/assets/remote-8fd2d7cefb148d33-responsive-160.webp",
+        "width": 160,
+        "height": 213,
+        "bytes": 7006
+      },
+      {
+        "src": "/assets/remote-8fd2d7cefb148d33-responsive-320.webp",
+        "width": 320,
+        "height": 427,
+        "bytes": 23694
+      },
+      {
+        "src": "/assets/remote-8fd2d7cefb148d33-responsive-640.webp",
+        "width": 640,
+        "height": 853,
+        "bytes": 91264
+      },
+      {
+        "src": "/assets/remote-8fd2d7cefb148d33-responsive-768.webp",
+        "width": 768,
+        "height": 1024,
+        "bytes": 125416
+      }
+    ]
+  },
+  "https://aitscctv.com/wp-content/uploads/2025/08/1-672x1024.jpg": {
+    "width": 672,
+    "height": 1024,
+    "originalBytes": 115437,
+    "variants": [
+      {
+        "src": "/assets/remote-be6632ba4e538ef6-responsive-160.webp",
+        "width": 160,
+        "height": 244,
+        "bytes": 6368
+      },
+      {
+        "src": "/assets/remote-be6632ba4e538ef6-responsive-320.webp",
+        "width": 320,
+        "height": 488,
+        "bytes": 16272
+      },
+      {
+        "src": "/assets/remote-be6632ba4e538ef6-responsive-640.webp",
+        "width": 640,
+        "height": 975,
+        "bytes": 46402
+      },
+      {
+        "src": "/assets/remote-be6632ba4e538ef6-responsive-672.webp",
+        "width": 672,
+        "height": 1024,
+        "bytes": 51016
+      }
+    ]
+  },
+  "https://aitscctv.com/wp-content/uploads/2025/08/2-1-1024x473.jpg": {
+    "width": 1024,
+    "height": 473,
+    "originalBytes": 97126,
+    "variants": [
+      {
+        "src": "/assets/remote-88871c65637bda9b-responsive-160.webp",
+        "width": 160,
+        "height": 74,
+        "bytes": 2376
+      },
+      {
+        "src": "/assets/remote-88871c65637bda9b-responsive-320.webp",
+        "width": 320,
+        "height": 148,
+        "bytes": 6900
+      },
+      {
+        "src": "/assets/remote-88871c65637bda9b-responsive-640.webp",
+        "width": 640,
+        "height": 296,
+        "bytes": 23766
+      },
+      {
+        "src": "/assets/remote-88871c65637bda9b-responsive-1024.webp",
+        "width": 1024,
+        "height": 473,
+        "bytes": 48018
+      }
+    ]
+  },
+  "https://aitscctv.com/wp-content/uploads/2025/08/2-2-472x1024.jpg": {
+    "width": 472,
+    "height": 1024,
+    "originalBytes": 125998,
+    "variants": [
+      {
+        "src": "/assets/remote-e0547b15d74f308b-responsive-160.webp",
+        "width": 160,
+        "height": 347,
+        "bytes": 9062
+      },
+      {
+        "src": "/assets/remote-e0547b15d74f308b-responsive-320.webp",
+        "width": 320,
+        "height": 694,
+        "bytes": 30556
+      },
+      {
+        "src": "/assets/remote-e0547b15d74f308b-responsive-472.webp",
+        "width": 472,
+        "height": 1024,
+        "bytes": 72664
+      }
+    ]
+  },
+  "https://aitscctv.com/wp-content/uploads/2025/08/2-4-768x1024.jpg": {
+    "width": 768,
+    "height": 1024,
+    "originalBytes": 207174,
+    "variants": [
+      {
+        "src": "/assets/remote-37ba603d7a58cfcd-responsive-160.webp",
+        "width": 160,
+        "height": 213,
+        "bytes": 6488
+      },
+      {
+        "src": "/assets/remote-37ba603d7a58cfcd-responsive-320.webp",
+        "width": 320,
+        "height": 427,
+        "bytes": 22716
+      },
+      {
+        "src": "/assets/remote-37ba603d7a58cfcd-responsive-640.webp",
+        "width": 640,
+        "height": 853,
+        "bytes": 96394
+      },
+      {
+        "src": "/assets/remote-37ba603d7a58cfcd-responsive-768.webp",
+        "width": 768,
+        "height": 1024,
+        "bytes": 133408
+      }
+    ]
+  },
+  "https://aitscctv.com/wp-content/uploads/2025/08/2-473x1024.jpg": {
+    "width": 473,
+    "height": 1024,
+    "originalBytes": 81575,
+    "variants": [
+      {
+        "src": "/assets/remote-ff51c646f0a6ec4f-responsive-160.webp",
+        "width": 160,
+        "height": 346,
+        "bytes": 6744
+      },
+      {
+        "src": "/assets/remote-ff51c646f0a6ec4f-responsive-320.webp",
+        "width": 320,
+        "height": 693,
+        "bytes": 17806
+      },
+      {
+        "src": "/assets/remote-ff51c646f0a6ec4f-responsive-473.webp",
+        "width": 473,
+        "height": 1024,
+        "bytes": 37974
+      }
+    ]
+  },
   "https://aitscctv.com/wp-content/uploads/2025/08/2-CCTV-final-768x768.jpg": {
     "width": 768,
     "height": 768,
@@ -13878,6 +17186,603 @@
       }
     ]
   },
+  "https://aitscctv.com/wp-content/uploads/2025/08/3-1-1024x473.jpg": {
+    "width": 1024,
+    "height": 473,
+    "originalBytes": 93863,
+    "variants": [
+      {
+        "src": "/assets/remote-0be53454b6d17963-responsive-160.webp",
+        "width": 160,
+        "height": 74,
+        "bytes": 2544
+      },
+      {
+        "src": "/assets/remote-0be53454b6d17963-responsive-320.webp",
+        "width": 320,
+        "height": 148,
+        "bytes": 7386
+      },
+      {
+        "src": "/assets/remote-0be53454b6d17963-responsive-640.webp",
+        "width": 640,
+        "height": 296,
+        "bytes": 23926
+      },
+      {
+        "src": "/assets/remote-0be53454b6d17963-responsive-1024.webp",
+        "width": 1024,
+        "height": 473,
+        "bytes": 45934
+      }
+    ]
+  },
+  "https://aitscctv.com/wp-content/uploads/2025/08/3-2-473x1024.jpg": {
+    "width": 473,
+    "height": 1024,
+    "originalBytes": 155040,
+    "variants": [
+      {
+        "src": "/assets/remote-10a1017ab66447c7-responsive-160.webp",
+        "width": 160,
+        "height": 346,
+        "bytes": 13350
+      },
+      {
+        "src": "/assets/remote-10a1017ab66447c7-responsive-320.webp",
+        "width": 320,
+        "height": 693,
+        "bytes": 43576
+      },
+      {
+        "src": "/assets/remote-10a1017ab66447c7-responsive-473.webp",
+        "width": 473,
+        "height": 1024,
+        "bytes": 96412
+      }
+    ]
+  },
+  "https://aitscctv.com/wp-content/uploads/2025/08/3-4-1024x768.jpg": {
+    "width": 1024,
+    "height": 768,
+    "originalBytes": 216870,
+    "variants": [
+      {
+        "src": "/assets/remote-a941079473d5f34b-responsive-160.webp",
+        "width": 160,
+        "height": 120,
+        "bytes": 3690
+      },
+      {
+        "src": "/assets/remote-a941079473d5f34b-responsive-320.webp",
+        "width": 320,
+        "height": 240,
+        "bytes": 13572
+      },
+      {
+        "src": "/assets/remote-a941079473d5f34b-responsive-640.webp",
+        "width": 640,
+        "height": 480,
+        "bytes": 62050
+      },
+      {
+        "src": "/assets/remote-a941079473d5f34b-responsive-1024.webp",
+        "width": 1024,
+        "height": 768,
+        "bytes": 151744
+      }
+    ]
+  },
+  "https://aitscctv.com/wp-content/uploads/2025/08/3-473x1024.jpg": {
+    "width": 473,
+    "height": 1024,
+    "originalBytes": 99093,
+    "variants": [
+      {
+        "src": "/assets/remote-e494f0af54ce576a-responsive-160.webp",
+        "width": 160,
+        "height": 346,
+        "bytes": 8660
+      },
+      {
+        "src": "/assets/remote-e494f0af54ce576a-responsive-320.webp",
+        "width": 320,
+        "height": 693,
+        "bytes": 23476
+      },
+      {
+        "src": "/assets/remote-e494f0af54ce576a-responsive-473.webp",
+        "width": 473,
+        "height": 1024,
+        "bytes": 49894
+      }
+    ]
+  },
+  "https://aitscctv.com/wp-content/uploads/2025/08/4-1-1024x473.jpg": {
+    "width": 1024,
+    "height": 473,
+    "originalBytes": 95317,
+    "variants": [
+      {
+        "src": "/assets/remote-940ec73931c2fc71-responsive-160.webp",
+        "width": 160,
+        "height": 74,
+        "bytes": 2226
+      },
+      {
+        "src": "/assets/remote-940ec73931c2fc71-responsive-320.webp",
+        "width": 320,
+        "height": 148,
+        "bytes": 6498
+      },
+      {
+        "src": "/assets/remote-940ec73931c2fc71-responsive-640.webp",
+        "width": 640,
+        "height": 296,
+        "bytes": 22126
+      },
+      {
+        "src": "/assets/remote-940ec73931c2fc71-responsive-1024.webp",
+        "width": 1024,
+        "height": 473,
+        "bytes": 43554
+      }
+    ]
+  },
+  "https://aitscctv.com/wp-content/uploads/2025/08/4-2-575x1024.jpg": {
+    "width": 575,
+    "height": 1024,
+    "originalBytes": 190091,
+    "variants": [
+      {
+        "src": "/assets/remote-887cb5b791129de9-responsive-160.webp",
+        "width": 160,
+        "height": 285,
+        "bytes": 11700
+      },
+      {
+        "src": "/assets/remote-887cb5b791129de9-responsive-320.webp",
+        "width": 320,
+        "height": 570,
+        "bytes": 38746
+      },
+      {
+        "src": "/assets/remote-887cb5b791129de9-responsive-575.webp",
+        "width": 575,
+        "height": 1024,
+        "bytes": 115892
+      }
+    ]
+  },
+  "https://aitscctv.com/wp-content/uploads/2025/08/4-4-1024x768.jpg": {
+    "width": 1024,
+    "height": 768,
+    "originalBytes": 213468,
+    "variants": [
+      {
+        "src": "/assets/remote-8f6fb269776846ac-responsive-160.webp",
+        "width": 160,
+        "height": 120,
+        "bytes": 4502
+      },
+      {
+        "src": "/assets/remote-8f6fb269776846ac-responsive-320.webp",
+        "width": 320,
+        "height": 240,
+        "bytes": 14834
+      },
+      {
+        "src": "/assets/remote-8f6fb269776846ac-responsive-640.webp",
+        "width": 640,
+        "height": 480,
+        "bytes": 62282
+      },
+      {
+        "src": "/assets/remote-8f6fb269776846ac-responsive-1024.webp",
+        "width": 1024,
+        "height": 768,
+        "bytes": 143426
+      }
+    ]
+  },
+  "https://aitscctv.com/wp-content/uploads/2025/08/4-473x1024.jpg": {
+    "width": 473,
+    "height": 1024,
+    "originalBytes": 115282,
+    "variants": [
+      {
+        "src": "/assets/remote-232467db1c0ecfb8-responsive-160.webp",
+        "width": 160,
+        "height": 346,
+        "bytes": 9104
+      },
+      {
+        "src": "/assets/remote-232467db1c0ecfb8-responsive-320.webp",
+        "width": 320,
+        "height": 693,
+        "bytes": 28408
+      },
+      {
+        "src": "/assets/remote-232467db1c0ecfb8-responsive-473.webp",
+        "width": 473,
+        "height": 1024,
+        "bytes": 66282
+      }
+    ]
+  },
+  "https://aitscctv.com/wp-content/uploads/2025/08/5-1-1024x473.jpg": {
+    "width": 1024,
+    "height": 473,
+    "originalBytes": 94393,
+    "variants": [
+      {
+        "src": "/assets/remote-3092011285edf08c-responsive-160.webp",
+        "width": 160,
+        "height": 74,
+        "bytes": 2172
+      },
+      {
+        "src": "/assets/remote-3092011285edf08c-responsive-320.webp",
+        "width": 320,
+        "height": 148,
+        "bytes": 6504
+      },
+      {
+        "src": "/assets/remote-3092011285edf08c-responsive-640.webp",
+        "width": 640,
+        "height": 296,
+        "bytes": 23730
+      },
+      {
+        "src": "/assets/remote-3092011285edf08c-responsive-1024.webp",
+        "width": 1024,
+        "height": 473,
+        "bytes": 49432
+      }
+    ]
+  },
+  "https://aitscctv.com/wp-content/uploads/2025/08/5-3-1024x473.jpg": {
+    "width": 1024,
+    "height": 473,
+    "originalBytes": 161267,
+    "variants": [
+      {
+        "src": "/assets/remote-c54b3379e38dfd72-responsive-160.webp",
+        "width": 160,
+        "height": 74,
+        "bytes": 3240
+      },
+      {
+        "src": "/assets/remote-c54b3379e38dfd72-responsive-320.webp",
+        "width": 320,
+        "height": 148,
+        "bytes": 10022
+      },
+      {
+        "src": "/assets/remote-c54b3379e38dfd72-responsive-640.webp",
+        "width": 640,
+        "height": 296,
+        "bytes": 44682
+      },
+      {
+        "src": "/assets/remote-c54b3379e38dfd72-responsive-1024.webp",
+        "width": 1024,
+        "height": 473,
+        "bytes": 112054
+      }
+    ]
+  },
+  "https://aitscctv.com/wp-content/uploads/2025/08/5-473x1024.jpg": {
+    "width": 473,
+    "height": 1024,
+    "originalBytes": 68380,
+    "variants": [
+      {
+        "src": "/assets/remote-e0a85f369b3c557b-responsive-160.webp",
+        "width": 160,
+        "height": 346,
+        "bytes": 5414
+      },
+      {
+        "src": "/assets/remote-e0a85f369b3c557b-responsive-320.webp",
+        "width": 320,
+        "height": 693,
+        "bytes": 13458
+      },
+      {
+        "src": "/assets/remote-e0a85f369b3c557b-responsive-473.webp",
+        "width": 473,
+        "height": 1024,
+        "bytes": 27382
+      }
+    ]
+  },
+  "https://aitscctv.com/wp-content/uploads/2025/08/5-5-1024x768.jpg": {
+    "width": 1024,
+    "height": 768,
+    "originalBytes": 169928,
+    "variants": [
+      {
+        "src": "/assets/remote-be1bbb89d6fa6fed-responsive-160.webp",
+        "width": 160,
+        "height": 120,
+        "bytes": 3532
+      },
+      {
+        "src": "/assets/remote-be1bbb89d6fa6fed-responsive-320.webp",
+        "width": 320,
+        "height": 240,
+        "bytes": 11362
+      },
+      {
+        "src": "/assets/remote-be1bbb89d6fa6fed-responsive-640.webp",
+        "width": 640,
+        "height": 480,
+        "bytes": 46132
+      },
+      {
+        "src": "/assets/remote-be1bbb89d6fa6fed-responsive-1024.webp",
+        "width": 1024,
+        "height": 768,
+        "bytes": 96560
+      }
+    ]
+  },
+  "https://aitscctv.com/wp-content/uploads/2025/08/6-1-473x1024.jpg": {
+    "width": 473,
+    "height": 1024,
+    "originalBytes": 114895,
+    "variants": [
+      {
+        "src": "/assets/remote-2802f95fa9410cf9-responsive-160.webp",
+        "width": 160,
+        "height": 346,
+        "bytes": 10836
+      },
+      {
+        "src": "/assets/remote-2802f95fa9410cf9-responsive-320.webp",
+        "width": 320,
+        "height": 693,
+        "bytes": 28568
+      },
+      {
+        "src": "/assets/remote-2802f95fa9410cf9-responsive-473.webp",
+        "width": 473,
+        "height": 1024,
+        "bytes": 58750
+      }
+    ]
+  },
+  "https://aitscctv.com/wp-content/uploads/2025/08/6-3-740x1024.jpg": {
+    "width": 740,
+    "height": 1024,
+    "originalBytes": 112049,
+    "variants": [
+      {
+        "src": "/assets/remote-1e42028eaca62fbf-responsive-160.webp",
+        "width": 160,
+        "height": 221,
+        "bytes": 4374
+      },
+      {
+        "src": "/assets/remote-1e42028eaca62fbf-responsive-320.webp",
+        "width": 320,
+        "height": 443,
+        "bytes": 11768
+      },
+      {
+        "src": "/assets/remote-1e42028eaca62fbf-responsive-640.webp",
+        "width": 640,
+        "height": 886,
+        "bytes": 38016
+      },
+      {
+        "src": "/assets/remote-1e42028eaca62fbf-responsive-740.webp",
+        "width": 740,
+        "height": 1024,
+        "bytes": 48940
+      }
+    ]
+  },
+  "https://aitscctv.com/wp-content/uploads/2025/08/6-473x1024.jpg": {
+    "width": 473,
+    "height": 1024,
+    "originalBytes": 83809,
+    "variants": [
+      {
+        "src": "/assets/remote-66a2cf7edc972c35-responsive-160.webp",
+        "width": 160,
+        "height": 346,
+        "bytes": 6428
+      },
+      {
+        "src": "/assets/remote-66a2cf7edc972c35-responsive-320.webp",
+        "width": 320,
+        "height": 693,
+        "bytes": 16694
+      },
+      {
+        "src": "/assets/remote-66a2cf7edc972c35-responsive-473.webp",
+        "width": 473,
+        "height": 1024,
+        "bytes": 36778
+      }
+    ]
+  },
+  "https://aitscctv.com/wp-content/uploads/2025/08/6-5-1024x768.jpg": {
+    "width": 1024,
+    "height": 768,
+    "originalBytes": 101938,
+    "variants": [
+      {
+        "src": "/assets/remote-542aee95e340c379-responsive-160.webp",
+        "width": 160,
+        "height": 120,
+        "bytes": 1668
+      },
+      {
+        "src": "/assets/remote-542aee95e340c379-responsive-320.webp",
+        "width": 320,
+        "height": 240,
+        "bytes": 4926
+      },
+      {
+        "src": "/assets/remote-542aee95e340c379-responsive-640.webp",
+        "width": 640,
+        "height": 480,
+        "bytes": 21302
+      },
+      {
+        "src": "/assets/remote-542aee95e340c379-responsive-1024.webp",
+        "width": 1024,
+        "height": 768,
+        "bytes": 46382
+      }
+    ]
+  },
+  "https://aitscctv.com/wp-content/uploads/2025/08/7-1024x473.jpg": {
+    "width": 1024,
+    "height": 473,
+    "originalBytes": 132643,
+    "variants": [
+      {
+        "src": "/assets/remote-bb4d32179f5e7da5-responsive-160.webp",
+        "width": 160,
+        "height": 74,
+        "bytes": 3106
+      },
+      {
+        "src": "/assets/remote-bb4d32179f5e7da5-responsive-320.webp",
+        "width": 320,
+        "height": 148,
+        "bytes": 10200
+      },
+      {
+        "src": "/assets/remote-bb4d32179f5e7da5-responsive-640.webp",
+        "width": 640,
+        "height": 296,
+        "bytes": 37134
+      },
+      {
+        "src": "/assets/remote-bb4d32179f5e7da5-responsive-1024.webp",
+        "width": 1024,
+        "height": 473,
+        "bytes": 78822
+      }
+    ]
+  },
+  "https://aitscctv.com/wp-content/uploads/2025/08/7-2-473x1024.jpg": {
+    "width": 473,
+    "height": 1024,
+    "originalBytes": 124003,
+    "variants": [
+      {
+        "src": "/assets/remote-148ab656ab293f98-responsive-160.webp",
+        "width": 160,
+        "height": 346,
+        "bytes": 10140
+      },
+      {
+        "src": "/assets/remote-148ab656ab293f98-responsive-320.webp",
+        "width": 320,
+        "height": 693,
+        "bytes": 30184
+      },
+      {
+        "src": "/assets/remote-148ab656ab293f98-responsive-473.webp",
+        "width": 473,
+        "height": 1024,
+        "bytes": 70300
+      }
+    ]
+  },
+  "https://aitscctv.com/wp-content/uploads/2025/08/7-4-1024x768.jpg": {
+    "width": 1024,
+    "height": 768,
+    "originalBytes": 214259,
+    "variants": [
+      {
+        "src": "/assets/remote-80b086c1660d5f13-responsive-160.webp",
+        "width": 160,
+        "height": 120,
+        "bytes": 5758
+      },
+      {
+        "src": "/assets/remote-80b086c1660d5f13-responsive-320.webp",
+        "width": 320,
+        "height": 240,
+        "bytes": 17328
+      },
+      {
+        "src": "/assets/remote-80b086c1660d5f13-responsive-640.webp",
+        "width": 640,
+        "height": 480,
+        "bytes": 61156
+      },
+      {
+        "src": "/assets/remote-80b086c1660d5f13-responsive-1024.webp",
+        "width": 1024,
+        "height": 768,
+        "bytes": 121702
+      }
+    ]
+  },
+  "https://aitscctv.com/wp-content/uploads/2025/08/8-1-473x1024.jpg": {
+    "width": 473,
+    "height": 1024,
+    "originalBytes": 137168,
+    "variants": [
+      {
+        "src": "/assets/remote-273942bf9f16bb57-responsive-160.webp",
+        "width": 160,
+        "height": 346,
+        "bytes": 11564
+      },
+      {
+        "src": "/assets/remote-273942bf9f16bb57-responsive-320.webp",
+        "width": 320,
+        "height": 693,
+        "bytes": 35950
+      },
+      {
+        "src": "/assets/remote-273942bf9f16bb57-responsive-473.webp",
+        "width": 473,
+        "height": 1024,
+        "bytes": 82512
+      }
+    ]
+  },
+  "https://aitscctv.com/wp-content/uploads/2025/08/8-1024x473.jpg": {
+    "width": 1024,
+    "height": 473,
+    "originalBytes": 72184,
+    "variants": [
+      {
+        "src": "/assets/remote-837ebe4d9e4d4eee-responsive-160.webp",
+        "width": 160,
+        "height": 74,
+        "bytes": 1560
+      },
+      {
+        "src": "/assets/remote-837ebe4d9e4d4eee-responsive-320.webp",
+        "width": 320,
+        "height": 148,
+        "bytes": 4412
+      },
+      {
+        "src": "/assets/remote-837ebe4d9e4d4eee-responsive-640.webp",
+        "width": 640,
+        "height": 296,
+        "bytes": 15998
+      },
+      {
+        "src": "/assets/remote-837ebe4d9e4d4eee-responsive-1024.webp",
+        "width": 1024,
+        "height": 473,
+        "bytes": 33538
+      }
+    ]
+  },
   "https://aitscctv.com/wp-content/uploads/2025/08/8-pro-lan-final-768x768.jpg": {
     "width": 768,
     "height": 768,
@@ -13906,6 +17811,37 @@
         "width": 768,
         "height": 768,
         "bytes": 55220
+      }
+    ]
+  },
+  "https://aitscctv.com/wp-content/uploads/2025/08/9-1024x473.jpg": {
+    "width": 1024,
+    "height": 473,
+    "originalBytes": 132030,
+    "variants": [
+      {
+        "src": "/assets/remote-5dc246ad7018b4f2-responsive-160.webp",
+        "width": 160,
+        "height": 74,
+        "bytes": 3256
+      },
+      {
+        "src": "/assets/remote-5dc246ad7018b4f2-responsive-320.webp",
+        "width": 320,
+        "height": 148,
+        "bytes": 9680
+      },
+      {
+        "src": "/assets/remote-5dc246ad7018b4f2-responsive-640.webp",
+        "width": 640,
+        "height": 296,
+        "bytes": 35392
+      },
+      {
+        "src": "/assets/remote-5dc246ad7018b4f2-responsive-1024.webp",
+        "width": 1024,
+        "height": 473,
+        "bytes": 79464
       }
     ]
   },
@@ -14030,6 +17966,1637 @@
         "width": 1068,
         "height": 610,
         "bytes": 7620
+      }
+    ]
+  },
+  "https://aitscctv.com/wp-content/uploads/2025/11/1-1024x768.jpg": {
+    "width": 1024,
+    "height": 768,
+    "originalBytes": 117276,
+    "variants": [
+      {
+        "src": "/assets/remote-09d9169376a550f9-responsive-160.webp",
+        "width": 160,
+        "height": 120,
+        "bytes": 3218
+      },
+      {
+        "src": "/assets/remote-09d9169376a550f9-responsive-320.webp",
+        "width": 320,
+        "height": 240,
+        "bytes": 8174
+      },
+      {
+        "src": "/assets/remote-09d9169376a550f9-responsive-640.webp",
+        "width": 640,
+        "height": 480,
+        "bytes": 27118
+      },
+      {
+        "src": "/assets/remote-09d9169376a550f9-responsive-1024.webp",
+        "width": 1024,
+        "height": 768,
+        "bytes": 54024
+      }
+    ]
+  },
+  "https://aitscctv.com/wp-content/uploads/2025/11/2-1024x768.jpg": {
+    "width": 1024,
+    "height": 768,
+    "originalBytes": 76528,
+    "variants": [
+      {
+        "src": "/assets/remote-45675a2333f77925-responsive-160.webp",
+        "width": 160,
+        "height": 120,
+        "bytes": 2016
+      },
+      {
+        "src": "/assets/remote-45675a2333f77925-responsive-320.webp",
+        "width": 320,
+        "height": 240,
+        "bytes": 4774
+      },
+      {
+        "src": "/assets/remote-45675a2333f77925-responsive-640.webp",
+        "width": 640,
+        "height": 480,
+        "bytes": 14534
+      },
+      {
+        "src": "/assets/remote-45675a2333f77925-responsive-1024.webp",
+        "width": 1024,
+        "height": 768,
+        "bytes": 28326
+      }
+    ]
+  },
+  "https://aitscctv.com/wp-content/uploads/2025/11/3-1024x768.jpg": {
+    "width": 1024,
+    "height": 768,
+    "originalBytes": 155413,
+    "variants": [
+      {
+        "src": "/assets/remote-5582aa02ead829a6-responsive-160.webp",
+        "width": 160,
+        "height": 120,
+        "bytes": 3346
+      },
+      {
+        "src": "/assets/remote-5582aa02ead829a6-responsive-320.webp",
+        "width": 320,
+        "height": 240,
+        "bytes": 10274
+      },
+      {
+        "src": "/assets/remote-5582aa02ead829a6-responsive-640.webp",
+        "width": 640,
+        "height": 480,
+        "bytes": 39216
+      },
+      {
+        "src": "/assets/remote-5582aa02ead829a6-responsive-1024.webp",
+        "width": 1024,
+        "height": 768,
+        "bytes": 84574
+      }
+    ]
+  },
+  "https://aitscctv.com/wp-content/uploads/2025/11/4-1024x768.jpg": {
+    "width": 1024,
+    "height": 768,
+    "originalBytes": 55830,
+    "variants": [
+      {
+        "src": "/assets/remote-e22d7a08a07fe80d-responsive-160.webp",
+        "width": 160,
+        "height": 120,
+        "bytes": 1242
+      },
+      {
+        "src": "/assets/remote-e22d7a08a07fe80d-responsive-320.webp",
+        "width": 320,
+        "height": 240,
+        "bytes": 2700
+      },
+      {
+        "src": "/assets/remote-e22d7a08a07fe80d-responsive-640.webp",
+        "width": 640,
+        "height": 480,
+        "bytes": 7900
+      },
+      {
+        "src": "/assets/remote-e22d7a08a07fe80d-responsive-1024.webp",
+        "width": 1024,
+        "height": 768,
+        "bytes": 16118
+      }
+    ]
+  },
+  "https://aitscctv.com/wp-content/uploads/2025/11/5-1024x768.jpg": {
+    "width": 1024,
+    "height": 768,
+    "originalBytes": 148083,
+    "variants": [
+      {
+        "src": "/assets/remote-f7dfe4d2f785cc8e-responsive-160.webp",
+        "width": 160,
+        "height": 120,
+        "bytes": 3696
+      },
+      {
+        "src": "/assets/remote-f7dfe4d2f785cc8e-responsive-320.webp",
+        "width": 320,
+        "height": 240,
+        "bytes": 10954
+      },
+      {
+        "src": "/assets/remote-f7dfe4d2f785cc8e-responsive-640.webp",
+        "width": 640,
+        "height": 480,
+        "bytes": 36576
+      },
+      {
+        "src": "/assets/remote-f7dfe4d2f785cc8e-responsive-1024.webp",
+        "width": 1024,
+        "height": 768,
+        "bytes": 68210
+      }
+    ]
+  },
+  "https://aitscctv.com/wp-content/uploads/2025/12/22-1-1024x768.jpg": {
+    "width": 1024,
+    "height": 768,
+    "originalBytes": 121408,
+    "variants": [
+      {
+        "src": "/assets/remote-d2372569126b1a9d-responsive-160.webp",
+        "width": 160,
+        "height": 120,
+        "bytes": 2630
+      },
+      {
+        "src": "/assets/remote-d2372569126b1a9d-responsive-320.webp",
+        "width": 320,
+        "height": 240,
+        "bytes": 7308
+      },
+      {
+        "src": "/assets/remote-d2372569126b1a9d-responsive-640.webp",
+        "width": 640,
+        "height": 480,
+        "bytes": 24834
+      },
+      {
+        "src": "/assets/remote-d2372569126b1a9d-responsive-1024.webp",
+        "width": 1024,
+        "height": 768,
+        "bytes": 50902
+      }
+    ]
+  },
+  "https://aitscctv.com/wp-content/uploads/2025/12/22-2-1024x768.jpg": {
+    "width": 1024,
+    "height": 768,
+    "originalBytes": 80356,
+    "variants": [
+      {
+        "src": "/assets/remote-9ad1bf1ed3cb2749-responsive-160.webp",
+        "width": 160,
+        "height": 120,
+        "bytes": 1632
+      },
+      {
+        "src": "/assets/remote-9ad1bf1ed3cb2749-responsive-320.webp",
+        "width": 320,
+        "height": 240,
+        "bytes": 4386
+      },
+      {
+        "src": "/assets/remote-9ad1bf1ed3cb2749-responsive-640.webp",
+        "width": 640,
+        "height": 480,
+        "bytes": 15952
+      },
+      {
+        "src": "/assets/remote-9ad1bf1ed3cb2749-responsive-1024.webp",
+        "width": 1024,
+        "height": 768,
+        "bytes": 32554
+      }
+    ]
+  },
+  "https://aitscctv.com/wp-content/uploads/2025/12/22-3-1024x768.jpg": {
+    "width": 1024,
+    "height": 768,
+    "originalBytes": 239123,
+    "variants": [
+      {
+        "src": "/assets/remote-dbccb21ff9a432b9-responsive-160.webp",
+        "width": 160,
+        "height": 120,
+        "bytes": 6012
+      },
+      {
+        "src": "/assets/remote-dbccb21ff9a432b9-responsive-320.webp",
+        "width": 320,
+        "height": 240,
+        "bytes": 19212
+      },
+      {
+        "src": "/assets/remote-dbccb21ff9a432b9-responsive-640.webp",
+        "width": 640,
+        "height": 480,
+        "bytes": 72698
+      },
+      {
+        "src": "/assets/remote-dbccb21ff9a432b9-responsive-1024.webp",
+        "width": 1024,
+        "height": 768,
+        "bytes": 151172
+      }
+    ]
+  },
+  "https://aitscctv.com/wp-content/uploads/2025/12/22-4-1024x1024.jpg": {
+    "width": 1024,
+    "height": 1024,
+    "originalBytes": 100110,
+    "variants": [
+      {
+        "src": "/assets/remote-894558167b0847c0-responsive-160.webp",
+        "width": 160,
+        "height": 160,
+        "bytes": 2278
+      },
+      {
+        "src": "/assets/remote-894558167b0847c0-responsive-320.webp",
+        "width": 320,
+        "height": 320,
+        "bytes": 6140
+      },
+      {
+        "src": "/assets/remote-894558167b0847c0-responsive-640.webp",
+        "width": 640,
+        "height": 640,
+        "bytes": 19174
+      },
+      {
+        "src": "/assets/remote-894558167b0847c0-responsive-1024.webp",
+        "width": 1024,
+        "height": 1024,
+        "bytes": 36768
+      }
+    ]
+  },
+  "https://aitscctv.com/wp-content/uploads/2025/12/22-5-1024x768.jpg": {
+    "width": 1024,
+    "height": 768,
+    "originalBytes": 72338,
+    "variants": [
+      {
+        "src": "/assets/remote-2070eb3792b2c2cc-responsive-160.webp",
+        "width": 160,
+        "height": 120,
+        "bytes": 1116
+      },
+      {
+        "src": "/assets/remote-2070eb3792b2c2cc-responsive-320.webp",
+        "width": 320,
+        "height": 240,
+        "bytes": 2844
+      },
+      {
+        "src": "/assets/remote-2070eb3792b2c2cc-responsive-640.webp",
+        "width": 640,
+        "height": 480,
+        "bytes": 9540
+      },
+      {
+        "src": "/assets/remote-2070eb3792b2c2cc-responsive-1024.webp",
+        "width": 1024,
+        "height": 768,
+        "bytes": 21230
+      }
+    ]
+  },
+  "https://aitscctv.com/wp-content/uploads/2025/12/22-6-1024x768.jpg": {
+    "width": 1024,
+    "height": 768,
+    "originalBytes": 178475,
+    "variants": [
+      {
+        "src": "/assets/remote-c7450c0dc2c5824a-responsive-160.webp",
+        "width": 160,
+        "height": 120,
+        "bytes": 4528
+      },
+      {
+        "src": "/assets/remote-c7450c0dc2c5824a-responsive-320.webp",
+        "width": 320,
+        "height": 240,
+        "bytes": 13760
+      },
+      {
+        "src": "/assets/remote-c7450c0dc2c5824a-responsive-640.webp",
+        "width": 640,
+        "height": 480,
+        "bytes": 47162
+      },
+      {
+        "src": "/assets/remote-c7450c0dc2c5824a-responsive-1024.webp",
+        "width": 1024,
+        "height": 768,
+        "bytes": 89128
+      }
+    ]
+  },
+  "https://aitscctv.com/wp-content/uploads/2025/12/22-7-1024x768.jpg": {
+    "width": 1024,
+    "height": 768,
+    "originalBytes": 89191,
+    "variants": [
+      {
+        "src": "/assets/remote-a4f6b802dc3575b2-responsive-160.webp",
+        "width": 160,
+        "height": 120,
+        "bytes": 1860
+      },
+      {
+        "src": "/assets/remote-a4f6b802dc3575b2-responsive-320.webp",
+        "width": 320,
+        "height": 240,
+        "bytes": 5554
+      },
+      {
+        "src": "/assets/remote-a4f6b802dc3575b2-responsive-640.webp",
+        "width": 640,
+        "height": 480,
+        "bytes": 19458
+      },
+      {
+        "src": "/assets/remote-a4f6b802dc3575b2-responsive-1024.webp",
+        "width": 1024,
+        "height": 768,
+        "bytes": 40726
+      }
+    ]
+  },
+  "https://aitscctv.com/wp-content/uploads/2025/12/33-1-1024x768.jpg": {
+    "width": 1024,
+    "height": 768,
+    "originalBytes": 120547,
+    "variants": [
+      {
+        "src": "/assets/remote-aea4b16c9bafcbdf-responsive-160.webp",
+        "width": 160,
+        "height": 120,
+        "bytes": 2642
+      },
+      {
+        "src": "/assets/remote-aea4b16c9bafcbdf-responsive-320.webp",
+        "width": 320,
+        "height": 240,
+        "bytes": 7126
+      },
+      {
+        "src": "/assets/remote-aea4b16c9bafcbdf-responsive-640.webp",
+        "width": 640,
+        "height": 480,
+        "bytes": 23422
+      },
+      {
+        "src": "/assets/remote-aea4b16c9bafcbdf-responsive-1024.webp",
+        "width": 1024,
+        "height": 768,
+        "bytes": 49570
+      }
+    ]
+  },
+  "https://aitscctv.com/wp-content/uploads/2025/12/33-2-1024x768.jpg": {
+    "width": 1024,
+    "height": 768,
+    "originalBytes": 78425,
+    "variants": [
+      {
+        "src": "/assets/remote-f5fce25fca51af35-responsive-160.webp",
+        "width": 160,
+        "height": 120,
+        "bytes": 1540
+      },
+      {
+        "src": "/assets/remote-f5fce25fca51af35-responsive-320.webp",
+        "width": 320,
+        "height": 240,
+        "bytes": 4066
+      },
+      {
+        "src": "/assets/remote-f5fce25fca51af35-responsive-640.webp",
+        "width": 640,
+        "height": 480,
+        "bytes": 15446
+      },
+      {
+        "src": "/assets/remote-f5fce25fca51af35-responsive-1024.webp",
+        "width": 1024,
+        "height": 768,
+        "bytes": 32702
+      }
+    ]
+  },
+  "https://aitscctv.com/wp-content/uploads/2025/12/33-3-1024x768.jpg": {
+    "width": 1024,
+    "height": 768,
+    "originalBytes": 158473,
+    "variants": [
+      {
+        "src": "/assets/remote-206fb28c52632bda-responsive-160.webp",
+        "width": 160,
+        "height": 120,
+        "bytes": 3602
+      },
+      {
+        "src": "/assets/remote-206fb28c52632bda-responsive-320.webp",
+        "width": 320,
+        "height": 240,
+        "bytes": 10820
+      },
+      {
+        "src": "/assets/remote-206fb28c52632bda-responsive-640.webp",
+        "width": 640,
+        "height": 480,
+        "bytes": 39936
+      },
+      {
+        "src": "/assets/remote-206fb28c52632bda-responsive-1024.webp",
+        "width": 1024,
+        "height": 768,
+        "bytes": 79716
+      }
+    ]
+  },
+  "https://aitscctv.com/wp-content/uploads/2025/12/33-4-1024x1024.jpg": {
+    "width": 1024,
+    "height": 1024,
+    "originalBytes": 117183,
+    "variants": [
+      {
+        "src": "/assets/remote-bf4f87d7f46cc767-responsive-160.webp",
+        "width": 160,
+        "height": 160,
+        "bytes": 2740
+      },
+      {
+        "src": "/assets/remote-bf4f87d7f46cc767-responsive-320.webp",
+        "width": 320,
+        "height": 320,
+        "bytes": 7104
+      },
+      {
+        "src": "/assets/remote-bf4f87d7f46cc767-responsive-640.webp",
+        "width": 640,
+        "height": 640,
+        "bytes": 23710
+      },
+      {
+        "src": "/assets/remote-bf4f87d7f46cc767-responsive-1024.webp",
+        "width": 1024,
+        "height": 1024,
+        "bytes": 44496
+      }
+    ]
+  },
+  "https://aitscctv.com/wp-content/uploads/2025/12/33-5-1024x768.jpg": {
+    "width": 1024,
+    "height": 768,
+    "originalBytes": 150849,
+    "variants": [
+      {
+        "src": "/assets/remote-51168d2f96164441-responsive-160.webp",
+        "width": 160,
+        "height": 120,
+        "bytes": 2906
+      },
+      {
+        "src": "/assets/remote-51168d2f96164441-responsive-320.webp",
+        "width": 320,
+        "height": 240,
+        "bytes": 8416
+      },
+      {
+        "src": "/assets/remote-51168d2f96164441-responsive-640.webp",
+        "width": 640,
+        "height": 480,
+        "bytes": 39996
+      },
+      {
+        "src": "/assets/remote-51168d2f96164441-responsive-1024.webp",
+        "width": 1024,
+        "height": 768,
+        "bytes": 89522
+      }
+    ]
+  },
+  "https://aitscctv.com/wp-content/uploads/2025/12/33-6-1024x768.jpg": {
+    "width": 1024,
+    "height": 768,
+    "originalBytes": 183988,
+    "variants": [
+      {
+        "src": "/assets/remote-0fa3765e55e160ed-responsive-160.webp",
+        "width": 160,
+        "height": 120,
+        "bytes": 4828
+      },
+      {
+        "src": "/assets/remote-0fa3765e55e160ed-responsive-320.webp",
+        "width": 320,
+        "height": 240,
+        "bytes": 14972
+      },
+      {
+        "src": "/assets/remote-0fa3765e55e160ed-responsive-640.webp",
+        "width": 640,
+        "height": 480,
+        "bytes": 50066
+      },
+      {
+        "src": "/assets/remote-0fa3765e55e160ed-responsive-1024.webp",
+        "width": 1024,
+        "height": 768,
+        "bytes": 95254
+      }
+    ]
+  },
+  "https://aitscctv.com/wp-content/uploads/2025/12/33-7-1024x768.jpg": {
+    "width": 1024,
+    "height": 768,
+    "originalBytes": 76554,
+    "variants": [
+      {
+        "src": "/assets/remote-f22ca57c9087bb29-responsive-160.webp",
+        "width": 160,
+        "height": 120,
+        "bytes": 1796
+      },
+      {
+        "src": "/assets/remote-f22ca57c9087bb29-responsive-320.webp",
+        "width": 320,
+        "height": 240,
+        "bytes": 4692
+      },
+      {
+        "src": "/assets/remote-f22ca57c9087bb29-responsive-640.webp",
+        "width": 640,
+        "height": 480,
+        "bytes": 14154
+      },
+      {
+        "src": "/assets/remote-f22ca57c9087bb29-responsive-1024.webp",
+        "width": 1024,
+        "height": 768,
+        "bytes": 27842
+      }
+    ]
+  },
+  "https://aitscctv.com/wp-content/uploads/2025/12/44-1-1024x768.jpg": {
+    "width": 1024,
+    "height": 768,
+    "originalBytes": 104042,
+    "variants": [
+      {
+        "src": "/assets/remote-b4d78e6493853cae-responsive-160.webp",
+        "width": 160,
+        "height": 120,
+        "bytes": 2154
+      },
+      {
+        "src": "/assets/remote-b4d78e6493853cae-responsive-320.webp",
+        "width": 320,
+        "height": 240,
+        "bytes": 5592
+      },
+      {
+        "src": "/assets/remote-b4d78e6493853cae-responsive-640.webp",
+        "width": 640,
+        "height": 480,
+        "bytes": 20354
+      },
+      {
+        "src": "/assets/remote-b4d78e6493853cae-responsive-1024.webp",
+        "width": 1024,
+        "height": 768,
+        "bytes": 43146
+      }
+    ]
+  },
+  "https://aitscctv.com/wp-content/uploads/2025/12/44-2-1024x768.jpg": {
+    "width": 1024,
+    "height": 768,
+    "originalBytes": 106660,
+    "variants": [
+      {
+        "src": "/assets/remote-238d29beda5fe66a-responsive-160.webp",
+        "width": 160,
+        "height": 120,
+        "bytes": 2012
+      },
+      {
+        "src": "/assets/remote-238d29beda5fe66a-responsive-320.webp",
+        "width": 320,
+        "height": 240,
+        "bytes": 5418
+      },
+      {
+        "src": "/assets/remote-238d29beda5fe66a-responsive-640.webp",
+        "width": 640,
+        "height": 480,
+        "bytes": 21984
+      },
+      {
+        "src": "/assets/remote-238d29beda5fe66a-responsive-1024.webp",
+        "width": 1024,
+        "height": 768,
+        "bytes": 47016
+      }
+    ]
+  },
+  "https://aitscctv.com/wp-content/uploads/2025/12/44-3-1024x768.jpg": {
+    "width": 1024,
+    "height": 768,
+    "originalBytes": 190576,
+    "variants": [
+      {
+        "src": "/assets/remote-8b6cf082afb668ac-responsive-160.webp",
+        "width": 160,
+        "height": 120,
+        "bytes": 3546
+      },
+      {
+        "src": "/assets/remote-8b6cf082afb668ac-responsive-320.webp",
+        "width": 320,
+        "height": 240,
+        "bytes": 12470
+      },
+      {
+        "src": "/assets/remote-8b6cf082afb668ac-responsive-640.webp",
+        "width": 640,
+        "height": 480,
+        "bytes": 48694
+      },
+      {
+        "src": "/assets/remote-8b6cf082afb668ac-responsive-1024.webp",
+        "width": 1024,
+        "height": 768,
+        "bytes": 101266
+      }
+    ]
+  },
+  "https://aitscctv.com/wp-content/uploads/2025/12/44-4-1024x1024.jpg": {
+    "width": 1024,
+    "height": 1024,
+    "originalBytes": 168163,
+    "variants": [
+      {
+        "src": "/assets/remote-2333672926e0c2c2-responsive-160.webp",
+        "width": 160,
+        "height": 160,
+        "bytes": 3946
+      },
+      {
+        "src": "/assets/remote-2333672926e0c2c2-responsive-320.webp",
+        "width": 320,
+        "height": 320,
+        "bytes": 10940
+      },
+      {
+        "src": "/assets/remote-2333672926e0c2c2-responsive-640.webp",
+        "width": 640,
+        "height": 640,
+        "bytes": 37292
+      },
+      {
+        "src": "/assets/remote-2333672926e0c2c2-responsive-1024.webp",
+        "width": 1024,
+        "height": 1024,
+        "bytes": 73552
+      }
+    ]
+  },
+  "https://aitscctv.com/wp-content/uploads/2025/12/44-5-1024x768.jpg": {
+    "width": 1024,
+    "height": 768,
+    "originalBytes": 132791,
+    "variants": [
+      {
+        "src": "/assets/remote-c86fbad8577c4cde-responsive-160.webp",
+        "width": 160,
+        "height": 120,
+        "bytes": 2948
+      },
+      {
+        "src": "/assets/remote-c86fbad8577c4cde-responsive-320.webp",
+        "width": 320,
+        "height": 240,
+        "bytes": 7960
+      },
+      {
+        "src": "/assets/remote-c86fbad8577c4cde-responsive-640.webp",
+        "width": 640,
+        "height": 480,
+        "bytes": 28858
+      },
+      {
+        "src": "/assets/remote-c86fbad8577c4cde-responsive-1024.webp",
+        "width": 1024,
+        "height": 768,
+        "bytes": 58380
+      }
+    ]
+  },
+  "https://aitscctv.com/wp-content/uploads/2025/12/44-6-1024x768.jpg": {
+    "width": 1024,
+    "height": 768,
+    "originalBytes": 176612,
+    "variants": [
+      {
+        "src": "/assets/remote-21d905e226448682-responsive-160.webp",
+        "width": 160,
+        "height": 120,
+        "bytes": 4510
+      },
+      {
+        "src": "/assets/remote-21d905e226448682-responsive-320.webp",
+        "width": 320,
+        "height": 240,
+        "bytes": 13622
+      },
+      {
+        "src": "/assets/remote-21d905e226448682-responsive-640.webp",
+        "width": 640,
+        "height": 480,
+        "bytes": 45190
+      },
+      {
+        "src": "/assets/remote-21d905e226448682-responsive-1024.webp",
+        "width": 1024,
+        "height": 768,
+        "bytes": 89866
+      }
+    ]
+  },
+  "https://aitscctv.com/wp-content/uploads/2025/12/44-7-1024x768.jpg": {
+    "width": 1024,
+    "height": 768,
+    "originalBytes": 100327,
+    "variants": [
+      {
+        "src": "/assets/remote-5b350c53620ef32c-responsive-160.webp",
+        "width": 160,
+        "height": 120,
+        "bytes": 2186
+      },
+      {
+        "src": "/assets/remote-5b350c53620ef32c-responsive-320.webp",
+        "width": 320,
+        "height": 240,
+        "bytes": 5956
+      },
+      {
+        "src": "/assets/remote-5b350c53620ef32c-responsive-640.webp",
+        "width": 640,
+        "height": 480,
+        "bytes": 19832
+      },
+      {
+        "src": "/assets/remote-5b350c53620ef32c-responsive-1024.webp",
+        "width": 1024,
+        "height": 768,
+        "bytes": 39254
+      }
+    ]
+  },
+  "https://aitscctv.com/wp-content/uploads/2025/12/55-1-1024x768.jpg": {
+    "width": 1024,
+    "height": 768,
+    "originalBytes": 82471,
+    "variants": [
+      {
+        "src": "/assets/remote-2c97a2d3b69a5104-responsive-160.webp",
+        "width": 160,
+        "height": 120,
+        "bytes": 1488
+      },
+      {
+        "src": "/assets/remote-2c97a2d3b69a5104-responsive-320.webp",
+        "width": 320,
+        "height": 240,
+        "bytes": 3788
+      },
+      {
+        "src": "/assets/remote-2c97a2d3b69a5104-responsive-640.webp",
+        "width": 640,
+        "height": 480,
+        "bytes": 13184
+      },
+      {
+        "src": "/assets/remote-2c97a2d3b69a5104-responsive-1024.webp",
+        "width": 1024,
+        "height": 768,
+        "bytes": 27262
+      }
+    ]
+  },
+  "https://aitscctv.com/wp-content/uploads/2025/12/55-2-1024x768.jpg": {
+    "width": 1024,
+    "height": 768,
+    "originalBytes": 189019,
+    "variants": [
+      {
+        "src": "/assets/remote-699e9e2496c02741-responsive-160.webp",
+        "width": 160,
+        "height": 120,
+        "bytes": 4236
+      },
+      {
+        "src": "/assets/remote-699e9e2496c02741-responsive-320.webp",
+        "width": 320,
+        "height": 240,
+        "bytes": 13212
+      },
+      {
+        "src": "/assets/remote-699e9e2496c02741-responsive-640.webp",
+        "width": 640,
+        "height": 480,
+        "bytes": 50178
+      },
+      {
+        "src": "/assets/remote-699e9e2496c02741-responsive-1024.webp",
+        "width": 1024,
+        "height": 768,
+        "bytes": 107730
+      }
+    ]
+  },
+  "https://aitscctv.com/wp-content/uploads/2025/12/55-3-1024x1024.jpg": {
+    "width": 1024,
+    "height": 1024,
+    "originalBytes": 173378,
+    "variants": [
+      {
+        "src": "/assets/remote-29e5cc8539b0fd69-responsive-160.webp",
+        "width": 160,
+        "height": 160,
+        "bytes": 4526
+      },
+      {
+        "src": "/assets/remote-29e5cc8539b0fd69-responsive-320.webp",
+        "width": 320,
+        "height": 320,
+        "bytes": 12444
+      },
+      {
+        "src": "/assets/remote-29e5cc8539b0fd69-responsive-640.webp",
+        "width": 640,
+        "height": 640,
+        "bytes": 41582
+      },
+      {
+        "src": "/assets/remote-29e5cc8539b0fd69-responsive-1024.webp",
+        "width": 1024,
+        "height": 1024,
+        "bytes": 77616
+      }
+    ]
+  },
+  "https://aitscctv.com/wp-content/uploads/2025/12/55-4-1024x768.jpg": {
+    "width": 1024,
+    "height": 768,
+    "originalBytes": 126799,
+    "variants": [
+      {
+        "src": "/assets/remote-7cbaaaee5ca49908-responsive-160.webp",
+        "width": 160,
+        "height": 120,
+        "bytes": 4060
+      },
+      {
+        "src": "/assets/remote-7cbaaaee5ca49908-responsive-320.webp",
+        "width": 320,
+        "height": 240,
+        "bytes": 9886
+      },
+      {
+        "src": "/assets/remote-7cbaaaee5ca49908-responsive-640.webp",
+        "width": 640,
+        "height": 480,
+        "bytes": 27468
+      },
+      {
+        "src": "/assets/remote-7cbaaaee5ca49908-responsive-1024.webp",
+        "width": 1024,
+        "height": 768,
+        "bytes": 52122
+      }
+    ]
+  },
+  "https://aitscctv.com/wp-content/uploads/2025/12/55-5-1024x768.jpg": {
+    "width": 1024,
+    "height": 768,
+    "originalBytes": 157089,
+    "variants": [
+      {
+        "src": "/assets/remote-0a6fe741ffad4eea-responsive-160.webp",
+        "width": 160,
+        "height": 120,
+        "bytes": 3986
+      },
+      {
+        "src": "/assets/remote-0a6fe741ffad4eea-responsive-320.webp",
+        "width": 320,
+        "height": 240,
+        "bytes": 10968
+      },
+      {
+        "src": "/assets/remote-0a6fe741ffad4eea-responsive-640.webp",
+        "width": 640,
+        "height": 480,
+        "bytes": 36038
+      },
+      {
+        "src": "/assets/remote-0a6fe741ffad4eea-responsive-1024.webp",
+        "width": 1024,
+        "height": 768,
+        "bytes": 74454
+      }
+    ]
+  },
+  "https://aitscctv.com/wp-content/uploads/2025/12/55-6-1024x768.jpg": {
+    "width": 1024,
+    "height": 768,
+    "originalBytes": 77982,
+    "variants": [
+      {
+        "src": "/assets/remote-f5a5a7c2c8695292-responsive-160.webp",
+        "width": 160,
+        "height": 120,
+        "bytes": 1732
+      },
+      {
+        "src": "/assets/remote-f5a5a7c2c8695292-responsive-320.webp",
+        "width": 320,
+        "height": 240,
+        "bytes": 4512
+      },
+      {
+        "src": "/assets/remote-f5a5a7c2c8695292-responsive-640.webp",
+        "width": 640,
+        "height": 480,
+        "bytes": 14530
+      },
+      {
+        "src": "/assets/remote-f5a5a7c2c8695292-responsive-1024.webp",
+        "width": 1024,
+        "height": 768,
+        "bytes": 27588
+      }
+    ]
+  },
+  "https://aitscctv.com/wp-content/uploads/2025/12/66-1-1024x768.jpg": {
+    "width": 1024,
+    "height": 768,
+    "originalBytes": 86754,
+    "variants": [
+      {
+        "src": "/assets/remote-8844ff490d0295d5-responsive-160.webp",
+        "width": 160,
+        "height": 120,
+        "bytes": 1524
+      },
+      {
+        "src": "/assets/remote-8844ff490d0295d5-responsive-320.webp",
+        "width": 320,
+        "height": 240,
+        "bytes": 4204
+      },
+      {
+        "src": "/assets/remote-8844ff490d0295d5-responsive-640.webp",
+        "width": 640,
+        "height": 480,
+        "bytes": 14838
+      },
+      {
+        "src": "/assets/remote-8844ff490d0295d5-responsive-1024.webp",
+        "width": 1024,
+        "height": 768,
+        "bytes": 32410
+      }
+    ]
+  },
+  "https://aitscctv.com/wp-content/uploads/2025/12/66-2-1024x768.jpg": {
+    "width": 1024,
+    "height": 768,
+    "originalBytes": 61372,
+    "variants": [
+      {
+        "src": "/assets/remote-d78f9294668c21b6-responsive-160.webp",
+        "width": 160,
+        "height": 120,
+        "bytes": 1246
+      },
+      {
+        "src": "/assets/remote-d78f9294668c21b6-responsive-320.webp",
+        "width": 320,
+        "height": 240,
+        "bytes": 3222
+      },
+      {
+        "src": "/assets/remote-d78f9294668c21b6-responsive-640.webp",
+        "width": 640,
+        "height": 480,
+        "bytes": 10224
+      },
+      {
+        "src": "/assets/remote-d78f9294668c21b6-responsive-1024.webp",
+        "width": 1024,
+        "height": 768,
+        "bytes": 20772
+      }
+    ]
+  },
+  "https://aitscctv.com/wp-content/uploads/2025/12/77-1-1024x768.jpg": {
+    "width": 1024,
+    "height": 768,
+    "originalBytes": 78802,
+    "variants": [
+      {
+        "src": "/assets/remote-34b4ada1c1fe753e-responsive-160.webp",
+        "width": 160,
+        "height": 120,
+        "bytes": 1242
+      },
+      {
+        "src": "/assets/remote-34b4ada1c1fe753e-responsive-320.webp",
+        "width": 320,
+        "height": 240,
+        "bytes": 3280
+      },
+      {
+        "src": "/assets/remote-34b4ada1c1fe753e-responsive-640.webp",
+        "width": 640,
+        "height": 480,
+        "bytes": 11870
+      },
+      {
+        "src": "/assets/remote-34b4ada1c1fe753e-responsive-1024.webp",
+        "width": 1024,
+        "height": 768,
+        "bytes": 27312
+      }
+    ]
+  },
+  "https://aitscctv.com/wp-content/uploads/2025/12/77-2-1024x768.jpg": {
+    "width": 1024,
+    "height": 768,
+    "originalBytes": 68493,
+    "variants": [
+      {
+        "src": "/assets/remote-99fab624b1e02653-responsive-160.webp",
+        "width": 160,
+        "height": 120,
+        "bytes": 1290
+      },
+      {
+        "src": "/assets/remote-99fab624b1e02653-responsive-320.webp",
+        "width": 320,
+        "height": 240,
+        "bytes": 3006
+      },
+      {
+        "src": "/assets/remote-99fab624b1e02653-responsive-640.webp",
+        "width": 640,
+        "height": 480,
+        "bytes": 9766
+      },
+      {
+        "src": "/assets/remote-99fab624b1e02653-responsive-1024.webp",
+        "width": 1024,
+        "height": 768,
+        "bytes": 19894
+      }
+    ]
+  },
+  "https://aitscctv.com/wp-content/uploads/2026/01/11-1-1024x768.jpg": {
+    "width": 1024,
+    "height": 768,
+    "originalBytes": 89226,
+    "variants": [
+      {
+        "src": "/assets/remote-44983de260cb7488-responsive-160.webp",
+        "width": 160,
+        "height": 120,
+        "bytes": 2456
+      },
+      {
+        "src": "/assets/remote-44983de260cb7488-responsive-320.webp",
+        "width": 320,
+        "height": 240,
+        "bytes": 6222
+      },
+      {
+        "src": "/assets/remote-44983de260cb7488-responsive-640.webp",
+        "width": 640,
+        "height": 480,
+        "bytes": 19324
+      },
+      {
+        "src": "/assets/remote-44983de260cb7488-responsive-1024.webp",
+        "width": 1024,
+        "height": 768,
+        "bytes": 36812
+      }
+    ]
+  },
+  "https://aitscctv.com/wp-content/uploads/2026/01/11-2-1024x768.jpg": {
+    "width": 1024,
+    "height": 768,
+    "originalBytes": 104345,
+    "variants": [
+      {
+        "src": "/assets/remote-8c37fdbf96e39d7b-responsive-160.webp",
+        "width": 160,
+        "height": 120,
+        "bytes": 2370
+      },
+      {
+        "src": "/assets/remote-8c37fdbf96e39d7b-responsive-320.webp",
+        "width": 320,
+        "height": 240,
+        "bytes": 6092
+      },
+      {
+        "src": "/assets/remote-8c37fdbf96e39d7b-responsive-640.webp",
+        "width": 640,
+        "height": 480,
+        "bytes": 21676
+      },
+      {
+        "src": "/assets/remote-8c37fdbf96e39d7b-responsive-1024.webp",
+        "width": 1024,
+        "height": 768,
+        "bytes": 44562
+      }
+    ]
+  },
+  "https://aitscctv.com/wp-content/uploads/2026/01/11-576x1024.jpg": {
+    "width": 576,
+    "height": 1024,
+    "originalBytes": 42323,
+    "variants": [
+      {
+        "src": "/assets/remote-e0e116dbc9d60cb0-responsive-160.webp",
+        "width": 160,
+        "height": 284,
+        "bytes": 1462
+      },
+      {
+        "src": "/assets/remote-e0e116dbc9d60cb0-responsive-320.webp",
+        "width": 320,
+        "height": 569,
+        "bytes": 3532
+      },
+      {
+        "src": "/assets/remote-e0e116dbc9d60cb0-responsive-576.webp",
+        "width": 576,
+        "height": 1024,
+        "bytes": 10244
+      }
+    ]
+  },
+  "https://aitscctv.com/wp-content/uploads/2026/01/22-1-1024x768.jpg": {
+    "width": 1024,
+    "height": 768,
+    "originalBytes": 123066,
+    "variants": [
+      {
+        "src": "/assets/remote-61f56589939debb8-responsive-160.webp",
+        "width": 160,
+        "height": 120,
+        "bytes": 2918
+      },
+      {
+        "src": "/assets/remote-61f56589939debb8-responsive-320.webp",
+        "width": 320,
+        "height": 240,
+        "bytes": 7764
+      },
+      {
+        "src": "/assets/remote-61f56589939debb8-responsive-640.webp",
+        "width": 640,
+        "height": 480,
+        "bytes": 27474
+      },
+      {
+        "src": "/assets/remote-61f56589939debb8-responsive-1024.webp",
+        "width": 1024,
+        "height": 768,
+        "bytes": 55748
+      }
+    ]
+  },
+  "https://aitscctv.com/wp-content/uploads/2026/01/22-1024x768.jpg": {
+    "width": 1024,
+    "height": 768,
+    "originalBytes": 120025,
+    "variants": [
+      {
+        "src": "/assets/remote-5882d08c73c2e7c2-responsive-160.webp",
+        "width": 160,
+        "height": 120,
+        "bytes": 3154
+      },
+      {
+        "src": "/assets/remote-5882d08c73c2e7c2-responsive-320.webp",
+        "width": 320,
+        "height": 240,
+        "bytes": 8320
+      },
+      {
+        "src": "/assets/remote-5882d08c73c2e7c2-responsive-640.webp",
+        "width": 640,
+        "height": 480,
+        "bytes": 27680
+      },
+      {
+        "src": "/assets/remote-5882d08c73c2e7c2-responsive-1024.webp",
+        "width": 1024,
+        "height": 768,
+        "bytes": 54746
+      }
+    ]
+  },
+  "https://aitscctv.com/wp-content/uploads/2026/01/33-1-1024x768.jpg": {
+    "width": 1024,
+    "height": 768,
+    "originalBytes": 236269,
+    "variants": [
+      {
+        "src": "/assets/remote-82fabf672d77e32e-responsive-160.webp",
+        "width": 160,
+        "height": 120,
+        "bytes": 3124
+      },
+      {
+        "src": "/assets/remote-82fabf672d77e32e-responsive-320.webp",
+        "width": 320,
+        "height": 240,
+        "bytes": 13448
+      },
+      {
+        "src": "/assets/remote-82fabf672d77e32e-responsive-640.webp",
+        "width": 640,
+        "height": 480,
+        "bytes": 71136
+      },
+      {
+        "src": "/assets/remote-82fabf672d77e32e-responsive-1024.webp",
+        "width": 1024,
+        "height": 768,
+        "bytes": 173338
+      }
+    ]
+  },
+  "https://aitscctv.com/wp-content/uploads/2026/01/33-1024x768.jpg": {
+    "width": 1024,
+    "height": 768,
+    "originalBytes": 76114,
+    "variants": [
+      {
+        "src": "/assets/remote-4dd905171b15772e-responsive-160.webp",
+        "width": 160,
+        "height": 120,
+        "bytes": 1742
+      },
+      {
+        "src": "/assets/remote-4dd905171b15772e-responsive-320.webp",
+        "width": 320,
+        "height": 240,
+        "bytes": 4254
+      },
+      {
+        "src": "/assets/remote-4dd905171b15772e-responsive-640.webp",
+        "width": 640,
+        "height": 480,
+        "bytes": 13660
+      },
+      {
+        "src": "/assets/remote-4dd905171b15772e-responsive-1024.webp",
+        "width": 1024,
+        "height": 768,
+        "bytes": 26904
+      }
+    ]
+  },
+  "https://aitscctv.com/wp-content/uploads/2026/01/44-1024x918.jpg": {
+    "width": 1024,
+    "height": 918,
+    "originalBytes": 125496,
+    "variants": [
+      {
+        "src": "/assets/remote-0daa1a1f0e460bdd-responsive-160.webp",
+        "width": 160,
+        "height": 143,
+        "bytes": 2372
+      },
+      {
+        "src": "/assets/remote-0daa1a1f0e460bdd-responsive-320.webp",
+        "width": 320,
+        "height": 287,
+        "bytes": 6682
+      },
+      {
+        "src": "/assets/remote-0daa1a1f0e460bdd-responsive-640.webp",
+        "width": 640,
+        "height": 574,
+        "bytes": 25446
+      },
+      {
+        "src": "/assets/remote-0daa1a1f0e460bdd-responsive-1024.webp",
+        "width": 1024,
+        "height": 918,
+        "bytes": 52204
+      }
+    ]
+  },
+  "https://aitscctv.com/wp-content/uploads/2026/03/11-1-1024x768.jpg": {
+    "width": 1024,
+    "height": 768,
+    "originalBytes": 146465,
+    "variants": [
+      {
+        "src": "/assets/remote-16113ca5b9779988-responsive-160.webp",
+        "width": 160,
+        "height": 120,
+        "bytes": 4842
+      },
+      {
+        "src": "/assets/remote-16113ca5b9779988-responsive-320.webp",
+        "width": 320,
+        "height": 240,
+        "bytes": 12470
+      },
+      {
+        "src": "/assets/remote-16113ca5b9779988-responsive-640.webp",
+        "width": 640,
+        "height": 480,
+        "bytes": 36200
+      },
+      {
+        "src": "/assets/remote-16113ca5b9779988-responsive-1024.webp",
+        "width": 1024,
+        "height": 768,
+        "bytes": 63290
+      }
+    ]
+  },
+  "https://aitscctv.com/wp-content/uploads/2026/03/11-1024x768.jpg": {
+    "width": 1024,
+    "height": 768,
+    "originalBytes": 151759,
+    "variants": [
+      {
+        "src": "/assets/remote-38213ffc7422f282-responsive-160.webp",
+        "width": 160,
+        "height": 120,
+        "bytes": 3530
+      },
+      {
+        "src": "/assets/remote-38213ffc7422f282-responsive-320.webp",
+        "width": 320,
+        "height": 240,
+        "bytes": 10522
+      },
+      {
+        "src": "/assets/remote-38213ffc7422f282-responsive-640.webp",
+        "width": 640,
+        "height": 480,
+        "bytes": 37136
+      },
+      {
+        "src": "/assets/remote-38213ffc7422f282-responsive-1024.webp",
+        "width": 1024,
+        "height": 768,
+        "bytes": 74650
+      }
+    ]
+  },
+  "https://aitscctv.com/wp-content/uploads/2026/03/11-2-1024x768.jpg": {
+    "width": 1024,
+    "height": 768,
+    "originalBytes": 144217,
+    "variants": [
+      {
+        "src": "/assets/remote-113845af2fc05994-responsive-160.webp",
+        "width": 160,
+        "height": 120,
+        "bytes": 1356
+      },
+      {
+        "src": "/assets/remote-113845af2fc05994-responsive-320.webp",
+        "width": 320,
+        "height": 240,
+        "bytes": 5532
+      },
+      {
+        "src": "/assets/remote-113845af2fc05994-responsive-640.webp",
+        "width": 640,
+        "height": 480,
+        "bytes": 34002
+      },
+      {
+        "src": "/assets/remote-113845af2fc05994-responsive-1024.webp",
+        "width": 1024,
+        "height": 768,
+        "bytes": 85406
+      }
+    ]
+  },
+  "https://aitscctv.com/wp-content/uploads/2026/03/22-1-576x1024.jpg": {
+    "width": 576,
+    "height": 1024,
+    "originalBytes": 69777,
+    "variants": [
+      {
+        "src": "/assets/remote-56cac7164d68fa42-responsive-160.webp",
+        "width": 160,
+        "height": 284,
+        "bytes": 3414
+      },
+      {
+        "src": "/assets/remote-56cac7164d68fa42-responsive-320.webp",
+        "width": 320,
+        "height": 569,
+        "bytes": 8702
+      },
+      {
+        "src": "/assets/remote-56cac7164d68fa42-responsive-576.webp",
+        "width": 576,
+        "height": 1024,
+        "bytes": 24470
+      }
+    ]
+  },
+  "https://aitscctv.com/wp-content/uploads/2026/03/22-1024x768.jpg": {
+    "width": 1024,
+    "height": 768,
+    "originalBytes": 120705,
+    "variants": [
+      {
+        "src": "/assets/remote-6bb2ea9e04fe71a3-responsive-160.webp",
+        "width": 160,
+        "height": 120,
+        "bytes": 2454
+      },
+      {
+        "src": "/assets/remote-6bb2ea9e04fe71a3-responsive-320.webp",
+        "width": 320,
+        "height": 240,
+        "bytes": 6880
+      },
+      {
+        "src": "/assets/remote-6bb2ea9e04fe71a3-responsive-640.webp",
+        "width": 640,
+        "height": 480,
+        "bytes": 25646
+      },
+      {
+        "src": "/assets/remote-6bb2ea9e04fe71a3-responsive-1024.webp",
+        "width": 1024,
+        "height": 768,
+        "bytes": 55344
+      }
+    ]
+  },
+  "https://aitscctv.com/wp-content/uploads/2026/03/22-2-1024x768.jpg": {
+    "width": 1024,
+    "height": 768,
+    "originalBytes": 101923,
+    "variants": [
+      {
+        "src": "/assets/remote-ff45fb3875052eb0-responsive-160.webp",
+        "width": 160,
+        "height": 120,
+        "bytes": 2590
+      },
+      {
+        "src": "/assets/remote-ff45fb3875052eb0-responsive-320.webp",
+        "width": 320,
+        "height": 240,
+        "bytes": 7046
+      },
+      {
+        "src": "/assets/remote-ff45fb3875052eb0-responsive-640.webp",
+        "width": 640,
+        "height": 480,
+        "bytes": 22144
+      },
+      {
+        "src": "/assets/remote-ff45fb3875052eb0-responsive-1024.webp",
+        "width": 1024,
+        "height": 768,
+        "bytes": 44026
+      }
+    ]
+  },
+  "https://aitscctv.com/wp-content/uploads/2026/03/33-1-1024x768.jpg": {
+    "width": 1024,
+    "height": 768,
+    "originalBytes": 67001,
+    "variants": [
+      {
+        "src": "/assets/remote-3c3ea2ba9b1381d2-responsive-160.webp",
+        "width": 160,
+        "height": 120,
+        "bytes": 1544
+      },
+      {
+        "src": "/assets/remote-3c3ea2ba9b1381d2-responsive-320.webp",
+        "width": 320,
+        "height": 240,
+        "bytes": 3584
+      },
+      {
+        "src": "/assets/remote-3c3ea2ba9b1381d2-responsive-640.webp",
+        "width": 640,
+        "height": 480,
+        "bytes": 10680
+      },
+      {
+        "src": "/assets/remote-3c3ea2ba9b1381d2-responsive-1024.webp",
+        "width": 1024,
+        "height": 768,
+        "bytes": 20548
+      }
+    ]
+  },
+  "https://aitscctv.com/wp-content/uploads/2026/03/33-1024x768.jpg": {
+    "width": 1024,
+    "height": 768,
+    "originalBytes": 98201,
+    "variants": [
+      {
+        "src": "/assets/remote-7e9babfb7bdfcb4b-responsive-160.webp",
+        "width": 160,
+        "height": 120,
+        "bytes": 1986
+      },
+      {
+        "src": "/assets/remote-7e9babfb7bdfcb4b-responsive-320.webp",
+        "width": 320,
+        "height": 240,
+        "bytes": 5428
+      },
+      {
+        "src": "/assets/remote-7e9babfb7bdfcb4b-responsive-640.webp",
+        "width": 640,
+        "height": 480,
+        "bytes": 19036
+      },
+      {
+        "src": "/assets/remote-7e9babfb7bdfcb4b-responsive-1024.webp",
+        "width": 1024,
+        "height": 768,
+        "bytes": 39526
+      }
+    ]
+  },
+  "https://aitscctv.com/wp-content/uploads/2026/03/44-1024x728.jpg": {
+    "width": 1024,
+    "height": 728,
+    "originalBytes": 71821,
+    "variants": [
+      {
+        "src": "/assets/remote-37491fcfd946cfe6-responsive-160.webp",
+        "width": 160,
+        "height": 114,
+        "bytes": 1454
+      },
+      {
+        "src": "/assets/remote-37491fcfd946cfe6-responsive-320.webp",
+        "width": 320,
+        "height": 228,
+        "bytes": 3906
+      },
+      {
+        "src": "/assets/remote-37491fcfd946cfe6-responsive-640.webp",
+        "width": 640,
+        "height": 455,
+        "bytes": 13746
+      },
+      {
+        "src": "/assets/remote-37491fcfd946cfe6-responsive-1024.webp",
+        "width": 1024,
+        "height": 728,
+        "bytes": 29124
       }
     ]
   },
@@ -14374,6 +19941,409 @@
       }
     ]
   },
+  "https://aitscctv.com/wp-content/uploads/2026/06/1-1-1024x768.jpg": {
+    "width": 1024,
+    "height": 768,
+    "originalBytes": 72913,
+    "variants": [
+      {
+        "src": "/assets/remote-2771bf5efaf5e2ae-responsive-160.webp",
+        "width": 160,
+        "height": 120,
+        "bytes": 1734
+      },
+      {
+        "src": "/assets/remote-2771bf5efaf5e2ae-responsive-320.webp",
+        "width": 320,
+        "height": 240,
+        "bytes": 4342
+      },
+      {
+        "src": "/assets/remote-2771bf5efaf5e2ae-responsive-640.webp",
+        "width": 640,
+        "height": 480,
+        "bytes": 13744
+      },
+      {
+        "src": "/assets/remote-2771bf5efaf5e2ae-responsive-1024.webp",
+        "width": 1024,
+        "height": 768,
+        "bytes": 27088
+      }
+    ]
+  },
+  "https://aitscctv.com/wp-content/uploads/2026/06/1-1024x768.jpg": {
+    "width": 1024,
+    "height": 768,
+    "originalBytes": 151484,
+    "variants": [
+      {
+        "src": "/assets/remote-6ef0957daf42ab57-responsive-160.webp",
+        "width": 160,
+        "height": 120,
+        "bytes": 3442
+      },
+      {
+        "src": "/assets/remote-6ef0957daf42ab57-responsive-320.webp",
+        "width": 320,
+        "height": 240,
+        "bytes": 11042
+      },
+      {
+        "src": "/assets/remote-6ef0957daf42ab57-responsive-640.webp",
+        "width": 640,
+        "height": 480,
+        "bytes": 39420
+      },
+      {
+        "src": "/assets/remote-6ef0957daf42ab57-responsive-1024.webp",
+        "width": 1024,
+        "height": 768,
+        "bytes": 79504
+      }
+    ]
+  },
+  "https://aitscctv.com/wp-content/uploads/2026/06/2-1-1024x768.jpg": {
+    "width": 1024,
+    "height": 768,
+    "originalBytes": 108909,
+    "variants": [
+      {
+        "src": "/assets/remote-1a870662ca6524fc-responsive-160.webp",
+        "width": 160,
+        "height": 120,
+        "bytes": 2322
+      },
+      {
+        "src": "/assets/remote-1a870662ca6524fc-responsive-320.webp",
+        "width": 320,
+        "height": 240,
+        "bytes": 6644
+      },
+      {
+        "src": "/assets/remote-1a870662ca6524fc-responsive-640.webp",
+        "width": 640,
+        "height": 480,
+        "bytes": 24486
+      },
+      {
+        "src": "/assets/remote-1a870662ca6524fc-responsive-1024.webp",
+        "width": 1024,
+        "height": 768,
+        "bytes": 52802
+      }
+    ]
+  },
+  "https://aitscctv.com/wp-content/uploads/2026/06/2-1024x768.jpg": {
+    "width": 1024,
+    "height": 768,
+    "originalBytes": 70536,
+    "variants": [
+      {
+        "src": "/assets/remote-db7410df1ee66e3b-responsive-160.webp",
+        "width": 160,
+        "height": 120,
+        "bytes": 1448
+      },
+      {
+        "src": "/assets/remote-db7410df1ee66e3b-responsive-320.webp",
+        "width": 320,
+        "height": 240,
+        "bytes": 3548
+      },
+      {
+        "src": "/assets/remote-db7410df1ee66e3b-responsive-640.webp",
+        "width": 640,
+        "height": 480,
+        "bytes": 12370
+      },
+      {
+        "src": "/assets/remote-db7410df1ee66e3b-responsive-1024.webp",
+        "width": 1024,
+        "height": 768,
+        "bytes": 24846
+      }
+    ]
+  },
+  "https://aitscctv.com/wp-content/uploads/2026/06/3-1-1024x768.jpg": {
+    "width": 1024,
+    "height": 768,
+    "originalBytes": 75016,
+    "variants": [
+      {
+        "src": "/assets/remote-9193391153cb74ef-responsive-160.webp",
+        "width": 160,
+        "height": 120,
+        "bytes": 1798
+      },
+      {
+        "src": "/assets/remote-9193391153cb74ef-responsive-320.webp",
+        "width": 320,
+        "height": 240,
+        "bytes": 4680
+      },
+      {
+        "src": "/assets/remote-9193391153cb74ef-responsive-640.webp",
+        "width": 640,
+        "height": 480,
+        "bytes": 15078
+      },
+      {
+        "src": "/assets/remote-9193391153cb74ef-responsive-1024.webp",
+        "width": 1024,
+        "height": 768,
+        "bytes": 29738
+      }
+    ]
+  },
+  "https://aitscctv.com/wp-content/uploads/2026/06/3-1024x768.jpg": {
+    "width": 1024,
+    "height": 768,
+    "originalBytes": 101058,
+    "variants": [
+      {
+        "src": "/assets/remote-5cdaacc3c1816688-responsive-160.webp",
+        "width": 160,
+        "height": 120,
+        "bytes": 1308
+      },
+      {
+        "src": "/assets/remote-5cdaacc3c1816688-responsive-320.webp",
+        "width": 320,
+        "height": 240,
+        "bytes": 4424
+      },
+      {
+        "src": "/assets/remote-5cdaacc3c1816688-responsive-640.webp",
+        "width": 640,
+        "height": 480,
+        "bytes": 16008
+      },
+      {
+        "src": "/assets/remote-5cdaacc3c1816688-responsive-1024.webp",
+        "width": 1024,
+        "height": 768,
+        "bytes": 35024
+      }
+    ]
+  },
+  "https://aitscctv.com/wp-content/uploads/2026/06/4-1-1024x768.jpg": {
+    "width": 1024,
+    "height": 768,
+    "originalBytes": 112652,
+    "variants": [
+      {
+        "src": "/assets/remote-f4327f439a1fcbba-responsive-160.webp",
+        "width": 160,
+        "height": 120,
+        "bytes": 3046
+      },
+      {
+        "src": "/assets/remote-f4327f439a1fcbba-responsive-320.webp",
+        "width": 320,
+        "height": 240,
+        "bytes": 7752
+      },
+      {
+        "src": "/assets/remote-f4327f439a1fcbba-responsive-640.webp",
+        "width": 640,
+        "height": 480,
+        "bytes": 25036
+      },
+      {
+        "src": "/assets/remote-f4327f439a1fcbba-responsive-1024.webp",
+        "width": 1024,
+        "height": 768,
+        "bytes": 50680
+      }
+    ]
+  },
+  "https://aitscctv.com/wp-content/uploads/2026/06/4-1024x768.jpg": {
+    "width": 1024,
+    "height": 768,
+    "originalBytes": 81455,
+    "variants": [
+      {
+        "src": "/assets/remote-d3e15f84089def10-responsive-160.webp",
+        "width": 160,
+        "height": 120,
+        "bytes": 1522
+      },
+      {
+        "src": "/assets/remote-d3e15f84089def10-responsive-320.webp",
+        "width": 320,
+        "height": 240,
+        "bytes": 4244
+      },
+      {
+        "src": "/assets/remote-d3e15f84089def10-responsive-640.webp",
+        "width": 640,
+        "height": 480,
+        "bytes": 15968
+      },
+      {
+        "src": "/assets/remote-d3e15f84089def10-responsive-1024.webp",
+        "width": 1024,
+        "height": 768,
+        "bytes": 31264
+      }
+    ]
+  },
+  "https://aitscctv.com/wp-content/uploads/2026/06/5-1-1024x768.jpg": {
+    "width": 1024,
+    "height": 768,
+    "originalBytes": 114547,
+    "variants": [
+      {
+        "src": "/assets/remote-e10e6509edcf9527-responsive-160.webp",
+        "width": 160,
+        "height": 120,
+        "bytes": 2830
+      },
+      {
+        "src": "/assets/remote-e10e6509edcf9527-responsive-320.webp",
+        "width": 320,
+        "height": 240,
+        "bytes": 7608
+      },
+      {
+        "src": "/assets/remote-e10e6509edcf9527-responsive-640.webp",
+        "width": 640,
+        "height": 480,
+        "bytes": 26204
+      },
+      {
+        "src": "/assets/remote-e10e6509edcf9527-responsive-1024.webp",
+        "width": 1024,
+        "height": 768,
+        "bytes": 54480
+      }
+    ]
+  },
+  "https://aitscctv.com/wp-content/uploads/2026/06/5-1024x768.jpg": {
+    "width": 1024,
+    "height": 768,
+    "originalBytes": 109949,
+    "variants": [
+      {
+        "src": "/assets/remote-b6920ea65063a8ab-responsive-160.webp",
+        "width": 160,
+        "height": 120,
+        "bytes": 2304
+      },
+      {
+        "src": "/assets/remote-b6920ea65063a8ab-responsive-320.webp",
+        "width": 320,
+        "height": 240,
+        "bytes": 6642
+      },
+      {
+        "src": "/assets/remote-b6920ea65063a8ab-responsive-640.webp",
+        "width": 640,
+        "height": 480,
+        "bytes": 23632
+      },
+      {
+        "src": "/assets/remote-b6920ea65063a8ab-responsive-1024.webp",
+        "width": 1024,
+        "height": 768,
+        "bytes": 46898
+      }
+    ]
+  },
+  "https://aitscctv.com/wp-content/uploads/2026/06/6-1-1024x768.jpg": {
+    "width": 1024,
+    "height": 768,
+    "originalBytes": 100303,
+    "variants": [
+      {
+        "src": "/assets/remote-3c6c3a1f5e1b998f-responsive-160.webp",
+        "width": 160,
+        "height": 120,
+        "bytes": 2694
+      },
+      {
+        "src": "/assets/remote-3c6c3a1f5e1b998f-responsive-320.webp",
+        "width": 320,
+        "height": 240,
+        "bytes": 6756
+      },
+      {
+        "src": "/assets/remote-3c6c3a1f5e1b998f-responsive-640.webp",
+        "width": 640,
+        "height": 480,
+        "bytes": 22022
+      },
+      {
+        "src": "/assets/remote-3c6c3a1f5e1b998f-responsive-1024.webp",
+        "width": 1024,
+        "height": 768,
+        "bytes": 43910
+      }
+    ]
+  },
+  "https://aitscctv.com/wp-content/uploads/2026/06/6-1024x768.jpg": {
+    "width": 1024,
+    "height": 768,
+    "originalBytes": 99994,
+    "variants": [
+      {
+        "src": "/assets/remote-23dedd0d02d1f9c4-responsive-160.webp",
+        "width": 160,
+        "height": 120,
+        "bytes": 1596
+      },
+      {
+        "src": "/assets/remote-23dedd0d02d1f9c4-responsive-320.webp",
+        "width": 320,
+        "height": 240,
+        "bytes": 4586
+      },
+      {
+        "src": "/assets/remote-23dedd0d02d1f9c4-responsive-640.webp",
+        "width": 640,
+        "height": 480,
+        "bytes": 17256
+      },
+      {
+        "src": "/assets/remote-23dedd0d02d1f9c4-responsive-1024.webp",
+        "width": 1024,
+        "height": 768,
+        "bytes": 40752
+      }
+    ]
+  },
+  "https://aitscctv.com/wp-content/uploads/2026/06/7-1024x768.jpg": {
+    "width": 1024,
+    "height": 768,
+    "originalBytes": 83800,
+    "variants": [
+      {
+        "src": "/assets/remote-86b9284287dfbc69-responsive-160.webp",
+        "width": 160,
+        "height": 120,
+        "bytes": 1862
+      },
+      {
+        "src": "/assets/remote-86b9284287dfbc69-responsive-320.webp",
+        "width": 320,
+        "height": 240,
+        "bytes": 4946
+      },
+      {
+        "src": "/assets/remote-86b9284287dfbc69-responsive-640.webp",
+        "width": 640,
+        "height": 480,
+        "bytes": 16570
+      },
+      {
+        "src": "/assets/remote-86b9284287dfbc69-responsive-1024.webp",
+        "width": 1024,
+        "height": 768,
+        "bytes": 34286
+      }
+    ]
+  },
   "https://aitscctv.com/wp-content/uploads/2026/07/0-1-768x576.jpg": {
     "width": 768,
     "height": 576,
@@ -14467,6 +20437,99 @@
       }
     ]
   },
+  "https://aitscctv.com/wp-content/uploads/2026/07/1-1-1024x768.jpg": {
+    "width": 1024,
+    "height": 768,
+    "originalBytes": 139901,
+    "variants": [
+      {
+        "src": "/assets/remote-a790fc6932154544-responsive-160.webp",
+        "width": 160,
+        "height": 120,
+        "bytes": 3014
+      },
+      {
+        "src": "/assets/remote-a790fc6932154544-responsive-320.webp",
+        "width": 320,
+        "height": 240,
+        "bytes": 9388
+      },
+      {
+        "src": "/assets/remote-a790fc6932154544-responsive-640.webp",
+        "width": 640,
+        "height": 480,
+        "bytes": 35340
+      },
+      {
+        "src": "/assets/remote-a790fc6932154544-responsive-1024.webp",
+        "width": 1024,
+        "height": 768,
+        "bytes": 69754
+      }
+    ]
+  },
+  "https://aitscctv.com/wp-content/uploads/2026/07/1-1024x768.jpg": {
+    "width": 1024,
+    "height": 768,
+    "originalBytes": 137179,
+    "variants": [
+      {
+        "src": "/assets/remote-c404d730b03acb3a-responsive-160.webp",
+        "width": 160,
+        "height": 120,
+        "bytes": 3130
+      },
+      {
+        "src": "/assets/remote-c404d730b03acb3a-responsive-320.webp",
+        "width": 320,
+        "height": 240,
+        "bytes": 8798
+      },
+      {
+        "src": "/assets/remote-c404d730b03acb3a-responsive-640.webp",
+        "width": 640,
+        "height": 480,
+        "bytes": 29556
+      },
+      {
+        "src": "/assets/remote-c404d730b03acb3a-responsive-1024.webp",
+        "width": 1024,
+        "height": 768,
+        "bytes": 59060
+      }
+    ]
+  },
+  "https://aitscctv.com/wp-content/uploads/2026/07/1-2-1024x768.jpg": {
+    "width": 1024,
+    "height": 768,
+    "originalBytes": 72781,
+    "variants": [
+      {
+        "src": "/assets/remote-9ea2e1b1b2719dd5-responsive-160.webp",
+        "width": 160,
+        "height": 120,
+        "bytes": 1572
+      },
+      {
+        "src": "/assets/remote-9ea2e1b1b2719dd5-responsive-320.webp",
+        "width": 320,
+        "height": 240,
+        "bytes": 3612
+      },
+      {
+        "src": "/assets/remote-9ea2e1b1b2719dd5-responsive-640.webp",
+        "width": 640,
+        "height": 480,
+        "bytes": 11502
+      },
+      {
+        "src": "/assets/remote-9ea2e1b1b2719dd5-responsive-1024.webp",
+        "width": 1024,
+        "height": 768,
+        "bytes": 24108
+      }
+    ]
+  },
   "https://aitscctv.com/wp-content/uploads/2026/07/1-3-768x1024.jpg": {
     "width": 768,
     "height": 1024,
@@ -14495,6 +20558,99 @@
         "width": 768,
         "height": 1024,
         "bytes": 44984
+      }
+    ]
+  },
+  "https://aitscctv.com/wp-content/uploads/2026/07/2-1-1024x768.jpg": {
+    "width": 1024,
+    "height": 768,
+    "originalBytes": 117432,
+    "variants": [
+      {
+        "src": "/assets/remote-da74d72f413c0b9a-responsive-160.webp",
+        "width": 160,
+        "height": 120,
+        "bytes": 2734
+      },
+      {
+        "src": "/assets/remote-da74d72f413c0b9a-responsive-320.webp",
+        "width": 320,
+        "height": 240,
+        "bytes": 7524
+      },
+      {
+        "src": "/assets/remote-da74d72f413c0b9a-responsive-640.webp",
+        "width": 640,
+        "height": 480,
+        "bytes": 25476
+      },
+      {
+        "src": "/assets/remote-da74d72f413c0b9a-responsive-1024.webp",
+        "width": 1024,
+        "height": 768,
+        "bytes": 53692
+      }
+    ]
+  },
+  "https://aitscctv.com/wp-content/uploads/2026/07/2-1024x768.jpg": {
+    "width": 1024,
+    "height": 768,
+    "originalBytes": 87458,
+    "variants": [
+      {
+        "src": "/assets/remote-8297ba736ee1ce66-responsive-160.webp",
+        "width": 160,
+        "height": 120,
+        "bytes": 1912
+      },
+      {
+        "src": "/assets/remote-8297ba736ee1ce66-responsive-320.webp",
+        "width": 320,
+        "height": 240,
+        "bytes": 4870
+      },
+      {
+        "src": "/assets/remote-8297ba736ee1ce66-responsive-640.webp",
+        "width": 640,
+        "height": 480,
+        "bytes": 16138
+      },
+      {
+        "src": "/assets/remote-8297ba736ee1ce66-responsive-1024.webp",
+        "width": 1024,
+        "height": 768,
+        "bytes": 33672
+      }
+    ]
+  },
+  "https://aitscctv.com/wp-content/uploads/2026/07/2-2-1024x768.jpg": {
+    "width": 1024,
+    "height": 768,
+    "originalBytes": 94278,
+    "variants": [
+      {
+        "src": "/assets/remote-d8eeffe26247a77a-responsive-160.webp",
+        "width": 160,
+        "height": 120,
+        "bytes": 1712
+      },
+      {
+        "src": "/assets/remote-d8eeffe26247a77a-responsive-320.webp",
+        "width": 320,
+        "height": 240,
+        "bytes": 3912
+      },
+      {
+        "src": "/assets/remote-d8eeffe26247a77a-responsive-640.webp",
+        "width": 640,
+        "height": 480,
+        "bytes": 14812
+      },
+      {
+        "src": "/assets/remote-d8eeffe26247a77a-responsive-1024.webp",
+        "width": 1024,
+        "height": 768,
+        "bytes": 37202
       }
     ]
   },
@@ -14560,6 +20716,130 @@
       }
     ]
   },
+  "https://aitscctv.com/wp-content/uploads/2026/07/3-1-1024x768.jpg": {
+    "width": 1024,
+    "height": 768,
+    "originalBytes": 113448,
+    "variants": [
+      {
+        "src": "/assets/remote-549b94258710fc58-responsive-160.webp",
+        "width": 160,
+        "height": 120,
+        "bytes": 2898
+      },
+      {
+        "src": "/assets/remote-549b94258710fc58-responsive-320.webp",
+        "width": 320,
+        "height": 240,
+        "bytes": 7536
+      },
+      {
+        "src": "/assets/remote-549b94258710fc58-responsive-640.webp",
+        "width": 640,
+        "height": 480,
+        "bytes": 24332
+      },
+      {
+        "src": "/assets/remote-549b94258710fc58-responsive-1024.webp",
+        "width": 1024,
+        "height": 768,
+        "bytes": 50048
+      }
+    ]
+  },
+  "https://aitscctv.com/wp-content/uploads/2026/07/3-1024x768.jpg": {
+    "width": 1024,
+    "height": 768,
+    "originalBytes": 105241,
+    "variants": [
+      {
+        "src": "/assets/remote-f81412831d91cc80-responsive-160.webp",
+        "width": 160,
+        "height": 120,
+        "bytes": 2072
+      },
+      {
+        "src": "/assets/remote-f81412831d91cc80-responsive-320.webp",
+        "width": 320,
+        "height": 240,
+        "bytes": 5712
+      },
+      {
+        "src": "/assets/remote-f81412831d91cc80-responsive-640.webp",
+        "width": 640,
+        "height": 480,
+        "bytes": 21198
+      },
+      {
+        "src": "/assets/remote-f81412831d91cc80-responsive-1024.webp",
+        "width": 1024,
+        "height": 768,
+        "bytes": 47932
+      }
+    ]
+  },
+  "https://aitscctv.com/wp-content/uploads/2026/07/4-1-1024x768.jpg": {
+    "width": 1024,
+    "height": 768,
+    "originalBytes": 55996,
+    "variants": [
+      {
+        "src": "/assets/remote-2d00b06a3d63bfea-responsive-160.webp",
+        "width": 160,
+        "height": 120,
+        "bytes": 1056
+      },
+      {
+        "src": "/assets/remote-2d00b06a3d63bfea-responsive-320.webp",
+        "width": 320,
+        "height": 240,
+        "bytes": 2592
+      },
+      {
+        "src": "/assets/remote-2d00b06a3d63bfea-responsive-640.webp",
+        "width": 640,
+        "height": 480,
+        "bytes": 8370
+      },
+      {
+        "src": "/assets/remote-2d00b06a3d63bfea-responsive-1024.webp",
+        "width": 1024,
+        "height": 768,
+        "bytes": 16368
+      }
+    ]
+  },
+  "https://aitscctv.com/wp-content/uploads/2026/07/4-1024x768.jpg": {
+    "width": 1024,
+    "height": 768,
+    "originalBytes": 168059,
+    "variants": [
+      {
+        "src": "/assets/remote-65ebde769e1c55b0-responsive-160.webp",
+        "width": 160,
+        "height": 120,
+        "bytes": 4396
+      },
+      {
+        "src": "/assets/remote-65ebde769e1c55b0-responsive-320.webp",
+        "width": 320,
+        "height": 240,
+        "bytes": 12294
+      },
+      {
+        "src": "/assets/remote-65ebde769e1c55b0-responsive-640.webp",
+        "width": 640,
+        "height": 480,
+        "bytes": 43928
+      },
+      {
+        "src": "/assets/remote-65ebde769e1c55b0-responsive-1024.webp",
+        "width": 1024,
+        "height": 768,
+        "bytes": 93704
+      }
+    ]
+  },
   "https://aitscctv.com/wp-content/uploads/2026/07/4-2-768x1024.jpg": {
     "width": 768,
     "height": 1024,
@@ -14591,6 +20871,68 @@
       }
     ]
   },
+  "https://aitscctv.com/wp-content/uploads/2026/07/5-1-1024x768.jpg": {
+    "width": 1024,
+    "height": 768,
+    "originalBytes": 118045,
+    "variants": [
+      {
+        "src": "/assets/remote-ff8b268afbc06d3a-responsive-160.webp",
+        "width": 160,
+        "height": 120,
+        "bytes": 2796
+      },
+      {
+        "src": "/assets/remote-ff8b268afbc06d3a-responsive-320.webp",
+        "width": 320,
+        "height": 240,
+        "bytes": 7782
+      },
+      {
+        "src": "/assets/remote-ff8b268afbc06d3a-responsive-640.webp",
+        "width": 640,
+        "height": 480,
+        "bytes": 26286
+      },
+      {
+        "src": "/assets/remote-ff8b268afbc06d3a-responsive-1024.webp",
+        "width": 1024,
+        "height": 768,
+        "bytes": 54218
+      }
+    ]
+  },
+  "https://aitscctv.com/wp-content/uploads/2026/07/5-1024x768.jpg": {
+    "width": 1024,
+    "height": 768,
+    "originalBytes": 159086,
+    "variants": [
+      {
+        "src": "/assets/remote-479e8decae3be6f0-responsive-160.webp",
+        "width": 160,
+        "height": 120,
+        "bytes": 3848
+      },
+      {
+        "src": "/assets/remote-479e8decae3be6f0-responsive-320.webp",
+        "width": 320,
+        "height": 240,
+        "bytes": 10752
+      },
+      {
+        "src": "/assets/remote-479e8decae3be6f0-responsive-640.webp",
+        "width": 640,
+        "height": 480,
+        "bytes": 40722
+      },
+      {
+        "src": "/assets/remote-479e8decae3be6f0-responsive-1024.webp",
+        "width": 1024,
+        "height": 768,
+        "bytes": 84710
+      }
+    ]
+  },
   "https://aitscctv.com/wp-content/uploads/2026/07/5-Smart-Home-%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B9%81%E0%B8%97%E0%B9%89%E0%B8%88%E0%B8%A3%E0%B8%B4%E0%B8%87%E2%80%A6%E0%B9%84%E0%B8%A1%E0%B9%88%E0%B9%83%E0%B8%8A%E0%B9%88%E0%B8%9A%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%A1%E0%B8%B5%E0%B8%A3%E0%B8%B5%E0%B9%82%E0%B8%A1%E0%B8%95%E0%B9%80%E0%B8%A2%E0%B8%AD%E0%B8%B0%E0%B8%82%E0%B8%B6%E0%B9%89%E0%B8%99-copy-768x1152.jpg": {
     "width": 768,
     "height": 1152,
@@ -14619,6 +20961,130 @@
         "width": 768,
         "height": 1152,
         "bytes": 94160
+      }
+    ]
+  },
+  "https://aitscctv.com/wp-content/uploads/2026/07/6-1-1024x768.jpg": {
+    "width": 1024,
+    "height": 768,
+    "originalBytes": 98855,
+    "variants": [
+      {
+        "src": "/assets/remote-f2bcddd71c86e649-responsive-160.webp",
+        "width": 160,
+        "height": 120,
+        "bytes": 2172
+      },
+      {
+        "src": "/assets/remote-f2bcddd71c86e649-responsive-320.webp",
+        "width": 320,
+        "height": 240,
+        "bytes": 5638
+      },
+      {
+        "src": "/assets/remote-f2bcddd71c86e649-responsive-640.webp",
+        "width": 640,
+        "height": 480,
+        "bytes": 18808
+      },
+      {
+        "src": "/assets/remote-f2bcddd71c86e649-responsive-1024.webp",
+        "width": 1024,
+        "height": 768,
+        "bytes": 39820
+      }
+    ]
+  },
+  "https://aitscctv.com/wp-content/uploads/2026/07/6-1024x768.jpg": {
+    "width": 1024,
+    "height": 768,
+    "originalBytes": 105131,
+    "variants": [
+      {
+        "src": "/assets/remote-dd44303cc099fc74-responsive-160.webp",
+        "width": 160,
+        "height": 120,
+        "bytes": 2340
+      },
+      {
+        "src": "/assets/remote-dd44303cc099fc74-responsive-320.webp",
+        "width": 320,
+        "height": 240,
+        "bytes": 6482
+      },
+      {
+        "src": "/assets/remote-dd44303cc099fc74-responsive-640.webp",
+        "width": 640,
+        "height": 480,
+        "bytes": 22856
+      },
+      {
+        "src": "/assets/remote-dd44303cc099fc74-responsive-1024.webp",
+        "width": 1024,
+        "height": 768,
+        "bytes": 46922
+      }
+    ]
+  },
+  "https://aitscctv.com/wp-content/uploads/2026/07/7-1-1024x768.jpg": {
+    "width": 1024,
+    "height": 768,
+    "originalBytes": 66671,
+    "variants": [
+      {
+        "src": "/assets/remote-acbc63ec74e07ab9-responsive-160.webp",
+        "width": 160,
+        "height": 120,
+        "bytes": 1392
+      },
+      {
+        "src": "/assets/remote-acbc63ec74e07ab9-responsive-320.webp",
+        "width": 320,
+        "height": 240,
+        "bytes": 3418
+      },
+      {
+        "src": "/assets/remote-acbc63ec74e07ab9-responsive-640.webp",
+        "width": 640,
+        "height": 480,
+        "bytes": 10748
+      },
+      {
+        "src": "/assets/remote-acbc63ec74e07ab9-responsive-1024.webp",
+        "width": 1024,
+        "height": 768,
+        "bytes": 22234
+      }
+    ]
+  },
+  "https://aitscctv.com/wp-content/uploads/2026/07/7-1024x768.jpg": {
+    "width": 1024,
+    "height": 768,
+    "originalBytes": 164744,
+    "variants": [
+      {
+        "src": "/assets/remote-3500667173546726-responsive-160.webp",
+        "width": 160,
+        "height": 120,
+        "bytes": 3430
+      },
+      {
+        "src": "/assets/remote-3500667173546726-responsive-320.webp",
+        "width": 320,
+        "height": 240,
+        "bytes": 9956
+      },
+      {
+        "src": "/assets/remote-3500667173546726-responsive-640.webp",
+        "width": 640,
+        "height": 480,
+        "bytes": 40326
+      },
+      {
+        "src": "/assets/remote-3500667173546726-responsive-1024.webp",
+        "width": 1024,
+        "height": 768,
+        "bytes": 93742
       }
     ]
   },
@@ -14932,6 +21398,99 @@
       }
     ]
   },
+  "https://aitscctv.com/wp-content/uploads/2026/08/1-1024x768.jpg": {
+    "width": 1024,
+    "height": 768,
+    "originalBytes": 219104,
+    "variants": [
+      {
+        "src": "/assets/remote-ab8a7121ace5376d-responsive-160.webp",
+        "width": 160,
+        "height": 120,
+        "bytes": 4886
+      },
+      {
+        "src": "/assets/remote-ab8a7121ace5376d-responsive-320.webp",
+        "width": 320,
+        "height": 240,
+        "bytes": 16916
+      },
+      {
+        "src": "/assets/remote-ab8a7121ace5376d-responsive-640.webp",
+        "width": 640,
+        "height": 480,
+        "bytes": 65598
+      },
+      {
+        "src": "/assets/remote-ab8a7121ace5376d-responsive-1024.webp",
+        "width": 1024,
+        "height": 768,
+        "bytes": 133120
+      }
+    ]
+  },
+  "https://aitscctv.com/wp-content/uploads/2026/08/22-1024x768.jpg": {
+    "width": 1024,
+    "height": 768,
+    "originalBytes": 172553,
+    "variants": [
+      {
+        "src": "/assets/remote-b24b09e580f143cb-responsive-160.webp",
+        "width": 160,
+        "height": 120,
+        "bytes": 4176
+      },
+      {
+        "src": "/assets/remote-b24b09e580f143cb-responsive-320.webp",
+        "width": 320,
+        "height": 240,
+        "bytes": 12402
+      },
+      {
+        "src": "/assets/remote-b24b09e580f143cb-responsive-640.webp",
+        "width": 640,
+        "height": 480,
+        "bytes": 42974
+      },
+      {
+        "src": "/assets/remote-b24b09e580f143cb-responsive-1024.webp",
+        "width": 1024,
+        "height": 768,
+        "bytes": 89566
+      }
+    ]
+  },
+  "https://aitscctv.com/wp-content/uploads/2026/08/33-1024x768.jpg": {
+    "width": 1024,
+    "height": 768,
+    "originalBytes": 199107,
+    "variants": [
+      {
+        "src": "/assets/remote-fc9c9e6fc8b935d6-responsive-160.webp",
+        "width": 160,
+        "height": 120,
+        "bytes": 5092
+      },
+      {
+        "src": "/assets/remote-fc9c9e6fc8b935d6-responsive-320.webp",
+        "width": 320,
+        "height": 240,
+        "bytes": 14668
+      },
+      {
+        "src": "/assets/remote-fc9c9e6fc8b935d6-responsive-640.webp",
+        "width": 640,
+        "height": 480,
+        "bytes": 50422
+      },
+      {
+        "src": "/assets/remote-fc9c9e6fc8b935d6-responsive-1024.webp",
+        "width": 1024,
+        "height": 768,
+        "bytes": 104704
+      }
+    ]
+  },
   "https://aitscctv.com/wp-content/uploads/2026/08/rent-cctv--768x1145.jpg": {
     "width": 768,
     "height": 1145,
@@ -14991,6 +21550,68 @@
         "width": 768,
         "height": 576,
         "bytes": 40644
+      }
+    ]
+  },
+  "https://aitscctv.com/wp-content/uploads/2026/09/1-1024x768.jpg": {
+    "width": 1024,
+    "height": 768,
+    "originalBytes": 96811,
+    "variants": [
+      {
+        "src": "/assets/remote-84575a63fe492ee2-responsive-160.webp",
+        "width": 160,
+        "height": 120,
+        "bytes": 1290
+      },
+      {
+        "src": "/assets/remote-84575a63fe492ee2-responsive-320.webp",
+        "width": 320,
+        "height": 240,
+        "bytes": 3898
+      },
+      {
+        "src": "/assets/remote-84575a63fe492ee2-responsive-640.webp",
+        "width": 640,
+        "height": 480,
+        "bytes": 19810
+      },
+      {
+        "src": "/assets/remote-84575a63fe492ee2-responsive-1024.webp",
+        "width": 1024,
+        "height": 768,
+        "bytes": 44500
+      }
+    ]
+  },
+  "https://aitscctv.com/wp-content/uploads/2026/09/2-1024x768.jpg": {
+    "width": 1024,
+    "height": 768,
+    "originalBytes": 130689,
+    "variants": [
+      {
+        "src": "/assets/remote-d3bf83280f5f44f2-responsive-160.webp",
+        "width": 160,
+        "height": 120,
+        "bytes": 3524
+      },
+      {
+        "src": "/assets/remote-d3bf83280f5f44f2-responsive-320.webp",
+        "width": 320,
+        "height": 240,
+        "bytes": 9308
+      },
+      {
+        "src": "/assets/remote-d3bf83280f5f44f2-responsive-640.webp",
+        "width": 640,
+        "height": 480,
+        "bytes": 30660
+      },
+      {
+        "src": "/assets/remote-d3bf83280f5f44f2-responsive-1024.webp",
+        "width": 1024,
+        "height": 768,
+        "bytes": 62794
       }
     ]
   },

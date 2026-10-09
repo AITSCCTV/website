@@ -73,16 +73,16 @@ export default function Page4635(){return <div className="page-4635 captured-pag
 </div>
 </div>
 </div>
-<ServiceTrust />
+<ServiceTrust english={false} />
 </section>
-<ServiceContents />
+<ServiceContents english={false} />
 <section id={"service-benefits"} className={"service-stage"} data-service-stage={"benefits"}>
 <div className={"service-stage-heading"}>
 <h2>
 {"ประโยชน์และการใช้งาน"}
 </h2>
 </div>
-<ServiceBenefits path={"/cctv-camera-service/eight-cctv-camera/"} />
+<ServiceBenefits path={"/cctv-camera-service/eight-cctv-camera/"} english={false} />
 <details className={"service-detail"}>
 <summary>
 {"รายละเอียดประโยชน์และการใช้งาน"}
@@ -248,7 +248,7 @@ export default function Page4635(){return <div className="page-4635 captured-pag
 <div data-layout-node={"n192"} className={"v90 video-shell captured-style"}>
 <div data-layout-node={"n193"} className={"v91 video-shell captured-style"}>
 <div data-layout-node={"n194"} className={"v92 video-shell captured-style"}>
-<VideoFrame src={"https://www.youtube.com/embed/HXTZOJ7bU-E?controls=1&rel=0&playsinline=0&modestbranding=0&autoplay=0&enablejsapi=1&origin=https%3A%2F%2Faitscctv.com&widgetid=1&forigin=https%3A%2F%2Faitscctv.com%2Fcctv-camera-service%2Feight-cctv-camera%2F&aoriginsup=1&vf=1"} style={{"width":"684px","maxWidth":"100%","aspectRatio":"684/384.75","display":"flex","margin":"0px"}} />
+<VideoFrame src={"https://www.youtube.com/embed/HXTZOJ7bU-E?controls=1&rel=0&playsinline=0&modestbranding=0&autoplay=0&enablejsapi=1&origin=https%3A%2F%2Faitscctv.com&widgetid=1&forigin=https%3A%2F%2Faitscctv.com%2Fcctv-camera-service%2Feight-cctv-camera%2F&aoriginsup=1&vf=1"} english={false} style={{"width":"684px","maxWidth":"100%","aspectRatio":"684/384.75","display":"flex","margin":"0px"}} />
 </div>
 </div>
 </div>
@@ -263,7 +263,7 @@ export default function Page4635(){return <div className="page-4635 captured-pag
 {"รูปแบบบริการและราคา"}
 </h2>
 </div>
-<ServicePricing path={"/cctv-camera-service/eight-cctv-camera/"} />
+<ServicePricing path={"/cctv-camera-service/eight-cctv-camera/"} english={false} />
 <div data-layout-node={"n72"} className={"v7 section captured-style"}>
 <div data-layout-node={"n73"} className={"v43 captured-style"}>
 <div data-layout-node={"n74"} className={"v44 section captured-style"}>
@@ -452,7 +452,7 @@ export default function Page4635(){return <div className="page-4635 captured-pag
 </div>
 </div>
 </div>
-<ServiceWarranty path={"/cctv-camera-service/eight-cctv-camera/"} />
+<ServiceWarranty path={"/cctv-camera-service/eight-cctv-camera/"} english={false} />
 </section>
 <section id={"service-projects"} className={"service-stage"} data-service-stage={"projects"}>
 <div className={"service-stage-heading"}>
@@ -460,7 +460,7 @@ export default function Page4635(){return <div className="page-4635 captured-pag
 {"ผลงานและเนื้อหาที่เกี่ยวข้อง"}
 </h2>
 </div>
-<ServiceProjects path={"/cctv-camera-service/eight-cctv-camera/"} />
+<ServiceProjects path={"/cctv-camera-service/eight-cctv-camera/"} english={false} />
 </section>
 <section id={"service-contact"} className={"service-stage"} data-service-stage={"contact"}>
 <div className={"service-stage-heading"}>
@@ -468,6 +468,6 @@ export default function Page4635(){return <div className="page-4635 captured-pag
 {"ขอใบเสนอราคาและติดต่อทีมงาน"}
 </h2>
 </div>
-<ServiceContact path={"/cctv-camera-service/eight-cctv-camera/"} />
+<ServiceContact path={"/cctv-camera-service/eight-cctv-camera/"} english={false} />
 </section>
 </div></div>}

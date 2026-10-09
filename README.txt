@@ -53,10 +53,12 @@ complete captured archive, with search and 12 articles per page.
 Promotion posters are aligned in three columns without distortion, including
 on phones. Each poster links to the full-size original image.
 The contact strip uses a fixed-size SVG phone icon beside the phone number.
-/en/ provides an English homepage, navigation and footer. /en/articles/ is
-the English archive interface. TH/EN links switch between these pages.
-Other service/detail pages and original article bodies remain Thai; English
-navigation identifies those destinations as TH. Poster artwork remains Thai.
+/en/ and its child routes provide English versions of all pages, navigation,
+footer, service details, videos, careers and contact. /en/articles/ contains
+the archive with 118 local translated article/project bodies linked from it
+and the project portfolio. TH/EN links switch to matching pages; articles
+link back to their original Thai WordPress versions. Poster artwork and
+original video audio remain unchanged. No runtime translation API is needed.
 English FAQ wording avoids presenting captured old prices as current quotes.
 
 VERIFICATION

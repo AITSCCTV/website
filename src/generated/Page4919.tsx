@@ -84,16 +84,16 @@ export default function Page4919(){return <div className="page-4919 captured-pag
 </div>
 </div>
 </div>
-<ServiceTrust />
+<ServiceTrust english={false} />
 </section>
-<ServiceContents />
+<ServiceContents english={false} />
 <section id={"service-benefits"} className={"service-stage"} data-service-stage={"benefits"}>
 <div className={"service-stage-heading"}>
 <h2>
 {"ประโยชน์และการใช้งาน"}
 </h2>
 </div>
-<ServiceBenefits path={"/network-service/lan-cable/"} />
+<ServiceBenefits path={"/network-service/lan-cable/"} english={false} />
 </section>
 <section id={"service-options"} className={"service-stage"} data-service-stage={"options"}>
 <div className={"service-stage-heading"}>
@@ -101,7 +101,7 @@ export default function Page4919(){return <div className="page-4919 captured-pag
 {"รูปแบบบริการและราคา"}
 </h2>
 </div>
-<ServicePricing path={"/network-service/lan-cable/"} />
+<ServicePricing path={"/network-service/lan-cable/"} english={false} />
 <div data-layout-node={"n136"} className={"v57 section captured-style"}>
 <div data-layout-node={"n137"} className={"v8 captured-style"}>
 <div data-layout-node={"n138"} className={"v3 captured-style"}>
@@ -317,7 +317,7 @@ export default function Page4919(){return <div className="page-4919 captured-pag
 </div>
 </div>
 </div>
-<ServiceWarranty path={"/network-service/lan-cable/"} />
+<ServiceWarranty path={"/network-service/lan-cable/"} english={false} />
 <details className={"service-detail"}>
 <summary>
 {"รายละเอียดทางเทคนิคและแนวทางเลือกใช้งาน"}
@@ -743,7 +743,7 @@ export default function Page4919(){return <div className="page-4919 captured-pag
 {"ผลงานและเนื้อหาที่เกี่ยวข้อง"}
 </h2>
 </div>
-<ServiceProjects path={"/network-service/lan-cable/"} />
+<ServiceProjects path={"/network-service/lan-cable/"} english={false} />
 </section>
 <section id={"service-contact"} className={"service-stage"} data-service-stage={"contact"}>
 <div className={"service-stage-heading"}>
@@ -751,6 +751,6 @@ export default function Page4919(){return <div className="page-4919 captured-pag
 {"ขอใบเสนอราคาและติดต่อทีมงาน"}
 </h2>
 </div>
-<ServiceContact path={"/network-service/lan-cable/"} />
+<ServiceContact path={"/network-service/lan-cable/"} english={false} />
 </section>
 </div></div>}

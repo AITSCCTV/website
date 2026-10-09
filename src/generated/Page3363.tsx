@@ -75,16 +75,16 @@ export default function Page3363(){return <div className="page-3363 captured-pag
 </div>
 </div>
 </div>
-<ServiceTrust />
+<ServiceTrust english={false} />
 </section>
-<ServiceContents />
+<ServiceContents english={false} />
 <section id={"service-benefits"} className={"service-stage"} data-service-stage={"benefits"}>
 <div className={"service-stage-heading"}>
 <h2>
 {"ประโยชน์และการใช้งาน"}
 </h2>
 </div>
-<ServiceBenefits path={"/access-control-system/"} />
+<ServiceBenefits path={"/access-control-system/"} english={false} />
 <details className={"service-detail"}>
 <summary>
 {"รายละเอียดประโยชน์และการใช้งาน"}
@@ -213,7 +213,7 @@ export default function Page3363(){return <div className="page-3363 captured-pag
 {"รูปแบบบริการและราคา"}
 </h2>
 </div>
-<ServicePricing path={"/access-control-system/"} />
+<ServicePricing path={"/access-control-system/"} english={false} />
 <div data-layout-node={"n41"} className={"v7 section captured-style"}>
 <div data-layout-node={"n42"} className={"v33 layout-row captured-style"}>
 <div data-layout-node={"n43"} className={"v27 section captured-style"}>
@@ -456,7 +456,7 @@ export default function Page3363(){return <div className="page-3363 captured-pag
 </div>
 </div>
 </div>
-<ServiceWarranty path={"/access-control-system/"} />
+<ServiceWarranty path={"/access-control-system/"} english={false} />
 <details className={"service-detail"}>
 <summary>
 {"รายละเอียดทางเทคนิคและแนวทางเลือกใช้งาน"}
@@ -674,7 +674,7 @@ export default function Page3363(){return <div className="page-3363 captured-pag
 {"ผลงานและเนื้อหาที่เกี่ยวข้อง"}
 </h2>
 </div>
-<ServiceProjects path={"/access-control-system/"} />
+<ServiceProjects path={"/access-control-system/"} english={false} />
 </section>
 <section id={"service-contact"} className={"service-stage"} data-service-stage={"contact"}>
 <div className={"service-stage-heading"}>
@@ -682,6 +682,6 @@ export default function Page3363(){return <div className="page-3363 captured-pag
 {"ขอใบเสนอราคาและติดต่อทีมงาน"}
 </h2>
 </div>
-<ServiceContact path={"/access-control-system/"} />
+<ServiceContact path={"/access-control-system/"} english={false} />
 </section>
 </div></div>}

@@ -182,16 +182,16 @@ export default function Page4670(){return <div className="page-4670 captured-pag
 </div>
 </div>
 </div>
-<ServiceTrust />
+<ServiceTrust english={false} />
 </section>
-<ServiceContents />
+<ServiceContents english={false} />
 <section id={"service-benefits"} className={"service-stage"} data-service-stage={"benefits"}>
 <div className={"service-stage-heading"}>
 <h2>
 {"ประโยชน์และการใช้งาน"}
 </h2>
 </div>
-<ServiceBenefits path={"/access-control-system/key-card-door/"} />
+<ServiceBenefits path={"/access-control-system/key-card-door/"} english={false} />
 <details className={"service-detail"}>
 <summary>
 {"รายละเอียดประโยชน์และการใช้งาน"}
@@ -301,7 +301,7 @@ export default function Page4670(){return <div className="page-4670 captured-pag
 {"รูปแบบบริการและราคา"}
 </h2>
 </div>
-<ServicePricing path={"/access-control-system/key-card-door/"} />
+<ServicePricing path={"/access-control-system/key-card-door/"} english={false} />
 <div data-layout-node={"n138"} className={"v7 section captured-style"}>
 <div data-layout-node={"n139"} className={"v57 captured-style"}>
 <div data-layout-node={"n140"} className={"v3 text-widget captured-style"}>
@@ -480,13 +480,13 @@ export default function Page4670(){return <div className="page-4670 captured-pag
 <div data-layout-node={"n220"} className={"v71 video-shell captured-style"}>
 <div data-layout-node={"n221"} className={"v72 video-shell captured-style"}>
 <div data-layout-node={"n222"} className={"v73 video-shell captured-style"}>
-<VideoFrame src={"https://www.youtube.com/embed/o4gbXKfVkLA?controls=1&rel=0&playsinline=0&modestbranding=0&autoplay=0&enablejsapi=1&origin=https%3A%2F%2Faitscctv.com&widgetid=1&forigin=https%3A%2F%2Faitscctv.com%2Faccess-control-system%2Fkey-card-door%2F&aoriginsup=1&vf=1"} style={{"width":"684px","maxWidth":"100%","aspectRatio":"684/384.75","display":"flex","margin":"0px"}} />
+<VideoFrame src={"https://www.youtube.com/embed/o4gbXKfVkLA?controls=1&rel=0&playsinline=0&modestbranding=0&autoplay=0&enablejsapi=1&origin=https%3A%2F%2Faitscctv.com&widgetid=1&forigin=https%3A%2F%2Faitscctv.com%2Faccess-control-system%2Fkey-card-door%2F&aoriginsup=1&vf=1"} english={false} style={{"width":"684px","maxWidth":"100%","aspectRatio":"684/384.75","display":"flex","margin":"0px"}} />
 </div>
 </div>
 </div>
 </div>
 </div>
-<ServiceWarranty path={"/access-control-system/key-card-door/"} />
+<ServiceWarranty path={"/access-control-system/key-card-door/"} english={false} />
 </section>
 <section id={"service-projects"} className={"service-stage"} data-service-stage={"projects"}>
 <div className={"service-stage-heading"}>
@@ -494,7 +494,7 @@ export default function Page4670(){return <div className="page-4670 captured-pag
 {"ผลงานและเนื้อหาที่เกี่ยวข้อง"}
 </h2>
 </div>
-<ServiceProjects path={"/access-control-system/key-card-door/"} />
+<ServiceProjects path={"/access-control-system/key-card-door/"} english={false} />
 </section>
 <section id={"service-contact"} className={"service-stage"} data-service-stage={"contact"}>
 <div className={"service-stage-heading"}>
@@ -502,6 +502,6 @@ export default function Page4670(){return <div className="page-4670 captured-pag
 {"ขอใบเสนอราคาและติดต่อทีมงาน"}
 </h2>
 </div>
-<ServiceContact path={"/access-control-system/key-card-door/"} />
+<ServiceContact path={"/access-control-system/key-card-door/"} english={false} />
 </section>
 </div></div>}

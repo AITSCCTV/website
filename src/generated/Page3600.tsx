@@ -83,16 +83,16 @@ export default function Page3600(){return <div className="page-3600 captured-pag
 </div>
 </div>
 </div>
-<ServiceTrust />
+<ServiceTrust english={false} />
 </section>
-<ServiceContents />
+<ServiceContents english={false} />
 <section id={"service-benefits"} className={"service-stage"} data-service-stage={"benefits"}>
 <div className={"service-stage-heading"}>
 <h2>
 {"ประโยชน์และการใช้งาน"}
 </h2>
 </div>
-<ServiceBenefits path={"/security-system/"} />
+<ServiceBenefits path={"/security-system/"} english={false} />
 <details className={"service-detail"}>
 <summary>
 {"รายละเอียดประโยชน์และการใช้งาน"}
@@ -422,7 +422,7 @@ export default function Page3600(){return <div className="page-3600 captured-pag
 {"รูปแบบบริการและราคา"}
 </h2>
 </div>
-<ServicePricing path={"/security-system/"} />
+<ServicePricing path={"/security-system/"} english={false} />
 <div data-layout-node={"n45"} className={"v7 section captured-style"}>
 <div data-layout-node={"n46"} className={"v32 captured-style"}>
 <div data-layout-node={"n47"} className={"v33 section captured-style"}>
@@ -537,9 +537,9 @@ export default function Page3600(){return <div className="page-3600 captured-pag
 </div>
 </div>
 <div data-layout-node={"n360"} className={"section comparison-section"}>
-<ServiceComparison kind={"security"} />
+<ServiceComparison kind={"security"} english={false} />
 </div>
-<ServiceWarranty path={"/security-system/"} />
+<ServiceWarranty path={"/security-system/"} english={false} />
 <details className={"service-detail"}>
 <summary>
 {"รายละเอียดทางเทคนิคและแนวทางเลือกใช้งาน"}
@@ -582,7 +582,7 @@ export default function Page3600(){return <div className="page-3600 captured-pag
 {"ผลงานและเนื้อหาที่เกี่ยวข้อง"}
 </h2>
 </div>
-<ServiceProjects path={"/security-system/"} />
+<ServiceProjects path={"/security-system/"} english={false} />
 </section>
 <section id={"service-contact"} className={"service-stage"} data-service-stage={"contact"}>
 <div className={"service-stage-heading"}>
@@ -590,6 +590,6 @@ export default function Page3600(){return <div className="page-3600 captured-pag
 {"ขอใบเสนอราคาและติดต่อทีมงาน"}
 </h2>
 </div>
-<ServiceContact path={"/security-system/"} />
+<ServiceContact path={"/security-system/"} english={false} />
 </section>
 </div></div>}

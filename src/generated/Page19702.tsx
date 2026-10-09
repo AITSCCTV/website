@@ -79,16 +79,16 @@ export default function Page19702(){return <div className="page-19702 captured-p
 </div>
 </div>
 </div>
-<ServiceTrust />
+<ServiceTrust english={false} />
 </section>
-<ServiceContents />
+<ServiceContents english={false} />
 <section id={"service-benefits"} className={"service-stage"} data-service-stage={"benefits"}>
 <div className={"service-stage-heading"}>
 <h2>
 {"ประโยชน์และการใช้งาน"}
 </h2>
 </div>
-<ServiceBenefits path={"/smart-meeting-room/"} />
+<ServiceBenefits path={"/smart-meeting-room/"} english={false} />
 <details className={"service-detail"}>
 <summary>
 {"รายละเอียดประโยชน์และการใช้งาน"}
@@ -397,7 +397,7 @@ export default function Page19702(){return <div className="page-19702 captured-p
 {"รูปแบบบริการและราคา"}
 </h2>
 </div>
-<ServicePricing path={"/smart-meeting-room/"} />
+<ServicePricing path={"/smart-meeting-room/"} english={false} />
 <div data-layout-node={"n34"} className={"v21 section captured-style"}>
 <div data-layout-node={"n35"} className={"v22 captured-style"}>
 <div data-layout-node={"n36"} className={"v3 text-widget captured-style"}>
@@ -728,7 +728,7 @@ export default function Page19702(){return <div className="page-19702 captured-p
 </div>
 </div>
 </div>
-<ServiceWarranty path={"/smart-meeting-room/"} />
+<ServiceWarranty path={"/smart-meeting-room/"} english={false} />
 <details className={"service-detail"}>
 <summary>
 {"รายละเอียดทางเทคนิคและแนวทางเลือกใช้งาน"}
@@ -900,7 +900,7 @@ export default function Page19702(){return <div className="page-19702 captured-p
 {"ผลงานและเนื้อหาที่เกี่ยวข้อง"}
 </h2>
 </div>
-<ServiceProjects path={"/smart-meeting-room/"} />
+<ServiceProjects path={"/smart-meeting-room/"} english={false} />
 </section>
 <section id={"service-contact"} className={"service-stage"} data-service-stage={"contact"}>
 <div className={"service-stage-heading"}>
@@ -908,6 +908,6 @@ export default function Page19702(){return <div className="page-19702 captured-p
 {"ขอใบเสนอราคาและติดต่อทีมงาน"}
 </h2>
 </div>
-<ServiceContact path={"/smart-meeting-room/"} />
+<ServiceContact path={"/smart-meeting-room/"} english={false} />
 </section>
 </div></div>}

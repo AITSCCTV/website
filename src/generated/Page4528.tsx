@@ -56,16 +56,16 @@ export default function Page4528(){return <div className="page-4528 captured-pag
 </div>
 </div>
 </div>
-<ServiceTrust />
+<ServiceTrust english={false} />
 </section>
-<ServiceContents />
+<ServiceContents english={false} />
 <section id={"service-benefits"} className={"service-stage"} data-service-stage={"benefits"}>
 <div className={"service-stage-heading"}>
 <h2>
 {"ประโยชน์และการใช้งาน"}
 </h2>
 </div>
-<ServiceBenefits path={"/cctv-rental-service/"} />
+<ServiceBenefits path={"/cctv-rental-service/"} english={false} />
 <details className={"service-detail"}>
 <summary>
 {"รายละเอียดประโยชน์และการใช้งาน"}
@@ -272,7 +272,7 @@ export default function Page4528(){return <div className="page-4528 captured-pag
 {"รูปแบบบริการและราคา"}
 </h2>
 </div>
-<ServicePricing path={"/cctv-rental-service/"} />
+<ServicePricing path={"/cctv-rental-service/"} english={false} />
 <div data-layout-node={"n57"} className={"v33 section captured-style"}>
 <div data-layout-node={"n58"} className={"v34 layout-row captured-style"}>
 <div data-layout-node={"n59"} className={"v35 section captured-style"}>
@@ -696,7 +696,7 @@ export default function Page4528(){return <div className="page-4528 captured-pag
 </div>
 </div>
 </div>
-<ServiceWarranty path={"/cctv-rental-service/"} />
+<ServiceWarranty path={"/cctv-rental-service/"} english={false} />
 </section>
 <section id={"service-projects"} className={"service-stage"} data-service-stage={"projects"}>
 <div className={"service-stage-heading"}>
@@ -704,7 +704,7 @@ export default function Page4528(){return <div className="page-4528 captured-pag
 {"ผลงานและเนื้อหาที่เกี่ยวข้อง"}
 </h2>
 </div>
-<ServiceProjects path={"/cctv-rental-service/"} />
+<ServiceProjects path={"/cctv-rental-service/"} english={false} />
 </section>
 <section id={"service-contact"} className={"service-stage"} data-service-stage={"contact"}>
 <div className={"service-stage-heading"}>
@@ -712,6 +712,6 @@ export default function Page4528(){return <div className="page-4528 captured-pag
 {"ขอใบเสนอราคาและติดต่อทีมงาน"}
 </h2>
 </div>
-<ServiceContact path={"/cctv-rental-service/"} />
+<ServiceContact path={"/cctv-rental-service/"} english={false} />
 </section>
 </div></div>}

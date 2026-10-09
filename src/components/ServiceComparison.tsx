@@ -1,3 +1,4 @@
+import {translateText} from '../lib/localization';
 const lanRows=[
  ['CAT 5e','เครือข่าย Gigabit สำหรับบ้านและสำนักงาน','ทางเลือกสำหรับการใช้งานทั่วไป เลือกสายและหัวต่อที่ได้มาตรฐาน'],
  ['CAT 6','บ้านและสำนักงานที่ต้องการเผื่อขยายระบบ','รองรับ 10 Gigabit ในระยะสั้น โดยต้องตรวจระยะและสัญญาณรบกวน'],
@@ -12,20 +13,20 @@ const securityRows=[
  ['ระบบแจ้งเหตุเพลิงไหม้ (Fire Alarm System)','ตรวจจับควันหรือความร้อน และส่งสัญญาณเตือน','บ้าน อาคาร และสำนักงานที่ต้องการแจ้งเตือนอัคคีภัย'],
 ];
 
-export function ServiceComparison({kind}:{kind:'lan'|'security'}){
+export function ServiceComparison({kind,english=false}:{kind:'lan'|'security';english?:boolean}){
  const lan=kind==='lan',id=`${kind}-comparison`;
- const title=lan?'เปรียบเทียบประเภทสาย LAN':'เปรียบเทียบระบบรักษาความปลอดภัย';
+ const title=translateText(lan?'เปรียบเทียบประเภทสาย LAN':'เปรียบเทียบระบบรักษาความปลอดภัย',english);
  return <div className="service-comparison" id={id}>
-  <p className="comparison-eyebrow">{lan?'TYPE OF LAN CABLE':'SECURITY SYSTEM'}</p>
+  <p className="comparison-eyebrow">{translateText(lan?'TYPE OF LAN CABLE':'SECURITY SYSTEM',english)}</p>
   <h3 id={`${id}-heading`}>{title}</h3>
-  <p>{lan?'เลือกสายให้เหมาะกับความเร็ว ระยะทาง และอุปกรณ์ที่ใช้งาน':'เลือกระบบตามเหตุที่ต้องการตรวจจับและลักษณะพื้นที่ โดยสามารถใช้หลายระบบร่วมกันได้'}</p>
-  <p className="comparison-scroll-hint" id={`${id}-hint`}>เลื่อนตารางซ้าย–ขวาเพื่อดูข้อมูลทั้งหมด</p>
+  <p>{translateText(lan?'เลือกสายให้เหมาะกับความเร็ว ระยะทาง และอุปกรณ์ที่ใช้งาน':'เลือกระบบตามเหตุที่ต้องการตรวจจับและลักษณะพื้นที่ โดยสามารถใช้หลายระบบร่วมกันได้',english)}</p>
+  <p className="comparison-scroll-hint" id={`${id}-hint`}>{translateText("เลื่อนตารางซ้าย–ขวาเพื่อดูข้อมูลทั้งหมด",english)}</p>
   <div className="comparison-scroll" role="region" aria-labelledby={`${id}-heading`} aria-describedby={`${id}-hint`} tabIndex={0}>
-   <table><caption className="screen-reader-text">{title}</caption><thead><tr>{(lan?['ประเภทสาย','เหมาะกับการใช้งาน','ข้อควรพิจารณา']:['ระบบ','หน้าที่หลัก','เหมาะกับพื้นที่']).map(label=><th scope="col" key={label}>{label}</th>)}</tr></thead>
-    <tbody>{(lan?lanRows:securityRows).map(([label,...cells])=><tr key={label}><th scope="row">{label}</th>{cells.map(cell=><td key={cell}>{cell}</td>)}</tr>)}</tbody>
+   <table><caption className="screen-reader-text">{title}</caption><thead><tr>{(lan?['ประเภทสาย','เหมาะกับการใช้งาน','ข้อควรพิจารณา']:['ระบบ','หน้าที่หลัก','เหมาะกับพื้นที่']).map(label=><th scope="col" key={label}>{english&&label==='หน้าที่หลัก'?'Main function':translateText(label,english)}</th>)}</tr></thead>
+    <tbody>{(lan?lanRows:securityRows).map(([label,...cells])=><tr key={label}><th scope="row">{translateText(label,english)}</th>{cells.map(cell=><td key={cell}>{translateText(cell,english)}</td>)}</tr>)}</tbody>
    </table>
   </div>
-  <p className="comparison-note">{lan?'ความเร็วจริงขึ้นอยู่กับสาย หัวต่อ อุปกรณ์ ระยะทาง และผลทดสอบของระบบ':'อุปกรณ์ การบันทึกข้อมูล และช่องทางแจ้งเตือนขึ้นอยู่กับรุ่นและการออกแบบระบบ'}</p>
-  {lan&&<p className="comparison-sources">ข้อมูลเพิ่มเติม: <a href="https://www.flukenetworks.com/expertise/role/network-engineers" target="_blank" rel="noopener noreferrer">มาตรฐานสาย LAN</a> · <a href="https://www.flukenetworks.com/knowledge-base/applicationstandards-articles-copper/category-6e-its-not-category-6a" target="_blank" rel="noopener noreferrer">CAT 6e และ CAT 6a</a></p>}
+  <p className="comparison-note">{translateText(lan?'ความเร็วจริงขึ้นอยู่กับสาย หัวต่อ อุปกรณ์ ระยะทาง และผลทดสอบของระบบ':'อุปกรณ์ การบันทึกข้อมูล และช่องทางแจ้งเตือนขึ้นอยู่กับรุ่นและการออกแบบระบบ',english)}</p>
+  {lan&&<p className="comparison-sources">{translateText("ข้อมูลเพิ่มเติม: ",english)}<a href="https://www.flukenetworks.com/expertise/role/network-engineers" target="_blank" rel="noopener noreferrer">{translateText("มาตรฐานสาย LAN",english)}</a> · <a href="https://www.flukenetworks.com/knowledge-base/applicationstandards-articles-copper/category-6e-its-not-category-6a" target="_blank" rel="noopener noreferrer">{translateText("CAT 6e และ CAT 6a",english)}</a></p>}
  </div>;
 }

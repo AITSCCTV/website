@@ -88,16 +88,16 @@ export default function Page4900(){return <div className="page-4900 captured-pag
 </div>
 </div>
 </div>
-<ServiceTrust />
+<ServiceTrust english={false} />
 </section>
-<ServiceContents />
+<ServiceContents english={false} />
 <section id={"service-benefits"} className={"service-stage"} data-service-stage={"benefits"}>
 <div className={"service-stage-heading"}>
 <h2>
 {"ประโยชน์และการใช้งาน"}
 </h2>
 </div>
-<ServiceBenefits path={"/network-service/fiberoptic-cable/"} />
+<ServiceBenefits path={"/network-service/fiberoptic-cable/"} english={false} />
 </section>
 <section id={"service-options"} className={"service-stage"} data-service-stage={"options"}>
 <div className={"service-stage-heading"}>
@@ -105,7 +105,7 @@ export default function Page4900(){return <div className="page-4900 captured-pag
 {"รูปแบบบริการและราคา"}
 </h2>
 </div>
-<ServicePricing path={"/network-service/fiberoptic-cable/"} />
+<ServicePricing path={"/network-service/fiberoptic-cable/"} english={false} />
 <div data-layout-node={"n141"} className={"v7 section captured-style"}>
 <div data-layout-node={"n142"} className={"v2 captured-style"}>
 <div data-layout-node={"n143"} className={"v3 captured-style"}>
@@ -436,7 +436,7 @@ export default function Page4900(){return <div className="page-4900 captured-pag
 </div>
 </div>
 </div>
-<ServiceWarranty path={"/network-service/fiberoptic-cable/"} />
+<ServiceWarranty path={"/network-service/fiberoptic-cable/"} english={false} />
 <details className={"service-detail"}>
 <summary>
 {"รายละเอียดทางเทคนิคและแนวทางเลือกใช้งาน"}
@@ -917,7 +917,7 @@ export default function Page4900(){return <div className="page-4900 captured-pag
 {"ผลงานและเนื้อหาที่เกี่ยวข้อง"}
 </h2>
 </div>
-<ServiceProjects path={"/network-service/fiberoptic-cable/"} />
+<ServiceProjects path={"/network-service/fiberoptic-cable/"} english={false} />
 </section>
 <section id={"service-contact"} className={"service-stage"} data-service-stage={"contact"}>
 <div className={"service-stage-heading"}>
@@ -925,6 +925,6 @@ export default function Page4900(){return <div className="page-4900 captured-pag
 {"ขอใบเสนอราคาและติดต่อทีมงาน"}
 </h2>
 </div>
-<ServiceContact path={"/network-service/fiberoptic-cable/"} />
+<ServiceContact path={"/network-service/fiberoptic-cable/"} english={false} />
 </section>
 </div></div>}

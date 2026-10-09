@@ -81,16 +81,16 @@ export default function Page5116(){return <div className="page-5116 captured-pag
 </div>
 </div>
 </div>
-<ServiceTrust />
+<ServiceTrust english={false} />
 </section>
-<ServiceContents />
+<ServiceContents english={false} />
 <section id={"service-benefits"} className={"service-stage"} data-service-stage={"benefits"}>
 <div className={"service-stage-heading"}>
 <h2>
 {"ประโยชน์และการใช้งาน"}
 </h2>
 </div>
-<ServiceBenefits path={"/internet-system/access-point/"} />
+<ServiceBenefits path={"/internet-system/access-point/"} english={false} />
 <details className={"service-detail"}>
 <summary>
 {"รายละเอียดประโยชน์และการใช้งาน"}
@@ -174,7 +174,7 @@ export default function Page5116(){return <div className="page-5116 captured-pag
 {"รูปแบบบริการและราคา"}
 </h2>
 </div>
-<ServicePricing path={"/internet-system/access-point/"} />
+<ServicePricing path={"/internet-system/access-point/"} english={false} />
 <div data-layout-node={"n35"} className={"v23 section captured-style"}>
 <div data-layout-node={"n36"} className={"v24 captured-style"}>
 <div data-layout-node={"n37"} className={"v3 text-widget captured-style"}>
@@ -326,7 +326,7 @@ export default function Page5116(){return <div className="page-5116 captured-pag
 </div>
 </div>
 </div>
-<ServiceWarranty path={"/internet-system/access-point/"} />
+<ServiceWarranty path={"/internet-system/access-point/"} english={false} />
 <details className={"service-detail"}>
 <summary>
 {"รายละเอียดทางเทคนิคและแนวทางเลือกใช้งาน"}
@@ -617,7 +617,7 @@ export default function Page5116(){return <div className="page-5116 captured-pag
 {"ผลงานและเนื้อหาที่เกี่ยวข้อง"}
 </h2>
 </div>
-<ServiceProjects path={"/internet-system/access-point/"} />
+<ServiceProjects path={"/internet-system/access-point/"} english={false} />
 </section>
 <section id={"service-contact"} className={"service-stage"} data-service-stage={"contact"}>
 <div className={"service-stage-heading"}>
@@ -625,6 +625,6 @@ export default function Page5116(){return <div className="page-5116 captured-pag
 {"ขอใบเสนอราคาและติดต่อทีมงาน"}
 </h2>
 </div>
-<ServiceContact path={"/internet-system/access-point/"} />
+<ServiceContact path={"/internet-system/access-point/"} english={false} />
 </section>
 </div></div>}

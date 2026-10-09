@@ -583,7 +583,7 @@ export default function Page2054(){return <div className="page-2054 captured-pag
 </div>
 </div>
 </section>
-<AboutTeamGallery />
+<AboutTeamGallery english={false} />
 <div data-layout-node={"n261"} className={"v96 section captured-style"}>
 <div data-layout-node={"n262"} className={"v97 captured-style"}>
 <div data-layout-node={"n263"} className={"v98 text-widget captured-style"}>

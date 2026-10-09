@@ -77,16 +77,16 @@ export default function Page3628(){return <div className="page-3628 captured-pag
 </div>
 </div>
 </div>
-<ServiceTrust />
+<ServiceTrust english={false} />
 </section>
-<ServiceContents />
+<ServiceContents english={false} />
 <section id={"service-benefits"} className={"service-stage"} data-service-stage={"benefits"}>
 <div className={"service-stage-heading"}>
 <h2>
 {"ประโยชน์และการใช้งาน"}
 </h2>
 </div>
-<ServiceBenefits path={"/home-automation/"} />
+<ServiceBenefits path={"/home-automation/"} english={false} />
 <details className={"service-detail"}>
 <summary>
 {"รายละเอียดประโยชน์และการใช้งาน"}
@@ -172,7 +172,7 @@ export default function Page3628(){return <div className="page-3628 captured-pag
 {"รูปแบบบริการและราคา"}
 </h2>
 </div>
-<ServicePricing path={"/home-automation/"} />
+<ServicePricing path={"/home-automation/"} english={false} />
 <div data-layout-node={"n45"} className={"v7 section captured-style"}>
 <div data-layout-node={"n46"} className={"v33 captured-style"}>
 <div data-layout-node={"n47"} className={"v24 section captured-style"}>
@@ -398,7 +398,7 @@ export default function Page3628(){return <div className="page-3628 captured-pag
 </div>
 </div>
 </div>
-<ServiceWarranty path={"/home-automation/"} />
+<ServiceWarranty path={"/home-automation/"} english={false} />
 <details className={"service-detail"}>
 <summary>
 {"รายละเอียดทางเทคนิคและแนวทางเลือกใช้งาน"}
@@ -535,7 +535,7 @@ export default function Page3628(){return <div className="page-3628 captured-pag
 {"ผลงานและเนื้อหาที่เกี่ยวข้อง"}
 </h2>
 </div>
-<ServiceProjects path={"/home-automation/"} />
+<ServiceProjects path={"/home-automation/"} english={false} />
 </section>
 <section id={"service-contact"} className={"service-stage"} data-service-stage={"contact"}>
 <div className={"service-stage-heading"}>
@@ -543,6 +543,6 @@ export default function Page3628(){return <div className="page-3628 captured-pag
 {"ขอใบเสนอราคาและติดต่อทีมงาน"}
 </h2>
 </div>
-<ServiceContact path={"/home-automation/"} />
+<ServiceContact path={"/home-automation/"} english={false} />
 </section>
 </div></div>}

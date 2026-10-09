@@ -1,0 +1,595 @@
+// Generated from the design capture. Corrections are applied in the generator.
+import {Fragment} from "react";
+import {SiteLink} from "../components/SiteLink";
+import {VideoFrame} from "../components/VideoFrame";
+import {LogoCarousel} from "../components/LogoCarousel";
+import {ContactPhone} from "../components/ContactPhone";
+import {ServiceTrust,ServiceContents,ServiceBenefits,ServicePricing,ServiceWarranty,ServiceProjects,ServiceContact,AboutTeamGallery} from "../components/ServiceContent";
+import {ServiceComparison} from "../components/ServiceComparison";
+export default function EnglishPage3600(){return <div lang="en" className="page-3600 english-page captured-page"><div data-layout-node={"n0"} className={"v0 captured-style"}>
+<section id={"service-overview"} className={"service-stage"} data-service-stage={"overview"}>
+<div data-layout-node={"n1"} className={"v1 section captured-style"}>
+<div data-layout-node={"n2"} className={"v2 captured-style"}>
+<div data-layout-node={"n3"} className={"v3 text-widget captured-style"}>
+<div data-layout-node={"n4"} className={"v4 text-widget captured-style"}>
+<p data-layout-node={"n5"} className={"v5 accessible-accent-dark captured-style"}>
+{"SECURITY SERVICE"}
+</p>
+</div>
+</div>
+<div data-layout-node={"n6"} className={"v3 text-widget captured-style"}>
+<div data-layout-node={"n7"} className={"v4 text-widget captured-style"}>
+<p data-layout-node={"n8"} className={"v6 large-copy captured-style"}>
+{"Security systems"}
+</p>
+</div>
+</div>
+</div>
+</div>
+<div data-layout-node={"n9"} className={"v7 section captured-style"}>
+<div data-layout-node={"n10"} className={"v2 captured-style"}>
+<div data-layout-node={"n11"} className={"v3 media-widget captured-style"}>
+<div data-layout-node={"n12"} className={"v4 media-widget captured-style"}>
+<img data-layout-node={"n13"} className={"v8 captured-style"} src={"/assets/remote-907878ad3e6b9730-responsive-640.webp"} alt={"Smoke and fire detection3"} loading={"lazy"} decoding={"async"} width={"1200"} height={"630"} srcSet={"/assets/remote-907878ad3e6b9730-responsive-160.webp 160w, /assets/remote-907878ad3e6b9730-responsive-320.webp 320w, /assets/remote-907878ad3e6b9730-responsive-640.webp 640w, /assets/remote-907878ad3e6b9730-responsive-1200.webp 1200w"} sizes={"(max-width: 640px) calc(100vw - 40px), (max-width: 1024px) 50vw, 1140px"} />
+</div>
+</div>
+<div data-layout-node={"n14"} className={"v3 text-widget captured-style"}>
+<div data-layout-node={"n15"} className={"v4 text-widget captured-style"}>
+<p data-layout-node={"n16"} className={"v9 accessible-accent-dark captured-style"}>
+{"SECURITY SYSTEM"}
+</p>
+</div>
+</div>
+<div data-layout-node={"n17"} className={"v3 text-widget captured-style"}>
+<div data-layout-node={"n18"} className={"v4 text-widget captured-style"}>
+<h1 data-layout-node={"n19"} className={"v10 captured-style"}>
+{"AITSCCTV installs international-standard security, intruder alarm, fire alarm, and warning systems for homes, buildings, and offices."}
+</h1>
+</div>
+</div>
+<div data-layout-node={"n20"} className={"v11 section captured-style"}>
+<div data-layout-node={"n21"} className={"v12 layout-row captured-style layout-row"}>
+<div data-layout-node={"n22"} className={"v13 section media-widget captured-style"}>
+<div data-layout-node={"n23"} className={"v14 media-widget captured-style"}>
+<div data-layout-node={"n24"} className={"v3 media-widget captured-style"}>
+<div data-layout-node={"n25"} className={"v4 media-widget captured-style"}>
+<img data-layout-node={"n26"} className={"v15 captured-style"} src={"/assets/remote-8e8b1c3ba20a9dde-responsive-640.webp"} alt={"Alarm2"} loading={"lazy"} decoding={"async"} width={"1200"} height={"630"} srcSet={"/assets/remote-8e8b1c3ba20a9dde-responsive-160.webp 160w, /assets/remote-8e8b1c3ba20a9dde-responsive-320.webp 320w, /assets/remote-8e8b1c3ba20a9dde-responsive-640.webp 640w, /assets/remote-8e8b1c3ba20a9dde-responsive-1200.webp 1200w"} sizes={"(max-width: 640px) calc(100vw - 40px), (max-width: 1024px) 50vw, 540px"} />
+</div>
+</div>
+</div>
+</div>
+<div data-layout-node={"n27"} className={"v13 section captured-style"}>
+<div data-layout-node={"n28"} className={"v16 captured-style"}>
+<div data-layout-node={"n29"} className={"v17 text-widget captured-style"}>
+<div data-layout-node={"n30"} className={"v18 text-widget captured-style"}>
+<p data-layout-node={"n31"} className={"v19 captured-style"}>
+{"A.I.T.S. Co., Ltd. (AITS)"}
+</p>
+</div>
+</div>
+<div data-layout-node={"n32"} className={"v20 captured-style"}>
+<div data-layout-node={"n33"} className={"v21 captured-style"}>
+<p data-layout-node={"n34"} className={"v22 captured-style"}>
+{"A leading company providing complete security system design, installation, and care. We offer honest service, design around practical use, and prioritize safety to help customers protect people and property effectively."}
+</p>
+<p data-layout-node={"n35"} className={"v22 captured-style"}>
+{"Our services include smart alerts, home and factory security, fire alarms, intruder alarms, smoke detectors, and security systems for offices, factories, and SMEs."}
+</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<ServiceTrust english={true} />
+</section>
+<ServiceContents english={true} />
+<section id={"service-benefits"} className={"service-stage"} data-service-stage={"benefits"}>
+<div className={"service-stage-heading"}>
+<h2>
+{"Benefits and uses"}
+</h2>
+</div>
+<ServiceBenefits path={"/security-system/"} english={true} />
+<details className={"service-detail"}>
+<summary>
+{"Detailed benefits and uses"}
+</summary>
+<div className={"service-detail-content"}>
+<div data-layout-node={"n195"} className={"v102 section captured-style"}>
+<div data-layout-node={"n196"} className={"v2 captured-style"}>
+<div data-layout-node={"n197"} className={"v3 text-widget captured-style"}>
+<div data-layout-node={"n198"} className={"v4 text-widget captured-style"}>
+<p data-layout-node={"n199"} className={"v5 accessible-accent-dark captured-style"}>
+{"DESIGN AND SET UP SECURITY SYSTEM"}
+</p>
+</div>
+</div>
+<div data-layout-node={"n200"} className={"v3 text-widget captured-style"}>
+<div data-layout-node={"n201"} className={"v4 text-widget captured-style"}>
+<h2 data-layout-node={"n202"} className={"v10 captured-style"}>
+{"Who are AITSCCTV’s security design and installation services for?"}
+</h2>
+</div>
+</div>
+<div data-layout-node={"n203"} className={"v29 captured-style"}>
+<div data-layout-node={"n204"} className={"v30 captured-style"}>
+{"Customers who need security systems, warning and intruder alarms, intrusion protection, fire alarms, warning lights, heat detectors, or smoke detectors at the following locations:"}
+</div>
+</div>
+<div data-layout-node={"n205"} className={"v103 section layout-row captured-style layout-row"}>
+<div data-layout-node={"n206"} className={"v92 captured-style"}>
+<div data-layout-node={"n207"} className={"v104 captured-style"}>
+<div data-layout-node={"n208"} className={"v105 captured-style"}>
+<figure data-layout-node={"n209"} className={"v106 media-widget captured-style"}>
+<img data-layout-node={"n210"} className={"v107 captured-style"} src={"/assets/remote-9ed335284f9e6472-responsive-400.webp"} alt={"Detached houses"} loading={"lazy"} decoding={"async"} width={"400"} height={"300"} srcSet={"/assets/remote-9ed335284f9e6472-responsive-160.webp 160w, /assets/remote-9ed335284f9e6472-responsive-320.webp 320w, /assets/remote-9ed335284f9e6472-responsive-400.webp 400w"} sizes={"(max-width: 640px) calc(100vw - 40px), (max-width: 1024px) 50vw, 333px"} />
+</figure>
+<div data-layout-node={"n211"} className={"v108 text-widget captured-style"}>
+<p data-layout-node={"n212"} className={"v109 captured-style"}>
+{"Detached houses"}
+</p>
+</div>
+</div>
+</div>
+</div>
+<div data-layout-node={"n213"} className={"v92 captured-style"}>
+<div data-layout-node={"n214"} className={"v104 captured-style"}>
+<div data-layout-node={"n215"} className={"v105 captured-style"}>
+<figure data-layout-node={"n216"} className={"v106 media-widget captured-style"}>
+<img data-layout-node={"n217"} className={"v107 captured-style"} src={"/assets/remote-ee90fe3f161c0cbb-responsive-400.webp"} alt={"Townhomes"} loading={"lazy"} decoding={"async"} width={"400"} height={"300"} srcSet={"/assets/remote-ee90fe3f161c0cbb-responsive-160.webp 160w, /assets/remote-ee90fe3f161c0cbb-responsive-320.webp 320w, /assets/remote-ee90fe3f161c0cbb-responsive-400.webp 400w"} sizes={"(max-width: 640px) calc(100vw - 40px), (max-width: 1024px) 50vw, 333px"} />
+</figure>
+<div data-layout-node={"n218"} className={"v108 text-widget captured-style"}>
+<p data-layout-node={"n219"} className={"v109 captured-style"}>
+{"Townhomes"}
+</p>
+</div>
+</div>
+</div>
+</div>
+<div data-layout-node={"n220"} className={"v92 captured-style"}>
+<div data-layout-node={"n221"} className={"v104 captured-style"}>
+<div data-layout-node={"n222"} className={"v105 captured-style"}>
+<figure data-layout-node={"n223"} className={"v106 media-widget captured-style"}>
+<img data-layout-node={"n224"} className={"v107 captured-style"} src={"/assets/remote-b8150f28bfe85c03-responsive-400.webp"} alt={"Townhouse"} loading={"lazy"} decoding={"async"} width={"400"} height={"300"} srcSet={"/assets/remote-b8150f28bfe85c03-responsive-160.webp 160w, /assets/remote-b8150f28bfe85c03-responsive-320.webp 320w, /assets/remote-b8150f28bfe85c03-responsive-400.webp 400w"} sizes={"(max-width: 640px) calc(100vw - 40px), (max-width: 1024px) 50vw, 333px"} />
+</figure>
+<div data-layout-node={"n225"} className={"v108 text-widget captured-style"}>
+<p data-layout-node={"n226"} className={"v109 captured-style"}>
+{"Townhouses"}
+</p>
+</div>
+</div>
+</div>
+</div>
+<div data-layout-node={"n227"} className={"v92 captured-style"}>
+<div data-layout-node={"n228"} className={"v104 captured-style"}>
+<div data-layout-node={"n229"} className={"v105 captured-style"}>
+<figure data-layout-node={"n230"} className={"v106 media-widget captured-style"}>
+<img data-layout-node={"n231"} className={"v107 captured-style"} src={"/assets/remote-40d205cfbef340d1-responsive-400.webp"} alt={"Apartments"} loading={"lazy"} decoding={"async"} width={"400"} height={"300"} srcSet={"/assets/remote-40d205cfbef340d1-responsive-160.webp 160w, /assets/remote-40d205cfbef340d1-responsive-320.webp 320w, /assets/remote-40d205cfbef340d1-responsive-400.webp 400w"} sizes={"(max-width: 640px) calc(100vw - 40px), (max-width: 1024px) 50vw, 333px"} />
+</figure>
+<div data-layout-node={"n232"} className={"v108 text-widget captured-style"}>
+<p data-layout-node={"n233"} className={"v109 captured-style"}>
+{"Dormitories"}
+</p>
+</div>
+</div>
+</div>
+</div>
+<div data-layout-node={"n234"} className={"v92 captured-style"}>
+<div data-layout-node={"n235"} className={"v104 captured-style"}>
+<div data-layout-node={"n236"} className={"v105 captured-style"}>
+<figure data-layout-node={"n237"} className={"v106 media-widget captured-style"}>
+<img data-layout-node={"n238"} className={"v107 captured-style"} src={"/assets/remote-2c40df1c747a7cd3-responsive-400.webp"} alt={"Condominiums"} loading={"lazy"} decoding={"async"} width={"400"} height={"300"} srcSet={"/assets/remote-2c40df1c747a7cd3-responsive-160.webp 160w, /assets/remote-2c40df1c747a7cd3-responsive-320.webp 320w, /assets/remote-2c40df1c747a7cd3-responsive-400.webp 400w"} sizes={"(max-width: 640px) calc(100vw - 40px), (max-width: 1024px) 50vw, 333px"} />
+</figure>
+<div data-layout-node={"n239"} className={"v108 text-widget captured-style"}>
+<p data-layout-node={"n240"} className={"v109 captured-style"}>
+{"Condominiums"}
+</p>
+</div>
+</div>
+</div>
+</div>
+<div data-layout-node={"n241"} className={"v92 captured-style"}>
+<div data-layout-node={"n242"} className={"v104 captured-style"}>
+<div data-layout-node={"n243"} className={"v105 captured-style"}>
+<figure data-layout-node={"n244"} className={"v106 media-widget captured-style"}>
+<img data-layout-node={"n245"} className={"v107 captured-style"} src={"/assets/remote-251d81e6f4923658-responsive-400.webp"} alt={"Office"} loading={"lazy"} decoding={"async"} width={"400"} height={"300"} srcSet={"/assets/remote-251d81e6f4923658-responsive-160.webp 160w, /assets/remote-251d81e6f4923658-responsive-320.webp 320w, /assets/remote-251d81e6f4923658-responsive-400.webp 400w"} sizes={"(max-width: 640px) calc(100vw - 40px), (max-width: 1024px) 50vw, 333px"} />
+</figure>
+<div data-layout-node={"n246"} className={"v108 text-widget captured-style"}>
+<p data-layout-node={"n247"} className={"v109 captured-style"}>
+{"Offices"}
+</p>
+</div>
+</div>
+</div>
+</div>
+<div data-layout-node={"n248"} className={"v92 captured-style"}>
+<div data-layout-node={"n249"} className={"v104 captured-style"}>
+<div data-layout-node={"n250"} className={"v105 captured-style"}>
+<figure data-layout-node={"n251"} className={"v106 media-widget captured-style"}>
+<img data-layout-node={"n252"} className={"v107 captured-style"} src={"/assets/remote-669786e9cf821ba9-responsive-400.webp"} alt={"Commercial buildings"} loading={"lazy"} decoding={"async"} width={"400"} height={"300"} srcSet={"/assets/remote-669786e9cf821ba9-responsive-160.webp 160w, /assets/remote-669786e9cf821ba9-responsive-320.webp 320w, /assets/remote-669786e9cf821ba9-responsive-400.webp 400w"} sizes={"(max-width: 640px) calc(100vw - 40px), (max-width: 1024px) 50vw, 333px"} />
+</figure>
+<div data-layout-node={"n253"} className={"v108 text-widget captured-style"}>
+<p data-layout-node={"n254"} className={"v109 captured-style"}>
+{"Commercial buildings"}
+</p>
+</div>
+</div>
+</div>
+</div>
+<div data-layout-node={"n255"} className={"v92 captured-style"}>
+<div data-layout-node={"n256"} className={"v104 captured-style"}>
+<div data-layout-node={"n257"} className={"v105 captured-style"}>
+<figure data-layout-node={"n258"} className={"v106 media-widget captured-style"}>
+<img data-layout-node={"n259"} className={"v107 captured-style"} src={"/assets/remote-4470e78552e88526-responsive-400.webp"} alt={"Hotel"} loading={"lazy"} decoding={"async"} width={"400"} height={"300"} srcSet={"/assets/remote-4470e78552e88526-responsive-160.webp 160w, /assets/remote-4470e78552e88526-responsive-320.webp 320w, /assets/remote-4470e78552e88526-responsive-400.webp 400w"} sizes={"(max-width: 640px) calc(100vw - 40px), (max-width: 1024px) 50vw, 333px"} />
+</figure>
+<div data-layout-node={"n260"} className={"v108 text-widget captured-style"}>
+<p data-layout-node={"n261"} className={"v109 captured-style"}>
+{"Hotels"}
+</p>
+</div>
+</div>
+</div>
+</div>
+<div data-layout-node={"n262"} className={"v92 captured-style"}>
+<div data-layout-node={"n263"} className={"v104 captured-style"}>
+<div data-layout-node={"n264"} className={"v105 captured-style"}>
+<figure data-layout-node={"n265"} className={"v106 media-widget captured-style"}>
+<img data-layout-node={"n266"} className={"v107 captured-style"} src={"/assets/remote-9aa1e783abb7fdaa-responsive-400.webp"} alt={"Housing developments"} loading={"lazy"} decoding={"async"} width={"400"} height={"300"} srcSet={"/assets/remote-9aa1e783abb7fdaa-responsive-160.webp 160w, /assets/remote-9aa1e783abb7fdaa-responsive-320.webp 320w, /assets/remote-9aa1e783abb7fdaa-responsive-400.webp 400w"} sizes={"(max-width: 640px) calc(100vw - 40px), (max-width: 1024px) 50vw, 333px"} />
+</figure>
+<div data-layout-node={"n267"} className={"v108 text-widget captured-style"}>
+<p data-layout-node={"n268"} className={"v109 captured-style"}>
+{"Housing developments"}
+</p>
+</div>
+</div>
+</div>
+</div>
+<div data-layout-node={"n269"} className={"v92 captured-style"}>
+<div data-layout-node={"n270"} className={"v104 captured-style"}>
+<div data-layout-node={"n271"} className={"v105 captured-style"}>
+<figure data-layout-node={"n272"} className={"v106 media-widget captured-style"}>
+<img data-layout-node={"n273"} className={"v107 captured-style"} src={"/assets/remote-a00d4414c62ddcee-responsive-400.webp"} alt={"Hospital"} loading={"lazy"} decoding={"async"} width={"400"} height={"300"} srcSet={"/assets/remote-a00d4414c62ddcee-responsive-160.webp 160w, /assets/remote-a00d4414c62ddcee-responsive-320.webp 320w, /assets/remote-a00d4414c62ddcee-responsive-400.webp 400w"} sizes={"(max-width: 640px) calc(100vw - 40px), (max-width: 1024px) 50vw, 333px"} />
+</figure>
+<div data-layout-node={"n274"} className={"v108 text-widget captured-style"}>
+<p data-layout-node={"n275"} className={"v109 captured-style"}>
+{"Medical institutions"}
+</p>
+</div>
+</div>
+</div>
+</div>
+<div data-layout-node={"n276"} className={"v92 captured-style"}>
+<div data-layout-node={"n277"} className={"v104 captured-style"}>
+<div data-layout-node={"n278"} className={"v105 captured-style"}>
+<figure data-layout-node={"n279"} className={"v106 media-widget captured-style"}>
+<img data-layout-node={"n280"} className={"v107 captured-style"} src={"/assets/remote-37207a03e9f61257-responsive-400.webp"} alt={"Academy"} loading={"lazy"} decoding={"async"} width={"400"} height={"300"} srcSet={"/assets/remote-37207a03e9f61257-responsive-160.webp 160w, /assets/remote-37207a03e9f61257-responsive-320.webp 320w, /assets/remote-37207a03e9f61257-responsive-400.webp 400w"} sizes={"(max-width: 640px) calc(100vw - 40px), (max-width: 1024px) 50vw, 333px"} />
+</figure>
+<div data-layout-node={"n281"} className={"v108 text-widget captured-style"}>
+<p data-layout-node={"n282"} className={"v109 captured-style"}>
+{"Educational institutions"}
+</p>
+</div>
+</div>
+</div>
+</div>
+<div data-layout-node={"n283"} className={"v92 captured-style"}>
+<div data-layout-node={"n284"} className={"v104 captured-style"}>
+<div data-layout-node={"n285"} className={"v105 captured-style"}>
+<figure data-layout-node={"n286"} className={"v106 media-widget captured-style"}>
+<img data-layout-node={"n287"} className={"v110 captured-style"} src={"/assets/remote-dd1f0fb827eb79e4-responsive-600.webp"} alt={"158673029"} loading={"lazy"} decoding={"async"} width={"600"} height={"450"} srcSet={"/assets/remote-dd1f0fb827eb79e4-responsive-160.webp 160w, /assets/remote-dd1f0fb827eb79e4-responsive-320.webp 320w, /assets/remote-dd1f0fb827eb79e4-responsive-600.webp 600w"} sizes={"(max-width: 640px) calc(100vw - 40px), (max-width: 1024px) 50vw, 333px"} />
+</figure>
+<div data-layout-node={"n288"} className={"v108 text-widget captured-style"}>
+<p data-layout-node={"n289"} className={"v109 captured-style"}>
+{"Financial institutions"}
+</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div data-layout-node={"n303"} className={"v114 section captured-style"}>
+<div data-layout-node={"n304"} className={"v2 captured-style"}>
+<div data-layout-node={"n305"} className={"v3 text-widget captured-style"}>
+<div data-layout-node={"n306"} className={"v4 text-widget captured-style"}>
+<p data-layout-node={"n307"} className={"v5 accessible-accent-dark captured-style"}>
+{"WHY SHOULD SECURITY SYSTEM"}
+</p>
+</div>
+</div>
+<div data-layout-node={"n308"} className={"v3 text-widget captured-style"}>
+<div data-layout-node={"n309"} className={"v4 text-widget captured-style"}>
+<h2 data-layout-node={"n310"} className={"v10 captured-style"}>
+{"Reasons to install a security system"}
+</h2>
+</div>
+</div>
+<div data-layout-node={"n311"} className={"v91 section layout-row captured-style layout-row"}>
+<div data-layout-node={"n312"} className={"v92 captured-style"}>
+<div data-layout-node={"n313"} className={"v93 captured-style"}>
+<div data-layout-node={"n314"} className={"v94 captured-style"}>
+<figure data-layout-node={"n315"} className={"v95 media-widget captured-style"}>
+<img data-layout-node={"n316"} className={"v115 captured-style"} src={"/assets/remote-8506ed85a403faa0-responsive-512.webp"} alt={"Bandit"} loading={"lazy"} decoding={"async"} width={"512"} height={"512"} srcSet={"/assets/remote-8506ed85a403faa0-responsive-160.webp 160w, /assets/remote-8506ed85a403faa0-responsive-320.webp 320w, /assets/remote-8506ed85a403faa0-responsive-512.webp 512w"} sizes={"57px"} />
+</figure>
+<div data-layout-node={"n317"} className={"v97 captured-style"}>
+<p data-layout-node={"n318"} className={"v98 captured-style"}>
+{"Deter people with malicious intentions"}
+</p>
+<p data-layout-node={"n319"} className={"v99 captured-style"}>
+{"Help prevent harassment, threats, theft, attempts to obtain confidential organizational information, and unauthorized access to personal data."}
+</p>
+</div>
+</div>
+</div>
+</div>
+<div data-layout-node={"n320"} className={"v92 captured-style"}>
+<div data-layout-node={"n321"} className={"v93 captured-style"}>
+<div data-layout-node={"n322"} className={"v94 captured-style"}>
+<figure data-layout-node={"n323"} className={"v95 media-widget captured-style"}>
+<img data-layout-node={"n324"} className={"v116 captured-style"} src={"/assets/remote-e93e8a9d35e996c2-responsive-512.webp"} alt={"Insurance"} loading={"lazy"} decoding={"async"} width={"512"} height={"512"} srcSet={"/assets/remote-e93e8a9d35e996c2-responsive-160.webp 160w, /assets/remote-e93e8a9d35e996c2-responsive-320.webp 320w, /assets/remote-e93e8a9d35e996c2-responsive-512.webp 512w"} sizes={"50px"} />
+</figure>
+<div data-layout-node={"n325"} className={"v97 captured-style"}>
+<p data-layout-node={"n326"} className={"v98 captured-style"}>
+{"Peace of mind"}
+</p>
+<p data-layout-node={"n327"} className={"v99 captured-style"}>
+{"Build confidence in the safety of people and property in homes, buildings, and offices."}
+</p>
+</div>
+</div>
+</div>
+</div>
+<div data-layout-node={"n328"} className={"v92 captured-style"}>
+<div data-layout-node={"n329"} className={"v93 captured-style"}>
+<div data-layout-node={"n330"} className={"v94 captured-style"}>
+<figure data-layout-node={"n331"} className={"v95 media-widget captured-style"}>
+<img data-layout-node={"n332"} className={"v116 captured-style"} src={"/assets/remote-9fd1adf7ffc3b82e-responsive-512.webp"} alt={"Alarm"} loading={"lazy"} decoding={"async"} width={"512"} height={"512"} srcSet={"/assets/remote-9fd1adf7ffc3b82e-responsive-160.webp 160w, /assets/remote-9fd1adf7ffc3b82e-responsive-320.webp 320w, /assets/remote-9fd1adf7ffc3b82e-responsive-512.webp 512w"} sizes={"50px"} />
+</figure>
+<div data-layout-node={"n333"} className={"v97 captured-style"}>
+<p data-layout-node={"n334"} className={"v98 captured-style"}>
+{"Alerts for urgent incidents"}
+</p>
+<p data-layout-node={"n335"} className={"v99 captured-style"}>
+{"If unauthorized entry occurs, the system detects the intrusion and can immediately notify the homeowner or relevant organization."}
+</p>
+</div>
+</div>
+</div>
+</div>
+<div data-layout-node={"n336"} className={"v92 captured-style"}>
+<div data-layout-node={"n337"} className={"v93 captured-style"}>
+<div data-layout-node={"n338"} className={"v94 captured-style"}>
+<figure data-layout-node={"n339"} className={"v95 media-widget captured-style"}>
+<img data-layout-node={"n340"} className={"v116 captured-style"} src={"/assets/remote-896080ede2dca52b-responsive-512.webp"} alt={"Evidence"} loading={"lazy"} decoding={"async"} width={"512"} height={"512"} srcSet={"/assets/remote-896080ede2dca52b-responsive-160.webp 160w, /assets/remote-896080ede2dca52b-responsive-320.webp 320w, /assets/remote-896080ede2dca52b-responsive-512.webp 512w"} sizes={"50px"} />
+</figure>
+<div data-layout-node={"n341"} className={"v97 captured-style"}>
+<p data-layout-node={"n342"} className={"v98 captured-style"}>
+{"Evidence for legal proceedings"}
+</p>
+<p data-layout-node={"n343"} className={"v99 captured-style"}>
+{"The system can record information about theft and intruders."}
+</p>
+</div>
+</div>
+</div>
+</div>
+<div data-layout-node={"n344"} className={"v92 captured-style"}>
+<div data-layout-node={"n345"} className={"v93 captured-style"}>
+<div data-layout-node={"n346"} className={"v94 captured-style"}>
+<figure data-layout-node={"n347"} className={"v95 media-widget captured-style"}>
+<img data-layout-node={"n348"} className={"v117 captured-style"} src={"/assets/remote-2d1bd0e32e211b13-responsive-512.webp"} alt={"Fire sensor"} loading={"lazy"} decoding={"async"} width={"512"} height={"512"} srcSet={"/assets/remote-2d1bd0e32e211b13-responsive-160.webp 160w, /assets/remote-2d1bd0e32e211b13-responsive-320.webp 320w, /assets/remote-2d1bd0e32e211b13-responsive-512.webp 512w"} sizes={"60px"} />
+</figure>
+<div data-layout-node={"n349"} className={"v97 captured-style"}>
+<p data-layout-node={"n350"} className={"v98 captured-style"}>
+{"Help reduce fire damage"}
+</p>
+<p data-layout-node={"n351"} className={"v99 captured-style"}>
+{"Fire warning systems support timely action to extinguish a fire or limit its spread."}
+</p>
+</div>
+</div>
+</div>
+</div>
+<div data-layout-node={"n352"} className={"v92 captured-style"}>
+<div data-layout-node={"n353"} className={"v93 captured-style"}>
+<div data-layout-node={"n354"} className={"v94 captured-style"}>
+<figure data-layout-node={"n355"} className={"v95 media-widget captured-style"}>
+<img data-layout-node={"n356"} className={"v116 captured-style"} src={"/assets/remote-4ec2380225a0077c-responsive-512.webp"} alt={"Rating"} loading={"lazy"} decoding={"async"} width={"512"} height={"512"} srcSet={"/assets/remote-4ec2380225a0077c-responsive-160.webp 160w, /assets/remote-4ec2380225a0077c-responsive-320.webp 320w, /assets/remote-4ec2380225a0077c-responsive-512.webp 512w"} sizes={"50px"} />
+</figure>
+<div data-layout-node={"n357"} className={"v97 captured-style"}>
+<p data-layout-node={"n358"} className={"v98 captured-style"}>
+{"Modern and convenient"}
+</p>
+<p data-layout-node={"n359"} className={"v99 captured-style"}>
+{"Modern technology makes everyday life easier."}
+</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</details>
+</section>
+<section id={"service-options"} className={"service-stage"} data-service-stage={"options"}>
+<div className={"service-stage-heading"}>
+<h2>
+{"Service options and pricing"}
+</h2>
+</div>
+<ServicePricing path={"/security-system/"} english={true} />
+<div data-layout-node={"n45"} className={"v7 section captured-style"}>
+<div data-layout-node={"n46"} className={"v32 captured-style"}>
+<div data-layout-node={"n47"} className={"v33 section captured-style"}>
+<div data-layout-node={"n48"} className={"v3 text-widget captured-style"}>
+<div data-layout-node={"n49"} className={"v4 text-widget captured-style"}>
+<p data-layout-node={"n50"} className={"v5 accessible-accent-dark captured-style"}>
+{"WHAT ARE SECURITY SYSTEM\r\n"}
+</p>
+</div>
+</div>
+<div data-layout-node={"n51"} className={"v3 text-widget captured-style"}>
+<div data-layout-node={"n52"} className={"v4 text-widget captured-style"}>
+<h2 data-layout-node={"n53"} className={"v10 captured-style"}>
+{"What security system installation services does AITSCCTV offer?"}
+</h2>
+</div>
+</div>
+<div data-layout-node={"n54"} className={"v20 captured-style"}>
+<div data-layout-node={"n55"} className={"v21 captured-style"}>
+{"AITS focuses on developing modern, effective security systems. We continuously improve and update them to meet user needs. Our services include:"}
+</div>
+</div>
+<div data-layout-node={"n56"} className={"v34 section layout-row captured-style layout-row"}>
+<div data-layout-node={"n57"} className={"v35 section captured-style"}>
+<div data-layout-node={"n58"} className={"v36 media-widget captured-style"}>
+<div data-layout-node={"n59"} className={"v37 media-widget captured-style"}>
+<img data-layout-node={"n60"} className={"v38 captured-style"} src={"/assets/remote-cb8135830d8dfc2b-responsive-640.webp"} alt={"Emergency Notification"} loading={"lazy"} decoding={"async"} width={"1200"} height={"630"} srcSet={"/assets/remote-cb8135830d8dfc2b-responsive-160.webp 160w, /assets/remote-cb8135830d8dfc2b-responsive-320.webp 320w, /assets/remote-cb8135830d8dfc2b-responsive-640.webp 640w, /assets/remote-cb8135830d8dfc2b-responsive-1200.webp 1200w"} sizes={"(max-width: 640px) calc(100vw - 40px), (max-width: 1024px) 50vw, 327px"} />
+</div>
+</div>
+<div data-layout-node={"n61"} className={"v39 text-widget captured-style"}>
+<div data-layout-node={"n62"} className={"v40 text-widget captured-style"}>
+<h3 data-layout-node={"n63"} className={"v41 captured-style"}>
+{"Emergency notification systems"}
+</h3>
+</div>
+</div>
+<div data-layout-node={"n64"} className={"v42 captured-style"}>
+<div data-layout-node={"n65"} className={"v43 captured-style"}>
+{"Installation of smart and wireless warning systems for threats to life, home security alerts, emergency warnings, government notifications, public safety messages, and disaster alerts."}
+</div>
+</div>
+</div>
+<div data-layout-node={"n66"} className={"v44 section captured-style"}>
+<div data-layout-node={"n67"} className={"v45 media-widget captured-style"}>
+<div data-layout-node={"n68"} className={"v46 media-widget captured-style"}>
+<img data-layout-node={"n69"} className={"v47 captured-style"} src={"/assets/remote-b16905b53055cc63-responsive-640.webp"} alt={"Intrusion Detection System"} loading={"lazy"} decoding={"async"} width={"1200"} height={"630"} srcSet={"/assets/remote-b16905b53055cc63-responsive-160.webp 160w, /assets/remote-b16905b53055cc63-responsive-320.webp 320w, /assets/remote-b16905b53055cc63-responsive-640.webp 640w, /assets/remote-b16905b53055cc63-responsive-1200.webp 1200w"} sizes={"(max-width: 640px) calc(100vw - 40px), (max-width: 1024px) 50vw, 327px"} />
+</div>
+</div>
+<div data-layout-node={"n70"} className={"v48 text-widget captured-style"}>
+<div data-layout-node={"n71"} className={"v49 text-widget captured-style"}>
+<h3 data-layout-node={"n72"} className={"v50 captured-style"}>
+{"Intrusion detection systems"}
+</h3>
+</div>
+</div>
+<div data-layout-node={"n73"} className={"v51 captured-style"}>
+<div data-layout-node={"n74"} className={"v52 captured-style"}>
+{"Design and installation of security monitoring tools, intruder alarms, motion detectors, and intrusion detection systems that record intruder information and alert the homeowner or relevant organization."}
+</div>
+</div>
+</div>
+<div data-layout-node={"n75"} className={"v44 section captured-style"}>
+<div data-layout-node={"n76"} className={"v45 media-widget captured-style"}>
+<div data-layout-node={"n77"} className={"v46 media-widget captured-style"}>
+<img data-layout-node={"n78"} className={"v47 captured-style"} src={"/assets/remote-6d4a06ccb0703090-responsive-640.webp"} alt={"Fire Alarm System"} loading={"lazy"} decoding={"async"} width={"1200"} height={"630"} srcSet={"/assets/remote-6d4a06ccb0703090-responsive-160.webp 160w, /assets/remote-6d4a06ccb0703090-responsive-320.webp 320w, /assets/remote-6d4a06ccb0703090-responsive-640.webp 640w, /assets/remote-6d4a06ccb0703090-responsive-1200.webp 1200w"} sizes={"(max-width: 640px) calc(100vw - 40px), (max-width: 1024px) 50vw, 327px"} />
+</div>
+</div>
+<div data-layout-node={"n79"} className={"v48 text-widget captured-style"}>
+<div data-layout-node={"n80"} className={"v49 text-widget captured-style"}>
+<h3 data-layout-node={"n81"} className={"v50 captured-style"}>
+{"Fire alarm systems"}
+</h3>
+</div>
+</div>
+<div data-layout-node={"n82"} className={"v51 captured-style"}>
+<div data-layout-node={"n83"} className={"v52 captured-style"}>
+{"Fire detection and alarm installation, including smoke alarms, heat detectors, smoke detectors, warning lights, emergency lighting, and complete fire alert system design."}
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div data-layout-node={"n121"} className={"v82 section captured-style"}>
+<div data-layout-node={"n122"} className={"v83 captured-style"}>
+<div data-layout-node={"n123"} className={"v84 section captured-style"}>
+<div data-layout-node={"n124"} className={"v85 captured-style"}>
+<div data-layout-node={"n125"} className={"v3 text-widget captured-style"}>
+<div data-layout-node={"n126"} className={"v4 text-widget captured-style"}>
+<h2 data-layout-node={"n127"} className={"v10 captured-style"}>
+{"Security equipment brands recommended by AITSCCTV"}
+</h2>
+</div>
+</div>
+<div data-layout-node={"n128"} className={"v86 section captured-style"}>
+<div data-layout-node={"n129"} className={"v87 layout-row captured-style layout-row"}>
+<div data-layout-node={"n130"} className={"v88 media-widget captured-style"}>
+<div data-layout-node={"n131"} className={"v4 media-widget captured-style"}>
+<img data-layout-node={"n132"} className={"v89 captured-style"} src={"/assets/remote-7665ecc63da4168a-responsive-500.webp"} alt={"Fibaro"} loading={"lazy"} decoding={"async"} width={"500"} height={"500"} srcSet={"/assets/remote-7665ecc63da4168a-responsive-160.webp 160w, /assets/remote-7665ecc63da4168a-responsive-320.webp 320w, /assets/remote-7665ecc63da4168a-responsive-500.webp 500w"} sizes={"150px"} />
+</div>
+</div>
+<div data-layout-node={"n133"} className={"v88 captured-style"}>
+<div data-layout-node={"n134"} className={"v4 captured-style"}>
+<img data-layout-node={"n135"} className={"v89 captured-style"} src={"/assets/remote-018b8b72f474ded9-responsive-300.webp"} alt={"Lumi"} loading={"lazy"} decoding={"async"} width={"300"} height={"300"} srcSet={"/assets/remote-018b8b72f474ded9-responsive-160.webp 160w, /assets/remote-018b8b72f474ded9-responsive-300.webp 300w"} sizes={"150px"} />
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div data-layout-node={"n360"} className={"section comparison-section"}>
+<ServiceComparison kind={"security"} english={true} />
+</div>
+<ServiceWarranty path={"/security-system/"} english={true} />
+<details className={"service-detail"}>
+<summary>
+{"Technical details and selection guidance"}
+</summary>
+<div className={"service-detail-content"}>
+<div data-layout-node={"n290"} className={"v7 section captured-style"}>
+<div data-layout-node={"n291"} className={"v2 captured-style"}>
+<div data-layout-node={"n292"} className={"v3 text-widget captured-style"}>
+<div data-layout-node={"n293"} className={"v4 text-widget captured-style"}>
+<p data-layout-node={"n294"} className={"v5 accessible-accent-dark captured-style"}>
+{"WHAT IS SECURITY SYSTEM"}
+</p>
+</div>
+</div>
+<div data-layout-node={"n295"} className={"v3 text-widget captured-style"}>
+<div data-layout-node={"n296"} className={"v4 text-widget captured-style"}>
+<h2 data-layout-node={"n297"} className={"v10 captured-style"}>
+{"What is a security system?"}
+</h2>
+</div>
+</div>
+<div data-layout-node={"n298"} className={"v3 media-widget captured-style"}>
+<div data-layout-node={"n299"} className={"v4 media-widget captured-style"}>
+<img data-layout-node={"n300"} className={"v111 captured-style"} src={"/assets/remote-8726988daa572453-responsive-640.webp"} alt={"Notification"} loading={"lazy"} decoding={"async"} width={"1024"} height={"538"} srcSet={"/assets/remote-8726988daa572453-responsive-160.webp 160w, /assets/remote-8726988daa572453-responsive-320.webp 320w, /assets/remote-8726988daa572453-responsive-640.webp 640w, /assets/remote-8726988daa572453-responsive-1024.webp 1024w"} sizes={"(max-width: 640px) calc(100vw - 40px), (max-width: 1024px) 50vw, 1140px"} />
+</div>
+</div>
+<div data-layout-node={"n301"} className={"v112 captured-style"}>
+<div data-layout-node={"n302"} className={"v113 captured-style"}>
+{"Security systems are designed to protect people and property against threats. They can help safeguard personal, family, business, and confidential organizational information. Motion detectors and other equipment can detect intrusion, record intruder information, and notify homeowners or relevant organizations. Systems also include disaster and emergency alerts, such as fire alarms and smoke detectors, to help you respond promptly to dangerous situations."}
+</div>
+</div>
+</div>
+</div>
+</div>
+</details>
+</section>
+<section id={"service-projects"} className={"service-stage"} data-service-stage={"projects"}>
+<div className={"service-stage-heading"}>
+<h2>
+{"Related projects and content"}
+</h2>
+</div>
+<ServiceProjects path={"/security-system/"} english={true} />
+</section>
+<section id={"service-contact"} className={"service-stage"} data-service-stage={"contact"}>
+<div className={"service-stage-heading"}>
+<h2>
+{"Request a quotation and contact our team"}
+</h2>
+</div>
+<ServiceContact path={"/security-system/"} english={true} />
+</section>
+</div></div>}

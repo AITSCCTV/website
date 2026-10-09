@@ -179,16 +179,16 @@ export default function Page4741(){return <div className="page-4741 captured-pag
 </div>
 </div>
 </div>
-<ServiceTrust />
+<ServiceTrust english={false} />
 </section>
-<ServiceContents />
+<ServiceContents english={false} />
 <section id={"service-benefits"} className={"service-stage"} data-service-stage={"benefits"}>
 <div className={"service-stage-heading"}>
 <h2>
 {"ประโยชน์และการใช้งาน"}
 </h2>
 </div>
-<ServiceBenefits path={"/access-control-system/card-scanner/"} />
+<ServiceBenefits path={"/access-control-system/card-scanner/"} english={false} />
 <details className={"service-detail"}>
 <summary>
 {"รายละเอียดประโยชน์และการใช้งาน"}
@@ -305,7 +305,7 @@ export default function Page4741(){return <div className="page-4741 captured-pag
 {"รูปแบบบริการและราคา"}
 </h2>
 </div>
-<ServicePricing path={"/access-control-system/card-scanner/"} />
+<ServicePricing path={"/access-control-system/card-scanner/"} english={false} />
 <div data-layout-node={"n140"} className={"v8 section captured-style"}>
 <div data-layout-node={"n141"} className={"v59 captured-style"}>
 <div data-layout-node={"n142"} className={"v3 text-widget captured-style"}>
@@ -474,13 +474,13 @@ export default function Page4741(){return <div className="page-4741 captured-pag
 <div data-layout-node={"n221"} className={"v77 video-shell captured-style"}>
 <div data-layout-node={"n222"} className={"v78 video-shell captured-style"}>
 <div data-layout-node={"n223"} className={"v79 video-shell captured-style"}>
-<VideoFrame src={"https://www.youtube.com/embed/o8-vmIs4v1w?controls=1&rel=0&playsinline=0&modestbranding=0&autoplay=0&enablejsapi=1&origin=https%3A%2F%2Faitscctv.com&widgetid=1&forigin=https%3A%2F%2Faitscctv.com%2Faccess-control-system%2Fcard-scanner%2F&aoriginsup=1&vf=1"} style={{"width":"684px","maxWidth":"100%","aspectRatio":"684/384.75","display":"flex","margin":"0px"}} />
+<VideoFrame src={"https://www.youtube.com/embed/o8-vmIs4v1w?controls=1&rel=0&playsinline=0&modestbranding=0&autoplay=0&enablejsapi=1&origin=https%3A%2F%2Faitscctv.com&widgetid=1&forigin=https%3A%2F%2Faitscctv.com%2Faccess-control-system%2Fcard-scanner%2F&aoriginsup=1&vf=1"} english={false} style={{"width":"684px","maxWidth":"100%","aspectRatio":"684/384.75","display":"flex","margin":"0px"}} />
 </div>
 </div>
 </div>
 </div>
 </div>
-<ServiceWarranty path={"/access-control-system/card-scanner/"} />
+<ServiceWarranty path={"/access-control-system/card-scanner/"} english={false} />
 </section>
 <section id={"service-projects"} className={"service-stage"} data-service-stage={"projects"}>
 <div className={"service-stage-heading"}>
@@ -488,7 +488,7 @@ export default function Page4741(){return <div className="page-4741 captured-pag
 {"ผลงานและเนื้อหาที่เกี่ยวข้อง"}
 </h2>
 </div>
-<ServiceProjects path={"/access-control-system/card-scanner/"} />
+<ServiceProjects path={"/access-control-system/card-scanner/"} english={false} />
 </section>
 <section id={"service-contact"} className={"service-stage"} data-service-stage={"contact"}>
 <div className={"service-stage-heading"}>
@@ -496,6 +496,6 @@ export default function Page4741(){return <div className="page-4741 captured-pag
 {"ขอใบเสนอราคาและติดต่อทีมงาน"}
 </h2>
 </div>
-<ServiceContact path={"/access-control-system/card-scanner/"} />
+<ServiceContact path={"/access-control-system/card-scanner/"} english={false} />
 </section>
 </div></div>}

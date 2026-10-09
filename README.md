@@ -6,7 +6,7 @@ The Pages workflow builds and deploys every push to `main`. In repository Settin
 
 For a Pages build, set `GITHUB_PAGES=true`, run `npm run build`, then `node scripts/prepare-pages.mjs`. Deploy the `out` directory. The export uses `/website` as its base path; the preparation step prefixes captured public asset URLs in HTML, client bundles, RSC payloads and CSS. Normal local development and server builds still run at `/`. Preview search indexing remains disabled.
 
-Next.js, React, TypeScript and Tailwind frontend with Thai and English homepages.
+Next.js, React, TypeScript and Tailwind frontend with Thai and English versions of every page, plus 118 English article and project bodies.
 
 ## Run locally
 
@@ -36,9 +36,9 @@ With the local server running, `npm run verify` checks routes and assets. Instal
 - `public`: local images, fonts and page styles
 - `design-source`: inputs for `npm run generate`
 
-Homepage standards cards are removed. The complete article archive remains at `/articles/`; English homepage and archive interface are at `/en/` and `/en/articles/`. Original articles and service details remain Thai.
+Homepage standards cards are removed. The article archive remains at `/articles/`; English pages use `/en/`, with the archive at `/en/articles/` and full article bodies under `/en/articles/<id>-<title>/`. The language switch preserves the matching page; English articles link back to their original Thai WordPress articles.
 
-This is a preview build: search indexing is disabled and live CMS updates are not connected. External forms, technician login and original article bodies link to existing destinations. See README.txt for details.
+This is a preview build: search indexing is disabled and live CMS updates are not connected. External forms and technician login use their existing destinations. Original media may contain Thai text or audio. See README.txt for details.
 
 ## Responsive layouts
 
@@ -64,7 +64,15 @@ All 22 service pages follow the same order: overview, benefits, options/pricing,
 
 `scripts/service-policy.mjs` defines retained service sections and curated published content. Related articles are labelled separately from project stories. Where no matching published case is available, the page offers a way to ask the team for examples. The project portfolio retains its 20 entries; the article archive retains all 99 articles, including every entry from the former blog listing. Reviews and FAQs remain on the homepages only.
 
-`/blog/` redirects permanently to `/articles/` on a Next.js server. The GitHub Pages export uses an early browser redirect with a no-JavaScript fallback because Pages cannot provide application redirect rules. Browser redirects preserve search parameters and fragments. Article bodies continue linking to their existing WordPress destinations.
+`/blog/` and `/en/blog/` redirect to their matching article archives on a Next.js server. GitHub Pages uses an early browser redirect with a no-JavaScript fallback because Pages cannot provide application redirect rules. Browser redirects preserve search parameters and fragments. English article links point to local translated bodies; Thai articles retain their original WordPress destinations.
+
+## English content
+
+Translations are stored in `src/lib/site-en.json` and `src/lib/home-en.json`. No OpenAI key or runtime translation service is required. `npm run generate` rebuilds translated pages and article bodies from these dictionaries and the cached public posts in `design-source/editorial/posts.json`. The article compiler removes unsafe markup and empty links, localizes related article/service links, and uses responsive local images. The client archive imports only a small article index; full bodies render on the server or during static export.
+
+Run `node scripts/check-english.mjs` to check generated page metadata, service content, video labels, article titles, summaries, body text and accessibility labels for untranslated Thai. This check also runs in the deployment pipeline. To incorporate later CMS updates, refresh the editorial cache, translate newly discovered content, regenerate and verify before publishing.
+
+Against a prepared static export preview, set `TEST_ORIGIN` to its `/website` URL and run `node scripts/english-regression.mjs` for all 154 English routes at 320, 768 and 1440px, metadata, language switches, runtime errors and no-JavaScript article access. Run `node scripts/english-navigation.mjs` to check archive search, article navigation and browser back. Export processing preserves React text-record byte lengths when prefixing assets, and normalizes Windows segment-cache filenames for the browser router.
 
 Run `node scripts/restructure-regression.mjs` against a running production preview (set `TEST_ORIGIN`). It checks the 22-page structure at phone and desktop widths, retained/removed sections, original warranty wording, project links, expandable technical content, gallery completeness, archive search/pagination, and legacy redirects.
 

@@ -577,7 +577,7 @@ export default function Page1751(){return <div className="page-1751 captured-pag
 <div data-layout-node={"n1779"} className={"v82 video-shell captured-style"}>
 <div data-layout-node={"n1780"} className={"v6 video-shell captured-style"}>
 <div data-layout-node={"n1781"} className={"v198 video-shell captured-style"}>
-<VideoFrame src={"https://www.youtube-nocookie.com/embed/hw9GWGKO_yU"} style={{"width":"100%","maxWidth":"100%","aspectRatio":"705.75/396.975","display":"block","position":"absolute","inset":"0","height":"100%","margin":"0px"}} />
+<VideoFrame src={"https://www.youtube-nocookie.com/embed/hw9GWGKO_yU"} english={false} style={{"width":"100%","maxWidth":"100%","aspectRatio":"705.75/396.975","display":"block","position":"absolute","inset":"0","height":"100%","margin":"0px"}} />
 </div>
 </div>
 </div>

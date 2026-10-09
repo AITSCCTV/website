@@ -68,16 +68,16 @@ export default function Page4113(){return <div className="page-4113 captured-pag
 </div>
 </div>
 </div>
-<ServiceTrust />
+<ServiceTrust english={false} />
 </section>
-<ServiceContents />
+<ServiceContents english={false} />
 <section id={"service-benefits"} className={"service-stage"} data-service-stage={"benefits"}>
 <div className={"service-stage-heading"}>
 <h2>
 {"ประโยชน์และการใช้งาน"}
 </h2>
 </div>
-<ServiceBenefits path={"/telephone-system/"} />
+<ServiceBenefits path={"/telephone-system/"} english={false} />
 <details className={"service-detail"}>
 <summary>
 {"รายละเอียดประโยชน์และการใช้งาน"}
@@ -439,7 +439,7 @@ export default function Page4113(){return <div className="page-4113 captured-pag
 {"รูปแบบบริการและราคา"}
 </h2>
 </div>
-<ServicePricing path={"/telephone-system/"} />
+<ServicePricing path={"/telephone-system/"} english={false} />
 <div data-layout-node={"n196"} className={"v7 section captured-style"}>
 <div data-layout-node={"n197"} className={"v72 captured-style"}>
 <div data-layout-node={"n198"} className={"v73 section captured-style"}>
@@ -729,7 +729,7 @@ export default function Page4113(){return <div className="page-4113 captured-pag
 </div>
 </div>
 </div>
-<ServiceWarranty path={"/telephone-system/"} />
+<ServiceWarranty path={"/telephone-system/"} english={false} />
 <details className={"service-detail"}>
 <summary>
 {"รายละเอียดทางเทคนิคและแนวทางเลือกใช้งาน"}
@@ -962,7 +962,7 @@ export default function Page4113(){return <div className="page-4113 captured-pag
 {"ผลงานและเนื้อหาที่เกี่ยวข้อง"}
 </h2>
 </div>
-<ServiceProjects path={"/telephone-system/"} />
+<ServiceProjects path={"/telephone-system/"} english={false} />
 </section>
 <section id={"service-contact"} className={"service-stage"} data-service-stage={"contact"}>
 <div className={"service-stage-heading"}>
@@ -970,6 +970,6 @@ export default function Page4113(){return <div className="page-4113 captured-pag
 {"ขอใบเสนอราคาและติดต่อทีมงาน"}
 </h2>
 </div>
-<ServiceContact path={"/telephone-system/"} />
+<ServiceContact path={"/telephone-system/"} english={false} />
 </section>
 </div></div>}

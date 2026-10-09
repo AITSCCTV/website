@@ -73,16 +73,16 @@ export default function Page3709(){return <div className="page-3709 captured-pag
 </div>
 </div>
 </div>
-<ServiceTrust />
+<ServiceTrust english={false} />
 </section>
-<ServiceContents />
+<ServiceContents english={false} />
 <section id={"service-benefits"} className={"service-stage"} data-service-stage={"benefits"}>
 <div className={"service-stage-heading"}>
 <h2>
 {"ประโยชน์และการใช้งาน"}
 </h2>
 </div>
-<ServiceBenefits path={"/solar-cell-system/"} />
+<ServiceBenefits path={"/solar-cell-system/"} english={false} />
 <details className={"service-detail"}>
 <summary>
 {"รายละเอียดประโยชน์และการใช้งาน"}
@@ -182,7 +182,7 @@ export default function Page3709(){return <div className="page-3709 captured-pag
 {"รูปแบบบริการและราคา"}
 </h2>
 </div>
-<ServicePricing path={"/solar-cell-system/"} />
+<ServicePricing path={"/solar-cell-system/"} english={false} />
 <div data-layout-node={"n83"} className={"v7 section captured-style"}>
 <div data-layout-node={"n84"} className={"v53 captured-style"}>
 <div data-layout-node={"n85"} className={"v3 text-widget captured-style"}>
@@ -503,7 +503,7 @@ export default function Page3709(){return <div className="page-3709 captured-pag
 </div>
 </div>
 </div>
-<ServiceWarranty path={"/solar-cell-system/"} />
+<ServiceWarranty path={"/solar-cell-system/"} english={false} />
 <details className={"service-detail"}>
 <summary>
 {"รายละเอียดทางเทคนิคและแนวทางเลือกใช้งาน"}
@@ -567,7 +567,7 @@ export default function Page3709(){return <div className="page-3709 captured-pag
 {"ผลงานและเนื้อหาที่เกี่ยวข้อง"}
 </h2>
 </div>
-<ServiceProjects path={"/solar-cell-system/"} />
+<ServiceProjects path={"/solar-cell-system/"} english={false} />
 </section>
 <section id={"service-contact"} className={"service-stage"} data-service-stage={"contact"}>
 <div className={"service-stage-heading"}>
@@ -575,6 +575,6 @@ export default function Page3709(){return <div className="page-3709 captured-pag
 {"ขอใบเสนอราคาและติดต่อทีมงาน"}
 </h2>
 </div>
-<ServiceContact path={"/solar-cell-system/"} />
+<ServiceContact path={"/solar-cell-system/"} english={false} />
 </section>
 </div></div>}
