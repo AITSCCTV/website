@@ -160,6 +160,7 @@ function prepare(nodes){
  }
 }
 function jsx(node){
+ if(node.name==='aits-service-comparison')return '<ServiceComparison kind={'+JSON.stringify(node.attribs.kind)+'} />';
  if(node.type==='text')return node.data.trim()?'{'+JSON.stringify(english?(translations[node.data.trim()]||node.data):node.data)+'}':'';
  if(node.type!=='tag')return '';
  if(node.name==='script'||node.name==='style')return '';
@@ -219,6 +220,18 @@ for(const route of routes){
  prepare(nodes);
  const restructured=restructureContent(nodes,currentRoute,editorial);
  if(restructured){serviceContent[currentRoute]=restructured.data;serviceAudit.push(restructured.audit)}
+ for(const root of nodes)walk(root,n=>{
+  const comparison=currentRoute==='/network-service/'&&n.attribs?.['data-layout-node']==='n399'?'lan':currentRoute==='/security-system/'&&n.attribs?.['data-layout-node']==='n360'?'security':null;
+  if(comparison){
+   n.attribs.class='section comparison-section';
+   n.children=parseDocument('<aits-service-comparison kind="'+comparison+'"></aits-service-comparison>').children;
+   for(const child of n.children)child.parent=n;
+  }
+  if(currentRoute==='/contact/'&&n.attribs?.class==='external-content-link'){
+   n.attribs.class+=' contact-map-link';n.children=[{type:'text',data:'ดูแผนที่บน Google Maps',parent:n}];
+   const url=new URL(n.attribs.href);url.searchParams.delete('output');url.searchParams.delete('iwloc');n.attribs.href=url.toString();
+  }
+ });
  accessibleContent(nodes);
  // These computed values came from 10%/5% section padding at the reference width.
  // Keep them fluid instead of freezing desktop-sized gaps onto phones.
@@ -254,7 +267,7 @@ for(const route of routes){
  });
  stylePages.push({id:route.id,css,used,phoneBackgrounds:phoneRules.length?'\n@media(max-width:640px){'+phoneRules.join('')+'}':''});
  const prelude='// Generated from the design capture. Corrections are applied in the generator.\nimport {Fragment} from "react";\nimport {SiteLink} from "../components/SiteLink";\nimport {VideoFrame} from "../components/VideoFrame";\nimport {LogoCarousel} from "../components/LogoCarousel";\nimport {ContactPhone} from "../components/ContactPhone";\nimport {ServiceTrust,ServiceContents,ServiceBenefits,ServicePricing,ServiceWarranty,ServiceProjects,ServiceContact,AboutTeamGallery} from "../components/ServiceContent";\n';
- fs.writeFileSync(path.join(base,'src/generated','Page'+route.id+'.tsx'),prelude+(route.path==='/video/'?'import {VideoLibrary} from "../components/VideoLibrary";\n':'')+'export default function Page'+route.id+'(){return <div className="page-'+route.id+' captured-page">'+rendered+'</div>}\n');
+ fs.writeFileSync(path.join(base,'src/generated','Page'+route.id+'.tsx'),prelude+(['\/network-service/','/security-system/'].includes(route.path)?'import {ServiceComparison} from "../components/ServiceComparison";\n':'')+(route.path==='/video/'?'import {VideoLibrary} from "../components/VideoLibrary";\n':'')+'export default function Page'+route.id+'(){return <div className="page-'+route.id+' captured-page">'+rendered+'</div>}\n');
  if(route.path==='/'){
   english=true;const en=nodes.map(jsx).join('');english=false;
   fs.writeFileSync('src/generated/HomeEnglish.tsx',prelude+'export default function HomeEnglish(){return <div lang="en" className="page-'+route.id+' english-home captured-page">'+en+'</div>}');

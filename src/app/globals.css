@@ -269,3 +269,27 @@ main .video-card h2{font-size:18px!important;line-height:1.5!important;color:#ff
 .video-card-play:focus-visible{outline-offset:-4px}
 @media(max-width:1023px){.video-library-grid{grid-template-columns:repeat(2,minmax(0,1fr))}}
 @media(max-width:639px){.video-library{padding-block:28px 40px}.video-library-header{display:block;margin-bottom:24px}.video-library-header>a{margin-top:12px}.video-library-grid{grid-template-columns:1fr;gap:28px}.video-card h2{margin-top:12px}}
+/* Native comparison tables stay readable without expanding the phone viewport. */
+.comparison-section{padding:32px 24px!important;min-width:0;max-width:100%;width:100%}
+.service-comparison{max-width:1092px;margin-inline:auto;color:#ddd}
+.comparison-eyebrow{color:#ff7775;font-size:14px;letter-spacing:.05em;margin:0 0 8px}
+.service-comparison h3{font-size:26px;color:#fff;line-height:1.4;margin-bottom:16px}
+.comparison-scroll{max-width:100%;overflow-x:auto;border:1px solid #555;border-radius:8px;overscroll-behavior-x:contain}
+.service-comparison table{width:100%;min-width:640px;border-collapse:separate;border-spacing:0;table-layout:fixed;font-size:16px;line-height:1.6;color:#eee}
+.service-comparison th,.service-comparison td{padding:18px 20px;vertical-align:top;text-align:left;border-bottom:1px solid #4a4a4a;overflow-wrap:anywhere}
+.service-comparison thead th{background:#303030;color:#fff;font-weight:600}
+.service-comparison tbody th{background:#242424;color:#fff;font-weight:400}
+.service-comparison tbody td{background:#1c1c1c}
+.service-comparison tr:last-child>*{border-bottom:0}
+.service-comparison th:first-child{width:25%}
+.service-comparison .comparison-note,.service-comparison .comparison-sources{font-size:14px;color:#bbb;margin:16px 0 0}
+.comparison-sources a{text-decoration:underline;text-underline-offset:3px}
+.comparison-scroll-hint{font-size:14px;color:#bbb;margin:12px 0}
+.comparison-scroll:focus-visible{outline:3px solid #fff;outline-offset:3px}
+/* Career copy includes text inside captured divs and spans, not just paragraphs. */
+main .page-6443 :is(h1,h2,h3,h4,p,li,div,span,strong,em){color:#eee!important}
+main .page-6443 .accessible-accent-dark{color:#ff7775!important}
+main .page-6443 hr,main .page-6443 [data-layout-node="n27"]{border-color:#555!important}
+main .page-40 [data-layout-node="n41"],main .page-40 [data-layout-node="n42"],main .page-40 [data-layout-node="n43"]{display:flex;justify-content:center;align-items:center;width:100%!important;max-width:100%!important}
+main .page-40 .contact-map-link{display:inline-flex;align-items:center;justify-content:center;text-align:center;min-height:48px;width:auto;max-width:100%;margin:24px auto;padding:12px 24px;line-height:1.5}
+@media(max-width:640px){.comparison-section{padding:24px 20px!important}.service-comparison h3{font-size:22px!important}.service-comparison th,.service-comparison td{padding:14px 16px}.service-comparison tbody th{position:sticky;left:0;z-index:1;box-shadow:1px 0 #555}.service-comparison thead th:first-child{position:sticky;left:0;z-index:2;box-shadow:1px 0 #555}}

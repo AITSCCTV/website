@@ -5,6 +5,7 @@ import {VideoFrame} from "../components/VideoFrame";
 import {LogoCarousel} from "../components/LogoCarousel";
 import {ContactPhone} from "../components/ContactPhone";
 import {ServiceTrust,ServiceContents,ServiceBenefits,ServicePricing,ServiceWarranty,ServiceProjects,ServiceContact,AboutTeamGallery} from "../components/ServiceContent";
+import {ServiceComparison} from "../components/ServiceComparison";
 export default function Page3600(){return <div className="page-3600 captured-page"><div data-layout-node={"n0"} className={"v0 captured-style"}>
 <section id={"service-overview"} className={"service-stage"} data-service-stage={"overview"}>
 <div data-layout-node={"n1"} className={"v1 section captured-style"}>
@@ -535,83 +536,8 @@ export default function Page3600(){return <div className="page-3600 captured-pag
 </div>
 </div>
 </div>
-<div data-layout-node={"n360"} className={"v7 section captured-style"}>
-<div data-layout-node={"n361"} className={"v118 captured-style"}>
-<div data-layout-node={"n362"} className={"v3 text-widget captured-style"}>
-<div data-layout-node={"n363"} className={"v4 text-widget captured-style"}>
-<p data-layout-node={"n364"} className={"v9 accessible-accent-dark captured-style"}>
-{"SECURITY SYSTEM"}
-</p>
-</div>
-</div>
-<div data-layout-node={"n365"} className={"v3 text-widget captured-style"}>
-<div data-layout-node={"n366"} className={"v4 text-widget captured-style"}>
-<h2 data-layout-node={"n367"} className={"v10 captured-style"}>
-{"ระบบรักษาความปลอดภัยมีอะไรบ้าง?\r\n"}
-</h2>
-</div>
-</div>
-<div data-layout-node={"n368"} className={"v119 text-widget captured-style"}>
-<div data-layout-node={"n369"} className={"v120 text-widget captured-style"}>
-<p data-layout-node={"n370"} className={"v121 captured-style"}>
-{"โดยทั่วไปหากพูดถึงระบบรักษาความปลอดภัยขั้นพื้นฐานหลาย ๆ คนอาจจะนึกถึงการติดตั้งกล้องวงจรปิด ติดตั้งประตูคีย์การ์ด หรือเครื่องสแกนลายนิ้วมือเท่านั้น แต่สำหรับผู้ที่ต้องการเพิ่มและยกระดับความปลอดภัยขั้นสูงสุด หรือเป็นองค์กร สำนักงานที่มีข้อมูลพนักงาน มีทรัพย์สินมีค่ามากมาย การติดตั้งขั้นพื้นฐานก็อาจจะไม่เพียงพอ ดังนั้นจึงมีการออกแบบระบบรักษาความปลอดภัยที่ยกระดับความปลอดภัยให้มีประสิทธิภาพมากขึ้นดังนี้"}
-</p>
-</div>
-</div>
-<div data-layout-node={"n371"} className={"v122 section captured-style"}>
-<div data-layout-node={"n372"} className={"v123 captured-style"}>
-<div data-layout-node={"n373"} className={"v124 captured-style"}>
-<div data-layout-node={"n374"} className={"v125 layout-row captured-style"}>
-<figure data-layout-node={"n375"} className={"v126 media-widget captured-style"}>
-<img data-layout-node={"n376"} className={"v127 captured-style"} src={"/assets/remote-7a80e9fbb5d68bbe-responsive-640.webp"} alt={"Emergency alert system"} loading={"lazy"} decoding={"async"} width={"1200"} height={"630"} srcSet={"/assets/remote-7a80e9fbb5d68bbe-responsive-160.webp 160w, /assets/remote-7a80e9fbb5d68bbe-responsive-320.webp 320w, /assets/remote-7a80e9fbb5d68bbe-responsive-640.webp 640w, /assets/remote-7a80e9fbb5d68bbe-responsive-1200.webp 1200w"} sizes={"(max-width: 640px) calc(100vw - 40px), (max-width: 1024px) 50vw, 247px"} />
-</figure>
-<div data-layout-node={"n377"} className={"v128 captured-style"}>
-<p data-layout-node={"n378"} className={"v129 captured-style"}>
-{"ระบบแจ้งเตือนเหตุด่วน (Emergency Notification)"}
-</p>
-<p data-layout-node={"n379"} className={"v130 captured-style"}>
-{"เป็นระบบรักษาความปลอดภัยที่เน้นการติดตั้งอุปกรณ์เตือนภัยเพื่อแจ้งเตือนภัย หรือเหตุคุกคามที่เป็นอันตรายต่อความปลอดภัยหรือต่อชีวิต ไม่ว่าจะเป็นสัญญาณเตือนภัยฉุกเฉิน เช่น เหตุด่วนเหตุร้าย การก่อจลาจล ภัยพิบัติฉุกเฉินจากรัฐบาล และระบบเตือนภัยยังสามารถแจ้งเตือนเหตุฉุกเฉินที่เกิดขึ้นในพื้นที่บ้านได้ด้วย เช่นการเกิดอุบัติเหตุ การเจ็บป่วยฉุกเฉิน ซึ่งเหมาะสำหรับบ้านที่มีผู้สูงอายุและเด็ก \r\n\r\n"}
-</p>
-</div>
-</div>
-</div>
-</div>
-<div data-layout-node={"n380"} className={"v123 captured-style"}>
-<div data-layout-node={"n381"} className={"v124 captured-style"}>
-<div data-layout-node={"n382"} className={"v131 layout-row captured-style"}>
-<figure data-layout-node={"n383"} className={"v132 media-widget captured-style"}>
-<img data-layout-node={"n384"} className={"v127 captured-style"} src={"/assets/remote-b9033f0179d1eea8-responsive-640.webp"} alt={"Sound system and anti intrusion mechanism"} loading={"lazy"} decoding={"async"} width={"1200"} height={"630"} srcSet={"/assets/remote-b9033f0179d1eea8-responsive-160.webp 160w, /assets/remote-b9033f0179d1eea8-responsive-320.webp 320w, /assets/remote-b9033f0179d1eea8-responsive-640.webp 640w, /assets/remote-b9033f0179d1eea8-responsive-1200.webp 1200w"} sizes={"(max-width: 640px) calc(100vw - 40px), (max-width: 1024px) 50vw, 247px"} />
-</figure>
-<div data-layout-node={"n385"} className={"v128 captured-style"}>
-<p data-layout-node={"n386"} className={"v129 captured-style"}>
-{"ระบบเสียงและกลไกป้องกันการบุกรุก (Intrusion Detection System)"}
-</p>
-<p data-layout-node={"n387"} className={"v130 captured-style"}>
-{"หากพูดให้เข้าใจง่าย ๆ ก็คือ สัญญาณกันขโมย นั่นเอง ซึ่งการติดตั้งสัญญาณกันขโมยนี้จะเน้นเพื่อวัตถุประสงค์หลักคือเฝ้าระวัง ติดตามพื้นที่ที่ติดตั้ง เพื่อตรวจจับด้วยอุปกรณ์ตรวจจับความเคลื่อนไหว ว่ามีการบุกรุกเข้ามาในพื้นที่บ้าน สำนักงาน องค์กร หรือในพื้นที่นั้น ๆ หรือไม่ บางรุ่นจะมีการบันทึกข้อมูลผู้บุกรุกและแจ้งเตือนไปยังเจ้าของบ้านและหรือหน่วยงานที่เกี่ยวข้องด้วย"}
-</p>
-</div>
-</div>
-</div>
-</div>
-<div data-layout-node={"n388"} className={"v123 captured-style"}>
-<div data-layout-node={"n389"} className={"v124 captured-style"}>
-<div data-layout-node={"n390"} className={"v125 layout-row captured-style"}>
-<figure data-layout-node={"n391"} className={"v126 media-widget captured-style"}>
-<img data-layout-node={"n392"} className={"v127 captured-style"} src={"/assets/remote-b2654ec0ded6bf1d-responsive-640.webp"} alt={"Smoke detector"} loading={"lazy"} decoding={"async"} width={"1200"} height={"630"} srcSet={"/assets/remote-b2654ec0ded6bf1d-responsive-160.webp 160w, /assets/remote-b2654ec0ded6bf1d-responsive-320.webp 320w, /assets/remote-b2654ec0ded6bf1d-responsive-640.webp 640w, /assets/remote-b2654ec0ded6bf1d-responsive-1200.webp 1200w"} sizes={"(max-width: 640px) calc(100vw - 40px), (max-width: 1024px) 50vw, 247px"} />
-</figure>
-<div data-layout-node={"n393"} className={"v128 captured-style"}>
-<p data-layout-node={"n394"} className={"v129 captured-style"}>
-{"ระบบดักจับควันและไฟไหม้ (Fire Alarm System)"}
-</p>
-<p data-layout-node={"n395"} className={"v130 captured-style"}>
-{"เป็นระบบที่ติดตั้งเพื่อป้องกันการเกิดอัคคีภัย โดยระบบจะทำการตรวจจับควันไฟที่เกิดขึ้นในบริเวณที่ติดตั้ง หากมีควันเกิดขึ้นก็จะทำการแจ้งเตือนไปยังเจ้าของบ้านและสัญญาณเตือนไฟไหม้ก็จะดังขึ้นเพื่อให้คนออกจากพื้นที่ได้รวดเร็วนั่นเอง"}
-</p>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
+<div data-layout-node={"n360"} className={"section comparison-section"}>
+<ServiceComparison kind={"security"} />
 </div>
 <ServiceWarranty path={"/security-system/"} />
 <details className={"service-detail"}>

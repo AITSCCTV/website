@@ -1,0 +1,31 @@
+const lanRows=[
+ ['CAT 5e','เครือข่าย Gigabit สำหรับบ้านและสำนักงาน','ทางเลือกสำหรับการใช้งานทั่วไป เลือกสายและหัวต่อที่ได้มาตรฐาน'],
+ ['CAT 6','บ้านและสำนักงานที่ต้องการเผื่อขยายระบบ','รองรับ 10 Gigabit ในระยะสั้น โดยต้องตรวจระยะและสัญญาณรบกวน'],
+ ['CAT 6a','เครือข่าย 10 Gigabit ในอาคาร','รองรับ 10 Gigabit ที่ระยะช่องสัญญาณสูงสุด 100 เมตร เมื่อทั้งระบบได้มาตรฐาน'],
+ ['CAT 6e','พิจารณาตามข้อมูลของผู้ผลิต','CAT 6e ไม่ใช่ CAT 6a ตรวจมาตรฐานและผลทดสอบก่อนเลือกใช้'],
+ ['CAT 7 / 7e','งานที่ระบุข้อกำหนดสายและการป้องกันสัญญาณรบกวน','ตรวจมาตรฐานที่ผู้ผลิตรับรอง รวมถึงหัวต่อและความเข้ากันได้กับอุปกรณ์'],
+ ['CAT 8','การเชื่อมต่อความเร็วสูงระยะสั้นในศูนย์ข้อมูล','รองรับ 25/40 Gigabit ที่ระยะช่องสัญญาณสูงสุด 30 เมตร'],
+];
+const securityRows=[
+ ['ระบบแจ้งเตือนเหตุด่วน (Emergency Notification)','แจ้งเหตุฉุกเฉินหรือเหตุที่เป็นอันตรายต่อชีวิต','บ้านที่มีผู้สูงอายุหรือเด็ก รวมถึงพื้นที่ที่ต้องการแจ้งเหตุฉุกเฉิน'],
+ ['ระบบตรวจจับการบุกรุก (Intrusion Detection System)','ตรวจจับความเคลื่อนไหวหรือการบุกรุก และแจ้งเตือนเมื่อพบเหตุ','บ้าน สำนักงาน และพื้นที่ที่ต้องการเฝ้าระวังการเข้าโดยไม่ได้รับอนุญาต'],
+ ['ระบบแจ้งเหตุเพลิงไหม้ (Fire Alarm System)','ตรวจจับควันหรือความร้อน และส่งสัญญาณเตือน','บ้าน อาคาร และสำนักงานที่ต้องการแจ้งเตือนอัคคีภัย'],
+];
+
+export function ServiceComparison({kind}:{kind:'lan'|'security'}){
+ const lan=kind==='lan',id=`${kind}-comparison`;
+ const title=lan?'เปรียบเทียบประเภทสาย LAN':'เปรียบเทียบระบบรักษาความปลอดภัย';
+ return <div className="service-comparison" id={id}>
+  <p className="comparison-eyebrow">{lan?'TYPE OF LAN CABLE':'SECURITY SYSTEM'}</p>
+  <h3 id={`${id}-heading`}>{title}</h3>
+  <p>{lan?'เลือกสายให้เหมาะกับความเร็ว ระยะทาง และอุปกรณ์ที่ใช้งาน':'เลือกระบบตามเหตุที่ต้องการตรวจจับและลักษณะพื้นที่ โดยสามารถใช้หลายระบบร่วมกันได้'}</p>
+  <p className="comparison-scroll-hint" id={`${id}-hint`}>เลื่อนตารางซ้าย–ขวาเพื่อดูข้อมูลทั้งหมด</p>
+  <div className="comparison-scroll" role="region" aria-labelledby={`${id}-heading`} aria-describedby={`${id}-hint`} tabIndex={0}>
+   <table><caption className="screen-reader-text">{title}</caption><thead><tr>{(lan?['ประเภทสาย','เหมาะกับการใช้งาน','ข้อควรพิจารณา']:['ระบบ','หน้าที่หลัก','เหมาะกับพื้นที่']).map(label=><th scope="col" key={label}>{label}</th>)}</tr></thead>
+    <tbody>{(lan?lanRows:securityRows).map(([label,...cells])=><tr key={label}><th scope="row">{label}</th>{cells.map(cell=><td key={cell}>{cell}</td>)}</tr>)}</tbody>
+   </table>
+  </div>
+  <p className="comparison-note">{lan?'ความเร็วจริงขึ้นอยู่กับสาย หัวต่อ อุปกรณ์ ระยะทาง และผลทดสอบของระบบ':'อุปกรณ์ การบันทึกข้อมูล และช่องทางแจ้งเตือนขึ้นอยู่กับรุ่นและการออกแบบระบบ'}</p>
+  {lan&&<p className="comparison-sources">ข้อมูลเพิ่มเติม: <a href="https://www.flukenetworks.com/expertise/role/network-engineers" target="_blank" rel="noopener noreferrer">มาตรฐานสาย LAN</a> · <a href="https://www.flukenetworks.com/knowledge-base/applicationstandards-articles-copper/category-6e-its-not-category-6a" target="_blank" rel="noopener noreferrer">CAT 6e และ CAT 6a</a></p>}
+ </div>;
+}

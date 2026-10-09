@@ -103,8 +103,8 @@ export default function Page40(){return <div className="page-40 captured-page"><
 <div data-layout-node={"n41"} className={"v34 captured-style"}>
 <div data-layout-node={"n42"} className={"v35 captured-style"}>
 <div data-layout-node={"n43"} className={"v36 captured-style"}>
-<SiteLink className={"external-content-link"} href={"https://maps.google.com/maps?q=%E0%B8%9A%E0%B8%A3%E0%B8%B4%E0%B8%A9%E0%B8%B1%E0%B8%97%20%E0%B9%80%E0%B8%AD.%E0%B9%84%E0%B8%AD.%E0%B8%97%E0%B8%B5.%E0%B9%80%E0%B8%AD%E0%B8%AA.%20%E0%B8%88%E0%B8%B3%E0%B8%81%E0%B8%B1%E0%B8%94%20570%20Charoen%20Nakhon%20Rd%2C%20Bukkhalo%2C%20Thon%20Buri%2C%20Bangkok%2010600&t=m&z=15&output=embed&iwloc=near"} target={"_blank"} rel={"noopener"}>
-{"เปิดเนื้อหา / แบบฟอร์ม"}
+<SiteLink className={"external-content-link contact-map-link"} href={"https://maps.google.com/maps?q=%E0%B8%9A%E0%B8%A3%E0%B8%B4%E0%B8%A9%E0%B8%B1%E0%B8%97+%E0%B9%80%E0%B8%AD.%E0%B9%84%E0%B8%AD.%E0%B8%97%E0%B8%B5.%E0%B9%80%E0%B8%AD%E0%B8%AA.+%E0%B8%88%E0%B8%B3%E0%B8%81%E0%B8%B1%E0%B8%94+570+Charoen+Nakhon+Rd%2C+Bukkhalo%2C+Thon+Buri%2C+Bangkok+10600&t=m&z=15"} target={"_blank"} rel={"noopener"}>
+{"ดูแผนที่บน Google Maps"}
 </SiteLink>
 </div>
 </div>
