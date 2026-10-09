@@ -10,7 +10,7 @@ for(const [width,columns] of [[320,1],[390,1],[430,1],[768,2],[1024,3],[1440,3]]
  await p.setViewportSize({width,height:900});await p.goto(origin+'/video/');
  await expect(p.locator('h1')).toHaveCount(1);await expect(p.locator('.video-card')).toHaveCount(12);await expect(p.locator('main iframe')).toHaveCount(0);
  const grid=await p.locator('.video-library-grid').evaluate(e=>({columns:getComputedStyle(e).gridTemplateColumns.split(' ').length,overflow:document.documentElement.scrollWidth-innerWidth,gap:parseFloat(getComputedStyle(e).rowGap)}));
- expect(grid.columns).toBe(columns);expect(grid.overflow).toBeLessThanOrEqual(1);expect(grid.gap).toBeGreaterThanOrEqual(24);
+ expect(grid.columns).toBe(columns);expect(grid.overflow).toBeLessThanOrEqual(1);expect(grid.gap).toBeGreaterThanOrEqual(24);expect(await p.locator('.video-card h2').first().evaluate(e=>parseFloat(getComputedStyle(e).fontSize))).toBe(18);
  await p.getByRole('button',{name:'ดูวิดีโอเพิ่มเติม (8)',exact:true}).click();await expect(p.locator('.video-card')).toHaveCount(20);
  const media=await p.locator('.video-card-media').first().boundingBox();expect(Math.abs(media.width/media.height-16/9)).toBeLessThan(.02);
  await p.locator('.video-card-play').first().focus();await p.keyboard.press('Enter');await expect(p.locator('.video-card-media iframe')).toHaveCount(1);
