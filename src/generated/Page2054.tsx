@@ -4,6 +4,7 @@ import {SiteLink} from "../components/SiteLink";
 import {VideoFrame} from "../components/VideoFrame";
 import {LogoCarousel} from "../components/LogoCarousel";
 import {ContactPhone} from "../components/ContactPhone";
+import {ServiceTrust,ServiceContents,ServiceBenefits,ServicePricing,ServiceWarranty,ServiceProjects,ServiceContact,AboutTeamGallery} from "../components/ServiceContent";
 export default function Page2054(){return <div className="page-2054 captured-page"><div data-layout-node={"n0"} className={"v0 captured-style"}>
 <section data-layout-node={"n1"} className={"v1 section captured-style"}>
 <div data-layout-node={"n2"} className={"v2 container layout-row layout-inner captured-style"}>
@@ -582,6 +583,7 @@ export default function Page2054(){return <div className="page-2054 captured-pag
 </div>
 </div>
 </section>
+<AboutTeamGallery />
 <div data-layout-node={"n261"} className={"v96 section captured-style"}>
 <div data-layout-node={"n262"} className={"v97 captured-style"}>
 <div data-layout-node={"n263"} className={"v98 text-widget captured-style"}>

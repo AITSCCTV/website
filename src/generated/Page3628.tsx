@@ -4,7 +4,9 @@ import {SiteLink} from "../components/SiteLink";
 import {VideoFrame} from "../components/VideoFrame";
 import {LogoCarousel} from "../components/LogoCarousel";
 import {ContactPhone} from "../components/ContactPhone";
+import {ServiceTrust,ServiceContents,ServiceBenefits,ServicePricing,ServiceWarranty,ServiceProjects,ServiceContact,AboutTeamGallery} from "../components/ServiceContent";
 export default function Page3628(){return <div className="page-3628 captured-page"><div data-layout-node={"n0"} className={"v0 captured-style"}>
+<section id={"service-overview"} className={"service-stage"} data-service-stage={"overview"}>
 <div data-layout-node={"n1"} className={"v1 section captured-style"}>
 <div data-layout-node={"n2"} className={"v2 captured-style"}>
 <div data-layout-node={"n3"} className={"v3 text-widget captured-style"}>
@@ -75,22 +77,84 @@ export default function Page3628(){return <div className="page-3628 captured-pag
 </div>
 </div>
 </div>
-<div data-layout-node={"n34"} className={"v22 section captured-style"}>
-<div data-layout-node={"n35"} className={"v23 layout-row captured-style"}>
-<div data-layout-node={"n36"} className={"v24 section captured-style"}>
-<div data-layout-node={"n37"} className={"v25 section layout-row captured-style"}>
-<div data-layout-node={"n38"} className={"v26 section captured-style"}>
-<div data-layout-node={"n39"} className={"v27 text-widget captured-style"}>
-<div data-layout-node={"n40"} className={"v28 text-widget captured-style"}>
-<h2 data-layout-node={"n41"} className={"v29 captured-style"}>
-{"“AITSCCTV ดูแลทุกขั้นตอนโดยทีมงานมืออาชีพ \r\nด้วยประสบการณ์ยาวนานกว่า 20 ปี”"}
+<ServiceTrust />
+</section>
+<ServiceContents />
+<section id={"service-benefits"} className={"service-stage"} data-service-stage={"benefits"}>
+<div className={"service-stage-heading"}>
+<h2>
+{"ประโยชน์และการใช้งาน"}
+</h2>
+</div>
+<ServiceBenefits path={"/home-automation/"} />
+<details className={"service-detail"}>
+<summary>
+{"รายละเอียดประโยชน์และการใช้งาน"}
+</summary>
+<div className={"service-detail-content"}>
+<div data-layout-node={"n266"} className={"v124 section captured-style"}>
+<div data-layout-node={"n267"} className={"v2 captured-style"}>
+<div data-layout-node={"n268"} className={"v3 text-widget captured-style"}>
+<div data-layout-node={"n269"} className={"v4 text-widget captured-style"}>
+<p data-layout-node={"n270"} className={"v5 captured-style"}>
+{"WHY SHOULD SMART HOME"}
+</p>
+</div>
+</div>
+<div data-layout-node={"n271"} className={"v3 text-widget captured-style"}>
+<div data-layout-node={"n272"} className={"v4 text-widget captured-style"}>
+<h2 data-layout-node={"n273"} className={"v10 captured-style"}>
+{"Smart Home ดีไหม ทำไมถึงควรปรับเปลี่ยนบ้านให้เป็นสมาร์ทโฮม"}
 </h2>
 </div>
 </div>
-<div data-layout-node={"n42"} className={"v30 text-widget captured-style"}>
-<div data-layout-node={"n43"} className={"v31 text-widget captured-style"}>
-<p data-layout-node={"n44"} className={"v32 captured-style"}>
-{"คุณสามารถมั่นใจได้เลยว่า จะได้รับการบริการที่ดีที่สุด มีความทันสมัยและตอบโจทย์การใช้งานอยู่เสมอ"}
+<div data-layout-node={"n274"} className={"v72 section layout-row captured-style"}>
+<div data-layout-node={"n275"} className={"v73 captured-style"}>
+<div data-layout-node={"n276"} className={"v125 captured-style"}>
+<div data-layout-node={"n277"} className={"v126 captured-style"}>
+<figure data-layout-node={"n278"} className={"v76 media-widget captured-style"}>
+<img data-layout-node={"n279"} className={"v127 captured-style"} src={"/assets/remote-8494df22ebcbdc4d-responsive-512.webp"} alt={"Smart light"} loading={"lazy"} decoding={"async"} width={"512"} height={"512"} srcSet={"/assets/remote-8494df22ebcbdc4d-responsive-160.webp 160w, /assets/remote-8494df22ebcbdc4d-responsive-320.webp 320w, /assets/remote-8494df22ebcbdc4d-responsive-512.webp 512w"} sizes={"67px"} />
+</figure>
+<div data-layout-node={"n280"} className={"v128 captured-style"}>
+<p data-layout-node={"n281"} className={"v129 captured-style"}>
+{"ช่วยอำนวยความสะดวกสบาย "}
+</p>
+<p data-layout-node={"n282"} className={"v130 captured-style"}>
+{"เพราะการที่นำเทคโนโลยีที่ทันสมัยมาปรับใช้ในชีวิตประจำวัน จะช่วยให้การทำกิจกรรมต่าง ๆ ภายในบ้านเป็นไปอย่างสะดวก รวดเร็ว ง่ายดาย และราบรื่นมากยิ่งขึ้น"}
+</p>
+</div>
+</div>
+</div>
+</div>
+<div data-layout-node={"n283"} className={"v73 captured-style"}>
+<div data-layout-node={"n284"} className={"v125 captured-style"}>
+<div data-layout-node={"n285"} className={"v126 captured-style"}>
+<figure data-layout-node={"n286"} className={"v76 media-widget captured-style"}>
+<img data-layout-node={"n287"} className={"v127 captured-style"} src={"/assets/remote-0bae88980c400ac8-responsive-512.webp"} alt={"Home security"} loading={"lazy"} decoding={"async"} width={"512"} height={"512"} srcSet={"/assets/remote-0bae88980c400ac8-responsive-160.webp 160w, /assets/remote-0bae88980c400ac8-responsive-320.webp 320w, /assets/remote-0bae88980c400ac8-responsive-512.webp 512w"} sizes={"67px"} />
+</figure>
+<div data-layout-node={"n288"} className={"v128 captured-style"}>
+<p data-layout-node={"n289"} className={"v129 captured-style"}>
+{"ช่วยให้บ้านของคุณมีความปลอดภัยมากขึ้น "}
+</p>
+<p data-layout-node={"n290"} className={"v130 captured-style"}>
+{"เนื่องจากระบบสัญญาณกันขโมยจะถูกเชื่อมกับระบบรักษาความปลอดภัย หากมีผู้ร้ายเข้ามาในบ้าน สัญญาณแจ้งเตือนจะดังทันที ถ้ามีการเชื่อมต่อกับกล้องวงจรปิดก็จะทำการบันทึกภาพและสามารถนำไปดำเนินคดีได้\r\n"}
+</p>
+</div>
+</div>
+</div>
+</div>
+<div data-layout-node={"n291"} className={"v73 captured-style"}>
+<div data-layout-node={"n292"} className={"v125 captured-style"}>
+<div data-layout-node={"n293"} className={"v126 captured-style"}>
+<figure data-layout-node={"n294"} className={"v76 media-widget captured-style"}>
+<img data-layout-node={"n295"} className={"v131 captured-style"} src={"/assets/remote-1ab2c180da5127bf-responsive-512.webp"} alt={"Domotics"} loading={"lazy"} decoding={"async"} width={"512"} height={"512"} srcSet={"/assets/remote-1ab2c180da5127bf-responsive-160.webp 160w, /assets/remote-1ab2c180da5127bf-responsive-320.webp 320w, /assets/remote-1ab2c180da5127bf-responsive-512.webp 512w"} sizes={"63px"} />
+</figure>
+<div data-layout-node={"n296"} className={"v128 captured-style"}>
+<p data-layout-node={"n297"} className={"v129 captured-style"}>
+{"สามารถตรวจเช็กระบบภายในบ้านได้ทุกเวลา"}
+</p>
+<p data-layout-node={"n298"} className={"v130 captured-style"}>
+{"เนื่องจากระะบบควบคุมผ่านโทรศัพท์มือถือ ทำให้สามารถตรวจเช็กได้ว่ามีเครื่องใช้ไฟฟ้าจุดไหนของบ้านที่ยังไม่ได้ปิดหรือไม่ เมื่อคุณออกไปข้างนอก และยังควบคุมระบบรดน้ำต้นไม้ในสวนของคุณได้อีกด้วย\r\n"}
 </p>
 </div>
 </div>
@@ -99,6 +163,16 @@ export default function Page3628(){return <div className="page-3628 captured-pag
 </div>
 </div>
 </div>
+</div>
+</details>
+</section>
+<section id={"service-options"} className={"service-stage"} data-service-stage={"options"}>
+<div className={"service-stage-heading"}>
+<h2>
+{"รูปแบบบริการและราคา"}
+</h2>
+</div>
+<ServicePricing path={"/home-automation/"} />
 <div data-layout-node={"n45"} className={"v7 section captured-style"}>
 <div data-layout-node={"n46"} className={"v33 captured-style"}>
 <div data-layout-node={"n47"} className={"v24 section captured-style"}>
@@ -324,218 +398,12 @@ export default function Page3628(){return <div className="page-3628 captured-pag
 </div>
 </div>
 </div>
-<div data-layout-node={"n141"} className={"v70 section captured-style"}>
-<div data-layout-node={"n142"} className={"v71 layout-row captured-style"}>
-<div data-layout-node={"n143"} className={"v24 section captured-style"}>
-<div data-layout-node={"n144"} className={"v3 text-widget captured-style"}>
-<div data-layout-node={"n145"} className={"v4 text-widget captured-style"}>
-<p data-layout-node={"n146"} className={"v5 captured-style"}>
-{"WHY AITSCCTV"}
-</p>
-</div>
-</div>
-<div data-layout-node={"n147"} className={"v3 text-widget captured-style"}>
-<div data-layout-node={"n148"} className={"v4 text-widget captured-style"}>
-<h2 data-layout-node={"n149"} className={"v10 captured-style"}>
-{"ติดตั้ง Home Automation กับ AITSCCTV ดีอย่างไร?\r\n"}
-</h2>
-</div>
-</div>
-<div data-layout-node={"n150"} className={"v72 section layout-row captured-style"}>
-<div data-layout-node={"n151"} className={"v73 captured-style"}>
-<div data-layout-node={"n152"} className={"v74 captured-style"}>
-<div data-layout-node={"n153"} className={"v75 captured-style"}>
-<figure data-layout-node={"n154"} className={"v76 media-widget captured-style"}>
-<img data-layout-node={"n155"} className={"v77 captured-style"} src={"https://aitscctv.com/wp-content/uploads/2023/03/design-pencil.svg"} alt={"Design pencil"} loading={"lazy"} decoding={"async"} width={"800"} height={"800"} />
-</figure>
-<div data-layout-node={"n156"} className={"v78 captured-style"}>
-<p data-layout-node={"n157"} className={"v79 captured-style"}>
-{"เรามีหลักการออกแบบที่ดี"}
-</p>
-<p data-layout-node={"n158"} className={"v80 captured-style"}>
-{"ติดตั้งระบบ smart home บ้านอัจฉริยะ ให้บ้านคุณทันสมัย ใช้งานง่ายกว่าใคร"}
-</p>
-</div>
-</div>
-</div>
-</div>
-<div data-layout-node={"n159"} className={"v73 captured-style"}>
-<div data-layout-node={"n160"} className={"v74 captured-style"}>
-<div data-layout-node={"n161"} className={"v75 captured-style"}>
-<figure data-layout-node={"n162"} className={"v76 media-widget captured-style"}>
-<img data-layout-node={"n163"} className={"v77 captured-style"} src={"https://aitscctv.com/wp-content/uploads/2023/03/performance.svg"} alt={"Performance"} loading={"lazy"} decoding={"async"} width={"800"} height={"800"} />
-</figure>
-<div data-layout-node={"n164"} className={"v78 captured-style"}>
-<p data-layout-node={"n165"} className={"v79 captured-style"}>
-{"เน้นความสะดวกสมัยควบคู่กับความสวยงาม"}
-</p>
-<p data-layout-node={"n166"} className={"v80 captured-style"}>
-{"ออกแบบใหม่ทุกครั้ง เพื่อให้การใช้งานง่ายและตรงกับไลฟ์สไตล์ของคุณเท่านั้น เพื่อให้ใช้งานได้สวยถูกใจ แถมดีไซน์ไม่ซ้ำใครแน่นอน"}
-</p>
-</div>
-</div>
-</div>
-</div>
-<div data-layout-node={"n167"} className={"v73 captured-style"}>
-<div data-layout-node={"n168"} className={"v74 captured-style"}>
-<div data-layout-node={"n169"} className={"v75 captured-style"}>
-<figure data-layout-node={"n170"} className={"v76 media-widget captured-style"}>
-<img data-layout-node={"n171"} className={"v77 captured-style"} src={"https://aitscctv.com/wp-content/uploads/2023/03/plan.svg"} alt={"Plan"} loading={"lazy"} decoding={"async"} width={"800"} height={"800"} />
-</figure>
-<div data-layout-node={"n172"} className={"v78 captured-style"}>
-<p data-layout-node={"n173"} className={"v79 captured-style"}>
-{"มาที่เดียวก็ครบทุกสิ่ง!"}
-</p>
-<p data-layout-node={"n174"} className={"v80 captured-style"}>
-{"AITS เราเป็นบริษัทเทคโนโลยีชั้นนำที่มีบริการครบวงจร ลูกค้าไม่ต้องหาทีมแยกให้ปวดหัว และเสียเวลา มาหาเราที่เดียว ครบทุกบริการ"}
-</p>
-</div>
-</div>
-</div>
-</div>
-<div data-layout-node={"n175"} className={"v73 captured-style"}>
-<div data-layout-node={"n176"} className={"v74 captured-style"}>
-<div data-layout-node={"n177"} className={"v75 captured-style"}>
-<figure data-layout-node={"n178"} className={"v76 media-widget captured-style"}>
-<img data-layout-node={"n179"} className={"v77 captured-style"} src={"https://aitscctv.com/wp-content/uploads/2023/03/training-achievement-medal.svg"} alt={"Training achievement medal"} loading={"lazy"} decoding={"async"} width={"800"} height={"800"} />
-</figure>
-<div data-layout-node={"n180"} className={"v78 captured-style"}>
-<p data-layout-node={"n181"} className={"v79 captured-style"}>
-{"มีความเป็นมืออาชีพ"}
-</p>
-<p data-layout-node={"n182"} className={"v80 captured-style"}>
-{"ดำเนินงานโดยช่างติดตั้งระบบรักษาความปลอดภัยมืออาชีพที่มีประสบการณ์มากกว่า 20 ปี"}
-</p>
-</div>
-</div>
-</div>
-</div>
-<div data-layout-node={"n183"} className={"v73 captured-style"}>
-<div data-layout-node={"n184"} className={"v74 captured-style"}>
-<div data-layout-node={"n185"} className={"v75 captured-style"}>
-<figure data-layout-node={"n186"} className={"v76 media-widget captured-style"}>
-<img data-layout-node={"n187"} className={"v77 captured-style"} src={"https://aitscctv.com/wp-content/uploads/2023/03/care-treatment-heart.svg"} alt={"Care treatment heart"} loading={"lazy"} decoding={"async"} width={"800"} height={"800"} />
-</figure>
-<div data-layout-node={"n188"} className={"v78 captured-style"}>
-<p data-layout-node={"n189"} className={"v79 captured-style"}>
-{"ใส่ใจดูแลลูกค้าเป็นอย่างดี"}
-</p>
-<p data-layout-node={"n190"} className={"v80 captured-style"}>
-{"มีทีมงานดูแลบริการหลังการขาย พร้อมให้คำแนะนำอย่างใกล้ชิดตั้งแต่ก่อนเริ่มงานไปจนถึงหลังการขาย"}
-</p>
-</div>
-</div>
-</div>
-</div>
-<div data-layout-node={"n191"} className={"v73 captured-style"}>
-<div data-layout-node={"n192"} className={"v74 captured-style"}>
-<div data-layout-node={"n193"} className={"v75 captured-style"}>
-<figure data-layout-node={"n194"} className={"v76 media-widget captured-style"}>
-<img data-layout-node={"n195"} className={"v77 captured-style"} src={"https://aitscctv.com/wp-content/uploads/2023/03/warranty-term.svg"} alt={"Warranty term"} loading={"lazy"} decoding={"async"} width={"800"} height={"800"} />
-</figure>
-<div data-layout-node={"n196"} className={"v78 captured-style"}>
-<p data-layout-node={"n197"} className={"v79 captured-style"}>
-{"มีการรับประกันสินค้า"}
-</p>
-<p data-layout-node={"n198"} className={"v80 captured-style"}>
-{"รับประกันตัวสินค้าให้ 2 ปีเต็ม\r\nการรับประกันงานบริการ 1 ปี โดยเฉพาะ Onsite**\r\n"}
-</p>
-</div>
-</div>
-</div>
-</div>
-</div>
-<div data-layout-node={"n199"} className={"v81 captured-style"}>
-<div data-layout-node={"n200"} className={"v82 captured-style"}>
-{"\r\n\t\t\t\t\t\t\t**ยกเว้นความเสียหายในกรณีที่เกิดขึ้นมาจากคน สัตว์ สิ่งของ และภัยธรรมชาติ\t\t\t\t\t\t"}
-</div>
-</div>
-</div>
-</div>
-</div>
-<div data-layout-node={"n201"} className={"v7 section captured-style"}>
-<div data-layout-node={"n202"} className={"v83 captured-style"}>
-<div data-layout-node={"n203"} className={"v30 captured-style"}>
-<div data-layout-node={"n204"} className={"v31 captured-style"}>
-<p data-layout-node={"n205"} className={"v32 captured-style"}>
-{"นอกจากนี้เรายังรับให้คำแนะนำที่มีทีมงานพร้อมให้คำแนะนำบริการติดตั้งระบบ Smart home"}
-</p>
-<p data-layout-node={"n206"} className={"v32 captured-style"}>
-{"อย่างครบวงจร หากสนใจสามารถเข้ามาปรึกษาเราได้"}
-</p>
-</div>
-</div>
-<div data-layout-node={"n207"} className={"v84 section captured-style"}>
-<div data-layout-node={"n208"} className={"v85 layout-row captured-style"}>
-<div data-layout-node={"n209"} className={"v86 section captured-style"}>
-<div data-layout-node={"n210"} className={"v87 captured-style"}>
-<div data-layout-node={"n211"} className={"v88 captured-style"}>
-<div data-layout-node={"n212"} className={"v89 layout-row captured-style"}>
-<div data-layout-node={"n213"} className={"v90 captured-style"}>
-<SiteLink data-layout-node={"n214"} className={"v91 captured-style"} href={"tel:0944606196"}>
-<i data-layout-node={"n215"} className={"v92 captured-style"}>
-
-</i>
-</SiteLink>
-</div>
-<div data-layout-node={"n216"} className={"v93 captured-style"}>
-<h2 data-layout-node={"n217"} className={"v94 captured-style"}>
-<SiteLink data-layout-node={"n218"} className={"v95 captured-style"} href={"tel:0944606196"}>
-{"\r\n\t\t\t\t\t\tให้คำปรึกษาฟรี\t\t\t\t\t"}
-</SiteLink>
-</h2>
-<p data-layout-node={"n219"} className={"v96 large-copy captured-style"}>
-{"\r\n\t\t\t\t\t\t094 460 6196\t\t\t\t\t"}
-</p>
-</div>
-</div>
-</div>
-</div>
-</div>
-<div data-layout-node={"n220"} className={"v97 section captured-style"}>
-<div data-layout-node={"n221"} className={"v98 captured-style"}>
-<div data-layout-node={"n222"} className={"v99 captured-style"}>
-<div data-layout-node={"n223"} className={"v100 layout-row captured-style"}>
-<div data-layout-node={"n224"} className={"v101 captured-style"}>
-<SiteLink data-layout-node={"n225"} className={"v91 captured-style"} href={"https://page.line.me/852uanad?openQrModal=true"}>
-<i data-layout-node={"n226"} className={"v102 captured-style"}>
-
-</i>
-</SiteLink>
-</div>
-<div data-layout-node={"n227"} className={"v103 captured-style"}>
-<p data-layout-node={"n228"} className={"v104 captured-style"}>
-<SiteLink data-layout-node={"n229"} className={"v105 captured-style"} href={"https://page.line.me/852uanad?openQrModal=true"}>
-{"\r\n\t\t\t\t\t\tLine\t\t\t\t\t"}
-</SiteLink>
-</p>
-<p data-layout-node={"n230"} className={"v106 large-copy captured-style"}>
-{"\r\n\t\t\t\t\t\t@AITSCCTV\t\t\t\t\t"}
-</p>
-</div>
-</div>
-</div>
-</div>
-</div>
-<div data-layout-node={"n231"} className={"v107 section captured-style"}>
-<div data-layout-node={"n232"} className={"v3 captured-style"}>
-<div data-layout-node={"n233"} className={"v108 captured-style"}>
-<div data-layout-node={"n234"} className={"v4 captured-style"}>
-<SiteLink data-layout-node={"n235"} className={"v109 action-link captured-style"} href={"https://page.line.me/852uanad?openQrModal=true"} target={"_blank"} rel={"noopener"}>
-<span data-layout-node={"n236"} className={"v110 captured-style"}>
-<span data-layout-node={"n237"} className={"v111 captured-style"}>
-{"ปรึกษาฟรีคลิก"}
-</span>
-</span>
-</SiteLink>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
+<ServiceWarranty path={"/home-automation/"} />
+<details className={"service-detail"}>
+<summary>
+{"รายละเอียดทางเทคนิคและแนวทางเลือกใช้งาน"}
+</summary>
+<div className={"service-detail-content"}>
 <div data-layout-node={"n238"} className={"v112 section captured-style"}>
 <div data-layout-node={"n239"} className={"v113 captured-style"}>
 <div data-layout-node={"n240"} className={"v114 section captured-style"}>
@@ -589,77 +457,6 @@ export default function Page3628(){return <div className="page-3628 captured-pag
 <div data-layout-node={"n264"} className={"v122 captured-style"}>
 <div data-layout-node={"n265"} className={"v123 captured-style"}>
 {"\r\n\t\t\t\t\t\t\tHome Automation smart home นวัตกรรมใหม่ ระบบบ้านอัจฉริยะ หมายถึง เทคโนโลยีสมัยใหม่ที่ถูกประยุกต์ให้เข้ากับไลฟ์สไตล์ที่เร่งรีบของคนปัจจุบันที่เน้นความรวดเร็ว และต้องใช้งานง่าย สะดวกสบาย ดังนั้นจึงมีการออกแบบนำเทคโนโลยีที่มีความทันสมัย นำมาใส่ไว้ในตัวบ้านที่สามารถช่วยเปลี่ยนบ้านที่เดิมเป็นเพียงที่พักอาศัย ให้กลายเป็นผู้ช่วยอัจฉริยะที่ช่วยให้ชีวิตของคุณง่าย และสะดวกสบายขึ้น เพราะคุณสามารถควบคุมอุปกรณ์ต่าง ๆ ภายในบ้าน เช่น ควบคุมแสงสว่าง ควบคุมแอร์ ควบคุมประตู เครื่องใช้ไฟฟ้าได้โดยอัตโนมัติ ทั้งจากระยะใกล้และไกล ผ่าน Application บนโทรศัพท์มือถือ คอมพิวเตอร์ หรือแม้แต่การสั่งการด้วยเสียงก็สามารถทำได้\r\n\t\t\t\t\t\t"}
-</div>
-</div>
-</div>
-</div>
-<div data-layout-node={"n266"} className={"v124 section captured-style"}>
-<div data-layout-node={"n267"} className={"v2 captured-style"}>
-<div data-layout-node={"n268"} className={"v3 text-widget captured-style"}>
-<div data-layout-node={"n269"} className={"v4 text-widget captured-style"}>
-<p data-layout-node={"n270"} className={"v5 captured-style"}>
-{"WHY SHOULD SMART HOME"}
-</p>
-</div>
-</div>
-<div data-layout-node={"n271"} className={"v3 text-widget captured-style"}>
-<div data-layout-node={"n272"} className={"v4 text-widget captured-style"}>
-<h2 data-layout-node={"n273"} className={"v10 captured-style"}>
-{"Smart Home ดีไหม ทำไมถึงควรปรับเปลี่ยนบ้านให้เป็นสมาร์ทโฮม"}
-</h2>
-</div>
-</div>
-<div data-layout-node={"n274"} className={"v72 section layout-row captured-style"}>
-<div data-layout-node={"n275"} className={"v73 captured-style"}>
-<div data-layout-node={"n276"} className={"v125 captured-style"}>
-<div data-layout-node={"n277"} className={"v126 captured-style"}>
-<figure data-layout-node={"n278"} className={"v76 media-widget captured-style"}>
-<img data-layout-node={"n279"} className={"v127 captured-style"} src={"/assets/remote-8494df22ebcbdc4d-responsive-512.webp"} alt={"Smart light"} loading={"lazy"} decoding={"async"} width={"512"} height={"512"} srcSet={"/assets/remote-8494df22ebcbdc4d-responsive-160.webp 160w, /assets/remote-8494df22ebcbdc4d-responsive-320.webp 320w, /assets/remote-8494df22ebcbdc4d-responsive-512.webp 512w"} sizes={"67px"} />
-</figure>
-<div data-layout-node={"n280"} className={"v128 captured-style"}>
-<p data-layout-node={"n281"} className={"v129 captured-style"}>
-{"ช่วยอำนวยความสะดวกสบาย "}
-</p>
-<p data-layout-node={"n282"} className={"v130 captured-style"}>
-{"เพราะการที่นำเทคโนโลยีที่ทันสมัยมาปรับใช้ในชีวิตประจำวัน จะช่วยให้การทำกิจกรรมต่าง ๆ ภายในบ้านเป็นไปอย่างสะดวก รวดเร็ว ง่ายดาย และราบรื่นมากยิ่งขึ้น"}
-</p>
-</div>
-</div>
-</div>
-</div>
-<div data-layout-node={"n283"} className={"v73 captured-style"}>
-<div data-layout-node={"n284"} className={"v125 captured-style"}>
-<div data-layout-node={"n285"} className={"v126 captured-style"}>
-<figure data-layout-node={"n286"} className={"v76 media-widget captured-style"}>
-<img data-layout-node={"n287"} className={"v127 captured-style"} src={"/assets/remote-0bae88980c400ac8-responsive-512.webp"} alt={"Home security"} loading={"lazy"} decoding={"async"} width={"512"} height={"512"} srcSet={"/assets/remote-0bae88980c400ac8-responsive-160.webp 160w, /assets/remote-0bae88980c400ac8-responsive-320.webp 320w, /assets/remote-0bae88980c400ac8-responsive-512.webp 512w"} sizes={"67px"} />
-</figure>
-<div data-layout-node={"n288"} className={"v128 captured-style"}>
-<p data-layout-node={"n289"} className={"v129 captured-style"}>
-{"ช่วยให้บ้านของคุณมีความปลอดภัยมากขึ้น "}
-</p>
-<p data-layout-node={"n290"} className={"v130 captured-style"}>
-{"เนื่องจากระบบสัญญาณกันขโมยจะถูกเชื่อมกับระบบรักษาความปลอดภัย หากมีผู้ร้ายเข้ามาในบ้าน สัญญาณแจ้งเตือนจะดังทันที ถ้ามีการเชื่อมต่อกับกล้องวงจรปิดก็จะทำการบันทึกภาพและสามารถนำไปดำเนินคดีได้\r\n"}
-</p>
-</div>
-</div>
-</div>
-</div>
-<div data-layout-node={"n291"} className={"v73 captured-style"}>
-<div data-layout-node={"n292"} className={"v125 captured-style"}>
-<div data-layout-node={"n293"} className={"v126 captured-style"}>
-<figure data-layout-node={"n294"} className={"v76 media-widget captured-style"}>
-<img data-layout-node={"n295"} className={"v131 captured-style"} src={"/assets/remote-1ab2c180da5127bf-responsive-512.webp"} alt={"Domotics"} loading={"lazy"} decoding={"async"} width={"512"} height={"512"} srcSet={"/assets/remote-1ab2c180da5127bf-responsive-160.webp 160w, /assets/remote-1ab2c180da5127bf-responsive-320.webp 320w, /assets/remote-1ab2c180da5127bf-responsive-512.webp 512w"} sizes={"63px"} />
-</figure>
-<div data-layout-node={"n296"} className={"v128 captured-style"}>
-<p data-layout-node={"n297"} className={"v129 captured-style"}>
-{"สามารถตรวจเช็กระบบภายในบ้านได้ทุกเวลา"}
-</p>
-<p data-layout-node={"n298"} className={"v130 captured-style"}>
-{"เนื่องจากระะบบควบคุมผ่านโทรศัพท์มือถือ ทำให้สามารถตรวจเช็กได้ว่ามีเครื่องใช้ไฟฟ้าจุดไหนของบ้านที่ยังไม่ได้ปิดหรือไม่ เมื่อคุณออกไปข้างนอก และยังควบคุมระบบรดน้ำต้นไม้ในสวนของคุณได้อีกด้วย\r\n"}
-</p>
-</div>
-</div>
-</div>
 </div>
 </div>
 </div>
@@ -729,148 +526,23 @@ export default function Page3628(){return <div className="page-3628 captured-pag
 </div>
 </div>
 </div>
-<div data-layout-node={"n324"} className={"v7 section captured-style"}>
-<div data-layout-node={"n325"} className={"v132 captured-style"}>
-<div data-layout-node={"n326"} className={"v3 text-widget captured-style"}>
-<div data-layout-node={"n327"} className={"v4 text-widget captured-style"}>
-<p data-layout-node={"n328"} className={"v5 captured-style"}>
-{"Our Team"}
-</p>
 </div>
-</div>
-<div data-layout-node={"n329"} className={"v3 text-widget captured-style"}>
-<div data-layout-node={"n330"} className={"v4 text-widget captured-style"}>
-<h2 data-layout-node={"n331"} className={"v10 captured-style"}>
-{"ทีมงานของเรา AITSCCTV"}
+</details>
+</section>
+<section id={"service-projects"} className={"service-stage"} data-service-stage={"projects"}>
+<div className={"service-stage-heading"}>
+<h2>
+{"ผลงานและเนื้อหาที่เกี่ยวข้อง"}
 </h2>
 </div>
-</div>
-<div data-layout-node={"n332"} className={"v30 captured-style"}>
-<div data-layout-node={"n333"} className={"v31 captured-style"}>
-{"\r\n\t\t\t\t\t\t\tพวกเรา AITSCCTV พร้อมสร้างมาตรฐานความปลอดภัยใหม่ให้คุณ\t\t\t\t\t\t"}
-</div>
-</div>
-<div data-layout-node={"n334"} className={"v139 section captured-style"}>
-<div data-layout-node={"n335"} className={"v140 captured-style"}>
-<div data-layout-node={"n336"} className={"v42 captured-style"}>
-<div data-layout-node={"n337"} className={"v43 captured-style"}>
-<div data-layout-node={"n338"} className={"v43 captured-style"}>
-<div data-layout-node={"n339"} className={"v141 captured-style"}>
-<figure data-layout-node={"n340"} className={"v142 media-widget captured-style"}>
-<div data-layout-node={"n341"} className={"v143 media-widget captured-style"}>
-<SiteLink data-layout-node={"n342"} className={"v144 media-widget captured-style"} href={"https://aitscctv.com/wp-content/uploads/2023/05/3.jpg"}>
-<img data-layout-node={"n343"} className={"v145 captured-style"} src={"/assets/remote-26ecab028c0f9ac8-responsive-640.webp"} alt={"3"} loading={"lazy"} decoding={"async"} width={"1200"} height={"630"} srcSet={"/assets/remote-26ecab028c0f9ac8-responsive-160.webp 160w, /assets/remote-26ecab028c0f9ac8-responsive-320.webp 320w, /assets/remote-26ecab028c0f9ac8-responsive-640.webp 640w, /assets/remote-26ecab028c0f9ac8-responsive-1200.webp 1200w"} sizes={"(max-width: 640px) calc(100vw - 40px), (max-width: 1024px) 50vw, 369px"} />
-</SiteLink>
-</div>
-</figure>
-<figure data-layout-node={"n344"} className={"v142 media-widget captured-style"}>
-<div data-layout-node={"n345"} className={"v143 media-widget captured-style"}>
-<SiteLink data-layout-node={"n346"} className={"v144 media-widget captured-style"} href={"https://aitscctv.com/wp-content/uploads/2023/05/2.jpg"}>
-<img data-layout-node={"n347"} className={"v145 captured-style"} src={"/assets/remote-6cc7c96805885a1e-responsive-640.webp"} alt={"2"} loading={"lazy"} decoding={"async"} width={"1200"} height={"630"} srcSet={"/assets/remote-6cc7c96805885a1e-responsive-160.webp 160w, /assets/remote-6cc7c96805885a1e-responsive-320.webp 320w, /assets/remote-6cc7c96805885a1e-responsive-640.webp 640w, /assets/remote-6cc7c96805885a1e-responsive-1200.webp 1200w"} sizes={"(max-width: 640px) calc(100vw - 40px), (max-width: 1024px) 50vw, 369px"} />
-</SiteLink>
-</div>
-</figure>
-<figure data-layout-node={"n348"} className={"v142 media-widget captured-style"}>
-<div data-layout-node={"n349"} className={"v143 media-widget captured-style"}>
-<SiteLink data-layout-node={"n350"} className={"v144 media-widget captured-style"} href={"https://aitscctv.com/wp-content/uploads/2023/05/1.jpg"}>
-<img data-layout-node={"n351"} className={"v145 captured-style"} src={"/assets/remote-62ce14a5d756e555-responsive-640.webp"} alt={"1"} loading={"lazy"} decoding={"async"} width={"1200"} height={"630"} srcSet={"/assets/remote-62ce14a5d756e555-responsive-160.webp 160w, /assets/remote-62ce14a5d756e555-responsive-320.webp 320w, /assets/remote-62ce14a5d756e555-responsive-640.webp 640w, /assets/remote-62ce14a5d756e555-responsive-1200.webp 1200w"} sizes={"(max-width: 640px) calc(100vw - 40px), (max-width: 1024px) 50vw, 369px"} />
-</SiteLink>
-</div>
-</figure>
-<figure data-layout-node={"n352"} className={"v142 media-widget captured-style"}>
-<div data-layout-node={"n353"} className={"v143 media-widget captured-style"}>
-<SiteLink data-layout-node={"n354"} className={"v144 media-widget captured-style"} href={"https://aitscctv.com/wp-content/uploads/2023/05/11.jpg"}>
-<img data-layout-node={"n355"} className={"v145 captured-style"} src={"/assets/remote-8a3215277bc3d5c7-responsive-640.webp"} alt={"11"} loading={"lazy"} decoding={"async"} width={"1200"} height={"630"} srcSet={"/assets/remote-8a3215277bc3d5c7-responsive-160.webp 160w, /assets/remote-8a3215277bc3d5c7-responsive-320.webp 320w, /assets/remote-8a3215277bc3d5c7-responsive-640.webp 640w, /assets/remote-8a3215277bc3d5c7-responsive-1200.webp 1200w"} sizes={"(max-width: 640px) calc(100vw - 40px), (max-width: 1024px) 50vw, 369px"} />
-</SiteLink>
-</div>
-</figure>
-<figure data-layout-node={"n356"} className={"v142 media-widget captured-style"}>
-<div data-layout-node={"n357"} className={"v143 media-widget captured-style"}>
-<SiteLink data-layout-node={"n358"} className={"v144 media-widget captured-style"} href={"https://aitscctv.com/wp-content/uploads/2023/05/10.jpg"}>
-<img data-layout-node={"n359"} className={"v145 captured-style"} src={"/assets/remote-cbc7ce84f2f86539-responsive-640.webp"} alt={"10"} loading={"lazy"} decoding={"async"} width={"1200"} height={"630"} srcSet={"/assets/remote-cbc7ce84f2f86539-responsive-160.webp 160w, /assets/remote-cbc7ce84f2f86539-responsive-320.webp 320w, /assets/remote-cbc7ce84f2f86539-responsive-640.webp 640w, /assets/remote-cbc7ce84f2f86539-responsive-1200.webp 1200w"} sizes={"(max-width: 640px) calc(100vw - 40px), (max-width: 1024px) 50vw, 369px"} />
-</SiteLink>
-</div>
-</figure>
-<figure data-layout-node={"n360"} className={"v142 media-widget captured-style"}>
-<div data-layout-node={"n361"} className={"v143 media-widget captured-style"}>
-<SiteLink data-layout-node={"n362"} className={"v144 media-widget captured-style"} href={"https://aitscctv.com/wp-content/uploads/2023/05/4.jpg"}>
-<img data-layout-node={"n363"} className={"v145 captured-style"} src={"/assets/remote-fd8032452ecd85c8-responsive-640.webp"} alt={"4"} loading={"lazy"} decoding={"async"} width={"1200"} height={"630"} srcSet={"/assets/remote-fd8032452ecd85c8-responsive-160.webp 160w, /assets/remote-fd8032452ecd85c8-responsive-320.webp 320w, /assets/remote-fd8032452ecd85c8-responsive-640.webp 640w, /assets/remote-fd8032452ecd85c8-responsive-1200.webp 1200w"} sizes={"(max-width: 640px) calc(100vw - 40px), (max-width: 1024px) 50vw, 369px"} />
-</SiteLink>
-</div>
-</figure>
-<figure data-layout-node={"n364"} className={"v142 media-widget captured-style"}>
-<div data-layout-node={"n365"} className={"v143 media-widget captured-style"}>
-<SiteLink data-layout-node={"n366"} className={"v144 media-widget captured-style"} href={"https://aitscctv.com/wp-content/uploads/2023/05/5.jpg"}>
-<img data-layout-node={"n367"} className={"v145 captured-style"} src={"/assets/remote-e53df3b8f6a32b9a-responsive-640.webp"} alt={"5"} loading={"lazy"} decoding={"async"} width={"1200"} height={"630"} srcSet={"/assets/remote-e53df3b8f6a32b9a-responsive-160.webp 160w, /assets/remote-e53df3b8f6a32b9a-responsive-320.webp 320w, /assets/remote-e53df3b8f6a32b9a-responsive-640.webp 640w, /assets/remote-e53df3b8f6a32b9a-responsive-1200.webp 1200w"} sizes={"(max-width: 640px) calc(100vw - 40px), (max-width: 1024px) 50vw, 369px"} />
-</SiteLink>
-</div>
-</figure>
-<figure data-layout-node={"n368"} className={"v142 media-widget captured-style"}>
-<div data-layout-node={"n369"} className={"v143 media-widget captured-style"}>
-<SiteLink data-layout-node={"n370"} className={"v144 media-widget captured-style"} href={"https://aitscctv.com/wp-content/uploads/2023/05/7.jpg"}>
-<img data-layout-node={"n371"} className={"v145 captured-style"} src={"/assets/remote-034aef7d638e6334-responsive-640.webp"} alt={"7"} loading={"lazy"} decoding={"async"} width={"1200"} height={"630"} srcSet={"/assets/remote-034aef7d638e6334-responsive-160.webp 160w, /assets/remote-034aef7d638e6334-responsive-320.webp 320w, /assets/remote-034aef7d638e6334-responsive-640.webp 640w, /assets/remote-034aef7d638e6334-responsive-1200.webp 1200w"} sizes={"(max-width: 640px) calc(100vw - 40px), (max-width: 1024px) 50vw, 369px"} />
-</SiteLink>
-</div>
-</figure>
-<figure data-layout-node={"n372"} className={"v142 media-widget captured-style"}>
-<div data-layout-node={"n373"} className={"v143 media-widget captured-style"}>
-<SiteLink data-layout-node={"n374"} className={"v144 media-widget captured-style"} href={"https://aitscctv.com/wp-content/uploads/2023/05/8.jpg"}>
-<img data-layout-node={"n375"} className={"v145 captured-style"} src={"/assets/remote-1a3325f0c64304e3-responsive-640.webp"} alt={"8"} loading={"lazy"} decoding={"async"} width={"1200"} height={"630"} srcSet={"/assets/remote-1a3325f0c64304e3-responsive-160.webp 160w, /assets/remote-1a3325f0c64304e3-responsive-320.webp 320w, /assets/remote-1a3325f0c64304e3-responsive-640.webp 640w, /assets/remote-1a3325f0c64304e3-responsive-1200.webp 1200w"} sizes={"(max-width: 640px) calc(100vw - 40px), (max-width: 1024px) 50vw, 369px"} />
-</SiteLink>
-</div>
-</figure>
-<figure data-layout-node={"n376"} className={"v142 media-widget captured-style"}>
-<div data-layout-node={"n377"} className={"v143 media-widget captured-style"}>
-<SiteLink data-layout-node={"n378"} className={"v144 media-widget captured-style"} href={"https://aitscctv.com/wp-content/uploads/2023/05/9.jpg"}>
-<img data-layout-node={"n379"} className={"v145 captured-style"} src={"/assets/remote-1699fe4922972647-responsive-640.webp"} alt={"9"} loading={"lazy"} decoding={"async"} width={"1200"} height={"630"} srcSet={"/assets/remote-1699fe4922972647-responsive-160.webp 160w, /assets/remote-1699fe4922972647-responsive-320.webp 320w, /assets/remote-1699fe4922972647-responsive-640.webp 640w, /assets/remote-1699fe4922972647-responsive-1200.webp 1200w"} sizes={"(max-width: 640px) calc(100vw - 40px), (max-width: 1024px) 50vw, 369px"} />
-</SiteLink>
-</div>
-</figure>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-<div data-layout-node={"n503"} className={"v182 section captured-style"}>
-<div data-layout-node={"n504"} className={"v183 captured-style"}>
-<div data-layout-node={"n505"} className={"v3 text-widget captured-style"}>
-<div data-layout-node={"n506"} className={"v4 text-widget captured-style"}>
-<h2 data-layout-node={"n507"} className={"v184 captured-style"}>
-{"\" Let AITS Set Standard  ให้เราได้สร้างมาตรฐาน \"\r\n "}
+<ServiceProjects path={"/home-automation/"} />
+</section>
+<section id={"service-contact"} className={"service-stage"} data-service-stage={"contact"}>
+<div className={"service-stage-heading"}>
+<h2>
+{"ขอใบเสนอราคาและติดต่อทีมงาน"}
 </h2>
 </div>
-</div>
-<div data-layout-node={"n508"} className={"v185 section layout-row captured-style"}>
-<div data-layout-node={"n509"} className={"v186 captured-style"}>
-<div data-layout-node={"n510"} className={"v4 captured-style"}>
-<div data-layout-node={"n511"} className={"v4 captured-style"}>
-<SiteLink data-layout-node={"n512"} className={"v187 action-link captured-style"} href={"tel:0944606196"}>
-<span data-layout-node={"n513"} className={"v188 captured-style"}>
-<span data-layout-node={"n514"} className={"v189 captured-style"}>
-{"โทรหาเรา"}
-</span>
-</span>
-</SiteLink>
-</div>
-</div>
-</div>
-<div data-layout-node={"n515"} className={"v186 captured-style"}>
-<div data-layout-node={"n516"} className={"v4 captured-style"}>
-<div data-layout-node={"n517"} className={"v4 captured-style"}>
-<SiteLink data-layout-node={"n518"} className={"v190 action-link captured-style"} href={"https://page.line.me/852uanad?openQrModal=true"} target={"_blank"} rel={"noopener"}>
-<span data-layout-node={"n519"} className={"v191 captured-style"}>
-<span data-layout-node={"n520"} className={"v192 captured-style"}>
-{"ปรึกษาฟรีคลิก"}
-</span>
-</span>
-</SiteLink>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
+<ServiceContact path={"/home-automation/"} />
+</section>
 </div></div>}

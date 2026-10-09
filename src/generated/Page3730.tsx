@@ -4,7 +4,9 @@ import {SiteLink} from "../components/SiteLink";
 import {VideoFrame} from "../components/VideoFrame";
 import {LogoCarousel} from "../components/LogoCarousel";
 import {ContactPhone} from "../components/ContactPhone";
+import {ServiceTrust,ServiceContents,ServiceBenefits,ServicePricing,ServiceWarranty,ServiceProjects,ServiceContact,AboutTeamGallery} from "../components/ServiceContent";
 export default function Page3730(){return <div className="page-3730 captured-page"><div data-layout-node={"n0"} className={"v0 captured-style"}>
+<section id={"service-overview"} className={"service-stage"} data-service-stage={"overview"}>
 <div data-layout-node={"n1"} className={"v1 section captured-style"}>
 <div data-layout-node={"n2"} className={"v2 captured-style"}>
 <div data-layout-node={"n3"} className={"v3 text-widget captured-style"}>
@@ -82,83 +84,238 @@ export default function Page3730(){return <div className="page-3730 captured-pag
 </div>
 </div>
 </div>
+<ServiceTrust />
+</section>
+<ServiceContents />
+<section id={"service-benefits"} className={"service-stage"} data-service-stage={"benefits"}>
+<div className={"service-stage-heading"}>
+<h2>
+{"ประโยชน์และการใช้งาน"}
+</h2>
+</div>
+<ServiceBenefits path={"/internet-system/"} />
+<details className={"service-detail"}>
+<summary>
+{"รายละเอียดประโยชน์และการใช้งาน"}
+</summary>
+<div className={"service-detail-content"}>
+<div data-layout-node={"n348"} className={"v151 section captured-style"}>
+<div data-layout-node={"n349"} className={"v152 layout-row captured-style"}>
+<div data-layout-node={"n350"} className={"v153 section captured-style"}>
+<div data-layout-node={"n351"} className={"v154 layout-row captured-style"}>
+<div data-layout-node={"n352"} className={"v27 section captured-style"}>
+<div data-layout-node={"n353"} className={"v3 text-widget captured-style"}>
+<div data-layout-node={"n354"} className={"v4 text-widget captured-style"}>
+<p data-layout-node={"n355"} className={"v5 captured-style"}>
+{"DESIGN AND SET UP INTERNET-INTRANET SYSTEM "}
+</p>
+</div>
+</div>
+<div data-layout-node={"n356"} className={"v3 captured-style"}>
+<div data-layout-node={"n357"} className={"v4 captured-style"}>
+<span data-layout-node={"n358"} className={"v46 captured-style"}>
+
+</span>
+<h2 data-layout-node={"n359"} className={"v14 captured-style"} id={"elementor-toc__heading-anchor-4"}>
+{"ใครเหมาะใช้บริการติดตั้งอินเทอร์เน็ต-อินทราเน็ต กับ AITSCCTV\r\n"}
+</h2>
+</div>
+</div>
+<div data-layout-node={"n360"} className={"v90 text-widget captured-style"}>
+<div data-layout-node={"n361"} className={"v91 text-widget captured-style"}>
+<p data-layout-node={"n362"} className={"v92 captured-style"}>
+{"ผู้ที่ต้องการติดตั้งระบบ Internet ติดตั้ง WiFi ติดตั้ง Router กระจายสัญญาณ WiFi ในพื้นที่ต่อไปนี้"}
+</p>
+</div>
+</div>
+<div data-layout-node={"n363"} className={"v155 section layout-row captured-style"}>
+<div data-layout-node={"n364"} className={"v156 captured-style"}>
+<div data-layout-node={"n365"} className={"v157 captured-style"}>
+<div data-layout-node={"n366"} className={"v158 captured-style"}>
+<figure data-layout-node={"n367"} className={"v159 media-widget captured-style"}>
+<img data-layout-node={"n368"} className={"v160 captured-style"} src={"/assets/remote-9ed335284f9e6472-responsive-400.webp"} alt={"บ้านเดี่ยว"} loading={"lazy"} decoding={"async"} width={"400"} height={"300"} srcSet={"/assets/remote-9ed335284f9e6472-responsive-160.webp 160w, /assets/remote-9ed335284f9e6472-responsive-320.webp 320w, /assets/remote-9ed335284f9e6472-responsive-400.webp 400w"} sizes={"186px"} />
+</figure>
+<div data-layout-node={"n369"} className={"v161 text-widget captured-style"}>
+<p data-layout-node={"n370"} className={"v162 captured-style"}>
+{"บ้านเดี่ยว"}
+</p>
+</div>
+</div>
+</div>
+</div>
+<div data-layout-node={"n371"} className={"v156 captured-style"}>
+<div data-layout-node={"n372"} className={"v157 captured-style"}>
+<div data-layout-node={"n373"} className={"v158 captured-style"}>
+<figure data-layout-node={"n374"} className={"v159 media-widget captured-style"}>
+<img data-layout-node={"n375"} className={"v160 captured-style"} src={"/assets/remote-ee90fe3f161c0cbb-responsive-400.webp"} alt={"ทาวน์โฮม"} loading={"lazy"} decoding={"async"} width={"400"} height={"300"} srcSet={"/assets/remote-ee90fe3f161c0cbb-responsive-160.webp 160w, /assets/remote-ee90fe3f161c0cbb-responsive-320.webp 320w, /assets/remote-ee90fe3f161c0cbb-responsive-400.webp 400w"} sizes={"186px"} />
+</figure>
+<div data-layout-node={"n376"} className={"v161 text-widget captured-style"}>
+<p data-layout-node={"n377"} className={"v162 captured-style"}>
+{"ทาวน์โฮม"}
+</p>
+</div>
+</div>
+</div>
+</div>
+<div data-layout-node={"n378"} className={"v156 captured-style"}>
+<div data-layout-node={"n379"} className={"v157 captured-style"}>
+<div data-layout-node={"n380"} className={"v158 captured-style"}>
+<figure data-layout-node={"n381"} className={"v159 media-widget captured-style"}>
+<img data-layout-node={"n382"} className={"v160 captured-style"} src={"/assets/remote-b8150f28bfe85c03-responsive-400.webp"} alt={"Townhouse"} loading={"lazy"} decoding={"async"} width={"400"} height={"300"} srcSet={"/assets/remote-b8150f28bfe85c03-responsive-160.webp 160w, /assets/remote-b8150f28bfe85c03-responsive-320.webp 320w, /assets/remote-b8150f28bfe85c03-responsive-400.webp 400w"} sizes={"186px"} />
+</figure>
+<div data-layout-node={"n383"} className={"v161 text-widget captured-style"}>
+<p data-layout-node={"n384"} className={"v162 captured-style"}>
+{"ทาว์เฮ้าส์"}
+</p>
+</div>
+</div>
+</div>
+</div>
+<div data-layout-node={"n385"} className={"v156 captured-style"}>
+<div data-layout-node={"n386"} className={"v157 captured-style"}>
+<div data-layout-node={"n387"} className={"v158 captured-style"}>
+<figure data-layout-node={"n388"} className={"v159 media-widget captured-style"}>
+<img data-layout-node={"n389"} className={"v160 captured-style"} src={"/assets/remote-40d205cfbef340d1-responsive-400.webp"} alt={"อพาร์ทเมนต์"} loading={"lazy"} decoding={"async"} width={"400"} height={"300"} srcSet={"/assets/remote-40d205cfbef340d1-responsive-160.webp 160w, /assets/remote-40d205cfbef340d1-responsive-320.webp 320w, /assets/remote-40d205cfbef340d1-responsive-400.webp 400w"} sizes={"186px"} />
+</figure>
+<div data-layout-node={"n390"} className={"v161 text-widget captured-style"}>
+<p data-layout-node={"n391"} className={"v162 captured-style"}>
+{"หอพัก "}
+</p>
+</div>
+</div>
+</div>
+</div>
+<div data-layout-node={"n392"} className={"v156 captured-style"}>
+<div data-layout-node={"n393"} className={"v157 captured-style"}>
+<div data-layout-node={"n394"} className={"v158 captured-style"}>
+<figure data-layout-node={"n395"} className={"v159 media-widget captured-style"}>
+<img data-layout-node={"n396"} className={"v160 captured-style"} src={"/assets/remote-2c40df1c747a7cd3-responsive-400.webp"} alt={"คอนโด"} loading={"lazy"} decoding={"async"} width={"400"} height={"300"} srcSet={"/assets/remote-2c40df1c747a7cd3-responsive-160.webp 160w, /assets/remote-2c40df1c747a7cd3-responsive-320.webp 320w, /assets/remote-2c40df1c747a7cd3-responsive-400.webp 400w"} sizes={"186px"} />
+</figure>
+<div data-layout-node={"n397"} className={"v161 text-widget captured-style"}>
+<p data-layout-node={"n398"} className={"v162 captured-style"}>
+{"คอนโด "}
+</p>
+</div>
+</div>
+</div>
+</div>
+<div data-layout-node={"n399"} className={"v156 captured-style"}>
+<div data-layout-node={"n400"} className={"v157 captured-style"}>
+<div data-layout-node={"n401"} className={"v158 captured-style"}>
+<figure data-layout-node={"n402"} className={"v159 media-widget captured-style"}>
+<img data-layout-node={"n403"} className={"v160 captured-style"} src={"/assets/remote-251d81e6f4923658-responsive-400.webp"} alt={"Office"} loading={"lazy"} decoding={"async"} width={"400"} height={"300"} srcSet={"/assets/remote-251d81e6f4923658-responsive-160.webp 160w, /assets/remote-251d81e6f4923658-responsive-320.webp 320w, /assets/remote-251d81e6f4923658-responsive-400.webp 400w"} sizes={"186px"} />
+</figure>
+<div data-layout-node={"n404"} className={"v161 text-widget captured-style"}>
+<p data-layout-node={"n405"} className={"v162 captured-style"}>
+{"สำนักงาน "}
+</p>
+</div>
+</div>
+</div>
+</div>
+<div data-layout-node={"n406"} className={"v156 captured-style"}>
+<div data-layout-node={"n407"} className={"v157 captured-style"}>
+<div data-layout-node={"n408"} className={"v158 captured-style"}>
+<figure data-layout-node={"n409"} className={"v159 media-widget captured-style"}>
+<img data-layout-node={"n410"} className={"v160 captured-style"} src={"/assets/remote-669786e9cf821ba9-responsive-400.webp"} alt={"อาคารพาณิชย์"} loading={"lazy"} decoding={"async"} width={"400"} height={"300"} srcSet={"/assets/remote-669786e9cf821ba9-responsive-160.webp 160w, /assets/remote-669786e9cf821ba9-responsive-320.webp 320w, /assets/remote-669786e9cf821ba9-responsive-400.webp 400w"} sizes={"186px"} />
+</figure>
+<div data-layout-node={"n411"} className={"v161 text-widget captured-style"}>
+<p data-layout-node={"n412"} className={"v162 captured-style"}>
+{"อาคารพาณิชย์"}
+</p>
+</div>
+</div>
+</div>
+</div>
+<div data-layout-node={"n413"} className={"v156 captured-style"}>
+<div data-layout-node={"n414"} className={"v157 captured-style"}>
+<div data-layout-node={"n415"} className={"v158 captured-style"}>
+<figure data-layout-node={"n416"} className={"v159 media-widget captured-style"}>
+<img data-layout-node={"n417"} className={"v160 captured-style"} src={"/assets/remote-4470e78552e88526-responsive-400.webp"} alt={"Hotel"} loading={"lazy"} decoding={"async"} width={"400"} height={"300"} srcSet={"/assets/remote-4470e78552e88526-responsive-160.webp 160w, /assets/remote-4470e78552e88526-responsive-320.webp 320w, /assets/remote-4470e78552e88526-responsive-400.webp 400w"} sizes={"186px"} />
+</figure>
+<div data-layout-node={"n418"} className={"v161 text-widget captured-style"}>
+<p data-layout-node={"n419"} className={"v162 captured-style"}>
+{"โรงแรม "}
+</p>
+</div>
+</div>
+</div>
+</div>
+<div data-layout-node={"n420"} className={"v156 captured-style"}>
+<div data-layout-node={"n421"} className={"v157 captured-style"}>
+<div data-layout-node={"n422"} className={"v158 captured-style"}>
+<figure data-layout-node={"n423"} className={"v159 media-widget captured-style"}>
+<img data-layout-node={"n424"} className={"v160 captured-style"} src={"/assets/remote-9aa1e783abb7fdaa-responsive-400.webp"} alt={"หมู่บ้าน"} loading={"lazy"} decoding={"async"} width={"400"} height={"300"} srcSet={"/assets/remote-9aa1e783abb7fdaa-responsive-160.webp 160w, /assets/remote-9aa1e783abb7fdaa-responsive-320.webp 320w, /assets/remote-9aa1e783abb7fdaa-responsive-400.webp 400w"} sizes={"186px"} />
+</figure>
+<div data-layout-node={"n425"} className={"v161 text-widget captured-style"}>
+<p data-layout-node={"n426"} className={"v162 captured-style"}>
+{"หมู่บ้าน"}
+</p>
+</div>
+</div>
+</div>
+</div>
+<div data-layout-node={"n427"} className={"v156 captured-style"}>
+<div data-layout-node={"n428"} className={"v157 captured-style"}>
+<div data-layout-node={"n429"} className={"v158 captured-style"}>
+<figure data-layout-node={"n430"} className={"v159 media-widget captured-style"}>
+<img data-layout-node={"n431"} className={"v160 captured-style"} src={"/assets/remote-a00d4414c62ddcee-responsive-400.webp"} alt={"Hospital"} loading={"lazy"} decoding={"async"} width={"400"} height={"300"} srcSet={"/assets/remote-a00d4414c62ddcee-responsive-160.webp 160w, /assets/remote-a00d4414c62ddcee-responsive-320.webp 320w, /assets/remote-a00d4414c62ddcee-responsive-400.webp 400w"} sizes={"186px"} />
+</figure>
+<div data-layout-node={"n432"} className={"v161 text-widget captured-style"}>
+<p data-layout-node={"n433"} className={"v162 captured-style"}>
+{"สถาบันการแพทย์"}
+</p>
+</div>
+</div>
+</div>
+</div>
+<div data-layout-node={"n434"} className={"v156 captured-style"}>
+<div data-layout-node={"n435"} className={"v157 captured-style"}>
+<div data-layout-node={"n436"} className={"v158 captured-style"}>
+<figure data-layout-node={"n437"} className={"v159 media-widget captured-style"}>
+<img data-layout-node={"n438"} className={"v160 captured-style"} src={"/assets/remote-37207a03e9f61257-responsive-400.webp"} alt={"Academy"} loading={"lazy"} decoding={"async"} width={"400"} height={"300"} srcSet={"/assets/remote-37207a03e9f61257-responsive-160.webp 160w, /assets/remote-37207a03e9f61257-responsive-320.webp 320w, /assets/remote-37207a03e9f61257-responsive-400.webp 400w"} sizes={"186px"} />
+</figure>
+<div data-layout-node={"n439"} className={"v161 text-widget captured-style"}>
+<p data-layout-node={"n440"} className={"v162 captured-style"}>
+{"สถาบันการศึกษา"}
+</p>
+</div>
+</div>
+</div>
+</div>
+<div data-layout-node={"n441"} className={"v156 captured-style"}>
+<div data-layout-node={"n442"} className={"v157 captured-style"}>
+<div data-layout-node={"n443"} className={"v158 captured-style"}>
+<figure data-layout-node={"n444"} className={"v159 media-widget captured-style"}>
+<img data-layout-node={"n445"} className={"v163 captured-style"} src={"/assets/remote-dd1f0fb827eb79e4-responsive-600.webp"} alt={"158673029"} loading={"lazy"} decoding={"async"} width={"600"} height={"450"} srcSet={"/assets/remote-dd1f0fb827eb79e4-responsive-160.webp 160w, /assets/remote-dd1f0fb827eb79e4-responsive-320.webp 320w, /assets/remote-dd1f0fb827eb79e4-responsive-600.webp 600w"} sizes={"186px"} />
+</figure>
+<div data-layout-node={"n446"} className={"v161 text-widget captured-style"}>
+<p data-layout-node={"n447"} className={"v162 captured-style"}>
+{"สถาบันการเงิน"}
+</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</details>
+</section>
+<section id={"service-options"} className={"service-stage"} data-service-stage={"options"}>
+<div className={"service-stage-heading"}>
+<h2>
+{"รูปแบบบริการและราคา"}
+</h2>
+</div>
+<ServicePricing path={"/internet-system/"} />
 <div data-layout-node={"n37"} className={"v7 section captured-style"}>
 <div data-layout-node={"n38"} className={"v26 captured-style"}>
 <div data-layout-node={"n39"} className={"v27 section captured-style"}>
-<div data-layout-node={"n40"} className={"v28 captured-style"}>
-<div data-layout-node={"n41"} className={"v29 captured-style"}>
-<div data-layout-node={"n42"} className={"v30 layout-row captured-style"}>
-<div data-layout-node={"n43"} className={"v31 captured-style"}>
-{"\r\n\t\t\t\tเลือกอ่านหัวข้อที่สนใจ\t\t\t"}
-</div>
-<div data-layout-node={"n44"} className={"v32 captured-style"}>
-<i data-layout-node={"n45"} className={"v33 captured-style"}>
-
-</i>
-</div>
-</div>
-<div data-layout-node={"n46"} className={"v34 captured-style"}>
-<ol data-layout-node={"n47"} className={"v35 toc-container toc-container toc-container toc-container toc-container toc-container toc-container toc-container captured-style"}>
-<li data-layout-node={"n48"} className={"v36 toc-container captured-style"}>
-<div data-layout-node={"n49"} className={"v37 toc-container captured-style"}>
-<SiteLink data-layout-node={"n50"} className={"v38 toc-link captured-style"} href={"#elementor-toc__heading-anchor-0"}>
-{"AITSCCTV บริการติดตั้งระบบอินเทอร์เน็ต-อินทราเน็ตสำหรับองค์กร\r\n"}
-</SiteLink>
-</div>
-</li>
-<li data-layout-node={"n51"} className={"v36 toc-container captured-style"}>
-<div data-layout-node={"n52"} className={"v37 toc-container captured-style"}>
-<SiteLink data-layout-node={"n53"} className={"v39 toc-link captured-style"} href={"#elementor-toc__heading-anchor-1"}>
-{"บริการติดตั้งระบบ Internet กับ AITSCCTV ดีอย่างไร?\r\n"}
-</SiteLink>
-</div>
-</li>
-<li data-layout-node={"n54"} className={"v36 toc-container captured-style"}>
-<div data-layout-node={"n55"} className={"v37 toc-container captured-style"}>
-<SiteLink data-layout-node={"n56"} className={"v40 toc-link captured-style"} href={"#elementor-toc__heading-anchor-2"}>
-{"ยี่ห้ออุปกรณ์ระบบอินเทอร์เน็ตที่ AITSCCTV แนะนำ\r\n"}
-</SiteLink>
-</div>
-</li>
-<li data-layout-node={"n57"} className={"v36 toc-container captured-style"}>
-<div data-layout-node={"n58"} className={"v37 toc-container captured-style"}>
-<SiteLink data-layout-node={"n59"} className={"v41 toc-link captured-style"} href={"#elementor-toc__heading-anchor-3"}>
-{"อินเทอร์เน็ต (Intranet) คืออะไร แตกต่างจาก (Internet) อย่างไร"}
-</SiteLink>
-</div>
-</li>
-<li data-layout-node={"n60"} className={"v36 toc-container captured-style"}>
-<div data-layout-node={"n61"} className={"v37 toc-container captured-style"}>
-<SiteLink data-layout-node={"n62"} className={"v42 toc-link captured-style"} href={"#elementor-toc__heading-anchor-4"}>
-{"ใครเหมาะใช้บริการติดตั้งอินเทอร์เน็ต-อินทราเน็ต กับ AITSCCTV\r\n"}
-</SiteLink>
-</div>
-</li>
-<li data-layout-node={"n63"} className={"v36 toc-container captured-style"}>
-<div data-layout-node={"n64"} className={"v37 toc-container captured-style"}>
-<SiteLink data-layout-node={"n65"} className={"v43 toc-link captured-style"} href={"#elementor-toc__heading-anchor-5"}>
-{"ทีมงานของเรา AITSCCTV"}
-</SiteLink>
-</div>
-</li>
-<li data-layout-node={"n66"} className={"v36 toc-container captured-style"}>
-<div data-layout-node={"n67"} className={"v37 toc-container captured-style"}>
-<span data-layout-node={"n68"} className={"v44 toc-link inactive-control captured-style"}>
-{"รีวิวลูกค้า"}
-</span>
-</div>
-</li>
-<li data-layout-node={"n69"} className={"v36 toc-container captured-style"}>
-<div data-layout-node={"n70"} className={"v37 toc-container captured-style"}>
-<span data-layout-node={"n71"} className={"v45 toc-link inactive-control captured-style"}>
-{"คำถามที่พบบ่อย\r\n"}
-</span>
-</div>
-</li>
-</ol>
-</div>
-</div>
-</div>
 <div data-layout-node={"n72"} className={"v3 text-widget captured-style"}>
 <div data-layout-node={"n73"} className={"v4 text-widget captured-style"}>
 <p data-layout-node={"n74"} className={"v5 captured-style"}>
@@ -383,138 +540,6 @@ export default function Page3730(){return <div className="page-3730 captured-pag
 </div>
 </div>
 </div>
-<div data-layout-node={"n169"} className={"v70 section captured-style"}>
-<div data-layout-node={"n170"} className={"v71 layout-row captured-style"}>
-<div data-layout-node={"n171"} className={"v27 section captured-style"}>
-<div data-layout-node={"n172"} className={"v3 text-widget captured-style"}>
-<div data-layout-node={"n173"} className={"v4 text-widget captured-style"}>
-<p data-layout-node={"n174"} className={"v5 captured-style"}>
-{"WHY AITSCCTV"}
-</p>
-</div>
-</div>
-<div data-layout-node={"n175"} className={"v3 captured-style"}>
-<div data-layout-node={"n176"} className={"v4 captured-style"}>
-<span data-layout-node={"n177"} className={"v46 captured-style"}>
-
-</span>
-<h2 data-layout-node={"n178"} className={"v14 captured-style"} id={"elementor-toc__heading-anchor-1"}>
-{"บริการติดตั้งระบบ Internet กับ AITSCCTV ดีอย่างไร?\r\n"}
-</h2>
-</div>
-</div>
-<div data-layout-node={"n179"} className={"v72 section layout-row captured-style"}>
-<div data-layout-node={"n180"} className={"v73 captured-style"}>
-<div data-layout-node={"n181"} className={"v74 captured-style"}>
-<div data-layout-node={"n182"} className={"v75 captured-style"}>
-<figure data-layout-node={"n183"} className={"v76 media-widget captured-style"}>
-<img data-layout-node={"n184"} className={"v77 captured-style"} src={"https://aitscctv.com/wp-content/uploads/2023/03/design-pencil.svg"} alt={"Design pencil"} loading={"lazy"} decoding={"async"} width={"800"} height={"800"} />
-</figure>
-<div data-layout-node={"n185"} className={"v78 captured-style"}>
-<h3 data-layout-node={"n186"} className={"v79 captured-style"}>
-{"เรามีหลักการออกแบบที่ดี"}
-</h3>
-<p data-layout-node={"n187"} className={"v80 captured-style"}>
-{"ติดตั้งระบบInternet และออกแบบจุดกระจายสัญญาณ สัญญาณ WiFi  บริการอินเทอร์เน็ตสำหรับธุรกิจ และอินทราเน็ตที่เดียว แก้ปัญหาสัญญาณ WiFi ไม่เสถียร ครบทั้งวงจร\r\n"}
-</p>
-</div>
-</div>
-</div>
-</div>
-<div data-layout-node={"n188"} className={"v73 captured-style"}>
-<div data-layout-node={"n189"} className={"v74 captured-style"}>
-<div data-layout-node={"n190"} className={"v75 captured-style"}>
-<figure data-layout-node={"n191"} className={"v76 media-widget captured-style"}>
-<img data-layout-node={"n192"} className={"v77 captured-style"} src={"https://aitscctv.com/wp-content/uploads/2023/03/performance.svg"} alt={"Performance"} loading={"lazy"} decoding={"async"} width={"800"} height={"800"} />
-</figure>
-<div data-layout-node={"n193"} className={"v78 captured-style"}>
-<h3 data-layout-node={"n194"} className={"v79 captured-style"}>
-{"เน้นความสะดวกสมัยควบคู่กับความสวยงาม"}
-</h3>
-<p data-layout-node={"n195"} className={"v80 captured-style"}>
-{"ออกแบบ ติดตั้งระบบ Internet ใหม่ทุกครั้ง เพื่อให้การใช้งานง่ายและตรงกับไลฟ์สไตล์ของคุณเท่านั้น เพื่อให้ใช้งานได้สวยถูกใจ แถมดีไซน์ไม่ซ้ำใครแน่นอน"}
-</p>
-</div>
-</div>
-</div>
-</div>
-<div data-layout-node={"n196"} className={"v73 captured-style"}>
-<div data-layout-node={"n197"} className={"v74 captured-style"}>
-<div data-layout-node={"n198"} className={"v75 captured-style"}>
-<figure data-layout-node={"n199"} className={"v76 media-widget captured-style"}>
-<img data-layout-node={"n200"} className={"v77 captured-style"} src={"https://aitscctv.com/wp-content/uploads/2023/03/plan.svg"} alt={"Plan"} loading={"lazy"} decoding={"async"} width={"800"} height={"800"} />
-</figure>
-<div data-layout-node={"n201"} className={"v78 captured-style"}>
-<h3 data-layout-node={"n202"} className={"v79 captured-style"}>
-{"มาที่เดียวก็ครบทุกสิ่ง!"}
-</h3>
-<p data-layout-node={"n203"} className={"v80 captured-style"}>
-{"AITS เราเป็นบริษัทเทคโนโลยีชั้นนำที่มีบริการครบวงจร ลูกค้าไม่ต้องหาทีมแยกให้ปวดหัว และเสียเวลา มาหาเราที่เดียว ครบทุกบริการ\r\n"}
-</p>
-</div>
-</div>
-</div>
-</div>
-<div data-layout-node={"n204"} className={"v73 captured-style"}>
-<div data-layout-node={"n205"} className={"v74 captured-style"}>
-<div data-layout-node={"n206"} className={"v75 captured-style"}>
-<figure data-layout-node={"n207"} className={"v76 media-widget captured-style"}>
-<img data-layout-node={"n208"} className={"v77 captured-style"} src={"https://aitscctv.com/wp-content/uploads/2023/03/training-achievement-medal.svg"} alt={"Training achievement medal"} loading={"lazy"} decoding={"async"} width={"800"} height={"800"} />
-</figure>
-<div data-layout-node={"n209"} className={"v78 captured-style"}>
-<h3 data-layout-node={"n210"} className={"v79 captured-style"}>
-{"มีความเป็นมืออาชีพ"}
-</h3>
-<p data-layout-node={"n211"} className={"v80 captured-style"}>
-{"ดำเนินงานโดยช่างติดตั้งระบบรักษาความปลอดภัยมืออาชีพที่มีประสบการณ์มากกว่า 20 ปี\r\n"}
-</p>
-</div>
-</div>
-</div>
-</div>
-<div data-layout-node={"n212"} className={"v73 captured-style"}>
-<div data-layout-node={"n213"} className={"v74 captured-style"}>
-<div data-layout-node={"n214"} className={"v75 captured-style"}>
-<figure data-layout-node={"n215"} className={"v76 media-widget captured-style"}>
-<img data-layout-node={"n216"} className={"v77 captured-style"} src={"https://aitscctv.com/wp-content/uploads/2023/03/care-treatment-heart.svg"} alt={"Care treatment heart"} loading={"lazy"} decoding={"async"} width={"800"} height={"800"} />
-</figure>
-<div data-layout-node={"n217"} className={"v78 captured-style"}>
-<h3 data-layout-node={"n218"} className={"v79 captured-style"}>
-{"ใส่ใจดูแลลูกค้าเป็นอย่างดี"}
-</h3>
-<p data-layout-node={"n219"} className={"v80 captured-style"}>
-{"มีทีมงานดูแลบริการหลังการขาย พร้อมให้คำแนะนำอย่างใกล้ชิดตั้งแต่ก่อนเริ่มงานไปจนถึงหลังการขาย\r\n"}
-</p>
-</div>
-</div>
-</div>
-</div>
-<div data-layout-node={"n220"} className={"v73 captured-style"}>
-<div data-layout-node={"n221"} className={"v74 captured-style"}>
-<div data-layout-node={"n222"} className={"v75 captured-style"}>
-<figure data-layout-node={"n223"} className={"v76 media-widget captured-style"}>
-<img data-layout-node={"n224"} className={"v77 captured-style"} src={"https://aitscctv.com/wp-content/uploads/2023/03/warranty-term.svg"} alt={"Warranty term"} loading={"lazy"} decoding={"async"} width={"800"} height={"800"} />
-</figure>
-<div data-layout-node={"n225"} className={"v78 captured-style"}>
-<h3 data-layout-node={"n226"} className={"v79 captured-style"}>
-{"มีการรับประกันสินค้า"}
-</h3>
-<p data-layout-node={"n227"} className={"v80 captured-style"}>
-{"รับประกันตัวสินค้าให้ 2 ปีเต็ม\r\nการรับประกันงานบริการ 1 ปี โดยเฉพาะ Onsite**\r\n"}
-</p>
-</div>
-</div>
-</div>
-</div>
-</div>
-<div data-layout-node={"n228"} className={"v81 captured-style"}>
-<div data-layout-node={"n229"} className={"v82 captured-style"}>
-{"\r\n\t\t\t\t\t\t\t**ยกเว้นความเสียหายในกรณีที่เกิดขึ้นมาจากคน สัตว์ สิ่งของ และภัยธรรมชาติ\t\t\t\t\t\t"}
-</div>
-</div>
-</div>
-</div>
-</div>
 <div data-layout-node={"n230"} className={"v83 section captured-style"}>
 <div data-layout-node={"n231"} className={"v84 captured-style"}>
 <div data-layout-node={"n232"} className={"v3 captured-style"}>
@@ -548,92 +573,12 @@ export default function Page3730(){return <div className="page-3730 captured-pag
 </div>
 </div>
 </div>
-<div data-layout-node={"n247"} className={"v7 section text-widget captured-style"}>
-<div data-layout-node={"n248"} className={"v89 text-widget captured-style"}>
-<div data-layout-node={"n249"} className={"v90 text-widget captured-style"}>
-<div data-layout-node={"n250"} className={"v91 text-widget captured-style"}>
-<p data-layout-node={"n251"} className={"v92 captured-style"}>
-{"นอกจากนี้เรายังรับให้คำแนะนำที่มีทีมงานพร้อมให้คำแนะนำบริการติดตั้งระบบ Internet "}
-<br data-layout-node={"n252"} className={"v93 captured-style"} />
-{"อย่างครบวงจร หากสนใจสามารถเข้ามาปรึกษาเราได้"}
-</p>
-</div>
-</div>
-</div>
-</div>
-<div data-layout-node={"n253"} className={"v7 section captured-style"}>
-<div data-layout-node={"n254"} className={"v94 layout-row captured-style"}>
-<div data-layout-node={"n255"} className={"v95 section captured-style"}>
-<div data-layout-node={"n256"} className={"v96 layout-row captured-style"}>
-<div data-layout-node={"n257"} className={"v97 section captured-style"}>
-<div data-layout-node={"n258"} className={"v98 captured-style"}>
-<div data-layout-node={"n259"} className={"v99 captured-style"}>
-<div data-layout-node={"n260"} className={"v100 layout-row captured-style"}>
-<div data-layout-node={"n261"} className={"v101 captured-style"}>
-<SiteLink data-layout-node={"n262"} className={"v102 captured-style"} href={"tel:0944606196"}>
-<i data-layout-node={"n263"} className={"v103 captured-style"}>
-
-</i>
-</SiteLink>
-</div>
-<div data-layout-node={"n264"} className={"v104 captured-style"}>
-<p data-layout-node={"n265"} className={"v105 captured-style"}>
-<SiteLink data-layout-node={"n266"} className={"v106 captured-style"} href={"tel:0944606196"}>
-{"\r\n\t\t\t\t\t\tให้คำปรึกษาฟรี\t\t\t\t\t"}
-</SiteLink>
-</p>
-<p data-layout-node={"n267"} className={"v107 large-copy captured-style"}>
-{"\r\n\t\t\t\t\t\t094 460 6196\t\t\t\t\t"}
-</p>
-</div>
-</div>
-</div>
-</div>
-</div>
-<div data-layout-node={"n268"} className={"v108 section captured-style"}>
-<div data-layout-node={"n269"} className={"v109 captured-style"}>
-<div data-layout-node={"n270"} className={"v110 captured-style"}>
-<div data-layout-node={"n271"} className={"v111 layout-row captured-style"}>
-<div data-layout-node={"n272"} className={"v112 captured-style"}>
-<SiteLink data-layout-node={"n273"} className={"v102 captured-style"} href={"https://page.line.me/852uanad?openQrModal=true"}>
-<i data-layout-node={"n274"} className={"v113 captured-style"}>
-
-</i>
-</SiteLink>
-</div>
-<div data-layout-node={"n275"} className={"v114 captured-style"}>
-<p data-layout-node={"n276"} className={"v115 captured-style"}>
-<SiteLink data-layout-node={"n277"} className={"v106 captured-style"} href={"https://page.line.me/852uanad?openQrModal=true"}>
-{"\r\n\t\t\t\t\t\tLine\t\t\t\t\t"}
-</SiteLink>
-</p>
-<p data-layout-node={"n278"} className={"v116 large-copy captured-style"}>
-{"\r\n\t\t\t\t\t\t@AITSCCTV\t\t\t\t\t"}
-</p>
-</div>
-</div>
-</div>
-</div>
-</div>
-<div data-layout-node={"n279"} className={"v117 section captured-style"}>
-<div data-layout-node={"n280"} className={"v3 captured-style"}>
-<div data-layout-node={"n281"} className={"v118 captured-style"}>
-<div data-layout-node={"n282"} className={"v4 captured-style"}>
-<SiteLink data-layout-node={"n283"} className={"v119 action-link captured-style"} href={"https://page.line.me/852uanad?openQrModal=true"} target={"_blank"} rel={"noopener"}>
-<span data-layout-node={"n284"} className={"v120 captured-style"}>
-<span data-layout-node={"n285"} className={"v121 captured-style"}>
-{"ปรึกษาฟรีคลิก"}
-</span>
-</span>
-</SiteLink>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
+<ServiceWarranty path={"/internet-system/"} />
+<details className={"service-detail"}>
+<summary>
+{"รายละเอียดทางเทคนิคและแนวทางเลือกใช้งาน"}
+</summary>
+<div className={"service-detail-content"}>
 <div data-layout-node={"n286"} className={"v83 section captured-style"}>
 <div data-layout-node={"n287"} className={"v8 captured-style"}>
 <div data-layout-node={"n288"} className={"v3 text-widget captured-style"}>
@@ -783,390 +728,23 @@ export default function Page3730(){return <div className="page-3730 captured-pag
 </div>
 </div>
 </div>
-<div data-layout-node={"n348"} className={"v151 section captured-style"}>
-<div data-layout-node={"n349"} className={"v152 layout-row captured-style"}>
-<div data-layout-node={"n350"} className={"v153 section captured-style"}>
-<div data-layout-node={"n351"} className={"v154 layout-row captured-style"}>
-<div data-layout-node={"n352"} className={"v27 section captured-style"}>
-<div data-layout-node={"n353"} className={"v3 text-widget captured-style"}>
-<div data-layout-node={"n354"} className={"v4 text-widget captured-style"}>
-<p data-layout-node={"n355"} className={"v5 captured-style"}>
-{"DESIGN AND SET UP INTERNET-INTRANET SYSTEM "}
-</p>
 </div>
-</div>
-<div data-layout-node={"n356"} className={"v3 captured-style"}>
-<div data-layout-node={"n357"} className={"v4 captured-style"}>
-<span data-layout-node={"n358"} className={"v46 captured-style"}>
-
-</span>
-<h2 data-layout-node={"n359"} className={"v14 captured-style"} id={"elementor-toc__heading-anchor-4"}>
-{"ใครเหมาะใช้บริการติดตั้งอินเทอร์เน็ต-อินทราเน็ต กับ AITSCCTV\r\n"}
+</details>
+</section>
+<section id={"service-projects"} className={"service-stage"} data-service-stage={"projects"}>
+<div className={"service-stage-heading"}>
+<h2>
+{"ผลงานและเนื้อหาที่เกี่ยวข้อง"}
 </h2>
 </div>
-</div>
-<div data-layout-node={"n360"} className={"v90 text-widget captured-style"}>
-<div data-layout-node={"n361"} className={"v91 text-widget captured-style"}>
-<p data-layout-node={"n362"} className={"v92 captured-style"}>
-{"ผู้ที่ต้องการติดตั้งระบบ Internet ติดตั้ง WiFi ติดตั้ง Router กระจายสัญญาณ WiFi ในพื้นที่ต่อไปนี้"}
-</p>
-</div>
-</div>
-<div data-layout-node={"n363"} className={"v155 section layout-row captured-style"}>
-<div data-layout-node={"n364"} className={"v156 captured-style"}>
-<div data-layout-node={"n365"} className={"v157 captured-style"}>
-<div data-layout-node={"n366"} className={"v158 captured-style"}>
-<figure data-layout-node={"n367"} className={"v159 media-widget captured-style"}>
-<img data-layout-node={"n368"} className={"v160 captured-style"} src={"/assets/remote-9ed335284f9e6472-responsive-400.webp"} alt={"บ้านเดี่ยว"} loading={"lazy"} decoding={"async"} width={"400"} height={"300"} srcSet={"/assets/remote-9ed335284f9e6472-responsive-160.webp 160w, /assets/remote-9ed335284f9e6472-responsive-320.webp 320w, /assets/remote-9ed335284f9e6472-responsive-400.webp 400w"} sizes={"186px"} />
-</figure>
-<div data-layout-node={"n369"} className={"v161 text-widget captured-style"}>
-<p data-layout-node={"n370"} className={"v162 captured-style"}>
-{"บ้านเดี่ยว"}
-</p>
-</div>
-</div>
-</div>
-</div>
-<div data-layout-node={"n371"} className={"v156 captured-style"}>
-<div data-layout-node={"n372"} className={"v157 captured-style"}>
-<div data-layout-node={"n373"} className={"v158 captured-style"}>
-<figure data-layout-node={"n374"} className={"v159 media-widget captured-style"}>
-<img data-layout-node={"n375"} className={"v160 captured-style"} src={"/assets/remote-ee90fe3f161c0cbb-responsive-400.webp"} alt={"ทาวน์โฮม"} loading={"lazy"} decoding={"async"} width={"400"} height={"300"} srcSet={"/assets/remote-ee90fe3f161c0cbb-responsive-160.webp 160w, /assets/remote-ee90fe3f161c0cbb-responsive-320.webp 320w, /assets/remote-ee90fe3f161c0cbb-responsive-400.webp 400w"} sizes={"186px"} />
-</figure>
-<div data-layout-node={"n376"} className={"v161 text-widget captured-style"}>
-<p data-layout-node={"n377"} className={"v162 captured-style"}>
-{"ทาวน์โฮม"}
-</p>
-</div>
-</div>
-</div>
-</div>
-<div data-layout-node={"n378"} className={"v156 captured-style"}>
-<div data-layout-node={"n379"} className={"v157 captured-style"}>
-<div data-layout-node={"n380"} className={"v158 captured-style"}>
-<figure data-layout-node={"n381"} className={"v159 media-widget captured-style"}>
-<img data-layout-node={"n382"} className={"v160 captured-style"} src={"/assets/remote-b8150f28bfe85c03-responsive-400.webp"} alt={"Townhouse"} loading={"lazy"} decoding={"async"} width={"400"} height={"300"} srcSet={"/assets/remote-b8150f28bfe85c03-responsive-160.webp 160w, /assets/remote-b8150f28bfe85c03-responsive-320.webp 320w, /assets/remote-b8150f28bfe85c03-responsive-400.webp 400w"} sizes={"186px"} />
-</figure>
-<div data-layout-node={"n383"} className={"v161 text-widget captured-style"}>
-<p data-layout-node={"n384"} className={"v162 captured-style"}>
-{"ทาว์เฮ้าส์"}
-</p>
-</div>
-</div>
-</div>
-</div>
-<div data-layout-node={"n385"} className={"v156 captured-style"}>
-<div data-layout-node={"n386"} className={"v157 captured-style"}>
-<div data-layout-node={"n387"} className={"v158 captured-style"}>
-<figure data-layout-node={"n388"} className={"v159 media-widget captured-style"}>
-<img data-layout-node={"n389"} className={"v160 captured-style"} src={"/assets/remote-40d205cfbef340d1-responsive-400.webp"} alt={"อพาร์ทเมนต์"} loading={"lazy"} decoding={"async"} width={"400"} height={"300"} srcSet={"/assets/remote-40d205cfbef340d1-responsive-160.webp 160w, /assets/remote-40d205cfbef340d1-responsive-320.webp 320w, /assets/remote-40d205cfbef340d1-responsive-400.webp 400w"} sizes={"186px"} />
-</figure>
-<div data-layout-node={"n390"} className={"v161 text-widget captured-style"}>
-<p data-layout-node={"n391"} className={"v162 captured-style"}>
-{"หอพัก "}
-</p>
-</div>
-</div>
-</div>
-</div>
-<div data-layout-node={"n392"} className={"v156 captured-style"}>
-<div data-layout-node={"n393"} className={"v157 captured-style"}>
-<div data-layout-node={"n394"} className={"v158 captured-style"}>
-<figure data-layout-node={"n395"} className={"v159 media-widget captured-style"}>
-<img data-layout-node={"n396"} className={"v160 captured-style"} src={"/assets/remote-2c40df1c747a7cd3-responsive-400.webp"} alt={"คอนโด"} loading={"lazy"} decoding={"async"} width={"400"} height={"300"} srcSet={"/assets/remote-2c40df1c747a7cd3-responsive-160.webp 160w, /assets/remote-2c40df1c747a7cd3-responsive-320.webp 320w, /assets/remote-2c40df1c747a7cd3-responsive-400.webp 400w"} sizes={"186px"} />
-</figure>
-<div data-layout-node={"n397"} className={"v161 text-widget captured-style"}>
-<p data-layout-node={"n398"} className={"v162 captured-style"}>
-{"คอนโด "}
-</p>
-</div>
-</div>
-</div>
-</div>
-<div data-layout-node={"n399"} className={"v156 captured-style"}>
-<div data-layout-node={"n400"} className={"v157 captured-style"}>
-<div data-layout-node={"n401"} className={"v158 captured-style"}>
-<figure data-layout-node={"n402"} className={"v159 media-widget captured-style"}>
-<img data-layout-node={"n403"} className={"v160 captured-style"} src={"/assets/remote-251d81e6f4923658-responsive-400.webp"} alt={"Office"} loading={"lazy"} decoding={"async"} width={"400"} height={"300"} srcSet={"/assets/remote-251d81e6f4923658-responsive-160.webp 160w, /assets/remote-251d81e6f4923658-responsive-320.webp 320w, /assets/remote-251d81e6f4923658-responsive-400.webp 400w"} sizes={"186px"} />
-</figure>
-<div data-layout-node={"n404"} className={"v161 text-widget captured-style"}>
-<p data-layout-node={"n405"} className={"v162 captured-style"}>
-{"สำนักงาน "}
-</p>
-</div>
-</div>
-</div>
-</div>
-<div data-layout-node={"n406"} className={"v156 captured-style"}>
-<div data-layout-node={"n407"} className={"v157 captured-style"}>
-<div data-layout-node={"n408"} className={"v158 captured-style"}>
-<figure data-layout-node={"n409"} className={"v159 media-widget captured-style"}>
-<img data-layout-node={"n410"} className={"v160 captured-style"} src={"/assets/remote-669786e9cf821ba9-responsive-400.webp"} alt={"อาคารพาณิชย์"} loading={"lazy"} decoding={"async"} width={"400"} height={"300"} srcSet={"/assets/remote-669786e9cf821ba9-responsive-160.webp 160w, /assets/remote-669786e9cf821ba9-responsive-320.webp 320w, /assets/remote-669786e9cf821ba9-responsive-400.webp 400w"} sizes={"186px"} />
-</figure>
-<div data-layout-node={"n411"} className={"v161 text-widget captured-style"}>
-<p data-layout-node={"n412"} className={"v162 captured-style"}>
-{"อาคารพาณิชย์"}
-</p>
-</div>
-</div>
-</div>
-</div>
-<div data-layout-node={"n413"} className={"v156 captured-style"}>
-<div data-layout-node={"n414"} className={"v157 captured-style"}>
-<div data-layout-node={"n415"} className={"v158 captured-style"}>
-<figure data-layout-node={"n416"} className={"v159 media-widget captured-style"}>
-<img data-layout-node={"n417"} className={"v160 captured-style"} src={"/assets/remote-4470e78552e88526-responsive-400.webp"} alt={"Hotel"} loading={"lazy"} decoding={"async"} width={"400"} height={"300"} srcSet={"/assets/remote-4470e78552e88526-responsive-160.webp 160w, /assets/remote-4470e78552e88526-responsive-320.webp 320w, /assets/remote-4470e78552e88526-responsive-400.webp 400w"} sizes={"186px"} />
-</figure>
-<div data-layout-node={"n418"} className={"v161 text-widget captured-style"}>
-<p data-layout-node={"n419"} className={"v162 captured-style"}>
-{"โรงแรม "}
-</p>
-</div>
-</div>
-</div>
-</div>
-<div data-layout-node={"n420"} className={"v156 captured-style"}>
-<div data-layout-node={"n421"} className={"v157 captured-style"}>
-<div data-layout-node={"n422"} className={"v158 captured-style"}>
-<figure data-layout-node={"n423"} className={"v159 media-widget captured-style"}>
-<img data-layout-node={"n424"} className={"v160 captured-style"} src={"/assets/remote-9aa1e783abb7fdaa-responsive-400.webp"} alt={"หมู่บ้าน"} loading={"lazy"} decoding={"async"} width={"400"} height={"300"} srcSet={"/assets/remote-9aa1e783abb7fdaa-responsive-160.webp 160w, /assets/remote-9aa1e783abb7fdaa-responsive-320.webp 320w, /assets/remote-9aa1e783abb7fdaa-responsive-400.webp 400w"} sizes={"186px"} />
-</figure>
-<div data-layout-node={"n425"} className={"v161 text-widget captured-style"}>
-<p data-layout-node={"n426"} className={"v162 captured-style"}>
-{"หมู่บ้าน"}
-</p>
-</div>
-</div>
-</div>
-</div>
-<div data-layout-node={"n427"} className={"v156 captured-style"}>
-<div data-layout-node={"n428"} className={"v157 captured-style"}>
-<div data-layout-node={"n429"} className={"v158 captured-style"}>
-<figure data-layout-node={"n430"} className={"v159 media-widget captured-style"}>
-<img data-layout-node={"n431"} className={"v160 captured-style"} src={"/assets/remote-a00d4414c62ddcee-responsive-400.webp"} alt={"Hospital"} loading={"lazy"} decoding={"async"} width={"400"} height={"300"} srcSet={"/assets/remote-a00d4414c62ddcee-responsive-160.webp 160w, /assets/remote-a00d4414c62ddcee-responsive-320.webp 320w, /assets/remote-a00d4414c62ddcee-responsive-400.webp 400w"} sizes={"186px"} />
-</figure>
-<div data-layout-node={"n432"} className={"v161 text-widget captured-style"}>
-<p data-layout-node={"n433"} className={"v162 captured-style"}>
-{"สถาบันการแพทย์"}
-</p>
-</div>
-</div>
-</div>
-</div>
-<div data-layout-node={"n434"} className={"v156 captured-style"}>
-<div data-layout-node={"n435"} className={"v157 captured-style"}>
-<div data-layout-node={"n436"} className={"v158 captured-style"}>
-<figure data-layout-node={"n437"} className={"v159 media-widget captured-style"}>
-<img data-layout-node={"n438"} className={"v160 captured-style"} src={"/assets/remote-37207a03e9f61257-responsive-400.webp"} alt={"Academy"} loading={"lazy"} decoding={"async"} width={"400"} height={"300"} srcSet={"/assets/remote-37207a03e9f61257-responsive-160.webp 160w, /assets/remote-37207a03e9f61257-responsive-320.webp 320w, /assets/remote-37207a03e9f61257-responsive-400.webp 400w"} sizes={"186px"} />
-</figure>
-<div data-layout-node={"n439"} className={"v161 text-widget captured-style"}>
-<p data-layout-node={"n440"} className={"v162 captured-style"}>
-{"สถาบันการศึกษา"}
-</p>
-</div>
-</div>
-</div>
-</div>
-<div data-layout-node={"n441"} className={"v156 captured-style"}>
-<div data-layout-node={"n442"} className={"v157 captured-style"}>
-<div data-layout-node={"n443"} className={"v158 captured-style"}>
-<figure data-layout-node={"n444"} className={"v159 media-widget captured-style"}>
-<img data-layout-node={"n445"} className={"v163 captured-style"} src={"/assets/remote-dd1f0fb827eb79e4-responsive-600.webp"} alt={"158673029"} loading={"lazy"} decoding={"async"} width={"600"} height={"450"} srcSet={"/assets/remote-dd1f0fb827eb79e4-responsive-160.webp 160w, /assets/remote-dd1f0fb827eb79e4-responsive-320.webp 320w, /assets/remote-dd1f0fb827eb79e4-responsive-600.webp 600w"} sizes={"186px"} />
-</figure>
-<div data-layout-node={"n446"} className={"v161 text-widget captured-style"}>
-<p data-layout-node={"n447"} className={"v162 captured-style"}>
-{"สถาบันการเงิน"}
-</p>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-<div data-layout-node={"n448"} className={"v7 section captured-style"}>
-<div data-layout-node={"n449"} className={"v8 captured-style"}>
-<div data-layout-node={"n450"} className={"v3 text-widget captured-style"}>
-<div data-layout-node={"n451"} className={"v4 text-widget captured-style"}>
-<p data-layout-node={"n452"} className={"v5 captured-style"}>
-{"Our Team"}
-</p>
-</div>
-</div>
-<div data-layout-node={"n453"} className={"v3 captured-style"}>
-<div data-layout-node={"n454"} className={"v4 captured-style"}>
-<span data-layout-node={"n455"} className={"v46 captured-style"}>
-
-</span>
-<h2 data-layout-node={"n456"} className={"v14 captured-style"} id={"elementor-toc__heading-anchor-5"}>
-{"ทีมงานของเรา AITSCCTV"}
+<ServiceProjects path={"/internet-system/"} />
+</section>
+<section id={"service-contact"} className={"service-stage"} data-service-stage={"contact"}>
+<div className={"service-stage-heading"}>
+<h2>
+{"ขอใบเสนอราคาและติดต่อทีมงาน"}
 </h2>
 </div>
-</div>
-<div data-layout-node={"n457"} className={"v90 captured-style"}>
-<div data-layout-node={"n458"} className={"v91 captured-style"}>
-{"\r\n\t\t\t\t\t\t\tพวกเรา AITSCCTV พร้อมสร้างมาตรฐานความปลอดภัยใหม่ให้คุณ\t\t\t\t\t\t"}
-</div>
-</div>
-<div data-layout-node={"n459"} className={"v164 section captured-style"}>
-<div data-layout-node={"n460"} className={"v165 captured-style"}>
-<div data-layout-node={"n461"} className={"v28 captured-style"}>
-<div data-layout-node={"n462"} className={"v11 captured-style"}>
-<div data-layout-node={"n463"} className={"v11 captured-style"}>
-<div data-layout-node={"n464"} className={"v166 captured-style"}>
-<figure data-layout-node={"n465"} className={"v167 media-widget captured-style"}>
-<div data-layout-node={"n466"} className={"v168 media-widget captured-style"}>
-<SiteLink data-layout-node={"n467"} className={"v169 media-widget captured-style"} href={"https://aitscctv.com/wp-content/uploads/2023/05/1-1.jpg"}>
-<img data-layout-node={"n468"} className={"v170 captured-style"} src={"/assets/remote-b9333ee73a27f00c-responsive-640.webp"} alt={"1"} loading={"lazy"} decoding={"async"} width={"1200"} height={"630"} srcSet={"/assets/remote-b9333ee73a27f00c-responsive-160.webp 160w, /assets/remote-b9333ee73a27f00c-responsive-320.webp 320w, /assets/remote-b9333ee73a27f00c-responsive-640.webp 640w, /assets/remote-b9333ee73a27f00c-responsive-1200.webp 1200w"} sizes={"(max-width: 640px) calc(100vw - 40px), (max-width: 1024px) 50vw, 369px"} />
-</SiteLink>
-</div>
-</figure>
-<figure data-layout-node={"n469"} className={"v167 media-widget captured-style"}>
-<div data-layout-node={"n470"} className={"v168 media-widget captured-style"}>
-<SiteLink data-layout-node={"n471"} className={"v169 media-widget captured-style"} href={"https://aitscctv.com/wp-content/uploads/2023/05/5-1.jpg"}>
-<img data-layout-node={"n472"} className={"v170 captured-style"} src={"/assets/remote-d091921d17813fc3-responsive-640.webp"} alt={"5"} loading={"lazy"} decoding={"async"} width={"1200"} height={"630"} srcSet={"/assets/remote-d091921d17813fc3-responsive-160.webp 160w, /assets/remote-d091921d17813fc3-responsive-320.webp 320w, /assets/remote-d091921d17813fc3-responsive-640.webp 640w, /assets/remote-d091921d17813fc3-responsive-1200.webp 1200w"} sizes={"(max-width: 640px) calc(100vw - 40px), (max-width: 1024px) 50vw, 369px"} />
-</SiteLink>
-</div>
-</figure>
-<figure data-layout-node={"n473"} className={"v167 media-widget captured-style"}>
-<div data-layout-node={"n474"} className={"v168 media-widget captured-style"}>
-<SiteLink data-layout-node={"n475"} className={"v169 media-widget captured-style"} href={"https://aitscctv.com/wp-content/uploads/2023/05/7-1.jpg"}>
-<img data-layout-node={"n476"} className={"v170 captured-style"} src={"/assets/remote-92bd1ff40ceb793c-responsive-640.webp"} alt={"7"} loading={"lazy"} decoding={"async"} width={"1200"} height={"630"} srcSet={"/assets/remote-92bd1ff40ceb793c-responsive-160.webp 160w, /assets/remote-92bd1ff40ceb793c-responsive-320.webp 320w, /assets/remote-92bd1ff40ceb793c-responsive-640.webp 640w, /assets/remote-92bd1ff40ceb793c-responsive-1200.webp 1200w"} sizes={"(max-width: 640px) calc(100vw - 40px), (max-width: 1024px) 50vw, 369px"} />
-</SiteLink>
-</div>
-</figure>
-<figure data-layout-node={"n477"} className={"v167 media-widget captured-style"}>
-<div data-layout-node={"n478"} className={"v168 media-widget captured-style"}>
-<SiteLink data-layout-node={"n479"} className={"v169 media-widget captured-style"} href={"https://aitscctv.com/wp-content/uploads/2023/05/8-1.jpg"}>
-<img data-layout-node={"n480"} className={"v170 captured-style"} src={"/assets/remote-1f38c2550c667370-responsive-640.webp"} alt={"8"} loading={"lazy"} decoding={"async"} width={"1200"} height={"630"} srcSet={"/assets/remote-1f38c2550c667370-responsive-160.webp 160w, /assets/remote-1f38c2550c667370-responsive-320.webp 320w, /assets/remote-1f38c2550c667370-responsive-640.webp 640w, /assets/remote-1f38c2550c667370-responsive-1200.webp 1200w"} sizes={"(max-width: 640px) calc(100vw - 40px), (max-width: 1024px) 50vw, 369px"} />
-</SiteLink>
-</div>
-</figure>
-<figure data-layout-node={"n481"} className={"v167 media-widget captured-style"}>
-<div data-layout-node={"n482"} className={"v168 media-widget captured-style"}>
-<SiteLink data-layout-node={"n483"} className={"v169 media-widget captured-style"} href={"https://aitscctv.com/wp-content/uploads/2023/05/11-1.jpg"}>
-<img data-layout-node={"n484"} className={"v170 captured-style"} src={"/assets/remote-1141059e1ce44cab-responsive-640.webp"} alt={"11"} loading={"lazy"} decoding={"async"} width={"1200"} height={"630"} srcSet={"/assets/remote-1141059e1ce44cab-responsive-160.webp 160w, /assets/remote-1141059e1ce44cab-responsive-320.webp 320w, /assets/remote-1141059e1ce44cab-responsive-640.webp 640w, /assets/remote-1141059e1ce44cab-responsive-1200.webp 1200w"} sizes={"(max-width: 640px) calc(100vw - 40px), (max-width: 1024px) 50vw, 369px"} />
-</SiteLink>
-</div>
-</figure>
-<figure data-layout-node={"n485"} className={"v167 media-widget captured-style"}>
-<div data-layout-node={"n486"} className={"v168 media-widget captured-style"}>
-<SiteLink data-layout-node={"n487"} className={"v169 media-widget captured-style"} href={"https://aitscctv.com/wp-content/uploads/2023/05/13.jpg"}>
-<img data-layout-node={"n488"} className={"v170 captured-style"} src={"/assets/remote-22ba2ad1a3a81a0b-responsive-640.webp"} alt={"13"} loading={"lazy"} decoding={"async"} width={"1200"} height={"630"} srcSet={"/assets/remote-22ba2ad1a3a81a0b-responsive-160.webp 160w, /assets/remote-22ba2ad1a3a81a0b-responsive-320.webp 320w, /assets/remote-22ba2ad1a3a81a0b-responsive-640.webp 640w, /assets/remote-22ba2ad1a3a81a0b-responsive-1200.webp 1200w"} sizes={"(max-width: 640px) calc(100vw - 40px), (max-width: 1024px) 50vw, 369px"} />
-</SiteLink>
-</div>
-</figure>
-<figure data-layout-node={"n489"} className={"v167 media-widget captured-style"}>
-<div data-layout-node={"n490"} className={"v168 media-widget captured-style"}>
-<SiteLink data-layout-node={"n491"} className={"v169 media-widget captured-style"} href={"https://aitscctv.com/wp-content/uploads/2023/05/15.jpg"}>
-<img data-layout-node={"n492"} className={"v170 captured-style"} src={"/assets/remote-5e8a376c050a0d52-responsive-640.webp"} alt={"15"} loading={"lazy"} decoding={"async"} width={"1200"} height={"630"} srcSet={"/assets/remote-5e8a376c050a0d52-responsive-160.webp 160w, /assets/remote-5e8a376c050a0d52-responsive-320.webp 320w, /assets/remote-5e8a376c050a0d52-responsive-640.webp 640w, /assets/remote-5e8a376c050a0d52-responsive-1200.webp 1200w"} sizes={"(max-width: 640px) calc(100vw - 40px), (max-width: 1024px) 50vw, 369px"} />
-</SiteLink>
-</div>
-</figure>
-<figure data-layout-node={"n493"} className={"v167 media-widget captured-style"}>
-<div data-layout-node={"n494"} className={"v168 media-widget captured-style"}>
-<SiteLink data-layout-node={"n495"} className={"v169 media-widget captured-style"} href={"https://aitscctv.com/wp-content/uploads/2023/05/2-1.jpg"}>
-<img data-layout-node={"n496"} className={"v170 captured-style"} src={"/assets/remote-e3e44ed765ae981d-responsive-640.webp"} alt={"2"} loading={"lazy"} decoding={"async"} width={"1200"} height={"630"} srcSet={"/assets/remote-e3e44ed765ae981d-responsive-160.webp 160w, /assets/remote-e3e44ed765ae981d-responsive-320.webp 320w, /assets/remote-e3e44ed765ae981d-responsive-640.webp 640w, /assets/remote-e3e44ed765ae981d-responsive-1200.webp 1200w"} sizes={"(max-width: 640px) calc(100vw - 40px), (max-width: 1024px) 50vw, 369px"} />
-</SiteLink>
-</div>
-</figure>
-<figure data-layout-node={"n497"} className={"v167 media-widget captured-style"}>
-<div data-layout-node={"n498"} className={"v168 media-widget captured-style"}>
-<SiteLink data-layout-node={"n499"} className={"v169 media-widget captured-style"} href={"https://aitscctv.com/wp-content/uploads/2023/05/3-1.jpg"}>
-<img data-layout-node={"n500"} className={"v170 captured-style"} src={"/assets/remote-f93abc88d40183e8-responsive-640.webp"} alt={"3"} loading={"lazy"} decoding={"async"} width={"1200"} height={"630"} srcSet={"/assets/remote-f93abc88d40183e8-responsive-160.webp 160w, /assets/remote-f93abc88d40183e8-responsive-320.webp 320w, /assets/remote-f93abc88d40183e8-responsive-640.webp 640w, /assets/remote-f93abc88d40183e8-responsive-1200.webp 1200w"} sizes={"(max-width: 640px) calc(100vw - 40px), (max-width: 1024px) 50vw, 369px"} />
-</SiteLink>
-</div>
-</figure>
-<figure data-layout-node={"n501"} className={"v167 media-widget captured-style"}>
-<div data-layout-node={"n502"} className={"v168 media-widget captured-style"}>
-<SiteLink data-layout-node={"n503"} className={"v169 media-widget captured-style"} href={"https://aitscctv.com/wp-content/uploads/2023/05/4-1.jpg"}>
-<img data-layout-node={"n504"} className={"v170 captured-style"} src={"/assets/remote-4332e9c05a6e15fa-responsive-640.webp"} alt={"4"} loading={"lazy"} decoding={"async"} width={"1200"} height={"630"} srcSet={"/assets/remote-4332e9c05a6e15fa-responsive-160.webp 160w, /assets/remote-4332e9c05a6e15fa-responsive-320.webp 320w, /assets/remote-4332e9c05a6e15fa-responsive-640.webp 640w, /assets/remote-4332e9c05a6e15fa-responsive-1200.webp 1200w"} sizes={"(max-width: 640px) calc(100vw - 40px), (max-width: 1024px) 50vw, 369px"} />
-</SiteLink>
-</div>
-</figure>
-<figure data-layout-node={"n505"} className={"v167 media-widget captured-style"}>
-<div data-layout-node={"n506"} className={"v168 media-widget captured-style"}>
-<SiteLink data-layout-node={"n507"} className={"v169 media-widget captured-style"} href={"https://aitscctv.com/wp-content/uploads/2023/05/6.jpg"}>
-<img data-layout-node={"n508"} className={"v170 captured-style"} src={"/assets/remote-72cebabb2a035500-responsive-640.webp"} alt={"6"} loading={"lazy"} decoding={"async"} width={"1200"} height={"630"} srcSet={"/assets/remote-72cebabb2a035500-responsive-160.webp 160w, /assets/remote-72cebabb2a035500-responsive-320.webp 320w, /assets/remote-72cebabb2a035500-responsive-640.webp 640w, /assets/remote-72cebabb2a035500-responsive-1200.webp 1200w"} sizes={"(max-width: 640px) calc(100vw - 40px), (max-width: 1024px) 50vw, 369px"} />
-</SiteLink>
-</div>
-</figure>
-<figure data-layout-node={"n509"} className={"v167 media-widget captured-style"}>
-<div data-layout-node={"n510"} className={"v168 media-widget captured-style"}>
-<SiteLink data-layout-node={"n511"} className={"v169 media-widget captured-style"} href={"https://aitscctv.com/wp-content/uploads/2023/05/9-1.jpg"}>
-<img data-layout-node={"n512"} className={"v170 captured-style"} src={"/assets/remote-55116542fabf4381-responsive-640.webp"} alt={"9"} loading={"lazy"} decoding={"async"} width={"1200"} height={"630"} srcSet={"/assets/remote-55116542fabf4381-responsive-160.webp 160w, /assets/remote-55116542fabf4381-responsive-320.webp 320w, /assets/remote-55116542fabf4381-responsive-640.webp 640w, /assets/remote-55116542fabf4381-responsive-1200.webp 1200w"} sizes={"(max-width: 640px) calc(100vw - 40px), (max-width: 1024px) 50vw, 369px"} />
-</SiteLink>
-</div>
-</figure>
-<figure data-layout-node={"n513"} className={"v167 media-widget captured-style"}>
-<div data-layout-node={"n514"} className={"v168 media-widget captured-style"}>
-<SiteLink data-layout-node={"n515"} className={"v169 media-widget captured-style"} href={"https://aitscctv.com/wp-content/uploads/2023/05/10-1.jpg"}>
-<img data-layout-node={"n516"} className={"v170 captured-style"} src={"/assets/remote-1b7c6cd8ad7b0488-responsive-640.webp"} alt={"10"} loading={"lazy"} decoding={"async"} width={"1200"} height={"630"} srcSet={"/assets/remote-1b7c6cd8ad7b0488-responsive-160.webp 160w, /assets/remote-1b7c6cd8ad7b0488-responsive-320.webp 320w, /assets/remote-1b7c6cd8ad7b0488-responsive-640.webp 640w, /assets/remote-1b7c6cd8ad7b0488-responsive-1200.webp 1200w"} sizes={"(max-width: 640px) calc(100vw - 40px), (max-width: 1024px) 50vw, 369px"} />
-</SiteLink>
-</div>
-</figure>
-<figure data-layout-node={"n517"} className={"v167 media-widget captured-style"}>
-<div data-layout-node={"n518"} className={"v168 media-widget captured-style"}>
-<SiteLink data-layout-node={"n519"} className={"v169 media-widget captured-style"} href={"https://aitscctv.com/wp-content/uploads/2023/05/12.jpg"}>
-<img data-layout-node={"n520"} className={"v170 captured-style"} src={"/assets/remote-eb498e1374809f8e-responsive-640.webp"} alt={"12"} loading={"lazy"} decoding={"async"} width={"1200"} height={"630"} srcSet={"/assets/remote-eb498e1374809f8e-responsive-160.webp 160w, /assets/remote-eb498e1374809f8e-responsive-320.webp 320w, /assets/remote-eb498e1374809f8e-responsive-640.webp 640w, /assets/remote-eb498e1374809f8e-responsive-1200.webp 1200w"} sizes={"(max-width: 640px) calc(100vw - 40px), (max-width: 1024px) 50vw, 369px"} />
-</SiteLink>
-</div>
-</figure>
-<figure data-layout-node={"n521"} className={"v167 media-widget captured-style"}>
-<div data-layout-node={"n522"} className={"v168 media-widget captured-style"}>
-<SiteLink data-layout-node={"n523"} className={"v169 media-widget captured-style"} href={"https://aitscctv.com/wp-content/uploads/2023/05/14.jpg"}>
-<img data-layout-node={"n524"} className={"v170 captured-style"} src={"/assets/remote-6750c818e1bd2651-responsive-640.webp"} alt={"14"} loading={"lazy"} decoding={"async"} width={"1200"} height={"630"} srcSet={"/assets/remote-6750c818e1bd2651-responsive-160.webp 160w, /assets/remote-6750c818e1bd2651-responsive-320.webp 320w, /assets/remote-6750c818e1bd2651-responsive-640.webp 640w, /assets/remote-6750c818e1bd2651-responsive-1200.webp 1200w"} sizes={"(max-width: 640px) calc(100vw - 40px), (max-width: 1024px) 50vw, 369px"} />
-</SiteLink>
-</div>
-</figure>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-<div data-layout-node={"n650"} className={"v207 section captured-style"}>
-<div data-layout-node={"n651"} className={"v208 captured-style"}>
-<div data-layout-node={"n652"} className={"v3 text-widget captured-style"}>
-<div data-layout-node={"n653"} className={"v4 text-widget captured-style"}>
-<p data-layout-node={"n654"} className={"v209 large-copy captured-style"}>
-{"\" Let AITS Set Standard  ให้เราได้สร้างมาตรฐาน \"\r\n "}
-</p>
-</div>
-</div>
-<div data-layout-node={"n655"} className={"v210 section layout-row captured-style"}>
-<div data-layout-node={"n656"} className={"v211 captured-style"}>
-<div data-layout-node={"n657"} className={"v4 captured-style"}>
-<div data-layout-node={"n658"} className={"v4 captured-style"}>
-<SiteLink data-layout-node={"n659"} className={"v212 action-link captured-style"} href={"tel:0944606196"}>
-<span data-layout-node={"n660"} className={"v213 captured-style"}>
-<span data-layout-node={"n661"} className={"v214 captured-style"}>
-{"โทรหาเรา"}
-</span>
-</span>
-</SiteLink>
-</div>
-</div>
-</div>
-<div data-layout-node={"n662"} className={"v211 captured-style"}>
-<div data-layout-node={"n663"} className={"v4 captured-style"}>
-<div data-layout-node={"n664"} className={"v4 captured-style"}>
-<SiteLink data-layout-node={"n665"} className={"v215 action-link captured-style"} href={"https://page.line.me/852uanad?openQrModal=true"} target={"_blank"} rel={"noopener"}>
-<span data-layout-node={"n666"} className={"v216 captured-style"}>
-<span data-layout-node={"n667"} className={"v217 captured-style"}>
-{"ปรึกษาฟรีคลิก"}
-</span>
-</span>
-</SiteLink>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
+<ServiceContact path={"/internet-system/"} />
+</section>
 </div></div>}

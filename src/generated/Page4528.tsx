@@ -4,7 +4,9 @@ import {SiteLink} from "../components/SiteLink";
 import {VideoFrame} from "../components/VideoFrame";
 import {LogoCarousel} from "../components/LogoCarousel";
 import {ContactPhone} from "../components/ContactPhone";
+import {ServiceTrust,ServiceContents,ServiceBenefits,ServicePricing,ServiceWarranty,ServiceProjects,ServiceContact,AboutTeamGallery} from "../components/ServiceContent";
 export default function Page4528(){return <div className="page-4528 captured-page"><div data-layout-node={"n0"} className={"v0 captured-style"}>
+<section id={"service-overview"} className={"service-stage"} data-service-stage={"overview"}>
 <div data-layout-node={"n1"} className={"v1 section captured-style"}>
 <div data-layout-node={"n2"} className={"v2 captured-style"}>
 <div data-layout-node={"n3"} className={"v3 text-widget captured-style"}>
@@ -52,89 +54,225 @@ export default function Page4528(){return <div className="page-4528 captured-pag
 </p>
 </div>
 </div>
-<div data-layout-node={"n22"} className={"v14 captured-style"}>
-<div data-layout-node={"n23"} className={"v15 captured-style"}>
-<div data-layout-node={"n24"} className={"v16 layout-row captured-style"}>
-<h4 data-layout-node={"n25"} className={"v17 captured-style"}>
-{"\r\n\t\t\t\tเลือกอ่านหัวข้อที่สนใจ\t\t\t"}
-</h4>
-<div data-layout-node={"n26"} className={"v18 captured-style"}>
-<i data-layout-node={"n27"} className={"v19 captured-style"}>
+</div>
+</div>
+<ServiceTrust />
+</section>
+<ServiceContents />
+<section id={"service-benefits"} className={"service-stage"} data-service-stage={"benefits"}>
+<div className={"service-stage-heading"}>
+<h2>
+{"ประโยชน์และการใช้งาน"}
+</h2>
+</div>
+<ServiceBenefits path={"/cctv-rental-service/"} />
+<details className={"service-detail"}>
+<summary>
+{"รายละเอียดประโยชน์และการใช้งาน"}
+</summary>
+<div className={"service-detail-content"}>
+<div data-layout-node={"n125"} className={"v7 section captured-style"}>
+<div data-layout-node={"n126"} className={"v56 captured-style"}>
+<div data-layout-node={"n127"} className={"v3 captured-style"}>
+<div data-layout-node={"n128"} className={"v4 captured-style"}>
+<span data-layout-node={"n129"} className={"v36 captured-style"}>
 
-</i>
-</div>
-</div>
-<div data-layout-node={"n28"} className={"v20 captured-style"}>
-<ol data-layout-node={"n29"} className={"v21 toc-container toc-container toc-container toc-container toc-container toc-container toc-container toc-container toc-container captured-style"}>
-<li data-layout-node={"n30"} className={"v22 toc-container captured-style"}>
-<div data-layout-node={"n31"} className={"v23 toc-container captured-style"}>
-<SiteLink data-layout-node={"n32"} className={"v24 toc-link captured-style"} href={"#elementor-toc__heading-anchor-0"}>
-{"ระบบบริการ เช่ากล้องวงจรปิดจากเรา"}
-</SiteLink>
-</div>
-</li>
-<li data-layout-node={"n33"} className={"v22 toc-container captured-style"}>
-<div data-layout-node={"n34"} className={"v23 toc-container captured-style"}>
-<SiteLink data-layout-node={"n35"} className={"v25 toc-link captured-style"} href={"#elementor-toc__heading-anchor-1"}>
-{"“AITSCCTV ดูแลทุกขั้นตอนโดยทีมงานมืออาชีพ \r\nด้วยประสบการณ์ยาวนานกว่า 20 ปี”"}
-</SiteLink>
-</div>
-</li>
-<li data-layout-node={"n36"} className={"v22 toc-container captured-style"}>
-<div data-layout-node={"n37"} className={"v23 toc-container captured-style"}>
-<SiteLink data-layout-node={"n38"} className={"v26 toc-link captured-style"} href={"#elementor-toc__heading-anchor-2"}>
+</span>
+<h2 data-layout-node={"n130"} className={"v57 captured-style"} id={"elementor-toc__heading-anchor-2"}>
 {"ใครบ้างที่เหมาะ เช่ากล้องวงจรปิด กล้อง CCTV\r\n"}
-</SiteLink>
+</h2>
 </div>
-</li>
-<li data-layout-node={"n39"} className={"v22 toc-container captured-style"}>
-<div data-layout-node={"n40"} className={"v23 toc-container captured-style"}>
-<SiteLink data-layout-node={"n41"} className={"v27 toc-link captured-style"} href={"#elementor-toc__heading-anchor-3"}>
-{"ตารางราคากล้องวงจรปิด เช่ากล้องวงจรปิด\r\nอัปเดตปีล่าสุด 2566\r\n"}
-</SiteLink>
 </div>
-</li>
-<li data-layout-node={"n42"} className={"v22 toc-container captured-style"}>
-<div data-layout-node={"n43"} className={"v23 toc-container captured-style"}>
-<SiteLink data-layout-node={"n44"} className={"v28 toc-link captured-style"} href={"#elementor-toc__heading-anchor-4"}>
-{"อุปกรณ์ชุดสำหรับเช่ากล้องวงจรปิด ที่คุณจะได้\r\n"}
+<div data-layout-node={"n131"} className={"v10 text-widget captured-style"}>
+<div data-layout-node={"n132"} className={"v11 text-widget captured-style"}>
+<p data-layout-node={"n133"} className={"v12 captured-style"}>
+{"ที่ AITSCCTV เรามีบริการให้เช่ากล้องวงจรปิดสำหรับหลากหลายธุรกิจ หลายองค์กร ไม่ว่าจะเป็นสำหรับงานอีเว้นท์, งานจัดแสดงสินค้า, งานคอนเสิร์ท และไซต์ก่อสร้าง เพื่อช่วยสร้างความปลอดภัย อุ่นใจ 24 ชั่วโมง "}
+<span data-layout-node={"n134"} className={"v13 captured-style"}>
+<SiteLink data-layout-node={"n135"} className={"v13 captured-style"} href={"https://aitscctv.com/cctv-installation/"}>
+{"ช่วยป้องกันและดูแลทรัพย์สิน บุคคลากรในองค์กรของคุณ"}
 </SiteLink>
+</span>
+</p>
 </div>
-</li>
-<li data-layout-node={"n45"} className={"v22 toc-container captured-style"}>
-<div data-layout-node={"n46"} className={"v23 toc-container captured-style"}>
-<SiteLink data-layout-node={"n47"} className={"v29 toc-link captured-style"} href={"#elementor-toc__heading-anchor-5"}>
+</div>
+<div data-layout-node={"n136"} className={"v58 section layout-row captured-style"}>
+<div data-layout-node={"n137"} className={"v59 section captured-style"}>
+<div data-layout-node={"n138"} className={"v3 media-widget captured-style"}>
+<div data-layout-node={"n139"} className={"v4 media-widget captured-style"}>
+<img data-layout-node={"n140"} className={"v60 captured-style"} src={"/assets/remote-2f004efd74544366-responsive-640.webp"} alt={"Pexels asia culture center"} loading={"lazy"} decoding={"async"} width={"1536"} height={"1023"} srcSet={"/assets/remote-2f004efd74544366-responsive-160.webp 160w, /assets/remote-2f004efd74544366-responsive-320.webp 320w, /assets/remote-2f004efd74544366-responsive-640.webp 640w, /assets/remote-2f004efd74544366-responsive-1280.webp 1280w"} sizes={"(max-width: 640px) calc(100vw - 40px), (max-width: 1024px) 50vw, 218px"} />
+</div>
+</div>
+<div data-layout-node={"n141"} className={"v3 text-widget captured-style"}>
+<div data-layout-node={"n142"} className={"v4 text-widget captured-style"}>
+<h3 data-layout-node={"n143"} className={"v61 captured-style"}>
+{"งานอีเว้นท์ (Event)"}
+</h3>
+</div>
+</div>
+</div>
+<div data-layout-node={"n144"} className={"v59 section captured-style"}>
+<div data-layout-node={"n145"} className={"v3 media-widget captured-style"}>
+<div data-layout-node={"n146"} className={"v4 media-widget captured-style"}>
+<img data-layout-node={"n147"} className={"v62 captured-style"} src={"/assets/remote-29992c0b04bdc570-responsive-640.webp"} alt={"Pexels matheus bertelli"} loading={"lazy"} decoding={"async"} width={"1536"} height={"1024"} srcSet={"/assets/remote-29992c0b04bdc570-responsive-160.webp 160w, /assets/remote-29992c0b04bdc570-responsive-320.webp 320w, /assets/remote-29992c0b04bdc570-responsive-640.webp 640w, /assets/remote-29992c0b04bdc570-responsive-1280.webp 1280w"} sizes={"(max-width: 640px) calc(100vw - 40px), (max-width: 1024px) 50vw, 218px"} />
+</div>
+</div>
+<div data-layout-node={"n148"} className={"v3 text-widget captured-style"}>
+<div data-layout-node={"n149"} className={"v4 text-widget captured-style"}>
+<h3 data-layout-node={"n150"} className={"v61 captured-style"}>
+{"งานจัดแสดงสินค้า"}
+</h3>
+</div>
+</div>
+</div>
+<div data-layout-node={"n151"} className={"v59 section captured-style"}>
+<div data-layout-node={"n152"} className={"v3 media-widget captured-style"}>
+<div data-layout-node={"n153"} className={"v4 media-widget captured-style"}>
+<img data-layout-node={"n154"} className={"v63 captured-style"} src={"/assets/remote-d7ecfbde9891ff09-responsive-640.webp"} alt={"Confetti fireworks above the crowd on music festival."} loading={"lazy"} decoding={"async"} width={"8688"} height={"5792"} srcSet={"/assets/remote-d7ecfbde9891ff09-responsive-160.webp 160w, /assets/remote-d7ecfbde9891ff09-responsive-320.webp 320w, /assets/remote-d7ecfbde9891ff09-responsive-640.webp 640w, /assets/remote-d7ecfbde9891ff09-responsive-1280.webp 1280w"} sizes={"(max-width: 640px) calc(100vw - 40px), (max-width: 1024px) 50vw, 218px"} />
+</div>
+</div>
+<div data-layout-node={"n155"} className={"v3 text-widget captured-style"}>
+<div data-layout-node={"n156"} className={"v4 text-widget captured-style"}>
+<h3 data-layout-node={"n157"} className={"v61 captured-style"}>
+{"คอนเสิร์ท"}
+</h3>
+</div>
+</div>
+</div>
+<div data-layout-node={"n158"} className={"v59 section captured-style"}>
+<div data-layout-node={"n159"} className={"v3 media-widget captured-style"}>
+<div data-layout-node={"n160"} className={"v4 media-widget captured-style"}>
+<img data-layout-node={"n161"} className={"v60 captured-style"} src={"/assets/remote-dfbcb12900a7e482-responsive-640.webp"} alt={"Building new concrete houses"} loading={"lazy"} decoding={"async"} width={"1536"} height={"1023"} srcSet={"/assets/remote-dfbcb12900a7e482-responsive-160.webp 160w, /assets/remote-dfbcb12900a7e482-responsive-320.webp 320w, /assets/remote-dfbcb12900a7e482-responsive-640.webp 640w, /assets/remote-dfbcb12900a7e482-responsive-1280.webp 1280w"} sizes={"(max-width: 640px) calc(100vw - 40px), (max-width: 1024px) 50vw, 218px"} />
+</div>
+</div>
+<div data-layout-node={"n162"} className={"v3 text-widget captured-style"}>
+<div data-layout-node={"n163"} className={"v4 text-widget captured-style"}>
+<h3 data-layout-node={"n164"} className={"v61 captured-style"}>
+{"ไซต์งานก่อสร้าง"}
+</h3>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div data-layout-node={"n328"} className={"v33 section captured-style"}>
+<div data-layout-node={"n329"} className={"v2 captured-style"}>
+<div data-layout-node={"n330"} className={"v3 text-widget captured-style"}>
+<div data-layout-node={"n331"} className={"v4 text-widget captured-style"}>
+<p data-layout-node={"n332"} className={"v5 captured-style"}>
+{"WHY AITSCCTV"}
+</p>
+</div>
+</div>
+<div data-layout-node={"n333"} className={"v3 captured-style"}>
+<div data-layout-node={"n334"} className={"v4 captured-style"}>
+<span data-layout-node={"n335"} className={"v36 captured-style"}>
+
+</span>
+<h2 data-layout-node={"n336"} className={"v9 captured-style"} id={"elementor-toc__heading-anchor-5"}>
 {"5 เหตุผลที่ควร เช่ากล้องวงจรปิด ให้กับงานของคุณ"}
+</h2>
+</div>
+</div>
+<div data-layout-node={"n337"} className={"v129 captured-style"}>
+<div data-layout-node={"n338"} className={"v130 captured-style"}>
+{"\r\n\t\t\t\t\t\t\tเช่ากล้องวงจรปิดกับเรา มั่นใจเรื่องมาตรฐานและความปลอดภัยจากเราได้เท่านั้น ด้วยประสบการณ์และทีมผู้เชี่ยวชาญที่มีความชำนาญมากกว่า 20 ปี มีหลากหลายลูกค้าเชื่อมั่นและใช้บริการกับเรา\r\n\t\t\t\t\t\t"}
+</div>
+</div>
+<div data-layout-node={"n339"} className={"v131 section captured-style"}>
+<div data-layout-node={"n340"} className={"v132 section captured-style"}>
+<div data-layout-node={"n341"} className={"v133 captured-style"}>
+<div data-layout-node={"n342"} className={"v134 captured-style"}>
+<div data-layout-node={"n343"} className={"v135 layout-row captured-style"}>
+<figure data-layout-node={"n344"} className={"v136 media-widget captured-style"}>
+<img data-layout-node={"n345"} className={"v137 captured-style"} src={"/assets/remote-8396de6b32344004-responsive-512.webp"} alt={"House"} loading={"lazy"} decoding={"async"} width={"512"} height={"512"} srcSet={"/assets/remote-8396de6b32344004-responsive-160.webp 160w, /assets/remote-8396de6b32344004-responsive-320.webp 320w, /assets/remote-8396de6b32344004-responsive-512.webp 512w"} sizes={"71px"} />
+</figure>
+<div data-layout-node={"n346"} className={"v138 text-widget captured-style"}>
+<p data-layout-node={"n347"} className={"v139 captured-style"}>
+{"ช่วยปกป้องทรัพย์สิน และบุคคลากรในองค์หรือพนักงานให้ปลอดภัย เนื่องจากกล้องวงจรปิดช่วยสอดส่องและระแวดระวังอันตรายให้กับสถานที่"}
+</p>
+</div>
+</div>
+</div>
+</div>
+<div data-layout-node={"n348"} className={"v133 captured-style"}>
+<div data-layout-node={"n349"} className={"v134 captured-style"}>
+<div data-layout-node={"n350"} className={"v135 layout-row captured-style"}>
+<figure data-layout-node={"n351"} className={"v136 media-widget captured-style"}>
+<img data-layout-node={"n352"} className={"v137 captured-style"} src={"/assets/remote-056830e8ab445731-responsive-512.webp"} alt={"Security camera"} loading={"lazy"} decoding={"async"} width={"512"} height={"512"} srcSet={"/assets/remote-056830e8ab445731-responsive-160.webp 160w, /assets/remote-056830e8ab445731-responsive-320.webp 320w, /assets/remote-056830e8ab445731-responsive-512.webp 512w"} sizes={"71px"} />
+</figure>
+<div data-layout-node={"n353"} className={"v138 text-widget captured-style"}>
+<p data-layout-node={"n354"} className={"v139 captured-style"}>
+{"สร้างความปลอดภัยให้กับบริเวณที่จัดงาน หรือเขตการก่อสร้าง กล้อง CCTV จะช่วยเรื่องของการรักษาความปลอดภัย หากเกิดอุบัติเหตุ"}
+</p>
+</div>
+</div>
+</div>
+</div>
+<div data-layout-node={"n355"} className={"v133 captured-style"}>
+<div data-layout-node={"n356"} className={"v134 captured-style"}>
+<div data-layout-node={"n357"} className={"v135 layout-row captured-style"}>
+<figure data-layout-node={"n358"} className={"v136 media-widget captured-style"}>
+<img data-layout-node={"n359"} className={"v137 captured-style"} src={"/assets/remote-e93e8a9d35e996c2-responsive-512.webp"} alt={"Insurance"} loading={"lazy"} decoding={"async"} width={"512"} height={"512"} srcSet={"/assets/remote-e93e8a9d35e996c2-responsive-160.webp 160w, /assets/remote-e93e8a9d35e996c2-responsive-320.webp 320w, /assets/remote-e93e8a9d35e996c2-responsive-512.webp 512w"} sizes={"71px"} />
+</figure>
+<div data-layout-node={"n360"} className={"v138 text-widget captured-style"}>
+<p data-layout-node={"n361"} className={"v139 captured-style"}>
+{"ลดอัตราการเกิดเหตุร้ายหรืออุบัติเหตุได้ เมื่อมีกล้องวงจรปิด เราสามารถระวังเหตุร้าย และแจ้งเหตุได้ทันท่วงที"}
+</p>
+</div>
+</div>
+</div>
+</div>
+<div data-layout-node={"n362"} className={"v140 section captured-style"}>
+<div data-layout-node={"n363"} className={"v141 layout-row captured-style"}>
+<div data-layout-node={"n364"} className={"v142 media-widget captured-style"}>
+<div data-layout-node={"n365"} className={"v143 media-widget captured-style"}>
+<img data-layout-node={"n366"} className={"v144 captured-style"} src={"/assets/remote-9fd1adf7ffc3b82e-responsive-512.webp"} alt={"Alarm"} loading={"lazy"} decoding={"async"} width={"300"} height={"300"} srcSet={"/assets/remote-9fd1adf7ffc3b82e-responsive-160.webp 160w, /assets/remote-9fd1adf7ffc3b82e-responsive-320.webp 320w, /assets/remote-9fd1adf7ffc3b82e-responsive-512.webp 512w"} sizes={"72px"} />
+</div>
+</div>
+<div data-layout-node={"n367"} className={"v145 text-widget captured-style"}>
+<div data-layout-node={"n368"} className={"v146 text-widget captured-style"}>
+<p data-layout-node={"n369"} className={"v147 captured-style"}>
+{"หากเกิดเหตุด่วน "}
+<span data-layout-node={"n370"} className={"v148 captured-style"}>
+<SiteLink data-layout-node={"n371"} className={"v148 captured-style"} href={"https://justicechannel.org/popular/cctv-evidence2"}>
+{"เหตุร้ายสามารถใช้เป็นหลักฐานในการดำเนินคดีต่าง ๆ"}
 </SiteLink>
-</div>
-</li>
-<li data-layout-node={"n48"} className={"v22 toc-container captured-style"}>
-<div data-layout-node={"n49"} className={"v23 toc-container captured-style"}>
-<SiteLink data-layout-node={"n50"} className={"v30 toc-link captured-style"} href={"#elementor-toc__heading-anchor-6"}>
-{"ทีมงานของเรา AITSCCTV"}
-</SiteLink>
-</div>
-</li>
-<li data-layout-node={"n51"} className={"v22 toc-container captured-style"}>
-<div data-layout-node={"n52"} className={"v23 toc-container captured-style"}>
-<span data-layout-node={"n53"} className={"v31 toc-link inactive-control captured-style"}>
-{"รีวิวลูกค้า"}
 </span>
-</div>
-</li>
-<li data-layout-node={"n54"} className={"v22 toc-container captured-style"}>
-<div data-layout-node={"n55"} className={"v23 toc-container captured-style"}>
-<span data-layout-node={"n56"} className={"v32 toc-link inactive-control captured-style"}>
-{"คำถามที่พบบ่อย เกี่ยวกับ เช่ากล้องวงจรปิด"}
-</span>
-</div>
-</li>
-</ol>
+{" กล้องวงจรปิดสามารถเก็บหลักฐานในรูปแบบของรูปภาพและวิดีโิอ"}
+</p>
 </div>
 </div>
 </div>
 </div>
+<div data-layout-node={"n372"} className={"v133 captured-style"}>
+<div data-layout-node={"n373"} className={"v134 captured-style"}>
+<div data-layout-node={"n374"} className={"v135 layout-row captured-style"}>
+<figure data-layout-node={"n375"} className={"v136 media-widget captured-style"}>
+<img data-layout-node={"n376"} className={"v137 captured-style"} src={"/assets/remote-491db29e12f57f55-responsive-512.webp"} alt={"Hand"} loading={"lazy"} decoding={"async"} width={"512"} height={"512"} srcSet={"/assets/remote-491db29e12f57f55-responsive-160.webp 160w, /assets/remote-491db29e12f57f55-responsive-320.webp 320w, /assets/remote-491db29e12f57f55-responsive-512.webp 512w"} sizes={"71px"} />
+</figure>
+<div data-layout-node={"n377"} className={"v138 text-widget captured-style"}>
+<p data-layout-node={"n378"} className={"v139 captured-style"}>
+{"ราคาย่อมเยา และได้อุปกรณ์การติดตั้งที่ครบครัน สะดวก ประหยัดเวลา การเช่ากล้องวงจรปิด ประหยัดกว่าทั้งในเรื่องของอุปกรณ์และการบริการ"}
+</p>
 </div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</details>
+</section>
+<section id={"service-options"} className={"service-stage"} data-service-stage={"options"}>
+<div className={"service-stage-heading"}>
+<h2>
+{"รูปแบบบริการและราคา"}
+</h2>
+</div>
+<ServicePricing path={"/cctv-rental-service/"} />
 <div data-layout-node={"n57"} className={"v33 section captured-style"}>
 <div data-layout-node={"n58"} className={"v34 layout-row captured-style"}>
 <div data-layout-node={"n59"} className={"v35 section captured-style"}>
@@ -254,113 +392,6 @@ export default function Page4528(){return <div className="page-4528 captured-pag
 </p>
 </div>
 </div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-<div data-layout-node={"n115"} className={"v47 section captured-style"}>
-<div data-layout-node={"n116"} className={"v48 layout-row captured-style"}>
-<div data-layout-node={"n117"} className={"v49 section captured-style"}>
-<div data-layout-node={"n118"} className={"v50 captured-style"}>
-<div data-layout-node={"n119"} className={"v51 captured-style"}>
-<span data-layout-node={"n120"} className={"v36 captured-style"}>
-
-</span>
-<h2 data-layout-node={"n121"} className={"v52 captured-style"} id={"elementor-toc__heading-anchor-1"}>
-{"“AITSCCTV ดูแลทุกขั้นตอนโดยทีมงานมืออาชีพ \r\nด้วยประสบการณ์ยาวนานกว่า 20 ปี”"}
-</h2>
-</div>
-</div>
-<div data-layout-node={"n122"} className={"v53 text-widget captured-style"}>
-<div data-layout-node={"n123"} className={"v54 text-widget captured-style"}>
-<p data-layout-node={"n124"} className={"v55 captured-style"}>
-{"คุณสามารถมั่นใจได้เลยว่า จะได้รับการบริการที่ดีที่สุด มีความทันสมัยและตอบโจทย์การใช้งานอยู่เสมอ"}
-</p>
-</div>
-</div>
-</div>
-</div>
-</div>
-<div data-layout-node={"n125"} className={"v7 section captured-style"}>
-<div data-layout-node={"n126"} className={"v56 captured-style"}>
-<div data-layout-node={"n127"} className={"v3 captured-style"}>
-<div data-layout-node={"n128"} className={"v4 captured-style"}>
-<span data-layout-node={"n129"} className={"v36 captured-style"}>
-
-</span>
-<h2 data-layout-node={"n130"} className={"v57 captured-style"} id={"elementor-toc__heading-anchor-2"}>
-{"ใครบ้างที่เหมาะ เช่ากล้องวงจรปิด กล้อง CCTV\r\n"}
-</h2>
-</div>
-</div>
-<div data-layout-node={"n131"} className={"v10 text-widget captured-style"}>
-<div data-layout-node={"n132"} className={"v11 text-widget captured-style"}>
-<p data-layout-node={"n133"} className={"v12 captured-style"}>
-{"ที่ AITSCCTV เรามีบริการให้เช่ากล้องวงจรปิดสำหรับหลากหลายธุรกิจ หลายองค์กร ไม่ว่าจะเป็นสำหรับงานอีเว้นท์, งานจัดแสดงสินค้า, งานคอนเสิร์ท และไซต์ก่อสร้าง เพื่อช่วยสร้างความปลอดภัย อุ่นใจ 24 ชั่วโมง "}
-<span data-layout-node={"n134"} className={"v13 captured-style"}>
-<SiteLink data-layout-node={"n135"} className={"v13 captured-style"} href={"https://aitscctv.com/cctv-installation/"}>
-{"ช่วยป้องกันและดูแลทรัพย์สิน บุคคลากรในองค์กรของคุณ"}
-</SiteLink>
-</span>
-</p>
-</div>
-</div>
-<div data-layout-node={"n136"} className={"v58 section layout-row captured-style"}>
-<div data-layout-node={"n137"} className={"v59 section captured-style"}>
-<div data-layout-node={"n138"} className={"v3 media-widget captured-style"}>
-<div data-layout-node={"n139"} className={"v4 media-widget captured-style"}>
-<img data-layout-node={"n140"} className={"v60 captured-style"} src={"/assets/remote-2f004efd74544366-responsive-640.webp"} alt={"Pexels asia culture center"} loading={"lazy"} decoding={"async"} width={"1536"} height={"1023"} srcSet={"/assets/remote-2f004efd74544366-responsive-160.webp 160w, /assets/remote-2f004efd74544366-responsive-320.webp 320w, /assets/remote-2f004efd74544366-responsive-640.webp 640w, /assets/remote-2f004efd74544366-responsive-1280.webp 1280w"} sizes={"(max-width: 640px) calc(100vw - 40px), (max-width: 1024px) 50vw, 218px"} />
-</div>
-</div>
-<div data-layout-node={"n141"} className={"v3 text-widget captured-style"}>
-<div data-layout-node={"n142"} className={"v4 text-widget captured-style"}>
-<h3 data-layout-node={"n143"} className={"v61 captured-style"}>
-{"งานอีเว้นท์ (Event)"}
-</h3>
-</div>
-</div>
-</div>
-<div data-layout-node={"n144"} className={"v59 section captured-style"}>
-<div data-layout-node={"n145"} className={"v3 media-widget captured-style"}>
-<div data-layout-node={"n146"} className={"v4 media-widget captured-style"}>
-<img data-layout-node={"n147"} className={"v62 captured-style"} src={"/assets/remote-29992c0b04bdc570-responsive-640.webp"} alt={"Pexels matheus bertelli"} loading={"lazy"} decoding={"async"} width={"1536"} height={"1024"} srcSet={"/assets/remote-29992c0b04bdc570-responsive-160.webp 160w, /assets/remote-29992c0b04bdc570-responsive-320.webp 320w, /assets/remote-29992c0b04bdc570-responsive-640.webp 640w, /assets/remote-29992c0b04bdc570-responsive-1280.webp 1280w"} sizes={"(max-width: 640px) calc(100vw - 40px), (max-width: 1024px) 50vw, 218px"} />
-</div>
-</div>
-<div data-layout-node={"n148"} className={"v3 text-widget captured-style"}>
-<div data-layout-node={"n149"} className={"v4 text-widget captured-style"}>
-<h3 data-layout-node={"n150"} className={"v61 captured-style"}>
-{"งานจัดแสดงสินค้า"}
-</h3>
-</div>
-</div>
-</div>
-<div data-layout-node={"n151"} className={"v59 section captured-style"}>
-<div data-layout-node={"n152"} className={"v3 media-widget captured-style"}>
-<div data-layout-node={"n153"} className={"v4 media-widget captured-style"}>
-<img data-layout-node={"n154"} className={"v63 captured-style"} src={"/assets/remote-d7ecfbde9891ff09-responsive-640.webp"} alt={"Confetti fireworks above the crowd on music festival."} loading={"lazy"} decoding={"async"} width={"8688"} height={"5792"} srcSet={"/assets/remote-d7ecfbde9891ff09-responsive-160.webp 160w, /assets/remote-d7ecfbde9891ff09-responsive-320.webp 320w, /assets/remote-d7ecfbde9891ff09-responsive-640.webp 640w, /assets/remote-d7ecfbde9891ff09-responsive-1280.webp 1280w"} sizes={"(max-width: 640px) calc(100vw - 40px), (max-width: 1024px) 50vw, 218px"} />
-</div>
-</div>
-<div data-layout-node={"n155"} className={"v3 text-widget captured-style"}>
-<div data-layout-node={"n156"} className={"v4 text-widget captured-style"}>
-<h3 data-layout-node={"n157"} className={"v61 captured-style"}>
-{"คอนเสิร์ท"}
-</h3>
-</div>
-</div>
-</div>
-<div data-layout-node={"n158"} className={"v59 section captured-style"}>
-<div data-layout-node={"n159"} className={"v3 media-widget captured-style"}>
-<div data-layout-node={"n160"} className={"v4 media-widget captured-style"}>
-<img data-layout-node={"n161"} className={"v60 captured-style"} src={"/assets/remote-dfbcb12900a7e482-responsive-640.webp"} alt={"Building new concrete houses"} loading={"lazy"} decoding={"async"} width={"1536"} height={"1023"} srcSet={"/assets/remote-dfbcb12900a7e482-responsive-160.webp 160w, /assets/remote-dfbcb12900a7e482-responsive-320.webp 320w, /assets/remote-dfbcb12900a7e482-responsive-640.webp 640w, /assets/remote-dfbcb12900a7e482-responsive-1280.webp 1280w"} sizes={"(max-width: 640px) calc(100vw - 40px), (max-width: 1024px) 50vw, 218px"} />
-</div>
-</div>
-<div data-layout-node={"n162"} className={"v3 text-widget captured-style"}>
-<div data-layout-node={"n163"} className={"v4 text-widget captured-style"}>
-<h3 data-layout-node={"n164"} className={"v61 captured-style"}>
-{"ไซต์งานก่อสร้าง"}
-</h3>
 </div>
 </div>
 </div>
@@ -665,402 +696,22 @@ export default function Page4528(){return <div className="page-4528 captured-pag
 </div>
 </div>
 </div>
-<div data-layout-node={"n295"} className={"v7 section captured-style"}>
-<div data-layout-node={"n296"} className={"v101 layout-row captured-style"}>
-<div data-layout-node={"n297"} className={"v102 section captured-style"}>
-<div data-layout-node={"n298"} className={"v103 layout-row captured-style"}>
-<div data-layout-node={"n299"} className={"v104 section captured-style"}>
-<div data-layout-node={"n300"} className={"v105 captured-style"}>
-<div data-layout-node={"n301"} className={"v106 captured-style"}>
-<div data-layout-node={"n302"} className={"v107 layout-row captured-style"}>
-<div data-layout-node={"n303"} className={"v108 captured-style"}>
-<SiteLink data-layout-node={"n304"} className={"v109 captured-style"} href={"tel:0944606196"}>
-<i data-layout-node={"n305"} className={"v110 captured-style"}>
-
-</i>
-</SiteLink>
-</div>
-<div data-layout-node={"n306"} className={"v111 captured-style"}>
-<p data-layout-node={"n307"} className={"v112 captured-style"}>
-<SiteLink data-layout-node={"n308"} className={"v113 captured-style"} href={"tel:0944606196"}>
-{"\r\n\t\t\t\t\t\tให้คำปรึกษาฟรี\t\t\t\t\t"}
-</SiteLink>
-</p>
-<p data-layout-node={"n309"} className={"v114 large-copy captured-style"}>
-{"\r\n\t\t\t\t\t\t094 460 6196\t\t\t\t\t"}
-</p>
-</div>
-</div>
-</div>
-</div>
-</div>
-<div data-layout-node={"n310"} className={"v115 section captured-style"}>
-<div data-layout-node={"n311"} className={"v116 captured-style"}>
-<div data-layout-node={"n312"} className={"v117 captured-style"}>
-<div data-layout-node={"n313"} className={"v118 layout-row captured-style"}>
-<div data-layout-node={"n314"} className={"v119 captured-style"}>
-<SiteLink data-layout-node={"n315"} className={"v109 captured-style"} href={"https://page.line.me/852uanad?openQrModal=true"}>
-<i data-layout-node={"n316"} className={"v120 captured-style"}>
-
-</i>
-</SiteLink>
-</div>
-<div data-layout-node={"n317"} className={"v121 captured-style"}>
-<p data-layout-node={"n318"} className={"v122 captured-style"}>
-<SiteLink data-layout-node={"n319"} className={"v113 captured-style"} href={"https://page.line.me/852uanad?openQrModal=true"}>
-{"\r\n\t\t\t\t\t\tLine\t\t\t\t\t"}
-</SiteLink>
-</p>
-<p data-layout-node={"n320"} className={"v123 large-copy captured-style"}>
-{"\r\n\t\t\t\t\t\t@AITSCCTV\t\t\t\t\t"}
-</p>
-</div>
-</div>
-</div>
-</div>
-</div>
-<div data-layout-node={"n321"} className={"v124 section captured-style"}>
-<div data-layout-node={"n322"} className={"v3 captured-style"}>
-<div data-layout-node={"n323"} className={"v125 captured-style"}>
-<div data-layout-node={"n324"} className={"v4 captured-style"}>
-<SiteLink data-layout-node={"n325"} className={"v126 action-link captured-style"} href={"https://page.line.me/852uanad?openQrModal=true"} target={"_blank"} rel={"noopener"}>
-<span data-layout-node={"n326"} className={"v127 captured-style"}>
-<span data-layout-node={"n327"} className={"v128 captured-style"}>
-{"ปรึกษาฟรีคลิก"}
-</span>
-</span>
-</SiteLink>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-<div data-layout-node={"n328"} className={"v33 section captured-style"}>
-<div data-layout-node={"n329"} className={"v2 captured-style"}>
-<div data-layout-node={"n330"} className={"v3 text-widget captured-style"}>
-<div data-layout-node={"n331"} className={"v4 text-widget captured-style"}>
-<p data-layout-node={"n332"} className={"v5 captured-style"}>
-{"WHY AITSCCTV"}
-</p>
-</div>
-</div>
-<div data-layout-node={"n333"} className={"v3 captured-style"}>
-<div data-layout-node={"n334"} className={"v4 captured-style"}>
-<span data-layout-node={"n335"} className={"v36 captured-style"}>
-
-</span>
-<h2 data-layout-node={"n336"} className={"v9 captured-style"} id={"elementor-toc__heading-anchor-5"}>
-{"5 เหตุผลที่ควร เช่ากล้องวงจรปิด ให้กับงานของคุณ"}
+<ServiceWarranty path={"/cctv-rental-service/"} />
+</section>
+<section id={"service-projects"} className={"service-stage"} data-service-stage={"projects"}>
+<div className={"service-stage-heading"}>
+<h2>
+{"ผลงานและเนื้อหาที่เกี่ยวข้อง"}
 </h2>
 </div>
-</div>
-<div data-layout-node={"n337"} className={"v129 captured-style"}>
-<div data-layout-node={"n338"} className={"v130 captured-style"}>
-{"\r\n\t\t\t\t\t\t\tเช่ากล้องวงจรปิดกับเรา มั่นใจเรื่องมาตรฐานและความปลอดภัยจากเราได้เท่านั้น ด้วยประสบการณ์และทีมผู้เชี่ยวชาญที่มีความชำนาญมากกว่า 20 ปี มีหลากหลายลูกค้าเชื่อมั่นและใช้บริการกับเรา\r\n\t\t\t\t\t\t"}
-</div>
-</div>
-<div data-layout-node={"n339"} className={"v131 section captured-style"}>
-<div data-layout-node={"n340"} className={"v132 section captured-style"}>
-<div data-layout-node={"n341"} className={"v133 captured-style"}>
-<div data-layout-node={"n342"} className={"v134 captured-style"}>
-<div data-layout-node={"n343"} className={"v135 layout-row captured-style"}>
-<figure data-layout-node={"n344"} className={"v136 media-widget captured-style"}>
-<img data-layout-node={"n345"} className={"v137 captured-style"} src={"/assets/remote-8396de6b32344004-responsive-512.webp"} alt={"House"} loading={"lazy"} decoding={"async"} width={"512"} height={"512"} srcSet={"/assets/remote-8396de6b32344004-responsive-160.webp 160w, /assets/remote-8396de6b32344004-responsive-320.webp 320w, /assets/remote-8396de6b32344004-responsive-512.webp 512w"} sizes={"71px"} />
-</figure>
-<div data-layout-node={"n346"} className={"v138 text-widget captured-style"}>
-<p data-layout-node={"n347"} className={"v139 captured-style"}>
-{"ช่วยปกป้องทรัพย์สิน และบุคคลากรในองค์หรือพนักงานให้ปลอดภัย เนื่องจากกล้องวงจรปิดช่วยสอดส่องและระแวดระวังอันตรายให้กับสถานที่"}
-</p>
-</div>
-</div>
-</div>
-</div>
-<div data-layout-node={"n348"} className={"v133 captured-style"}>
-<div data-layout-node={"n349"} className={"v134 captured-style"}>
-<div data-layout-node={"n350"} className={"v135 layout-row captured-style"}>
-<figure data-layout-node={"n351"} className={"v136 media-widget captured-style"}>
-<img data-layout-node={"n352"} className={"v137 captured-style"} src={"/assets/remote-056830e8ab445731-responsive-512.webp"} alt={"Security camera"} loading={"lazy"} decoding={"async"} width={"512"} height={"512"} srcSet={"/assets/remote-056830e8ab445731-responsive-160.webp 160w, /assets/remote-056830e8ab445731-responsive-320.webp 320w, /assets/remote-056830e8ab445731-responsive-512.webp 512w"} sizes={"71px"} />
-</figure>
-<div data-layout-node={"n353"} className={"v138 text-widget captured-style"}>
-<p data-layout-node={"n354"} className={"v139 captured-style"}>
-{"สร้างความปลอดภัยให้กับบริเวณที่จัดงาน หรือเขตการก่อสร้าง กล้อง CCTV จะช่วยเรื่องของการรักษาความปลอดภัย หากเกิดอุบัติเหตุ"}
-</p>
-</div>
-</div>
-</div>
-</div>
-<div data-layout-node={"n355"} className={"v133 captured-style"}>
-<div data-layout-node={"n356"} className={"v134 captured-style"}>
-<div data-layout-node={"n357"} className={"v135 layout-row captured-style"}>
-<figure data-layout-node={"n358"} className={"v136 media-widget captured-style"}>
-<img data-layout-node={"n359"} className={"v137 captured-style"} src={"/assets/remote-e93e8a9d35e996c2-responsive-512.webp"} alt={"Insurance"} loading={"lazy"} decoding={"async"} width={"512"} height={"512"} srcSet={"/assets/remote-e93e8a9d35e996c2-responsive-160.webp 160w, /assets/remote-e93e8a9d35e996c2-responsive-320.webp 320w, /assets/remote-e93e8a9d35e996c2-responsive-512.webp 512w"} sizes={"71px"} />
-</figure>
-<div data-layout-node={"n360"} className={"v138 text-widget captured-style"}>
-<p data-layout-node={"n361"} className={"v139 captured-style"}>
-{"ลดอัตราการเกิดเหตุร้ายหรืออุบัติเหตุได้ เมื่อมีกล้องวงจรปิด เราสามารถระวังเหตุร้าย และแจ้งเหตุได้ทันท่วงที"}
-</p>
-</div>
-</div>
-</div>
-</div>
-<div data-layout-node={"n362"} className={"v140 section captured-style"}>
-<div data-layout-node={"n363"} className={"v141 layout-row captured-style"}>
-<div data-layout-node={"n364"} className={"v142 media-widget captured-style"}>
-<div data-layout-node={"n365"} className={"v143 media-widget captured-style"}>
-<img data-layout-node={"n366"} className={"v144 captured-style"} src={"/assets/remote-9fd1adf7ffc3b82e-responsive-512.webp"} alt={"Alarm"} loading={"lazy"} decoding={"async"} width={"300"} height={"300"} srcSet={"/assets/remote-9fd1adf7ffc3b82e-responsive-160.webp 160w, /assets/remote-9fd1adf7ffc3b82e-responsive-320.webp 320w, /assets/remote-9fd1adf7ffc3b82e-responsive-512.webp 512w"} sizes={"72px"} />
-</div>
-</div>
-<div data-layout-node={"n367"} className={"v145 text-widget captured-style"}>
-<div data-layout-node={"n368"} className={"v146 text-widget captured-style"}>
-<p data-layout-node={"n369"} className={"v147 captured-style"}>
-{"หากเกิดเหตุด่วน "}
-<span data-layout-node={"n370"} className={"v148 captured-style"}>
-<SiteLink data-layout-node={"n371"} className={"v148 captured-style"} href={"https://justicechannel.org/popular/cctv-evidence2"}>
-{"เหตุร้ายสามารถใช้เป็นหลักฐานในการดำเนินคดีต่าง ๆ"}
-</SiteLink>
-</span>
-{" กล้องวงจรปิดสามารถเก็บหลักฐานในรูปแบบของรูปภาพและวิดีโิอ"}
-</p>
-</div>
-</div>
-</div>
-</div>
-<div data-layout-node={"n372"} className={"v133 captured-style"}>
-<div data-layout-node={"n373"} className={"v134 captured-style"}>
-<div data-layout-node={"n374"} className={"v135 layout-row captured-style"}>
-<figure data-layout-node={"n375"} className={"v136 media-widget captured-style"}>
-<img data-layout-node={"n376"} className={"v137 captured-style"} src={"/assets/remote-491db29e12f57f55-responsive-512.webp"} alt={"Hand"} loading={"lazy"} decoding={"async"} width={"512"} height={"512"} srcSet={"/assets/remote-491db29e12f57f55-responsive-160.webp 160w, /assets/remote-491db29e12f57f55-responsive-320.webp 320w, /assets/remote-491db29e12f57f55-responsive-512.webp 512w"} sizes={"71px"} />
-</figure>
-<div data-layout-node={"n377"} className={"v138 text-widget captured-style"}>
-<p data-layout-node={"n378"} className={"v139 captured-style"}>
-{"ราคาย่อมเยา และได้อุปกรณ์การติดตั้งที่ครบครัน สะดวก ประหยัดเวลา การเช่ากล้องวงจรปิด ประหยัดกว่าทั้งในเรื่องของอุปกรณ์และการบริการ"}
-</p>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-<div data-layout-node={"n379"} className={"v7 section captured-style"}>
-<div data-layout-node={"n380"} className={"v149 captured-style"}>
-<div data-layout-node={"n381"} className={"v3 text-widget captured-style"}>
-<div data-layout-node={"n382"} className={"v4 text-widget captured-style"}>
-<p data-layout-node={"n383"} className={"v5 captured-style"}>
-{"Our Team"}
-</p>
-</div>
-</div>
-<div data-layout-node={"n384"} className={"v3 captured-style"}>
-<div data-layout-node={"n385"} className={"v4 captured-style"}>
-<span data-layout-node={"n386"} className={"v36 captured-style"}>
-
-</span>
-<h2 data-layout-node={"n387"} className={"v9 captured-style"} id={"elementor-toc__heading-anchor-6"}>
-{"ทีมงานของเรา AITSCCTV"}
+<ServiceProjects path={"/cctv-rental-service/"} />
+</section>
+<section id={"service-contact"} className={"service-stage"} data-service-stage={"contact"}>
+<div className={"service-stage-heading"}>
+<h2>
+{"ขอใบเสนอราคาและติดต่อทีมงาน"}
 </h2>
 </div>
-</div>
-<div data-layout-node={"n388"} className={"v53 captured-style"}>
-<div data-layout-node={"n389"} className={"v54 captured-style"}>
-{"\r\n\t\t\t\t\t\t\tพวกเรา AITSCCTV พร้อมสร้างมาตรฐานความปลอดภัยใหม่ให้คุณ\t\t\t\t\t\t"}
-</div>
-</div>
-<div data-layout-node={"n390"} className={"v150 section captured-style"}>
-<div data-layout-node={"n391"} className={"v151 captured-style"}>
-<div data-layout-node={"n392"} className={"v14 captured-style"}>
-<div data-layout-node={"n393"} className={"v66 captured-style"}>
-<div data-layout-node={"n394"} className={"v66 captured-style"}>
-<div data-layout-node={"n395"} className={"v152 captured-style"}>
-<figure data-layout-node={"n396"} className={"v153 media-widget captured-style"}>
-<div data-layout-node={"n397"} className={"v154 media-widget captured-style"}>
-<SiteLink data-layout-node={"n398"} className={"v155 media-widget captured-style"} href={"https://aitscctv.com/wp-content/uploads/2023/03/17-wiring-3.jpg"}>
-<img data-layout-node={"n399"} className={"v156 captured-style"} src={"/assets/remote-124511dbb5fe96a8-responsive-600.webp"} alt={"17 wiring"} loading={"lazy"} decoding={"async"} width={"600"} height={"400"} srcSet={"/assets/remote-124511dbb5fe96a8-responsive-160.webp 160w, /assets/remote-124511dbb5fe96a8-responsive-320.webp 320w, /assets/remote-124511dbb5fe96a8-responsive-600.webp 600w"} sizes={"(max-width: 640px) calc(100vw - 40px), (max-width: 1024px) 50vw, 273px"} />
-</SiteLink>
-</div>
-</figure>
-<figure data-layout-node={"n400"} className={"v153 media-widget captured-style"}>
-<div data-layout-node={"n401"} className={"v154 media-widget captured-style"}>
-<SiteLink data-layout-node={"n402"} className={"v155 media-widget captured-style"} href={"https://aitscctv.com/wp-content/uploads/2023/03/18-wiring-4.jpg"}>
-<img data-layout-node={"n403"} className={"v156 captured-style"} src={"/assets/remote-8be8626a58dd8671-responsive-600.webp"} alt={"18 wiring"} loading={"lazy"} decoding={"async"} width={"600"} height={"400"} srcSet={"/assets/remote-8be8626a58dd8671-responsive-160.webp 160w, /assets/remote-8be8626a58dd8671-responsive-320.webp 320w, /assets/remote-8be8626a58dd8671-responsive-600.webp 600w"} sizes={"(max-width: 640px) calc(100vw - 40px), (max-width: 1024px) 50vw, 273px"} />
-</SiteLink>
-</div>
-</figure>
-<figure data-layout-node={"n404"} className={"v153 media-widget captured-style"}>
-<div data-layout-node={"n405"} className={"v154 media-widget captured-style"}>
-<SiteLink data-layout-node={"n406"} className={"v155 media-widget captured-style"} href={"https://aitscctv.com/wp-content/uploads/2023/03/19-wiring-5.jpg"}>
-<img data-layout-node={"n407"} className={"v156 captured-style"} src={"/assets/remote-e184f1da1c298a13-responsive-600.webp"} alt={"19 wiring"} loading={"lazy"} decoding={"async"} width={"600"} height={"400"} srcSet={"/assets/remote-e184f1da1c298a13-responsive-160.webp 160w, /assets/remote-e184f1da1c298a13-responsive-320.webp 320w, /assets/remote-e184f1da1c298a13-responsive-600.webp 600w"} sizes={"(max-width: 640px) calc(100vw - 40px), (max-width: 1024px) 50vw, 273px"} />
-</SiteLink>
-</div>
-</figure>
-<figure data-layout-node={"n408"} className={"v153 media-widget captured-style"}>
-<div data-layout-node={"n409"} className={"v154 media-widget captured-style"}>
-<SiteLink data-layout-node={"n410"} className={"v155 media-widget captured-style"} href={"https://aitscctv.com/wp-content/uploads/2023/03/20-wiring-6.jpg"}>
-<img data-layout-node={"n411"} className={"v156 captured-style"} src={"/assets/remote-55ac506541fac3f7-responsive-600.webp"} alt={"20 wiring"} loading={"lazy"} decoding={"async"} width={"600"} height={"400"} srcSet={"/assets/remote-55ac506541fac3f7-responsive-160.webp 160w, /assets/remote-55ac506541fac3f7-responsive-320.webp 320w, /assets/remote-55ac506541fac3f7-responsive-600.webp 600w"} sizes={"(max-width: 640px) calc(100vw - 40px), (max-width: 1024px) 50vw, 273px"} />
-</SiteLink>
-</div>
-</figure>
-<figure data-layout-node={"n412"} className={"v153 media-widget captured-style"}>
-<div data-layout-node={"n413"} className={"v154 media-widget captured-style"}>
-<SiteLink data-layout-node={"n414"} className={"v155 media-widget captured-style"} href={"https://aitscctv.com/wp-content/uploads/2023/03/1-bullet-camera.jpg"}>
-<img data-layout-node={"n415"} className={"v156 captured-style"} src={"/assets/remote-003bfcca5ca2658a-responsive-600.webp"} alt={"1 bullet camera"} loading={"lazy"} decoding={"async"} width={"600"} height={"400"} srcSet={"/assets/remote-003bfcca5ca2658a-responsive-160.webp 160w, /assets/remote-003bfcca5ca2658a-responsive-320.webp 320w, /assets/remote-003bfcca5ca2658a-responsive-600.webp 600w"} sizes={"(max-width: 640px) calc(100vw - 40px), (max-width: 1024px) 50vw, 273px"} />
-</SiteLink>
-</div>
-</figure>
-<figure data-layout-node={"n416"} className={"v153 media-widget captured-style"}>
-<div data-layout-node={"n417"} className={"v154 media-widget captured-style"}>
-<SiteLink data-layout-node={"n418"} className={"v155 media-widget captured-style"} href={"https://aitscctv.com/wp-content/uploads/2023/03/2-bullet-camera.jpg"}>
-<img data-layout-node={"n419"} className={"v156 captured-style"} src={"/assets/remote-6436d9d11f30b6eb-responsive-600.webp"} alt={"2 bullet camera"} loading={"lazy"} decoding={"async"} width={"600"} height={"400"} srcSet={"/assets/remote-6436d9d11f30b6eb-responsive-160.webp 160w, /assets/remote-6436d9d11f30b6eb-responsive-320.webp 320w, /assets/remote-6436d9d11f30b6eb-responsive-600.webp 600w"} sizes={"(max-width: 640px) calc(100vw - 40px), (max-width: 1024px) 50vw, 273px"} />
-</SiteLink>
-</div>
-</figure>
-<figure data-layout-node={"n420"} className={"v153 media-widget captured-style"}>
-<div data-layout-node={"n421"} className={"v154 media-widget captured-style"}>
-<SiteLink data-layout-node={"n422"} className={"v155 media-widget captured-style"} href={"https://aitscctv.com/wp-content/uploads/2023/03/3-bullet-camera.jpg"}>
-<img data-layout-node={"n423"} className={"v156 captured-style"} src={"/assets/remote-3cca7f179d64a3c2-responsive-600.webp"} alt={"3 bullet camera"} loading={"lazy"} decoding={"async"} width={"600"} height={"400"} srcSet={"/assets/remote-3cca7f179d64a3c2-responsive-160.webp 160w, /assets/remote-3cca7f179d64a3c2-responsive-320.webp 320w, /assets/remote-3cca7f179d64a3c2-responsive-600.webp 600w"} sizes={"(max-width: 640px) calc(100vw - 40px), (max-width: 1024px) 50vw, 273px"} />
-</SiteLink>
-</div>
-</figure>
-<figure data-layout-node={"n424"} className={"v153 media-widget captured-style"}>
-<div data-layout-node={"n425"} className={"v154 media-widget captured-style"}>
-<SiteLink data-layout-node={"n426"} className={"v155 media-widget captured-style"} href={"https://aitscctv.com/wp-content/uploads/2023/03/4-bullet-camera.jpg"}>
-<img data-layout-node={"n427"} className={"v156 captured-style"} src={"/assets/remote-dcc9b16eb3e9bb47-responsive-600.webp"} alt={"4 bullet camera"} loading={"lazy"} decoding={"async"} width={"600"} height={"400"} srcSet={"/assets/remote-dcc9b16eb3e9bb47-responsive-160.webp 160w, /assets/remote-dcc9b16eb3e9bb47-responsive-320.webp 320w, /assets/remote-dcc9b16eb3e9bb47-responsive-600.webp 600w"} sizes={"(max-width: 640px) calc(100vw - 40px), (max-width: 1024px) 50vw, 273px"} />
-</SiteLink>
-</div>
-</figure>
-<figure data-layout-node={"n428"} className={"v153 media-widget captured-style"}>
-<div data-layout-node={"n429"} className={"v154 media-widget captured-style"}>
-<SiteLink data-layout-node={"n430"} className={"v155 media-widget captured-style"} href={"https://aitscctv.com/wp-content/uploads/2023/03/5-bullet-camera.jpg"}>
-<img data-layout-node={"n431"} className={"v156 captured-style"} src={"/assets/remote-45b0567bd1315ea3-responsive-600.webp"} alt={"5 bullet camera"} loading={"lazy"} decoding={"async"} width={"600"} height={"400"} srcSet={"/assets/remote-45b0567bd1315ea3-responsive-160.webp 160w, /assets/remote-45b0567bd1315ea3-responsive-320.webp 320w, /assets/remote-45b0567bd1315ea3-responsive-600.webp 600w"} sizes={"(max-width: 640px) calc(100vw - 40px), (max-width: 1024px) 50vw, 273px"} />
-</SiteLink>
-</div>
-</figure>
-<figure data-layout-node={"n432"} className={"v153 media-widget captured-style"}>
-<div data-layout-node={"n433"} className={"v154 media-widget captured-style"}>
-<SiteLink data-layout-node={"n434"} className={"v155 media-widget captured-style"} href={"https://aitscctv.com/wp-content/uploads/2023/03/6-bullet-camera.jpg"}>
-<img data-layout-node={"n435"} className={"v156 captured-style"} src={"/assets/remote-d0391aa8f495c2f2-responsive-600.webp"} alt={"6 bullet camera"} loading={"lazy"} decoding={"async"} width={"600"} height={"400"} srcSet={"/assets/remote-d0391aa8f495c2f2-responsive-160.webp 160w, /assets/remote-d0391aa8f495c2f2-responsive-320.webp 320w, /assets/remote-d0391aa8f495c2f2-responsive-600.webp 600w"} sizes={"(max-width: 640px) calc(100vw - 40px), (max-width: 1024px) 50vw, 273px"} />
-</SiteLink>
-</div>
-</figure>
-<figure data-layout-node={"n436"} className={"v153 media-widget captured-style"}>
-<div data-layout-node={"n437"} className={"v154 media-widget captured-style"}>
-<SiteLink data-layout-node={"n438"} className={"v155 media-widget captured-style"} href={"https://aitscctv.com/wp-content/uploads/2023/03/7-bullet-camera.jpg"}>
-<img data-layout-node={"n439"} className={"v156 captured-style"} src={"/assets/remote-be538ea19256eb9c-responsive-600.webp"} alt={"7 bullet camera"} loading={"lazy"} decoding={"async"} width={"600"} height={"400"} srcSet={"/assets/remote-be538ea19256eb9c-responsive-160.webp 160w, /assets/remote-be538ea19256eb9c-responsive-320.webp 320w, /assets/remote-be538ea19256eb9c-responsive-600.webp 600w"} sizes={"(max-width: 640px) calc(100vw - 40px), (max-width: 1024px) 50vw, 273px"} />
-</SiteLink>
-</div>
-</figure>
-<figure data-layout-node={"n440"} className={"v153 media-widget captured-style"}>
-<div data-layout-node={"n441"} className={"v154 media-widget captured-style"}>
-<SiteLink data-layout-node={"n442"} className={"v155 media-widget captured-style"} href={"https://aitscctv.com/wp-content/uploads/2023/03/8-bullet-camera.jpg"}>
-<img data-layout-node={"n443"} className={"v156 captured-style"} src={"/assets/remote-548dcaeb1ac8438d-responsive-600.webp"} alt={"8 bullet camera"} loading={"lazy"} decoding={"async"} width={"600"} height={"400"} srcSet={"/assets/remote-548dcaeb1ac8438d-responsive-160.webp 160w, /assets/remote-548dcaeb1ac8438d-responsive-320.webp 320w, /assets/remote-548dcaeb1ac8438d-responsive-600.webp 600w"} sizes={"(max-width: 640px) calc(100vw - 40px), (max-width: 1024px) 50vw, 273px"} />
-</SiteLink>
-</div>
-</figure>
-<figure data-layout-node={"n444"} className={"v153 media-widget captured-style"}>
-<div data-layout-node={"n445"} className={"v154 media-widget captured-style"}>
-<SiteLink data-layout-node={"n446"} className={"v155 media-widget captured-style"} href={"https://aitscctv.com/wp-content/uploads/2023/03/9-cctv.jpg"}>
-<img data-layout-node={"n447"} className={"v156 captured-style"} src={"/assets/remote-30993820fde49e22-responsive-600.webp"} alt={"9 cctv"} loading={"lazy"} decoding={"async"} width={"600"} height={"400"} srcSet={"/assets/remote-30993820fde49e22-responsive-160.webp 160w, /assets/remote-30993820fde49e22-responsive-320.webp 320w, /assets/remote-30993820fde49e22-responsive-600.webp 600w"} sizes={"(max-width: 640px) calc(100vw - 40px), (max-width: 1024px) 50vw, 273px"} />
-</SiteLink>
-</div>
-</figure>
-<figure data-layout-node={"n448"} className={"v153 media-widget captured-style"}>
-<div data-layout-node={"n449"} className={"v154 media-widget captured-style"}>
-<SiteLink data-layout-node={"n450"} className={"v155 media-widget captured-style"} href={"https://aitscctv.com/wp-content/uploads/2023/03/10-dome-camera-1.jpg"}>
-<img data-layout-node={"n451"} className={"v156 captured-style"} src={"/assets/remote-2e9d9d1d5ed8d357-responsive-600.webp"} alt={"10 dome camera"} loading={"lazy"} decoding={"async"} width={"600"} height={"400"} srcSet={"/assets/remote-2e9d9d1d5ed8d357-responsive-160.webp 160w, /assets/remote-2e9d9d1d5ed8d357-responsive-320.webp 320w, /assets/remote-2e9d9d1d5ed8d357-responsive-600.webp 600w"} sizes={"(max-width: 640px) calc(100vw - 40px), (max-width: 1024px) 50vw, 273px"} />
-</SiteLink>
-</div>
-</figure>
-<figure data-layout-node={"n452"} className={"v153 media-widget captured-style"}>
-<div data-layout-node={"n453"} className={"v154 media-widget captured-style"}>
-<SiteLink data-layout-node={"n454"} className={"v155 media-widget captured-style"} href={"https://aitscctv.com/wp-content/uploads/2023/03/11-dome-camera-2.jpg"}>
-<img data-layout-node={"n455"} className={"v156 captured-style"} src={"/assets/remote-30fb37ac540715c5-responsive-600.webp"} alt={"11 dome camera"} loading={"lazy"} decoding={"async"} width={"600"} height={"400"} srcSet={"/assets/remote-30fb37ac540715c5-responsive-160.webp 160w, /assets/remote-30fb37ac540715c5-responsive-320.webp 320w, /assets/remote-30fb37ac540715c5-responsive-600.webp 600w"} sizes={"(max-width: 640px) calc(100vw - 40px), (max-width: 1024px) 50vw, 273px"} />
-</SiteLink>
-</div>
-</figure>
-<figure data-layout-node={"n456"} className={"v153 media-widget captured-style"}>
-<div data-layout-node={"n457"} className={"v154 media-widget captured-style"}>
-<SiteLink data-layout-node={"n458"} className={"v155 media-widget captured-style"} href={"https://aitscctv.com/wp-content/uploads/2023/03/12-dome-camera-3.jpg"}>
-<img data-layout-node={"n459"} className={"v156 captured-style"} src={"/assets/remote-6f08431d2056e967-responsive-600.webp"} alt={"12 dome camera"} loading={"lazy"} decoding={"async"} width={"600"} height={"400"} srcSet={"/assets/remote-6f08431d2056e967-responsive-160.webp 160w, /assets/remote-6f08431d2056e967-responsive-320.webp 320w, /assets/remote-6f08431d2056e967-responsive-600.webp 600w"} sizes={"(max-width: 640px) calc(100vw - 40px), (max-width: 1024px) 50vw, 273px"} />
-</SiteLink>
-</div>
-</figure>
-<figure data-layout-node={"n460"} className={"v153 media-widget captured-style"}>
-<div data-layout-node={"n461"} className={"v154 media-widget captured-style"}>
-<SiteLink data-layout-node={"n462"} className={"v155 media-widget captured-style"} href={"https://aitscctv.com/wp-content/uploads/2023/03/13-rack-1.jpg"}>
-<img data-layout-node={"n463"} className={"v156 captured-style"} src={"/assets/remote-7507ad257c533a33-responsive-600.webp"} alt={"13 rack"} loading={"lazy"} decoding={"async"} width={"600"} height={"400"} srcSet={"/assets/remote-7507ad257c533a33-responsive-160.webp 160w, /assets/remote-7507ad257c533a33-responsive-320.webp 320w, /assets/remote-7507ad257c533a33-responsive-600.webp 600w"} sizes={"(max-width: 640px) calc(100vw - 40px), (max-width: 1024px) 50vw, 273px"} />
-</SiteLink>
-</div>
-</figure>
-<figure data-layout-node={"n464"} className={"v153 media-widget captured-style"}>
-<div data-layout-node={"n465"} className={"v154 media-widget captured-style"}>
-<SiteLink data-layout-node={"n466"} className={"v155 media-widget captured-style"} href={"https://aitscctv.com/wp-content/uploads/2023/03/14-rack-2.jpg"}>
-<img data-layout-node={"n467"} className={"v156 captured-style"} src={"/assets/remote-f92dcf10766e498d-responsive-600.webp"} alt={"14 rack"} loading={"lazy"} decoding={"async"} width={"600"} height={"400"} srcSet={"/assets/remote-f92dcf10766e498d-responsive-160.webp 160w, /assets/remote-f92dcf10766e498d-responsive-320.webp 320w, /assets/remote-f92dcf10766e498d-responsive-600.webp 600w"} sizes={"(max-width: 640px) calc(100vw - 40px), (max-width: 1024px) 50vw, 273px"} />
-</SiteLink>
-</div>
-</figure>
-<figure data-layout-node={"n468"} className={"v153 media-widget captured-style"}>
-<div data-layout-node={"n469"} className={"v154 media-widget captured-style"}>
-<SiteLink data-layout-node={"n470"} className={"v155 media-widget captured-style"} href={"https://aitscctv.com/wp-content/uploads/2023/03/15-wiring-1.jpg"}>
-<img data-layout-node={"n471"} className={"v156 captured-style"} src={"/assets/remote-97059495d5bf68e9-responsive-600.webp"} alt={"15 wiring"} loading={"lazy"} decoding={"async"} width={"600"} height={"400"} srcSet={"/assets/remote-97059495d5bf68e9-responsive-160.webp 160w, /assets/remote-97059495d5bf68e9-responsive-320.webp 320w, /assets/remote-97059495d5bf68e9-responsive-600.webp 600w"} sizes={"(max-width: 640px) calc(100vw - 40px), (max-width: 1024px) 50vw, 273px"} />
-</SiteLink>
-</div>
-</figure>
-<figure data-layout-node={"n472"} className={"v153 media-widget captured-style"}>
-<div data-layout-node={"n473"} className={"v154 media-widget captured-style"}>
-<SiteLink data-layout-node={"n474"} className={"v155 media-widget captured-style"} href={"https://aitscctv.com/wp-content/uploads/2023/03/16-wiring-2.jpg"}>
-<img data-layout-node={"n475"} className={"v156 captured-style"} src={"/assets/remote-990ebf6f1e5dfe40-responsive-600.webp"} alt={"16 wiring"} loading={"lazy"} decoding={"async"} width={"600"} height={"400"} srcSet={"/assets/remote-990ebf6f1e5dfe40-responsive-160.webp 160w, /assets/remote-990ebf6f1e5dfe40-responsive-320.webp 320w, /assets/remote-990ebf6f1e5dfe40-responsive-600.webp 600w"} sizes={"(max-width: 640px) calc(100vw - 40px), (max-width: 1024px) 50vw, 273px"} />
-</SiteLink>
-</div>
-</figure>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-<div data-layout-node={"n601"} className={"v195 section captured-style"}>
-<div data-layout-node={"n602"} className={"v196 captured-style"}>
-<div data-layout-node={"n603"} className={"v3 text-widget captured-style"}>
-<div data-layout-node={"n604"} className={"v4 text-widget captured-style"}>
-<p data-layout-node={"n605"} className={"v197 large-copy captured-style"}>
-{"\" Let AITS Set Standard  ให้เราได้สร้างมาตรฐาน \"\r\n "}
-</p>
-</div>
-</div>
-<div data-layout-node={"n606"} className={"v198 section layout-row captured-style"}>
-<div data-layout-node={"n607"} className={"v199 captured-style"}>
-<div data-layout-node={"n608"} className={"v4 captured-style"}>
-<div data-layout-node={"n609"} className={"v4 captured-style"}>
-<SiteLink data-layout-node={"n610"} className={"v200 action-link captured-style"} href={"tel:0944606196"}>
-<span data-layout-node={"n611"} className={"v201 captured-style"}>
-<span data-layout-node={"n612"} className={"v202 captured-style"}>
-{"โทรหาเรา"}
-</span>
-</span>
-</SiteLink>
-</div>
-</div>
-</div>
-<div data-layout-node={"n613"} className={"v199 captured-style"}>
-<div data-layout-node={"n614"} className={"v4 captured-style"}>
-<div data-layout-node={"n615"} className={"v4 captured-style"}>
-<SiteLink data-layout-node={"n616"} className={"v203 action-link captured-style"} href={"https://page.line.me/852uanad?openQrModal=true"} target={"_blank"} rel={"noopener"}>
-<span data-layout-node={"n617"} className={"v204 captured-style"}>
-<span data-layout-node={"n618"} className={"v205 captured-style"}>
-{"ปรึกษาฟรีคลิก"}
-</span>
-</span>
-</SiteLink>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
+<ServiceContact path={"/cctv-rental-service/"} />
+</section>
 </div></div>}

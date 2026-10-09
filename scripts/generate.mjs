@@ -3,6 +3,7 @@ import path from 'node:path';
 import {parseDocument} from 'htmlparser2';
 import {attributesToProps} from 'html-react-parser';
 import {writeCaptureStyles} from './capture-styles.mjs';
+import {createEditorialContent,restructureContent} from './restructure-content.mjs';
 const base=process.cwd(), source=path.join(base,'design-source');
 for(const dir of ['src/generated','src/app','public/assets','public/pages'])fs.mkdirSync(path.join(base,dir),{recursive:true});
 const routes=JSON.parse(fs.readFileSync(path.join(source,'routes.json'),'utf8'));
@@ -12,6 +13,7 @@ let capturedRules=new Map(),currentRoute='',english=false;
 const translations=JSON.parse(fs.readFileSync('src/lib/home-en.json','utf8'));
 const imageAssets=JSON.parse(fs.readFileSync('src/lib/image-assets.json','utf8'));
 const iconAssets=JSON.parse(fs.readFileSync('src/lib/icon-assets.json','utf8'));
+const editorial=createEditorialContent(routes,source,imageAssets,translations);
 function responsiveImage(src,sizes){
  const image=imageAssets[src];if(!image)return {};
  const fallback=image.variants.find(v=>v.width>=640)||image.variants.at(-1);
@@ -137,6 +139,8 @@ function jsx(node){
  if(node.type==='text')return node.data.trim()?'{'+JSON.stringify(english?(translations[node.data.trim()]||node.data):node.data)+'}':'';
  if(node.type!=='tag')return '';
  if(node.name==='script'||node.name==='style')return '';
+ const serviceBlocks={'aits-service-trust':'ServiceTrust','aits-service-contents':'ServiceContents','aits-service-benefits':'ServiceBenefits','aits-service-pricing':'ServicePricing','aits-service-warranty':'ServiceWarranty','aits-service-projects':'ServiceProjects','aits-service-contact':'ServiceContact','aits-about-team':'AboutTeamGallery'};
+ if(serviceBlocks[node.name])return '<'+serviceBlocks[node.name]+(['aits-service-trust','aits-service-contents','aits-about-team'].includes(node.name)?'':' path={'+JSON.stringify(currentRoute)+'}')+' />';
  // Keep the complete standards/article collection in the archive, not on home.
  if(currentRoute==='/'&&node.attribs['data-layout-node']==='n219')return '';
  if(currentRoute==='/'&&node.attribs['data-layout-node']==='n1790')return '<div className="portfolio-actions"><SiteLink className="portfolio-video-link" href="https://www.youtube.com/@aitscctv9107" target="_blank" rel="noopener">{'+JSON.stringify(english?'Watch more videos':'ดูวีดีโอเพิ่มเติม')+'}</SiteLink><SiteLink className="portfolio-consult-link" href="tel:0944606196">{'+JSON.stringify(english?'Talk to our team':'ปรึกษาเราคลิก')+'}</SiteLink></div>';
@@ -173,8 +177,9 @@ function jsx(node){
  if(voids.has(node.name))return '<'+tag+attrs+' />';
  return '<'+tag+attrs+'>\n'+node.children.map(jsx).filter(Boolean).join('\n')+'\n</'+tag+'>';
 }
-const imports=[],registry=[],stylePages=[];
+const imports=[],registry=[],stylePages=[],serviceContent={},serviceAudit=[];
 for(const route of routes){
+ if(route.path==='/blog/')continue;
  const html=fs.readFileSync(path.join(source,'pages',route.id+'.html'),'utf8');
  const ref=JSON.parse(fs.readFileSync(path.join(source,'reference',route.id+'.json'),'utf8'));
  const nodes=parseDocument(html).children;
@@ -183,6 +188,8 @@ for(const route of routes){
  capturedRules=new Map([...rawCss.matchAll(/\.(v\d+)\{([^}]+)\}/g)].map(m=>[m[1],m[2]]));
  removeRepeatedSections(nodes);
  prepare(nodes);
+ const restructured=restructureContent(nodes,currentRoute,editorial);
+ if(restructured){serviceContent[currentRoute]=restructured.data;serviceAudit.push(restructured.audit)}
  // These computed values came from 10%/5% section padding at the reference width.
  // Keep them fluid instead of freezing desktop-sized gaps onto phones.
  const css=rawCss.replace(/(padding-(?:top|right|bottom|left)):152\.075px/g,'$1:10%').replace(/(padding-(?:top|right|bottom|left)):76\.0375px/g,'$1:5%').replace(/\{([^}]+)\}/g,(_,rule)=>'{'+rewriteStyle(rule)+'}');
@@ -193,7 +200,7 @@ for(const route of routes){
   return '.page-'+route.id+' '+m[1]+'{background-image:'+rewriteStyle(background,true)+'}';
  });
  stylePages.push({id:route.id,css,used,phoneBackgrounds:phoneRules.length?'\n@media(max-width:640px){'+phoneRules.join('')+'}':''});
- const prelude='// Generated from the design capture. Corrections are applied in the generator.\nimport {Fragment} from "react";\nimport {SiteLink} from "../components/SiteLink";\nimport {VideoFrame} from "../components/VideoFrame";\nimport {LogoCarousel} from "../components/LogoCarousel";\nimport {ContactPhone} from "../components/ContactPhone";\n';
+ const prelude='// Generated from the design capture. Corrections are applied in the generator.\nimport {Fragment} from "react";\nimport {SiteLink} from "../components/SiteLink";\nimport {VideoFrame} from "../components/VideoFrame";\nimport {LogoCarousel} from "../components/LogoCarousel";\nimport {ContactPhone} from "../components/ContactPhone";\nimport {ServiceTrust,ServiceContents,ServiceBenefits,ServicePricing,ServiceWarranty,ServiceProjects,ServiceContact,AboutTeamGallery} from "../components/ServiceContent";\n';
  fs.writeFileSync(path.join(base,'src/generated','Page'+route.id+'.tsx'),prelude+'export default function Page'+route.id+'(){return <div className="page-'+route.id+' captured-page">'+rendered+'</div>}\n');
  if(route.path==='/'){
   english=true;const en=nodes.map(jsx).join('');english=false;
@@ -206,7 +213,9 @@ for(const route of routes){
  registry.push(JSON.stringify(route.path)+': {id:'+JSON.stringify(route.id)+',title:'+JSON.stringify(ref.title)+',description:'+JSON.stringify(ref.description||'')+',Component:Page'+route.id+'}');
 }
 writeCaptureStyles(stylePages);
+fs.writeFileSync('src/generated/service-content.json',JSON.stringify(serviceContent,null,2));
+fs.writeFileSync('src/generated/service-structure.json',JSON.stringify(serviceAudit,null,2));
 fs.writeFileSync(path.join(base,'src/generated/pages.ts'),imports.join('\n')+'\nexport const pages={'+registry.join(',\n')+'};\nexport type PagePath=keyof typeof pages;\n');
 fs.writeFileSync(path.join(base,'src/generated/routes.json'),JSON.stringify(routes));
-console.log('Generated '+routes.length+' typed React pages and scoped styles.');
+console.log('Generated '+registry.length+' typed React pages, '+serviceAudit.length+' structured service pages and the legacy blog alias.');
 

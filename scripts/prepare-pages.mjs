@@ -17,5 +17,14 @@ function prepare(directory){
  }
 }
 prepare('out');
+// GitHub Pages has no server redirect rules. Redirect the legacy article URL
+// before downloading the app runtime, preserving its query and fragment. A
+// no-JavaScript visitor also gets a redirect and the visible archive link.
+const legacy='out/blog/index.html';
+if(fs.existsSync(legacy)){
+ const html=fs.readFileSync(legacy,'utf8');
+ const redirect='<script>window.location.replace("/website/articles/"+window.location.search+window.location.hash)</script><noscript><meta http-equiv="refresh" content="0;url=/website/articles/"></noscript>';
+ if(!html.includes('content="0;url=/website/articles/"'))fs.writeFileSync(legacy,html.replace('<head>','<head>'+redirect));
+}
 fs.writeFileSync('out/.nojekyll','');
 console.log('Prepared static export for https://aitscctv.github.io/website/');

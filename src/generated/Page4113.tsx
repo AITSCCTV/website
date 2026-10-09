@@ -4,7 +4,9 @@ import {SiteLink} from "../components/SiteLink";
 import {VideoFrame} from "../components/VideoFrame";
 import {LogoCarousel} from "../components/LogoCarousel";
 import {ContactPhone} from "../components/ContactPhone";
+import {ServiceTrust,ServiceContents,ServiceBenefits,ServicePricing,ServiceWarranty,ServiceProjects,ServiceContact,AboutTeamGallery} from "../components/ServiceContent";
 export default function Page4113(){return <div className="page-4113 captured-page"><div data-layout-node={"n0"} className={"v0 captured-style"}>
+<section id={"service-overview"} className={"service-stage"} data-service-stage={"overview"}>
 <div data-layout-node={"n1"} className={"v1 section captured-style"}>
 <div data-layout-node={"n2"} className={"v2 captured-style"}>
 <div data-layout-node={"n3"} className={"v3 text-widget captured-style"}>
@@ -66,165 +68,21 @@ export default function Page4113(){return <div className="page-4113 captured-pag
 </div>
 </div>
 </div>
-<div data-layout-node={"n29"} className={"v20 section captured-style"}>
-<div data-layout-node={"n30"} className={"v21 section layout-row captured-style"}>
-<div data-layout-node={"n31"} className={"v22 section captured-style"}>
-<div data-layout-node={"n32"} className={"v23 captured-style"}>
-<div data-layout-node={"n33"} className={"v24 section layout-row captured-style"}>
-<div data-layout-node={"n34"} className={"v25 section captured-style"}>
-<div data-layout-node={"n35"} className={"v26 captured-style"}>
-<div data-layout-node={"n36"} className={"v27 captured-style"}>
-<div data-layout-node={"n37"} className={"v28 layout-row captured-style"}>
-<div data-layout-node={"n38"} className={"v29 captured-style"}>
-{"\r\n\t\t\t\tเลือกอ่านหัวข้อที่สนใจ\t\t\t"}
-</div>
-<div data-layout-node={"n39"} className={"v30 captured-style"}>
-<i data-layout-node={"n40"} className={"v31 captured-style"}>
-
-</i>
-</div>
-</div>
-<div data-layout-node={"n41"} className={"v32 captured-style"}>
-<ol data-layout-node={"n42"} className={"v33 toc-container toc-container toc-container toc-container toc-container toc-container toc-container toc-container toc-container toc-container toc-container toc-container captured-style"}>
-<li data-layout-node={"n43"} className={"v34 toc-container captured-style"}>
-<div data-layout-node={"n44"} className={"v35 toc-container captured-style"}>
-<SiteLink data-layout-node={"n45"} className={"v36 toc-link captured-style"} href={"#elementor-toc__heading-anchor-0"}>
-{"ลูกค้าที่ไว้วางใจใช้บริการติดตั้งระบบโทรศัพท์กับ AITSCCTV\r\n"}
-</SiteLink>
-</div>
-</li>
-<li data-layout-node={"n46"} className={"v34 toc-container captured-style"}>
-<div data-layout-node={"n47"} className={"v35 toc-container captured-style"}>
-<SiteLink data-layout-node={"n48"} className={"v37 toc-link captured-style"} href={"#elementor-toc__heading-anchor-1"}>
-{"องค์กรไหนที่เหมาะสำหรับติดตั้งระบบโทรศัพท์กับ AITSCCTV"}
-</SiteLink>
-</div>
-</li>
-<li data-layout-node={"n49"} className={"v34 toc-container captured-style"}>
-<div data-layout-node={"n50"} className={"v35 toc-container captured-style"}>
-<SiteLink data-layout-node={"n51"} className={"v38 toc-link captured-style"} href={"#elementor-toc__heading-anchor-2"}>
-{"AITS บริการระบบโทรศัพท์ เดินสายโทรศัพท์ สำหรับใช้ในองค์กร\r\n"}
-</SiteLink>
-</div>
-</li>
-<li data-layout-node={"n52"} className={"v34 toc-container captured-style"}>
-<div data-layout-node={"n53"} className={"v35 toc-container captured-style"}>
-<SiteLink data-layout-node={"n54"} className={"v39 toc-link captured-style"} href={"#elementor-toc__heading-anchor-3"}>
-{"บริการติดตั้งระบบโทรศัพท์กับ AITS ดีอย่างไร?"}
-</SiteLink>
-</div>
-</li>
-<li data-layout-node={"n55"} className={"v34 toc-container captured-style"}>
-<div data-layout-node={"n56"} className={"v35 toc-container captured-style"}>
-<SiteLink data-layout-node={"n57"} className={"v40 toc-link captured-style"} href={"#elementor-toc__heading-anchor-4"}>
-{"ยี่ห้ออุปกรณ์ระบบอินเทอร์เน็ตที่ AITSCCTV แนะนำ\r\n"}
-</SiteLink>
-</div>
-</li>
-<li data-layout-node={"n58"} className={"v34 toc-container captured-style"}>
-<div data-layout-node={"n59"} className={"v35 toc-container captured-style"}>
-<SiteLink data-layout-node={"n60"} className={"v41 toc-link captured-style"} href={"#elementor-toc__heading-anchor-5"}>
-{"ระบบโทรศัพท์สำนักงาน คืออะไร? "}
-</SiteLink>
-</div>
-</li>
-<li data-layout-node={"n61"} className={"v34 toc-container captured-style"}>
-<div data-layout-node={"n62"} className={"v35 toc-container captured-style"}>
-<SiteLink data-layout-node={"n63"} className={"v42 toc-link captured-style"} href={"#elementor-toc__heading-anchor-6"}>
-{"ความแตกต่างระหว่างโทรศัพท์อนาล็อก (Analog Phone) VS โทรศัพท์ IP Phone"}
-</SiteLink>
-</div>
-</li>
-<li data-layout-node={"n64"} className={"v34 toc-container captured-style"}>
-<div data-layout-node={"n65"} className={"v35 toc-container captured-style"}>
-<SiteLink data-layout-node={"n66"} className={"v43 toc-link captured-style"} href={"#elementor-toc__heading-anchor-7"}>
-{"ระบบโทรศัพท์มีกี่ระบบ"}
-</SiteLink>
-</div>
-</li>
-<li data-layout-node={"n67"} className={"v34 toc-container captured-style"}>
-<div data-layout-node={"n68"} className={"v35 toc-container captured-style"}>
-<SiteLink data-layout-node={"n69"} className={"v44 toc-link captured-style"} href={"#elementor-toc__heading-anchor-8"}>
-{"ข้อดีของการใช้โทรศัพท์สำนักงานแต่ละระบบ"}
-</SiteLink>
-</div>
-</li>
-<li data-layout-node={"n70"} className={"v34 toc-container captured-style"}>
-<div data-layout-node={"n71"} className={"v35 toc-container captured-style"}>
-<SiteLink data-layout-node={"n72"} className={"v45 toc-link captured-style"} href={"#elementor-toc__heading-anchor-9"}>
-{"ทีมงานของเรา AITSCCTV"}
-</SiteLink>
-</div>
-</li>
-<li data-layout-node={"n73"} className={"v34 toc-container captured-style"}>
-<div data-layout-node={"n74"} className={"v35 toc-container captured-style"}>
-<span data-layout-node={"n75"} className={"v46 toc-link inactive-control captured-style"}>
-{"รีวิวลูกค้า"}
-</span>
-</div>
-</li>
-<li data-layout-node={"n76"} className={"v34 toc-container captured-style"}>
-<div data-layout-node={"n77"} className={"v35 toc-container captured-style"}>
-<span data-layout-node={"n78"} className={"v47 toc-link inactive-control captured-style"}>
-{"คำถามที่พบบ่อย\r\n"}
-</span>
-</div>
-</li>
-</ol>
-</div>
-</div>
-</div>
-<div data-layout-node={"n79"} className={"v48 text-widget captured-style"}>
-<div data-layout-node={"n80"} className={"v49 text-widget captured-style"}>
-<p data-layout-node={"n81"} className={"v50 large-copy captured-style"}>
-{"AITSCCTV รับออกแบบ คุมงาน ติดตั้งระบบโทรศัพท์สำนักงาน ระบบโทรศัพท์ เดินสายโทรศัพท์ครบวงจร\r\n"}
-</p>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-<div data-layout-node={"n82"} className={"v51 section captured-style"}>
-<div data-layout-node={"n83"} className={"v52 captured-style"}>
-<div data-layout-node={"n84"} className={"v3 captured-style"}>
-<div data-layout-node={"n85"} className={"v4 captured-style"}>
-<span data-layout-node={"n86"} className={"v53 captured-style"}>
-
-</span>
-<h2 data-layout-node={"n87"} className={"v9 captured-style"} id={"elementor-toc__heading-anchor-0"}>
-{"ลูกค้าที่ไว้วางใจใช้บริการติดตั้งระบบโทรศัพท์กับ AITSCCTV\r\n"}
+<ServiceTrust />
+</section>
+<ServiceContents />
+<section id={"service-benefits"} className={"service-stage"} data-service-stage={"benefits"}>
+<div className={"service-stage-heading"}>
+<h2>
+{"ประโยชน์และการใช้งาน"}
 </h2>
 </div>
-</div>
-<div data-layout-node={"n88"} className={"v10 section captured-style"}>
-<div data-layout-node={"n89"} className={"v54 layout-row captured-style"}>
-<div data-layout-node={"n90"} className={"v55 captured-style"}>
-<div data-layout-node={"n91"} className={"v4 captured-style"}>
-<figure data-layout-node={"n92"} className={"v56 captured-style"}>
-<img data-layout-node={"n93"} className={"v57 captured-style"} src={"/assets/remote-0dc366bb409c8bbc-responsive-300.webp"} alt={"Nissan"} loading={"lazy"} decoding={"async"} width={"150"} height={"150"} srcSet={"/assets/remote-0dc366bb409c8bbc-responsive-160.webp 160w, /assets/remote-0dc366bb409c8bbc-responsive-300.webp 300w"} sizes={"150px"} />
-<figcaption data-layout-node={"n94"} className={"v58 captured-style"}>
-{"Nissan Emperor"}
-</figcaption>
-</figure>
-</div>
-</div>
-<div data-layout-node={"n95"} className={"v55 captured-style"}>
-<div data-layout-node={"n96"} className={"v4 captured-style"}>
-<figure data-layout-node={"n97"} className={"v56 captured-style"}>
-<img data-layout-node={"n98"} className={"v57 captured-style"} src={"/assets/remote-e847ad7c56dd7b80-responsive-300.webp"} alt={"Kt"} loading={"lazy"} decoding={"async"} width={"150"} height={"150"} srcSet={"/assets/remote-e847ad7c56dd7b80-responsive-160.webp 160w, /assets/remote-e847ad7c56dd7b80-responsive-300.webp 300w"} sizes={"150px"} />
-<figcaption data-layout-node={"n99"} className={"v58 captured-style"}>
-{"KT Autopar"}
-</figcaption>
-</figure>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
+<ServiceBenefits path={"/telephone-system/"} />
+<details className={"service-detail"}>
+<summary>
+{"รายละเอียดประโยชน์และการใช้งาน"}
+</summary>
+<div className={"service-detail-content"}>
 <div data-layout-node={"n100"} className={"v59 section captured-style"}>
 <div data-layout-node={"n101"} className={"v52 captured-style"}>
 <div data-layout-node={"n102"} className={"v3 text-widget captured-style"}>
@@ -421,6 +279,167 @@ export default function Page4113(){return <div className="page-4113 captured-pag
 </div>
 </div>
 </div>
+<div data-layout-node={"n492"} className={"v7 section captured-style"}>
+<div data-layout-node={"n493"} className={"v163 captured-style"}>
+<div data-layout-node={"n494"} className={"v3 captured-style"}>
+<div data-layout-node={"n495"} className={"v4 captured-style"}>
+<span data-layout-node={"n496"} className={"v53 captured-style"}>
+
+</span>
+<h2 data-layout-node={"n497"} className={"v9 captured-style"} id={"elementor-toc__heading-anchor-8"}>
+{"ข้อดีของการใช้โทรศัพท์สำนักงานแต่ละระบบ"}
+</h2>
+</div>
+</div>
+<div data-layout-node={"n498"} className={"v60 captured-style"}>
+<div data-layout-node={"n499"} className={"v61 captured-style"}>
+{"\r\n\t\t\t\t\t\t\tระบบโทรศัพท์แต่ละประเภทต่างก็มีข้อดีที่แตกต่างกัน ดังนี้\t\t\t\t\t\t"}
+</div>
+</div>
+<div data-layout-node={"n500"} className={"v26 captured-style"}>
+<div data-layout-node={"n501"} className={"v169 captured-style"}>
+<h3 data-layout-node={"n502"} className={"v170 captured-style"}>
+{"ข้อดีของการใช้โทรศัพท์สำนักงานแต่ละระบบ"}
+</h3>
+<div data-layout-node={"n503"} className={"v171 captured-style"}>
+<div className={"table-scroll"} role={"region"} aria-label={"ตารางเปรียบเทียบ เลื่อนเพื่อดูข้อมูลเพิ่มเติม"} tabIndex={0}>
+<table data-layout-node={"n504"} className={"v172 captured-style"}>
+<tbody data-layout-node={"n505"} className={"v173 captured-style"}>
+<tr data-layout-node={"n506"} className={"v174 captured-style"}>
+<td data-layout-node={"n507"} className={"v183 captured-style"}>
+{"\r\n                                        ระบบโทรศัพท์สำนักงาน                    "}
+</td>
+<td data-layout-node={"n508"} className={"v183 captured-style"}>
+{"\r\n                                        ข้อดีของแต่ละระบบโทรศัพท์                    "}
+</td>
+</tr>
+<tr data-layout-node={"n509"} className={"v174 captured-style"}>
+<td data-layout-node={"n510"} className={"v184 captured-style"}>
+{"\r\n                                        ระบบโทรศัพท์อนาล็อค (Analog Phone System)                    "}
+</td>
+<td data-layout-node={"n511"} className={"v184 captured-style"}>
+<div data-layout-node={"n512"} className={"v185 captured-style"}>
+<ul data-layout-node={"n513"} className={"v186 captured-style"}>
+<li data-layout-node={"n514"} className={"v182 captured-style"}>
+{"ส่งสัญญาณผ่านสายโทรศัพท์"}
+</li>
+<li data-layout-node={"n515"} className={"v182 captured-style"}>
+{"สามารถใช้งานได้แม้ไม่มีกระแสไฟ"}
+</li>
+<li data-layout-node={"n516"} className={"v182 captured-style"}>
+{"มีการใช้ระบบตู้สาขาเพื่อให้"}
+</li>
+<li data-layout-node={"n517"} className={"v182 captured-style"}>
+{"สามารถโทรภายในบริษัทเป็นเลขหมายภายใน โดยมีข้อจำกัดสามาถต่อสายเข้ามาและโทรออกเฉพาะสถานที่นั้น ๆ "}
+</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr data-layout-node={"n518"} className={"v174 captured-style"}>
+<td data-layout-node={"n519"} className={"v184 captured-style"}>
+{"\r\n                                        ระบบโทรศัพท์แบบแบบไฮบริด (Hybrid IP-PBX)                    "}
+</td>
+<td data-layout-node={"n520"} className={"v184 captured-style"}>
+<div data-layout-node={"n521"} className={"v185 captured-style"}>
+<ul data-layout-node={"n522"} className={"v186 captured-style"}>
+<li data-layout-node={"n523"} className={"v182 captured-style"}>
+{"รองรับระบบ IP Address"}
+</li>
+<li data-layout-node={"n524"} className={"v182 captured-style"}>
+{"เชื่อมโยงโทรศัพท์กับอีเมล สามารถส่งข้อความเสียงผ่านอีเมลได้โดยข้อความเสียงจะถูกส่งเป็นสกุลไฟล์ wav."}
+</li>
+<li data-layout-node={"n525"} className={"v182 captured-style"}>
+{"สามารถทำงานร่วมกับอุปกรณ์เครือข่ายอื่น ๆ ได้ เช่น Analog Trunks, PRI Circuit ,SIP Trunks ในกรณีที่ต้องการเพิ่มคู่สาย"}
+</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr data-layout-node={"n526"} className={"v174 captured-style"}>
+<td data-layout-node={"n527"} className={"v184 captured-style"}>
+{"\r\n                                        ระบบโทรศัพท์ดิจิทัล ( Digital Phone System)                    "}
+</td>
+<td data-layout-node={"n528"} className={"v184 captured-style"}>
+<div data-layout-node={"n529"} className={"v185 captured-style"}>
+<ul data-layout-node={"n530"} className={"v186 captured-style"}>
+<li data-layout-node={"n531"} className={"v182 captured-style"}>
+{"มีระบบการทำงานที่เป็นระเบียบแบบแผน"}
+</li>
+<li data-layout-node={"n532"} className={"v182 captured-style"}>
+{"สามารถติดต่อภายในได้เพียงผ่านการโอนสายเท่านั้น"}
+</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr data-layout-node={"n533"} className={"v174 captured-style"}>
+<td data-layout-node={"n534"} className={"v184 captured-style"}>
+{"\r\n                                        โทรศัพท์ระบบ VoIP (Voice Over Internet Protocol)                    "}
+</td>
+<td data-layout-node={"n535"} className={"v187 captured-style"}>
+<div data-layout-node={"n536"} className={"v188 captured-style"}>
+<ul data-layout-node={"n537"} className={"v189 captured-style"}>
+<li data-layout-node={"n538"} className={"v182 captured-style"}>
+{"การเคลื่อนย้ายตำแหน่งที่ตั้งไม่ซับซ้อน"}
+</li>
+<li data-layout-node={"n539"} className={"v182 captured-style"}>
+{"เป็นระบบใหม่ที่ใช้ระบบอินเทอเนทเข้ามาร่วมด้วย"}
+</li>
+<li data-layout-node={"n540"} className={"v182 captured-style"}>
+{"สามารถใช้ในการโทรหาสาขาอื่นได้โดยผ่านอินเทอร์เน็ต"}
+</li>
+<li data-layout-node={"n541"} className={"v182 captured-style"}>
+{"สามารถติดตั้งกับเครือข่ายอินเทอร์เน็ตอีกจุดได้ โดยไม่สูญเสียเครือข่าย"}
+</li>
+<li data-layout-node={"n542"} className={"v182 captured-style"}>
+{"รองรับระบบ Conference Call,  Voice Mail"}
+</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr data-layout-node={"n543"} className={"v174 captured-style"}>
+<td data-layout-node={"n544"} className={"v184 captured-style"}>
+{"\r\n                                        ระบบโทรศัพท์แบบคลาวด์ (Cloud)                    "}
+</td>
+<td data-layout-node={"n545"} className={"v184 captured-style"}>
+<div data-layout-node={"n546"} className={"v185 captured-style"}>
+<ul data-layout-node={"n547"} className={"v186 captured-style"}>
+<li data-layout-node={"n548"} className={"v182 captured-style"}>
+{"เป็นโทรศัพท์ที่ใช้การสื่อสารผ่านสัญญาณอินเทอร์เน็ต"}
+</li>
+<li data-layout-node={"n549"} className={"v182 captured-style"}>
+{"ไม่จำเป็นต้องใช้สายโทรศัพท์"}
+</li>
+<li data-layout-node={"n550"} className={"v182 captured-style"}>
+{"มีฟังก์ชันการใช้งานที่เหมาะกับองค์กร ทั้ง โอนสาย ฝากข้อความเสียง บันทึกบทสนทนาผ่านระบบตอบรับอัตโนมัติ"}
+</li>
+<li data-layout-node={"n551"} className={"v182 captured-style"}>
+{"ประหยัดค่าใช้จ่าย เพราะไม่ต้องติดตั้งอุปกรณ์ ไม่ต้องบำรุงรักษา ไม่เสียค่าโทรศัพท์"}
+</li>
+</ul>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</details>
+</section>
+<section id={"service-options"} className={"service-stage"} data-service-stage={"options"}>
+<div className={"service-stage-heading"}>
+<h2>
+{"รูปแบบบริการและราคา"}
+</h2>
+</div>
+<ServicePricing path={"/telephone-system/"} />
 <div data-layout-node={"n196"} className={"v7 section captured-style"}>
 <div data-layout-node={"n197"} className={"v72 captured-style"}>
 <div data-layout-node={"n198"} className={"v73 section captured-style"}>
@@ -496,401 +515,6 @@ export default function Page4113(){return <div className="page-4113 captured-pag
 <div data-layout-node={"n232"} className={"v87 captured-style"}>
 <div data-layout-node={"n233"} className={"v88 captured-style"}>
 {"\r\n\t\t\t\t\t\t\tระบบตอบรับอัตโนมัติ ระบบฝากข้อความ ระบบแจ้งเตือน และระบบบันทึกเสียงสนทนา\t\t\t\t\t\t"}
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-<div data-layout-node={"n234"} className={"v90 section captured-style"}>
-<div data-layout-node={"n235"} className={"v2 captured-style"}>
-<div data-layout-node={"n236"} className={"v3 text-widget captured-style"}>
-<div data-layout-node={"n237"} className={"v4 text-widget captured-style"}>
-<p data-layout-node={"n238"} className={"v5 captured-style"}>
-{"WHY AITSCCTV"}
-</p>
-</div>
-</div>
-<div data-layout-node={"n239"} className={"v3 captured-style"}>
-<div data-layout-node={"n240"} className={"v4 captured-style"}>
-<span data-layout-node={"n241"} className={"v53 captured-style"}>
-
-</span>
-<h2 data-layout-node={"n242"} className={"v9 captured-style"} id={"elementor-toc__heading-anchor-3"}>
-{"บริการติดตั้งระบบโทรศัพท์กับ AITS ดีอย่างไร?"}
-</h2>
-</div>
-</div>
-<div data-layout-node={"n243"} className={"v73 section captured-style"}>
-<div data-layout-node={"n244"} className={"v91 section layout-row captured-style"}>
-<div data-layout-node={"n245"} className={"v63 captured-style"}>
-<div data-layout-node={"n246"} className={"v92 captured-style"}>
-<div data-layout-node={"n247"} className={"v93 captured-style"}>
-<figure data-layout-node={"n248"} className={"v94 media-widget captured-style"}>
-<img data-layout-node={"n249"} className={"v95 captured-style"} src={"https://aitscctv.com/wp-content/uploads/2023/03/design-pencil.svg"} alt={"Design pencil"} loading={"lazy"} decoding={"async"} width={"800"} height={"800"} />
-</figure>
-<div data-layout-node={"n250"} className={"v96 captured-style"}>
-<p data-layout-node={"n251"} className={"v97 captured-style"}>
-{"เรามีหลักการออกแบบที่ดี"}
-</p>
-<p data-layout-node={"n252"} className={"v98 captured-style"}>
-{"บริการติดตั้งระบบโทรศัพท์ในออฟฟิศ ติดตั้งโทรศัพท์สำนักงาน เดินสายสำหรับใช้ในสำนักงาน องค์กรต่างๆ ระบบโทรศัพท์ในโรงแรม อย่างครบทั้งวงจร"}
-</p>
-</div>
-</div>
-</div>
-</div>
-<div data-layout-node={"n253"} className={"v63 captured-style"}>
-<div data-layout-node={"n254"} className={"v92 captured-style"}>
-<div data-layout-node={"n255"} className={"v93 captured-style"}>
-<figure data-layout-node={"n256"} className={"v94 media-widget captured-style"}>
-<img data-layout-node={"n257"} className={"v95 captured-style"} src={"https://aitscctv.com/wp-content/uploads/2023/03/performance.svg"} alt={"Performance"} loading={"lazy"} decoding={"async"} width={"800"} height={"800"} />
-</figure>
-<div data-layout-node={"n258"} className={"v96 captured-style"}>
-<p data-layout-node={"n259"} className={"v97 captured-style"}>
-{"เน้นความสะดวกสมัยควบคู่กับความสวยงาม"}
-</p>
-<p data-layout-node={"n260"} className={"v98 captured-style"}>
-{"ออกแบบ ติดตั้งระบบโทรศัพท์ สำหรับการใช้งานในสำนักงาน เน้นออกแบบให้เหมาะสมกับการใช้งานแต่ละองค์กร"}
-</p>
-</div>
-</div>
-</div>
-</div>
-<div data-layout-node={"n261"} className={"v63 captured-style"}>
-<div data-layout-node={"n262"} className={"v92 captured-style"}>
-<div data-layout-node={"n263"} className={"v93 captured-style"}>
-<figure data-layout-node={"n264"} className={"v94 media-widget captured-style"}>
-<img data-layout-node={"n265"} className={"v95 captured-style"} src={"https://aitscctv.com/wp-content/uploads/2023/03/plan.svg"} alt={"Plan"} loading={"lazy"} decoding={"async"} width={"800"} height={"800"} />
-</figure>
-<div data-layout-node={"n266"} className={"v96 captured-style"}>
-<p data-layout-node={"n267"} className={"v97 captured-style"}>
-{"มาที่เดียวก็ครบทุกสิ่ง!"}
-</p>
-<p data-layout-node={"n268"} className={"v98 captured-style"}>
-{"AITS เราเป็นบริษัทเทคโนโลยีชั้นนำที่มีบริการครบวงจร ลูกค้าไม่ต้องหาทีมแยกให้ปวดหัว และเสียเวลา มาหาเราที่เดียว ครบทุกบริการ"}
-</p>
-</div>
-</div>
-</div>
-</div>
-<div data-layout-node={"n269"} className={"v63 captured-style"}>
-<div data-layout-node={"n270"} className={"v92 captured-style"}>
-<div data-layout-node={"n271"} className={"v93 captured-style"}>
-<figure data-layout-node={"n272"} className={"v94 media-widget captured-style"}>
-<img data-layout-node={"n273"} className={"v95 captured-style"} src={"https://aitscctv.com/wp-content/uploads/2023/03/training-achievement-medal.svg"} alt={"Training achievement medal"} loading={"lazy"} decoding={"async"} width={"800"} height={"800"} />
-</figure>
-<div data-layout-node={"n274"} className={"v96 captured-style"}>
-<p data-layout-node={"n275"} className={"v97 captured-style"}>
-{"มีความเป็นมืออาชีพ"}
-</p>
-<p data-layout-node={"n276"} className={"v98 captured-style"}>
-{"ดำเนินงานโดยช่างติดตั้งระบบรักษาความปลอดภัยมืออาชีพที่มีประสบการณ์มากกว่า 20 ปี"}
-</p>
-</div>
-</div>
-</div>
-</div>
-<div data-layout-node={"n277"} className={"v63 captured-style"}>
-<div data-layout-node={"n278"} className={"v92 captured-style"}>
-<div data-layout-node={"n279"} className={"v93 captured-style"}>
-<figure data-layout-node={"n280"} className={"v94 media-widget captured-style"}>
-<img data-layout-node={"n281"} className={"v95 captured-style"} src={"https://aitscctv.com/wp-content/uploads/2023/03/care-treatment-heart.svg"} alt={"Care treatment heart"} loading={"lazy"} decoding={"async"} width={"800"} height={"800"} />
-</figure>
-<div data-layout-node={"n282"} className={"v96 captured-style"}>
-<p data-layout-node={"n283"} className={"v97 captured-style"}>
-{"ใส่ใจดูแลลูกค้าเป็นอย่างดี"}
-</p>
-<p data-layout-node={"n284"} className={"v98 captured-style"}>
-{"มีทีมงานดูแลบริการหลังการขาย พร้อมให้คำแนะนำอย่างใกล้ชิดตั้งแต่ก่อนเริ่มงานไปจนถึงหลังการขาย"}
-</p>
-</div>
-</div>
-</div>
-</div>
-<div data-layout-node={"n285"} className={"v63 captured-style"}>
-<div data-layout-node={"n286"} className={"v92 captured-style"}>
-<div data-layout-node={"n287"} className={"v93 captured-style"}>
-<figure data-layout-node={"n288"} className={"v94 media-widget captured-style"}>
-<img data-layout-node={"n289"} className={"v95 captured-style"} src={"https://aitscctv.com/wp-content/uploads/2023/03/warranty-term.svg"} alt={"Warranty term"} loading={"lazy"} decoding={"async"} width={"800"} height={"800"} />
-</figure>
-<div data-layout-node={"n290"} className={"v96 captured-style"}>
-<p data-layout-node={"n291"} className={"v97 captured-style"}>
-{"มีการรับประกันสินค้า"}
-</p>
-<p data-layout-node={"n292"} className={"v98 captured-style"}>
-{"รับประกันตัวสินค้าให้ 1 ปีเต็ม\r\nการรับประกันงานบริการ 1 ปี โดยเฉพาะ Onsite*\r\n"}
-</p>
-</div>
-</div>
-</div>
-</div>
-</div>
-<div data-layout-node={"n293"} className={"v99 captured-style"}>
-<div data-layout-node={"n294"} className={"v100 captured-style"}>
-{"\r\n\t\t\t\t\t\t\t**ยกเว้นความเสียหายในกรณีที่เกิดขึ้นมาจากคน สัตว์ สิ่งของ และภัยธรรมชาติ\t\t\t\t\t\t"}
-</div>
-</div>
-</div>
-</div>
-</div>
-<div data-layout-node={"n295"} className={"v7 section captured-style"}>
-<div data-layout-node={"n296"} className={"v72 captured-style"}>
-<div data-layout-node={"n297"} className={"v60 captured-style"}>
-<div data-layout-node={"n298"} className={"v61 captured-style"}>
-<p data-layout-node={"n299"} className={"v101 captured-style"}>
-{"นอกจากนี้เรายังรับให้คำแนะนำที่มีทีมงานพร้อมให้คำแนะนำการติดตั้งระบบโทรศัพท์"}
-</p>
-<p data-layout-node={"n300"} className={"v101 captured-style"}>
-{"อย่างครบวงจร หากสนใจสามารถเข้ามาปรึกษาเราได้"}
-</p>
-</div>
-</div>
-<div data-layout-node={"n301"} className={"v102 section captured-style"}>
-<div data-layout-node={"n302"} className={"v103 layout-row captured-style"}>
-<div data-layout-node={"n303"} className={"v104 section captured-style"}>
-<div data-layout-node={"n304"} className={"v105 captured-style"}>
-<div data-layout-node={"n305"} className={"v106 captured-style"}>
-<div data-layout-node={"n306"} className={"v107 layout-row captured-style"}>
-<div data-layout-node={"n307"} className={"v108 captured-style"}>
-<SiteLink data-layout-node={"n308"} className={"v109 captured-style"} href={"tel:0944606196"}>
-<i data-layout-node={"n309"} className={"v110 captured-style"}>
-
-</i>
-</SiteLink>
-</div>
-<div data-layout-node={"n310"} className={"v111 captured-style"}>
-<p data-layout-node={"n311"} className={"v112 captured-style"}>
-<SiteLink data-layout-node={"n312"} className={"v113 captured-style"} href={"tel:0944606196"}>
-{"\r\n\t\t\t\t\t\tให้คำปรึกษาฟรี\t\t\t\t\t"}
-</SiteLink>
-</p>
-<p data-layout-node={"n313"} className={"v114 large-copy captured-style"}>
-{"\r\n\t\t\t\t\t\t094 460 6196\t\t\t\t\t"}
-</p>
-</div>
-</div>
-</div>
-</div>
-</div>
-<div data-layout-node={"n314"} className={"v115 section captured-style"}>
-<div data-layout-node={"n315"} className={"v116 captured-style"}>
-<div data-layout-node={"n316"} className={"v117 captured-style"}>
-<div data-layout-node={"n317"} className={"v118 layout-row captured-style"}>
-<div data-layout-node={"n318"} className={"v119 captured-style"}>
-<SiteLink data-layout-node={"n319"} className={"v109 captured-style"} href={"https://page.line.me/852uanad?openQrModal=true"}>
-<i data-layout-node={"n320"} className={"v120 captured-style"}>
-
-</i>
-</SiteLink>
-</div>
-<div data-layout-node={"n321"} className={"v121 captured-style"}>
-<p data-layout-node={"n322"} className={"v122 captured-style"}>
-<SiteLink data-layout-node={"n323"} className={"v113 captured-style"} href={"https://page.line.me/852uanad?openQrModal=true"}>
-{"\r\n\t\t\t\t\t\tLine\t\t\t\t\t"}
-</SiteLink>
-</p>
-<p data-layout-node={"n324"} className={"v123 large-copy captured-style"}>
-{"\r\n\t\t\t\t\t\t@AITSCCTV\t\t\t\t\t"}
-</p>
-</div>
-</div>
-</div>
-</div>
-</div>
-<div data-layout-node={"n325"} className={"v124 section captured-style"}>
-<div data-layout-node={"n326"} className={"v125 captured-style"}>
-<div data-layout-node={"n327"} className={"v126 captured-style"}>
-<div data-layout-node={"n328"} className={"v127 captured-style"}>
-<SiteLink data-layout-node={"n329"} className={"v128 action-link captured-style"} href={"https://page.line.me/852uanad?openQrModal=true"} target={"_blank"} rel={"noopener"}>
-<span data-layout-node={"n330"} className={"v129 captured-style"}>
-<span data-layout-node={"n331"} className={"v130 captured-style"}>
-{"ปรึกษาฟรีคลิก"}
-</span>
-</span>
-</SiteLink>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-<div data-layout-node={"n332"} className={"v131 section captured-style"}>
-<div data-layout-node={"n333"} className={"v132 captured-style"}>
-<div data-layout-node={"n334"} className={"v133 captured-style"}>
-<div data-layout-node={"n335"} className={"v134 captured-style"}>
-<span data-layout-node={"n336"} className={"v53 captured-style"}>
-
-</span>
-<h2 data-layout-node={"n337"} className={"v135 captured-style"} id={"elementor-toc__heading-anchor-4"}>
-{"ยี่ห้ออุปกรณ์ระบบอินเทอร์เน็ตที่ AITSCCTV แนะนำ\r\n"}
-</h2>
-</div>
-</div>
-<div data-layout-node={"n338"} className={"v136 captured-style"}>
-<div data-layout-node={"n339"} className={"v137 captured-style"}>
-{"\r\n\t\t\t\t\t\t\tเราคัดสรรแต่อุปกรณ์ที่มีคุณภาพสูงได้มาตรฐาน สำหรับบ้านและอาคารของคุณ\t\t\t\t\t\t"}
-</div>
-</div>
-<div data-layout-node={"n340"} className={"v138 text-widget captured-style"}>
-<div data-layout-node={"n341"} className={"v139 text-widget captured-style"}>
-<h3 data-layout-node={"n342"} className={"v140 captured-style"}>
-{"ยี่ห้อระบบโทรศัพท์"}
-</h3>
-</div>
-</div>
-<div data-layout-node={"n343"} className={"v141 captured-style"}>
-<div data-layout-node={"n344"} className={"v142 captured-style"}>
-<img data-layout-node={"n345"} className={"v143 captured-style"} src={"/assets/remote-31e9f8c0c9264aac-responsive-512.webp"} alt={"dinstar"} loading={"lazy"} decoding={"async"} srcSet={"/assets/remote-31e9f8c0c9264aac-responsive-160.webp 160w, /assets/remote-31e9f8c0c9264aac-responsive-320.webp 320w, /assets/remote-31e9f8c0c9264aac-responsive-512.webp 512w"} sizes={"(max-width: 640px) calc(100vw - 40px), (max-width: 1024px) 50vw, 1200px"} width={"512"} height={"512"} />
-</div>
-</div>
-<div data-layout-node={"n346"} className={"v144 text-widget captured-style"}>
-<div data-layout-node={"n347"} className={"v145 text-widget captured-style"}>
-<h3 data-layout-node={"n348"} className={"v146 captured-style"}>
-{"ยี่ห้อ Switch Access & Switch Hub"}
-</h3>
-</div>
-</div>
-<div data-layout-node={"n349"} className={"v10 section captured-style"}>
-<div data-layout-node={"n350"} className={"v147 layout-row layout-inner captured-style"}>
-<div data-layout-node={"n351"} className={"v148 captured-style"}>
-<div data-layout-node={"n352"} className={"v149 captured-style"}>
-<img data-layout-node={"n353"} className={"v150 captured-style"} src={"/assets/remote-6e5c3f11cbf09bee-responsive-512.webp"} alt={"reyee"} loading={"lazy"} decoding={"async"} srcSet={"/assets/remote-6e5c3f11cbf09bee-responsive-160.webp 160w, /assets/remote-6e5c3f11cbf09bee-responsive-320.webp 320w, /assets/remote-6e5c3f11cbf09bee-responsive-512.webp 512w"} sizes={"(max-width: 640px) calc(100vw - 40px), (max-width: 1024px) 50vw, 1200px"} width={"512"} height={"512"} />
-</div>
-</div>
-<div data-layout-node={"n354"} className={"v148 captured-style"}>
-<div data-layout-node={"n355"} className={"v149 captured-style"}>
-<img data-layout-node={"n356"} className={"v150 captured-style"} src={"/assets/remote-4f8d44f287494747-responsive-480.webp"} alt={"ruijie"} loading={"lazy"} decoding={"async"} srcSet={"/assets/remote-4f8d44f287494747-responsive-160.webp 160w, /assets/remote-4f8d44f287494747-responsive-320.webp 320w, /assets/remote-4f8d44f287494747-responsive-480.webp 480w"} sizes={"(max-width: 640px) calc(100vw - 40px), (max-width: 1024px) 50vw, 1200px"} width={"480"} height={"480"} />
-</div>
-</div>
-<div data-layout-node={"n357"} className={"v148 captured-style"}>
-<div data-layout-node={"n358"} className={"v149 captured-style"}>
-<img data-layout-node={"n359"} className={"v150 captured-style"} src={"/assets/remote-9c2fbdeb95e5737b-responsive-512.webp"} alt={"aruba"} loading={"lazy"} decoding={"async"} srcSet={"/assets/remote-9c2fbdeb95e5737b-responsive-160.webp 160w, /assets/remote-9c2fbdeb95e5737b-responsive-320.webp 320w, /assets/remote-9c2fbdeb95e5737b-responsive-512.webp 512w"} sizes={"(max-width: 640px) calc(100vw - 40px), (max-width: 1024px) 50vw, 1200px"} width={"512"} height={"512"} />
-</div>
-</div>
-</div>
-</div>
-<div data-layout-node={"n360"} className={"v151 text-widget captured-style"}>
-<div data-layout-node={"n361"} className={"v152 text-widget captured-style"}>
-<h3 data-layout-node={"n362"} className={"v153 captured-style"}>
-{"ยี่ห้อสายสื่อสาร"}
-</h3>
-</div>
-</div>
-<div data-layout-node={"n363"} className={"v141 captured-style"}>
-<div data-layout-node={"n364"} className={"v142 captured-style"}>
-<img data-layout-node={"n365"} className={"v143 captured-style"} src={"/assets/remote-d39408a897dd0aa5-responsive-512.webp"} alt={"Link"} loading={"lazy"} decoding={"async"} srcSet={"/assets/remote-d39408a897dd0aa5-responsive-160.webp 160w, /assets/remote-d39408a897dd0aa5-responsive-320.webp 320w, /assets/remote-d39408a897dd0aa5-responsive-512.webp 512w"} sizes={"(max-width: 640px) calc(100vw - 40px), (max-width: 1024px) 50vw, 1200px"} width={"512"} height={"512"} />
-</div>
-</div>
-<div data-layout-node={"n366"} className={"v154 text-widget captured-style"}>
-<div data-layout-node={"n367"} className={"v155 text-widget captured-style"}>
-<h3 data-layout-node={"n368"} className={"v156 captured-style"}>
-{"ยี่ห้อสายไฟ"}
-</h3>
-</div>
-</div>
-<div data-layout-node={"n369"} className={"v141 captured-style"}>
-<div data-layout-node={"n370"} className={"v142 captured-style"}>
-<img data-layout-node={"n371"} className={"v143 captured-style"} src={"/assets/remote-d964e89beeb00f9e-responsive-512.webp"} alt={"yazaki"} loading={"lazy"} decoding={"async"} srcSet={"/assets/remote-d964e89beeb00f9e-responsive-160.webp 160w, /assets/remote-d964e89beeb00f9e-responsive-320.webp 320w, /assets/remote-d964e89beeb00f9e-responsive-512.webp 512w"} sizes={"(max-width: 640px) calc(100vw - 40px), (max-width: 1024px) 50vw, 1200px"} width={"512"} height={"512"} />
-</div>
-</div>
-</div>
-</div>
-<div data-layout-node={"n372"} className={"v59 section captured-style"}>
-<div data-layout-node={"n373"} className={"v72 captured-style"}>
-<div data-layout-node={"n374"} className={"v3 text-widget captured-style"}>
-<div data-layout-node={"n375"} className={"v4 text-widget captured-style"}>
-<p data-layout-node={"n376"} className={"v5 captured-style"}>
-{"WHAT IS TELEPHONY SERVICE"}
-</p>
-</div>
-</div>
-<div data-layout-node={"n377"} className={"v3 captured-style"}>
-<div data-layout-node={"n378"} className={"v4 captured-style"}>
-<span data-layout-node={"n379"} className={"v53 captured-style"}>
-
-</span>
-<h2 data-layout-node={"n380"} className={"v9 captured-style"} id={"elementor-toc__heading-anchor-5"}>
-{"ระบบโทรศัพท์สำนักงาน คืออะไร? "}
-</h2>
-</div>
-</div>
-<div data-layout-node={"n381"} className={"v10 section captured-style"}>
-<div data-layout-node={"n382"} className={"v11 layout-row captured-style"}>
-<div data-layout-node={"n383"} className={"v157 media-widget captured-style"}>
-<div data-layout-node={"n384"} className={"v158 media-widget captured-style"}>
-<img data-layout-node={"n385"} className={"v159 captured-style"} src={"/assets/remote-835f83a2212012b9-responsive-640.webp"} alt={"Close up person working call center"} loading={"lazy"} decoding={"async"} width={"767"} height={"512"} srcSet={"/assets/remote-835f83a2212012b9-responsive-160.webp 160w, /assets/remote-835f83a2212012b9-responsive-320.webp 320w, /assets/remote-835f83a2212012b9-responsive-640.webp 640w, /assets/remote-835f83a2212012b9-responsive-1000.webp 1000w"} sizes={"(max-width: 640px) calc(100vw - 40px), (max-width: 1024px) 50vw, 453px"} />
-</div>
-</div>
-<div data-layout-node={"n386"} className={"v160 captured-style"}>
-<div data-layout-node={"n387"} className={"v161 captured-style"}>
-{"\r\n\t\t\t\t\t\t\tในยุคปัจจุบันโทรศัพท์ได้มีบทบาทสำคัญอย่างมาก เนื่องจากใช้ในการติดต่อสื่อสารให้ง่ายขึ้น ซึ่งถึงแม้ว่าจะมีโทรศัพท์มือถือใช้กันทั่วไปแล้ว โทรศัพท์บ้านจึงถูกลดความสำคัญลง แต่ว่าระบบโทรศัพท์ในออฟฟิศเองก็ยังคงได้รับความนิยมสูงอยู่ เนื่องจากโทรศัพท์ออฟฟิศนั้นสามารถประยุกต์ใช้งานได้หลากหลาย นอกจากจะใช้สื่อสารแบบทั่วไปแล้ว ยังสามารถใช้ต่อสายสำหรับติดต่อภายในองค์กรได้ง่ายดาย เชื่อมต่อระหว่างแผนกต่าง ๆ การติดต่อร่วมกันระหว่างสาขา ต่อสาย ประชุมสาย และยังช่วยเพิ่มช่องทางการติดต่อสำหรับลูกค้าภายนอกได้สะดวกด้วยระบบรอสายแบบ Call Center\t\t\t\t\t\t"}
-</div>
-</div>
-</div>
-</div>
-<div data-layout-node={"n388"} className={"v10 section captured-style"}>
-<div data-layout-node={"n389"} className={"v162 layout-row captured-style"}>
-<div data-layout-node={"n390"} className={"v157 media-widget captured-style"}>
-<div data-layout-node={"n391"} className={"v158 media-widget captured-style"}>
-<img data-layout-node={"n392"} className={"v159 captured-style"} src={"/assets/remote-08ee6eb1cc7f826a-responsive-640.webp"} alt={"Busy disabled team leader answering phone talking with partner typing computer explaning project idea checking financial data"} loading={"lazy"} decoding={"async"} width={"1000"} height={"667"} srcSet={"/assets/remote-08ee6eb1cc7f826a-responsive-160.webp 160w, /assets/remote-08ee6eb1cc7f826a-responsive-320.webp 320w, /assets/remote-08ee6eb1cc7f826a-responsive-640.webp 640w, /assets/remote-08ee6eb1cc7f826a-responsive-1000.webp 1000w"} sizes={"(max-width: 640px) calc(100vw - 40px), (max-width: 1024px) 50vw, 453px"} />
-</div>
-</div>
-<div data-layout-node={"n393"} className={"v160 captured-style"}>
-<div data-layout-node={"n394"} className={"v161 captured-style"}>
-{"\r\n\t\t\t\t\t\t\tนอกจากนี้การใช้งานโทรศัพท์องค์กรแบบใช้เบอร์โทรศัพท์เบอร์เดียวนั้น ยังช่วยเพิ่มภาพลักษณ์ให้องค์กรของท่านมีความน่าเชื่อถือมากขึ้นในสายตาของลูกค้า อีกทั้งยังตอบโจทย์การติดต่อที่ง่ายดาย เพราะคุณสามารถใช้เบอร์ติดต่อกับลูกค้าเบอร์เดียวได้เลย เวลาลูกค้าติดต่อเข้ามาก็ใช้วิธีโอนสายไปตามแผนกที่ลูกค้าต้องการ ดีกว่าการให้เบอร์ลูกค้าเป็นหลาย ๆ เบอรืสำหรับติดต่อแยกแผนกที่เสี่ยงต่อการสร้างความสับสนให้แก่ลูกค้าได้\r\n\t\t\t\t\t\t"}
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-<div data-layout-node={"n395"} className={"v7 section captured-style"}>
-<div data-layout-node={"n396"} className={"v163 captured-style"}>
-<div data-layout-node={"n397"} className={"v3 captured-style"}>
-<div data-layout-node={"n398"} className={"v4 captured-style"}>
-<span data-layout-node={"n399"} className={"v53 captured-style"}>
-
-</span>
-<h2 data-layout-node={"n400"} className={"v9 captured-style"} id={"elementor-toc__heading-anchor-6"}>
-{"ความแตกต่างระหว่างโทรศัพท์อนาล็อก (Analog Phone) VS โทรศัพท์ IP Phone"}
-</h2>
-</div>
-</div>
-<div data-layout-node={"n401"} className={"v10 section captured-style"}>
-<div data-layout-node={"n402"} className={"v11 layout-row captured-style"}>
-<div data-layout-node={"n403"} className={"v164 section captured-style"}>
-<div data-layout-node={"n404"} className={"v165 captured-style"}>
-<div data-layout-node={"n405"} className={"v3 text-widget captured-style"}>
-<div data-layout-node={"n406"} className={"v166 text-widget captured-style"}>
-<h3 data-layout-node={"n407"} className={"v167 captured-style"}>
-{"โทรศัพท์อนาล็อก (Analog Phone)"}
-</h3>
-</div>
-</div>
-<div data-layout-node={"n408"} className={"v18 captured-style"}>
-<div data-layout-node={"n409"} className={"v19 captured-style"}>
-{"\r\n\t\t\t\t\t\t\tคือ โทรศัพท์อนาล็อก คืออุปกรณ์การสื่อสารทั่วไปที่ใช้การสื่อสารเชื่อมต่อผ่านสายทองแดง สามารถใช้ในการสื่อสารขั้นพื้นฐานคือ สามารถรับสาย โทรออก โอนสาย พักสาย โอนสาย รวมสายระบบชุมสายโทรศัพท์ได้ แม้แต่ในสถานที่ ๆ ไร้ไฟฟ้าก็สามารถใช้งานได้ (ในกรณีระบบชุมสายโทรศัพท์พร้อมใช้งานปกติ) มีราคาถูก แต่ว่ามีข้อกำกัดเวลาที่ต้องเพิ่มหรือเปลี่ยนตำแหน่ง จะต้องเดินสายใหม่ทั้งหมด \t\t\t\t\t\t"}
-</div>
-</div>
-</div>
-</div>
-<div data-layout-node={"n410"} className={"v164 section captured-style"}>
-<div data-layout-node={"n411"} className={"v165 captured-style"}>
-<div data-layout-node={"n412"} className={"v3 text-widget captured-style"}>
-<div data-layout-node={"n413"} className={"v166 text-widget captured-style"}>
-<h3 data-layout-node={"n414"} className={"v167 captured-style"}>
-{"โทรศัพท์ IP Phone คือ"}
-</h3>
-</div>
-</div>
-<div data-layout-node={"n415"} className={"v18 captured-style"}>
-<div data-layout-node={"n416"} className={"v168 captured-style"}>
-{"\r\n\t\t\t\t\t\t\tคือโทรศัพท์ที่หากมองจากหน้าตาแล้วจะดูเหมือนโทรศัพทืบ้านทั่วไปไม่ต่างจากอลาล็อกเท่าไร แต่โทรศัพท์ IP Phone จะมีการพัฒนาภายในให้สามารถใช้ง่ายได้ตอบโจทย์กว่า Analog Phone เช่น การใช้สาย LAN ในการเชื่อมต่อ และยังรองรับการใช้งานผ่าน WiFi ได้ด้วย\r\nในอดีตโทรศัพท์ IP Phone มักจะไม่นิยมเพราะมีราคาสูง แต่ในปัจจุบันราคาจับต้องได้มากขึ้น ทำให้โทรศัพท์ IP Phone ได้รับความนิยมสูงกว่า Analog Phone เพราะมีฟังก์ชั่นการใช้งานที่หลากหลายกว่ากว่า ขั้นตอนการบำรุงรักษาที่ไม่ซับซ้อน การสื่อสารสามารถติดได้ทั้งผ่านเสื่อและวิดีโอ บางรุ่นมีการรองรับ Android หน้าจอแบบสัมผัสได้ เหมาะสำหรับการใช้งานในองค์กรมากกว่า\r\n\t\t\t\t\t\t"}
-</div>
 </div>
 </div>
 </div>
@@ -1105,372 +729,247 @@ export default function Page4113(){return <div className="page-4113 captured-pag
 </div>
 </div>
 </div>
-<div data-layout-node={"n492"} className={"v7 section captured-style"}>
-<div data-layout-node={"n493"} className={"v163 captured-style"}>
-<div data-layout-node={"n494"} className={"v3 captured-style"}>
-<div data-layout-node={"n495"} className={"v4 captured-style"}>
-<span data-layout-node={"n496"} className={"v53 captured-style"}>
+<ServiceWarranty path={"/telephone-system/"} />
+<details className={"service-detail"}>
+<summary>
+{"รายละเอียดทางเทคนิคและแนวทางเลือกใช้งาน"}
+</summary>
+<div className={"service-detail-content"}>
+<div data-layout-node={"n82"} className={"v51 section captured-style"}>
+<div data-layout-node={"n83"} className={"v52 captured-style"}>
+<div data-layout-node={"n84"} className={"v3 captured-style"}>
+<div data-layout-node={"n85"} className={"v4 captured-style"}>
+<span data-layout-node={"n86"} className={"v53 captured-style"}>
 
 </span>
-<h2 data-layout-node={"n497"} className={"v9 captured-style"} id={"elementor-toc__heading-anchor-8"}>
-{"ข้อดีของการใช้โทรศัพท์สำนักงานแต่ละระบบ"}
+<h2 data-layout-node={"n87"} className={"v9 captured-style"} id={"elementor-toc__heading-anchor-0"}>
+{"ลูกค้าที่ไว้วางใจใช้บริการติดตั้งระบบโทรศัพท์กับ AITSCCTV\r\n"}
 </h2>
 </div>
 </div>
-<div data-layout-node={"n498"} className={"v60 captured-style"}>
-<div data-layout-node={"n499"} className={"v61 captured-style"}>
-{"\r\n\t\t\t\t\t\t\tระบบโทรศัพท์แต่ละประเภทต่างก็มีข้อดีที่แตกต่างกัน ดังนี้\t\t\t\t\t\t"}
+<div data-layout-node={"n88"} className={"v10 section captured-style"}>
+<div data-layout-node={"n89"} className={"v54 layout-row captured-style"}>
+<div data-layout-node={"n90"} className={"v55 captured-style"}>
+<div data-layout-node={"n91"} className={"v4 captured-style"}>
+<figure data-layout-node={"n92"} className={"v56 captured-style"}>
+<img data-layout-node={"n93"} className={"v57 captured-style"} src={"/assets/remote-0dc366bb409c8bbc-responsive-300.webp"} alt={"Nissan"} loading={"lazy"} decoding={"async"} width={"150"} height={"150"} srcSet={"/assets/remote-0dc366bb409c8bbc-responsive-160.webp 160w, /assets/remote-0dc366bb409c8bbc-responsive-300.webp 300w"} sizes={"150px"} />
+<figcaption data-layout-node={"n94"} className={"v58 captured-style"}>
+{"Nissan Emperor"}
+</figcaption>
+</figure>
 </div>
 </div>
-<div data-layout-node={"n500"} className={"v26 captured-style"}>
-<div data-layout-node={"n501"} className={"v169 captured-style"}>
-<h3 data-layout-node={"n502"} className={"v170 captured-style"}>
-{"ข้อดีของการใช้โทรศัพท์สำนักงานแต่ละระบบ"}
+<div data-layout-node={"n95"} className={"v55 captured-style"}>
+<div data-layout-node={"n96"} className={"v4 captured-style"}>
+<figure data-layout-node={"n97"} className={"v56 captured-style"}>
+<img data-layout-node={"n98"} className={"v57 captured-style"} src={"/assets/remote-e847ad7c56dd7b80-responsive-300.webp"} alt={"Kt"} loading={"lazy"} decoding={"async"} width={"150"} height={"150"} srcSet={"/assets/remote-e847ad7c56dd7b80-responsive-160.webp 160w, /assets/remote-e847ad7c56dd7b80-responsive-300.webp 300w"} sizes={"150px"} />
+<figcaption data-layout-node={"n99"} className={"v58 captured-style"}>
+{"KT Autopar"}
+</figcaption>
+</figure>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div data-layout-node={"n332"} className={"v131 section captured-style"}>
+<div data-layout-node={"n333"} className={"v132 captured-style"}>
+<div data-layout-node={"n334"} className={"v133 captured-style"}>
+<div data-layout-node={"n335"} className={"v134 captured-style"}>
+<span data-layout-node={"n336"} className={"v53 captured-style"}>
+
+</span>
+<h2 data-layout-node={"n337"} className={"v135 captured-style"} id={"elementor-toc__heading-anchor-4"}>
+{"ยี่ห้ออุปกรณ์ระบบอินเทอร์เน็ตที่ AITSCCTV แนะนำ\r\n"}
+</h2>
+</div>
+</div>
+<div data-layout-node={"n338"} className={"v136 captured-style"}>
+<div data-layout-node={"n339"} className={"v137 captured-style"}>
+{"\r\n\t\t\t\t\t\t\tเราคัดสรรแต่อุปกรณ์ที่มีคุณภาพสูงได้มาตรฐาน สำหรับบ้านและอาคารของคุณ\t\t\t\t\t\t"}
+</div>
+</div>
+<div data-layout-node={"n340"} className={"v138 text-widget captured-style"}>
+<div data-layout-node={"n341"} className={"v139 text-widget captured-style"}>
+<h3 data-layout-node={"n342"} className={"v140 captured-style"}>
+{"ยี่ห้อระบบโทรศัพท์"}
 </h3>
-<div data-layout-node={"n503"} className={"v171 captured-style"}>
-<div className={"table-scroll"} role={"region"} aria-label={"ตารางเปรียบเทียบ เลื่อนเพื่อดูข้อมูลเพิ่มเติม"} tabIndex={0}>
-<table data-layout-node={"n504"} className={"v172 captured-style"}>
-<tbody data-layout-node={"n505"} className={"v173 captured-style"}>
-<tr data-layout-node={"n506"} className={"v174 captured-style"}>
-<td data-layout-node={"n507"} className={"v183 captured-style"}>
-{"\r\n                                        ระบบโทรศัพท์สำนักงาน                    "}
-</td>
-<td data-layout-node={"n508"} className={"v183 captured-style"}>
-{"\r\n                                        ข้อดีของแต่ละระบบโทรศัพท์                    "}
-</td>
-</tr>
-<tr data-layout-node={"n509"} className={"v174 captured-style"}>
-<td data-layout-node={"n510"} className={"v184 captured-style"}>
-{"\r\n                                        ระบบโทรศัพท์อนาล็อค (Analog Phone System)                    "}
-</td>
-<td data-layout-node={"n511"} className={"v184 captured-style"}>
-<div data-layout-node={"n512"} className={"v185 captured-style"}>
-<ul data-layout-node={"n513"} className={"v186 captured-style"}>
-<li data-layout-node={"n514"} className={"v182 captured-style"}>
-{"ส่งสัญญาณผ่านสายโทรศัพท์"}
-</li>
-<li data-layout-node={"n515"} className={"v182 captured-style"}>
-{"สามารถใช้งานได้แม้ไม่มีกระแสไฟ"}
-</li>
-<li data-layout-node={"n516"} className={"v182 captured-style"}>
-{"มีการใช้ระบบตู้สาขาเพื่อให้"}
-</li>
-<li data-layout-node={"n517"} className={"v182 captured-style"}>
-{"สามารถโทรภายในบริษัทเป็นเลขหมายภายใน โดยมีข้อจำกัดสามาถต่อสายเข้ามาและโทรออกเฉพาะสถานที่นั้น ๆ "}
-</li>
-</ul>
 </div>
-</td>
-</tr>
-<tr data-layout-node={"n518"} className={"v174 captured-style"}>
-<td data-layout-node={"n519"} className={"v184 captured-style"}>
-{"\r\n                                        ระบบโทรศัพท์แบบแบบไฮบริด (Hybrid IP-PBX)                    "}
-</td>
-<td data-layout-node={"n520"} className={"v184 captured-style"}>
-<div data-layout-node={"n521"} className={"v185 captured-style"}>
-<ul data-layout-node={"n522"} className={"v186 captured-style"}>
-<li data-layout-node={"n523"} className={"v182 captured-style"}>
-{"รองรับระบบ IP Address"}
-</li>
-<li data-layout-node={"n524"} className={"v182 captured-style"}>
-{"เชื่อมโยงโทรศัพท์กับอีเมล สามารถส่งข้อความเสียงผ่านอีเมลได้โดยข้อความเสียงจะถูกส่งเป็นสกุลไฟล์ wav."}
-</li>
-<li data-layout-node={"n525"} className={"v182 captured-style"}>
-{"สามารถทำงานร่วมกับอุปกรณ์เครือข่ายอื่น ๆ ได้ เช่น Analog Trunks, PRI Circuit ,SIP Trunks ในกรณีที่ต้องการเพิ่มคู่สาย"}
-</li>
-</ul>
 </div>
-</td>
-</tr>
-<tr data-layout-node={"n526"} className={"v174 captured-style"}>
-<td data-layout-node={"n527"} className={"v184 captured-style"}>
-{"\r\n                                        ระบบโทรศัพท์ดิจิทัล ( Digital Phone System)                    "}
-</td>
-<td data-layout-node={"n528"} className={"v184 captured-style"}>
-<div data-layout-node={"n529"} className={"v185 captured-style"}>
-<ul data-layout-node={"n530"} className={"v186 captured-style"}>
-<li data-layout-node={"n531"} className={"v182 captured-style"}>
-{"มีระบบการทำงานที่เป็นระเบียบแบบแผน"}
-</li>
-<li data-layout-node={"n532"} className={"v182 captured-style"}>
-{"สามารถติดต่อภายในได้เพียงผ่านการโอนสายเท่านั้น"}
-</li>
-</ul>
+<div data-layout-node={"n343"} className={"v141 captured-style"}>
+<div data-layout-node={"n344"} className={"v142 captured-style"}>
+<img data-layout-node={"n345"} className={"v143 captured-style"} src={"/assets/remote-31e9f8c0c9264aac-responsive-512.webp"} alt={"dinstar"} loading={"lazy"} decoding={"async"} srcSet={"/assets/remote-31e9f8c0c9264aac-responsive-160.webp 160w, /assets/remote-31e9f8c0c9264aac-responsive-320.webp 320w, /assets/remote-31e9f8c0c9264aac-responsive-512.webp 512w"} sizes={"(max-width: 640px) calc(100vw - 40px), (max-width: 1024px) 50vw, 1200px"} width={"512"} height={"512"} />
 </div>
-</td>
-</tr>
-<tr data-layout-node={"n533"} className={"v174 captured-style"}>
-<td data-layout-node={"n534"} className={"v184 captured-style"}>
-{"\r\n                                        โทรศัพท์ระบบ VoIP (Voice Over Internet Protocol)                    "}
-</td>
-<td data-layout-node={"n535"} className={"v187 captured-style"}>
-<div data-layout-node={"n536"} className={"v188 captured-style"}>
-<ul data-layout-node={"n537"} className={"v189 captured-style"}>
-<li data-layout-node={"n538"} className={"v182 captured-style"}>
-{"การเคลื่อนย้ายตำแหน่งที่ตั้งไม่ซับซ้อน"}
-</li>
-<li data-layout-node={"n539"} className={"v182 captured-style"}>
-{"เป็นระบบใหม่ที่ใช้ระบบอินเทอเนทเข้ามาร่วมด้วย"}
-</li>
-<li data-layout-node={"n540"} className={"v182 captured-style"}>
-{"สามารถใช้ในการโทรหาสาขาอื่นได้โดยผ่านอินเทอร์เน็ต"}
-</li>
-<li data-layout-node={"n541"} className={"v182 captured-style"}>
-{"สามารถติดตั้งกับเครือข่ายอินเทอร์เน็ตอีกจุดได้ โดยไม่สูญเสียเครือข่าย"}
-</li>
-<li data-layout-node={"n542"} className={"v182 captured-style"}>
-{"รองรับระบบ Conference Call,  Voice Mail"}
-</li>
-</ul>
 </div>
-</td>
-</tr>
-<tr data-layout-node={"n543"} className={"v174 captured-style"}>
-<td data-layout-node={"n544"} className={"v184 captured-style"}>
-{"\r\n                                        ระบบโทรศัพท์แบบคลาวด์ (Cloud)                    "}
-</td>
-<td data-layout-node={"n545"} className={"v184 captured-style"}>
-<div data-layout-node={"n546"} className={"v185 captured-style"}>
-<ul data-layout-node={"n547"} className={"v186 captured-style"}>
-<li data-layout-node={"n548"} className={"v182 captured-style"}>
-{"เป็นโทรศัพท์ที่ใช้การสื่อสารผ่านสัญญาณอินเทอร์เน็ต"}
-</li>
-<li data-layout-node={"n549"} className={"v182 captured-style"}>
-{"ไม่จำเป็นต้องใช้สายโทรศัพท์"}
-</li>
-<li data-layout-node={"n550"} className={"v182 captured-style"}>
-{"มีฟังก์ชันการใช้งานที่เหมาะกับองค์กร ทั้ง โอนสาย ฝากข้อความเสียง บันทึกบทสนทนาผ่านระบบตอบรับอัตโนมัติ"}
-</li>
-<li data-layout-node={"n551"} className={"v182 captured-style"}>
-{"ประหยัดค่าใช้จ่าย เพราะไม่ต้องติดตั้งอุปกรณ์ ไม่ต้องบำรุงรักษา ไม่เสียค่าโทรศัพท์"}
-</li>
-</ul>
+<div data-layout-node={"n346"} className={"v144 text-widget captured-style"}>
+<div data-layout-node={"n347"} className={"v145 text-widget captured-style"}>
+<h3 data-layout-node={"n348"} className={"v146 captured-style"}>
+{"ยี่ห้อ Switch Access & Switch Hub"}
+</h3>
 </div>
-</td>
-</tr>
-</tbody>
-</table>
+</div>
+<div data-layout-node={"n349"} className={"v10 section captured-style"}>
+<div data-layout-node={"n350"} className={"v147 layout-row layout-inner captured-style"}>
+<div data-layout-node={"n351"} className={"v148 captured-style"}>
+<div data-layout-node={"n352"} className={"v149 captured-style"}>
+<img data-layout-node={"n353"} className={"v150 captured-style"} src={"/assets/remote-6e5c3f11cbf09bee-responsive-512.webp"} alt={"reyee"} loading={"lazy"} decoding={"async"} srcSet={"/assets/remote-6e5c3f11cbf09bee-responsive-160.webp 160w, /assets/remote-6e5c3f11cbf09bee-responsive-320.webp 320w, /assets/remote-6e5c3f11cbf09bee-responsive-512.webp 512w"} sizes={"(max-width: 640px) calc(100vw - 40px), (max-width: 1024px) 50vw, 1200px"} width={"512"} height={"512"} />
+</div>
+</div>
+<div data-layout-node={"n354"} className={"v148 captured-style"}>
+<div data-layout-node={"n355"} className={"v149 captured-style"}>
+<img data-layout-node={"n356"} className={"v150 captured-style"} src={"/assets/remote-4f8d44f287494747-responsive-480.webp"} alt={"ruijie"} loading={"lazy"} decoding={"async"} srcSet={"/assets/remote-4f8d44f287494747-responsive-160.webp 160w, /assets/remote-4f8d44f287494747-responsive-320.webp 320w, /assets/remote-4f8d44f287494747-responsive-480.webp 480w"} sizes={"(max-width: 640px) calc(100vw - 40px), (max-width: 1024px) 50vw, 1200px"} width={"480"} height={"480"} />
+</div>
+</div>
+<div data-layout-node={"n357"} className={"v148 captured-style"}>
+<div data-layout-node={"n358"} className={"v149 captured-style"}>
+<img data-layout-node={"n359"} className={"v150 captured-style"} src={"/assets/remote-9c2fbdeb95e5737b-responsive-512.webp"} alt={"aruba"} loading={"lazy"} decoding={"async"} srcSet={"/assets/remote-9c2fbdeb95e5737b-responsive-160.webp 160w, /assets/remote-9c2fbdeb95e5737b-responsive-320.webp 320w, /assets/remote-9c2fbdeb95e5737b-responsive-512.webp 512w"} sizes={"(max-width: 640px) calc(100vw - 40px), (max-width: 1024px) 50vw, 1200px"} width={"512"} height={"512"} />
 </div>
 </div>
 </div>
 </div>
+<div data-layout-node={"n360"} className={"v151 text-widget captured-style"}>
+<div data-layout-node={"n361"} className={"v152 text-widget captured-style"}>
+<h3 data-layout-node={"n362"} className={"v153 captured-style"}>
+{"ยี่ห้อสายสื่อสาร"}
+</h3>
 </div>
 </div>
-<div data-layout-node={"n552"} className={"v7 section captured-style"}>
-<div data-layout-node={"n553"} className={"v190 captured-style"}>
-<div data-layout-node={"n554"} className={"v3 text-widget captured-style"}>
-<div data-layout-node={"n555"} className={"v4 text-widget captured-style"}>
-<p data-layout-node={"n556"} className={"v5 captured-style"}>
-{"Our Team"}
+<div data-layout-node={"n363"} className={"v141 captured-style"}>
+<div data-layout-node={"n364"} className={"v142 captured-style"}>
+<img data-layout-node={"n365"} className={"v143 captured-style"} src={"/assets/remote-d39408a897dd0aa5-responsive-512.webp"} alt={"Link"} loading={"lazy"} decoding={"async"} srcSet={"/assets/remote-d39408a897dd0aa5-responsive-160.webp 160w, /assets/remote-d39408a897dd0aa5-responsive-320.webp 320w, /assets/remote-d39408a897dd0aa5-responsive-512.webp 512w"} sizes={"(max-width: 640px) calc(100vw - 40px), (max-width: 1024px) 50vw, 1200px"} width={"512"} height={"512"} />
+</div>
+</div>
+<div data-layout-node={"n366"} className={"v154 text-widget captured-style"}>
+<div data-layout-node={"n367"} className={"v155 text-widget captured-style"}>
+<h3 data-layout-node={"n368"} className={"v156 captured-style"}>
+{"ยี่ห้อสายไฟ"}
+</h3>
+</div>
+</div>
+<div data-layout-node={"n369"} className={"v141 captured-style"}>
+<div data-layout-node={"n370"} className={"v142 captured-style"}>
+<img data-layout-node={"n371"} className={"v143 captured-style"} src={"/assets/remote-d964e89beeb00f9e-responsive-512.webp"} alt={"yazaki"} loading={"lazy"} decoding={"async"} srcSet={"/assets/remote-d964e89beeb00f9e-responsive-160.webp 160w, /assets/remote-d964e89beeb00f9e-responsive-320.webp 320w, /assets/remote-d964e89beeb00f9e-responsive-512.webp 512w"} sizes={"(max-width: 640px) calc(100vw - 40px), (max-width: 1024px) 50vw, 1200px"} width={"512"} height={"512"} />
+</div>
+</div>
+</div>
+</div>
+<div data-layout-node={"n372"} className={"v59 section captured-style"}>
+<div data-layout-node={"n373"} className={"v72 captured-style"}>
+<div data-layout-node={"n374"} className={"v3 text-widget captured-style"}>
+<div data-layout-node={"n375"} className={"v4 text-widget captured-style"}>
+<p data-layout-node={"n376"} className={"v5 captured-style"}>
+{"WHAT IS TELEPHONY SERVICE"}
 </p>
 </div>
 </div>
-<div data-layout-node={"n557"} className={"v3 captured-style"}>
-<div data-layout-node={"n558"} className={"v4 captured-style"}>
-<span data-layout-node={"n559"} className={"v53 captured-style"}>
+<div data-layout-node={"n377"} className={"v3 captured-style"}>
+<div data-layout-node={"n378"} className={"v4 captured-style"}>
+<span data-layout-node={"n379"} className={"v53 captured-style"}>
 
 </span>
-<h2 data-layout-node={"n560"} className={"v9 captured-style"} id={"elementor-toc__heading-anchor-9"}>
-{"ทีมงานของเรา AITSCCTV"}
+<h2 data-layout-node={"n380"} className={"v9 captured-style"} id={"elementor-toc__heading-anchor-5"}>
+{"ระบบโทรศัพท์สำนักงาน คืออะไร? "}
 </h2>
 </div>
 </div>
-<div data-layout-node={"n561"} className={"v60 captured-style"}>
-<div data-layout-node={"n562"} className={"v61 captured-style"}>
-{"\r\n\t\t\t\t\t\t\tพวกเรา AITSCCTV พร้อมสร้างมาตรฐานความปลอดภัยใหม่ให้คุณ\t\t\t\t\t\t"}
+<div data-layout-node={"n381"} className={"v10 section captured-style"}>
+<div data-layout-node={"n382"} className={"v11 layout-row captured-style"}>
+<div data-layout-node={"n383"} className={"v157 media-widget captured-style"}>
+<div data-layout-node={"n384"} className={"v158 media-widget captured-style"}>
+<img data-layout-node={"n385"} className={"v159 captured-style"} src={"/assets/remote-835f83a2212012b9-responsive-640.webp"} alt={"Close up person working call center"} loading={"lazy"} decoding={"async"} width={"767"} height={"512"} srcSet={"/assets/remote-835f83a2212012b9-responsive-160.webp 160w, /assets/remote-835f83a2212012b9-responsive-320.webp 320w, /assets/remote-835f83a2212012b9-responsive-640.webp 640w, /assets/remote-835f83a2212012b9-responsive-1000.webp 1000w"} sizes={"(max-width: 640px) calc(100vw - 40px), (max-width: 1024px) 50vw, 453px"} />
 </div>
 </div>
-<div data-layout-node={"n563"} className={"v191 section captured-style"}>
-<div data-layout-node={"n564"} className={"v192 captured-style"}>
-<div data-layout-node={"n565"} className={"v26 captured-style"}>
-<div data-layout-node={"n566"} className={"v169 captured-style"}>
-<div data-layout-node={"n567"} className={"v169 captured-style"}>
-<div data-layout-node={"n568"} className={"v193 captured-style"}>
-<figure data-layout-node={"n569"} className={"v194 media-widget captured-style"}>
-<div data-layout-node={"n570"} className={"v195 media-widget captured-style"}>
-<SiteLink data-layout-node={"n571"} className={"v196 media-widget captured-style"} href={"https://aitscctv.com/wp-content/uploads/2023/03/17-wiring-3.jpg"}>
-<img data-layout-node={"n572"} className={"v197 captured-style"} src={"/assets/remote-124511dbb5fe96a8-responsive-600.webp"} alt={"17 wiring"} loading={"lazy"} decoding={"async"} width={"600"} height={"400"} srcSet={"/assets/remote-124511dbb5fe96a8-responsive-160.webp 160w, /assets/remote-124511dbb5fe96a8-responsive-320.webp 320w, /assets/remote-124511dbb5fe96a8-responsive-600.webp 600w"} sizes={"(max-width: 640px) calc(100vw - 40px), (max-width: 1024px) 50vw, 273px"} />
-</SiteLink>
+<div data-layout-node={"n386"} className={"v160 captured-style"}>
+<div data-layout-node={"n387"} className={"v161 captured-style"}>
+{"\r\n\t\t\t\t\t\t\tในยุคปัจจุบันโทรศัพท์ได้มีบทบาทสำคัญอย่างมาก เนื่องจากใช้ในการติดต่อสื่อสารให้ง่ายขึ้น ซึ่งถึงแม้ว่าจะมีโทรศัพท์มือถือใช้กันทั่วไปแล้ว โทรศัพท์บ้านจึงถูกลดความสำคัญลง แต่ว่าระบบโทรศัพท์ในออฟฟิศเองก็ยังคงได้รับความนิยมสูงอยู่ เนื่องจากโทรศัพท์ออฟฟิศนั้นสามารถประยุกต์ใช้งานได้หลากหลาย นอกจากจะใช้สื่อสารแบบทั่วไปแล้ว ยังสามารถใช้ต่อสายสำหรับติดต่อภายในองค์กรได้ง่ายดาย เชื่อมต่อระหว่างแผนกต่าง ๆ การติดต่อร่วมกันระหว่างสาขา ต่อสาย ประชุมสาย และยังช่วยเพิ่มช่องทางการติดต่อสำหรับลูกค้าภายนอกได้สะดวกด้วยระบบรอสายแบบ Call Center\t\t\t\t\t\t"}
 </div>
-</figure>
-<figure data-layout-node={"n573"} className={"v194 media-widget captured-style"}>
-<div data-layout-node={"n574"} className={"v195 media-widget captured-style"}>
-<SiteLink data-layout-node={"n575"} className={"v196 media-widget captured-style"} href={"https://aitscctv.com/wp-content/uploads/2023/03/18-wiring-4.jpg"}>
-<img data-layout-node={"n576"} className={"v197 captured-style"} src={"/assets/remote-8be8626a58dd8671-responsive-600.webp"} alt={"18 wiring"} loading={"lazy"} decoding={"async"} width={"600"} height={"400"} srcSet={"/assets/remote-8be8626a58dd8671-responsive-160.webp 160w, /assets/remote-8be8626a58dd8671-responsive-320.webp 320w, /assets/remote-8be8626a58dd8671-responsive-600.webp 600w"} sizes={"(max-width: 640px) calc(100vw - 40px), (max-width: 1024px) 50vw, 273px"} />
-</SiteLink>
 </div>
-</figure>
-<figure data-layout-node={"n577"} className={"v194 media-widget captured-style"}>
-<div data-layout-node={"n578"} className={"v195 media-widget captured-style"}>
-<SiteLink data-layout-node={"n579"} className={"v196 media-widget captured-style"} href={"https://aitscctv.com/wp-content/uploads/2023/03/19-wiring-5.jpg"}>
-<img data-layout-node={"n580"} className={"v197 captured-style"} src={"/assets/remote-e184f1da1c298a13-responsive-600.webp"} alt={"19 wiring"} loading={"lazy"} decoding={"async"} width={"600"} height={"400"} srcSet={"/assets/remote-e184f1da1c298a13-responsive-160.webp 160w, /assets/remote-e184f1da1c298a13-responsive-320.webp 320w, /assets/remote-e184f1da1c298a13-responsive-600.webp 600w"} sizes={"(max-width: 640px) calc(100vw - 40px), (max-width: 1024px) 50vw, 273px"} />
-</SiteLink>
 </div>
-</figure>
-<figure data-layout-node={"n581"} className={"v194 media-widget captured-style"}>
-<div data-layout-node={"n582"} className={"v195 media-widget captured-style"}>
-<SiteLink data-layout-node={"n583"} className={"v196 media-widget captured-style"} href={"https://aitscctv.com/wp-content/uploads/2023/03/20-wiring-6.jpg"}>
-<img data-layout-node={"n584"} className={"v197 captured-style"} src={"/assets/remote-55ac506541fac3f7-responsive-600.webp"} alt={"20 wiring"} loading={"lazy"} decoding={"async"} width={"600"} height={"400"} srcSet={"/assets/remote-55ac506541fac3f7-responsive-160.webp 160w, /assets/remote-55ac506541fac3f7-responsive-320.webp 320w, /assets/remote-55ac506541fac3f7-responsive-600.webp 600w"} sizes={"(max-width: 640px) calc(100vw - 40px), (max-width: 1024px) 50vw, 273px"} />
-</SiteLink>
 </div>
-</figure>
-<figure data-layout-node={"n585"} className={"v194 media-widget captured-style"}>
-<div data-layout-node={"n586"} className={"v195 media-widget captured-style"}>
-<SiteLink data-layout-node={"n587"} className={"v196 media-widget captured-style"} href={"https://aitscctv.com/wp-content/uploads/2023/03/1-bullet-camera.jpg"}>
-<img data-layout-node={"n588"} className={"v197 captured-style"} src={"/assets/remote-003bfcca5ca2658a-responsive-600.webp"} alt={"1 bullet camera"} loading={"lazy"} decoding={"async"} width={"600"} height={"400"} srcSet={"/assets/remote-003bfcca5ca2658a-responsive-160.webp 160w, /assets/remote-003bfcca5ca2658a-responsive-320.webp 320w, /assets/remote-003bfcca5ca2658a-responsive-600.webp 600w"} sizes={"(max-width: 640px) calc(100vw - 40px), (max-width: 1024px) 50vw, 273px"} />
-</SiteLink>
+<div data-layout-node={"n388"} className={"v10 section captured-style"}>
+<div data-layout-node={"n389"} className={"v162 layout-row captured-style"}>
+<div data-layout-node={"n390"} className={"v157 media-widget captured-style"}>
+<div data-layout-node={"n391"} className={"v158 media-widget captured-style"}>
+<img data-layout-node={"n392"} className={"v159 captured-style"} src={"/assets/remote-08ee6eb1cc7f826a-responsive-640.webp"} alt={"Busy disabled team leader answering phone talking with partner typing computer explaning project idea checking financial data"} loading={"lazy"} decoding={"async"} width={"1000"} height={"667"} srcSet={"/assets/remote-08ee6eb1cc7f826a-responsive-160.webp 160w, /assets/remote-08ee6eb1cc7f826a-responsive-320.webp 320w, /assets/remote-08ee6eb1cc7f826a-responsive-640.webp 640w, /assets/remote-08ee6eb1cc7f826a-responsive-1000.webp 1000w"} sizes={"(max-width: 640px) calc(100vw - 40px), (max-width: 1024px) 50vw, 453px"} />
 </div>
-</figure>
-<figure data-layout-node={"n589"} className={"v194 media-widget captured-style"}>
-<div data-layout-node={"n590"} className={"v195 media-widget captured-style"}>
-<SiteLink data-layout-node={"n591"} className={"v196 media-widget captured-style"} href={"https://aitscctv.com/wp-content/uploads/2023/03/2-bullet-camera.jpg"}>
-<img data-layout-node={"n592"} className={"v197 captured-style"} src={"/assets/remote-6436d9d11f30b6eb-responsive-600.webp"} alt={"2 bullet camera"} loading={"lazy"} decoding={"async"} width={"600"} height={"400"} srcSet={"/assets/remote-6436d9d11f30b6eb-responsive-160.webp 160w, /assets/remote-6436d9d11f30b6eb-responsive-320.webp 320w, /assets/remote-6436d9d11f30b6eb-responsive-600.webp 600w"} sizes={"(max-width: 640px) calc(100vw - 40px), (max-width: 1024px) 50vw, 273px"} />
-</SiteLink>
 </div>
-</figure>
-<figure data-layout-node={"n593"} className={"v194 media-widget captured-style"}>
-<div data-layout-node={"n594"} className={"v195 media-widget captured-style"}>
-<SiteLink data-layout-node={"n595"} className={"v196 media-widget captured-style"} href={"https://aitscctv.com/wp-content/uploads/2023/03/3-bullet-camera.jpg"}>
-<img data-layout-node={"n596"} className={"v197 captured-style"} src={"/assets/remote-3cca7f179d64a3c2-responsive-600.webp"} alt={"3 bullet camera"} loading={"lazy"} decoding={"async"} width={"600"} height={"400"} srcSet={"/assets/remote-3cca7f179d64a3c2-responsive-160.webp 160w, /assets/remote-3cca7f179d64a3c2-responsive-320.webp 320w, /assets/remote-3cca7f179d64a3c2-responsive-600.webp 600w"} sizes={"(max-width: 640px) calc(100vw - 40px), (max-width: 1024px) 50vw, 273px"} />
-</SiteLink>
-</div>
-</figure>
-<figure data-layout-node={"n597"} className={"v194 media-widget captured-style"}>
-<div data-layout-node={"n598"} className={"v195 media-widget captured-style"}>
-<SiteLink data-layout-node={"n599"} className={"v196 media-widget captured-style"} href={"https://aitscctv.com/wp-content/uploads/2023/03/4-bullet-camera.jpg"}>
-<img data-layout-node={"n600"} className={"v197 captured-style"} src={"/assets/remote-dcc9b16eb3e9bb47-responsive-600.webp"} alt={"4 bullet camera"} loading={"lazy"} decoding={"async"} width={"600"} height={"400"} srcSet={"/assets/remote-dcc9b16eb3e9bb47-responsive-160.webp 160w, /assets/remote-dcc9b16eb3e9bb47-responsive-320.webp 320w, /assets/remote-dcc9b16eb3e9bb47-responsive-600.webp 600w"} sizes={"(max-width: 640px) calc(100vw - 40px), (max-width: 1024px) 50vw, 273px"} />
-</SiteLink>
-</div>
-</figure>
-<figure data-layout-node={"n601"} className={"v194 media-widget captured-style"}>
-<div data-layout-node={"n602"} className={"v195 media-widget captured-style"}>
-<SiteLink data-layout-node={"n603"} className={"v196 media-widget captured-style"} href={"https://aitscctv.com/wp-content/uploads/2023/03/5-bullet-camera.jpg"}>
-<img data-layout-node={"n604"} className={"v197 captured-style"} src={"/assets/remote-45b0567bd1315ea3-responsive-600.webp"} alt={"5 bullet camera"} loading={"lazy"} decoding={"async"} width={"600"} height={"400"} srcSet={"/assets/remote-45b0567bd1315ea3-responsive-160.webp 160w, /assets/remote-45b0567bd1315ea3-responsive-320.webp 320w, /assets/remote-45b0567bd1315ea3-responsive-600.webp 600w"} sizes={"(max-width: 640px) calc(100vw - 40px), (max-width: 1024px) 50vw, 273px"} />
-</SiteLink>
-</div>
-</figure>
-<figure data-layout-node={"n605"} className={"v194 media-widget captured-style"}>
-<div data-layout-node={"n606"} className={"v195 media-widget captured-style"}>
-<SiteLink data-layout-node={"n607"} className={"v196 media-widget captured-style"} href={"https://aitscctv.com/wp-content/uploads/2023/03/6-bullet-camera.jpg"}>
-<img data-layout-node={"n608"} className={"v197 captured-style"} src={"/assets/remote-d0391aa8f495c2f2-responsive-600.webp"} alt={"6 bullet camera"} loading={"lazy"} decoding={"async"} width={"600"} height={"400"} srcSet={"/assets/remote-d0391aa8f495c2f2-responsive-160.webp 160w, /assets/remote-d0391aa8f495c2f2-responsive-320.webp 320w, /assets/remote-d0391aa8f495c2f2-responsive-600.webp 600w"} sizes={"(max-width: 640px) calc(100vw - 40px), (max-width: 1024px) 50vw, 273px"} />
-</SiteLink>
-</div>
-</figure>
-<figure data-layout-node={"n609"} className={"v194 media-widget captured-style"}>
-<div data-layout-node={"n610"} className={"v195 media-widget captured-style"}>
-<SiteLink data-layout-node={"n611"} className={"v196 media-widget captured-style"} href={"https://aitscctv.com/wp-content/uploads/2023/03/7-bullet-camera.jpg"}>
-<img data-layout-node={"n612"} className={"v197 captured-style"} src={"/assets/remote-be538ea19256eb9c-responsive-600.webp"} alt={"7 bullet camera"} loading={"lazy"} decoding={"async"} width={"600"} height={"400"} srcSet={"/assets/remote-be538ea19256eb9c-responsive-160.webp 160w, /assets/remote-be538ea19256eb9c-responsive-320.webp 320w, /assets/remote-be538ea19256eb9c-responsive-600.webp 600w"} sizes={"(max-width: 640px) calc(100vw - 40px), (max-width: 1024px) 50vw, 273px"} />
-</SiteLink>
-</div>
-</figure>
-<figure data-layout-node={"n613"} className={"v194 media-widget captured-style"}>
-<div data-layout-node={"n614"} className={"v195 media-widget captured-style"}>
-<SiteLink data-layout-node={"n615"} className={"v196 media-widget captured-style"} href={"https://aitscctv.com/wp-content/uploads/2023/03/8-bullet-camera.jpg"}>
-<img data-layout-node={"n616"} className={"v197 captured-style"} src={"/assets/remote-548dcaeb1ac8438d-responsive-600.webp"} alt={"8 bullet camera"} loading={"lazy"} decoding={"async"} width={"600"} height={"400"} srcSet={"/assets/remote-548dcaeb1ac8438d-responsive-160.webp 160w, /assets/remote-548dcaeb1ac8438d-responsive-320.webp 320w, /assets/remote-548dcaeb1ac8438d-responsive-600.webp 600w"} sizes={"(max-width: 640px) calc(100vw - 40px), (max-width: 1024px) 50vw, 273px"} />
-</SiteLink>
-</div>
-</figure>
-<figure data-layout-node={"n617"} className={"v194 media-widget captured-style"}>
-<div data-layout-node={"n618"} className={"v195 media-widget captured-style"}>
-<SiteLink data-layout-node={"n619"} className={"v196 media-widget captured-style"} href={"https://aitscctv.com/wp-content/uploads/2023/03/9-cctv.jpg"}>
-<img data-layout-node={"n620"} className={"v197 captured-style"} src={"/assets/remote-30993820fde49e22-responsive-600.webp"} alt={"9 cctv"} loading={"lazy"} decoding={"async"} width={"600"} height={"400"} srcSet={"/assets/remote-30993820fde49e22-responsive-160.webp 160w, /assets/remote-30993820fde49e22-responsive-320.webp 320w, /assets/remote-30993820fde49e22-responsive-600.webp 600w"} sizes={"(max-width: 640px) calc(100vw - 40px), (max-width: 1024px) 50vw, 273px"} />
-</SiteLink>
-</div>
-</figure>
-<figure data-layout-node={"n621"} className={"v194 media-widget captured-style"}>
-<div data-layout-node={"n622"} className={"v195 media-widget captured-style"}>
-<SiteLink data-layout-node={"n623"} className={"v196 media-widget captured-style"} href={"https://aitscctv.com/wp-content/uploads/2023/03/10-dome-camera-1.jpg"}>
-<img data-layout-node={"n624"} className={"v197 captured-style"} src={"/assets/remote-2e9d9d1d5ed8d357-responsive-600.webp"} alt={"10 dome camera"} loading={"lazy"} decoding={"async"} width={"600"} height={"400"} srcSet={"/assets/remote-2e9d9d1d5ed8d357-responsive-160.webp 160w, /assets/remote-2e9d9d1d5ed8d357-responsive-320.webp 320w, /assets/remote-2e9d9d1d5ed8d357-responsive-600.webp 600w"} sizes={"(max-width: 640px) calc(100vw - 40px), (max-width: 1024px) 50vw, 273px"} />
-</SiteLink>
-</div>
-</figure>
-<figure data-layout-node={"n625"} className={"v194 media-widget captured-style"}>
-<div data-layout-node={"n626"} className={"v195 media-widget captured-style"}>
-<SiteLink data-layout-node={"n627"} className={"v196 media-widget captured-style"} href={"https://aitscctv.com/wp-content/uploads/2023/03/11-dome-camera-2.jpg"}>
-<img data-layout-node={"n628"} className={"v197 captured-style"} src={"/assets/remote-30fb37ac540715c5-responsive-600.webp"} alt={"11 dome camera"} loading={"lazy"} decoding={"async"} width={"600"} height={"400"} srcSet={"/assets/remote-30fb37ac540715c5-responsive-160.webp 160w, /assets/remote-30fb37ac540715c5-responsive-320.webp 320w, /assets/remote-30fb37ac540715c5-responsive-600.webp 600w"} sizes={"(max-width: 640px) calc(100vw - 40px), (max-width: 1024px) 50vw, 273px"} />
-</SiteLink>
-</div>
-</figure>
-<figure data-layout-node={"n629"} className={"v194 media-widget captured-style"}>
-<div data-layout-node={"n630"} className={"v195 media-widget captured-style"}>
-<SiteLink data-layout-node={"n631"} className={"v196 media-widget captured-style"} href={"https://aitscctv.com/wp-content/uploads/2023/03/12-dome-camera-3.jpg"}>
-<img data-layout-node={"n632"} className={"v197 captured-style"} src={"/assets/remote-6f08431d2056e967-responsive-600.webp"} alt={"12 dome camera"} loading={"lazy"} decoding={"async"} width={"600"} height={"400"} srcSet={"/assets/remote-6f08431d2056e967-responsive-160.webp 160w, /assets/remote-6f08431d2056e967-responsive-320.webp 320w, /assets/remote-6f08431d2056e967-responsive-600.webp 600w"} sizes={"(max-width: 640px) calc(100vw - 40px), (max-width: 1024px) 50vw, 273px"} />
-</SiteLink>
-</div>
-</figure>
-<figure data-layout-node={"n633"} className={"v194 media-widget captured-style"}>
-<div data-layout-node={"n634"} className={"v195 media-widget captured-style"}>
-<SiteLink data-layout-node={"n635"} className={"v196 media-widget captured-style"} href={"https://aitscctv.com/wp-content/uploads/2023/03/13-rack-1.jpg"}>
-<img data-layout-node={"n636"} className={"v197 captured-style"} src={"/assets/remote-7507ad257c533a33-responsive-600.webp"} alt={"13 rack"} loading={"lazy"} decoding={"async"} width={"600"} height={"400"} srcSet={"/assets/remote-7507ad257c533a33-responsive-160.webp 160w, /assets/remote-7507ad257c533a33-responsive-320.webp 320w, /assets/remote-7507ad257c533a33-responsive-600.webp 600w"} sizes={"(max-width: 640px) calc(100vw - 40px), (max-width: 1024px) 50vw, 273px"} />
-</SiteLink>
-</div>
-</figure>
-<figure data-layout-node={"n637"} className={"v194 media-widget captured-style"}>
-<div data-layout-node={"n638"} className={"v195 media-widget captured-style"}>
-<SiteLink data-layout-node={"n639"} className={"v196 media-widget captured-style"} href={"https://aitscctv.com/wp-content/uploads/2023/03/14-rack-2.jpg"}>
-<img data-layout-node={"n640"} className={"v197 captured-style"} src={"/assets/remote-f92dcf10766e498d-responsive-600.webp"} alt={"14 rack"} loading={"lazy"} decoding={"async"} width={"600"} height={"400"} srcSet={"/assets/remote-f92dcf10766e498d-responsive-160.webp 160w, /assets/remote-f92dcf10766e498d-responsive-320.webp 320w, /assets/remote-f92dcf10766e498d-responsive-600.webp 600w"} sizes={"(max-width: 640px) calc(100vw - 40px), (max-width: 1024px) 50vw, 273px"} />
-</SiteLink>
-</div>
-</figure>
-<figure data-layout-node={"n641"} className={"v194 media-widget captured-style"}>
-<div data-layout-node={"n642"} className={"v195 media-widget captured-style"}>
-<SiteLink data-layout-node={"n643"} className={"v196 media-widget captured-style"} href={"https://aitscctv.com/wp-content/uploads/2023/03/15-wiring-1.jpg"}>
-<img data-layout-node={"n644"} className={"v197 captured-style"} src={"/assets/remote-97059495d5bf68e9-responsive-600.webp"} alt={"15 wiring"} loading={"lazy"} decoding={"async"} width={"600"} height={"400"} srcSet={"/assets/remote-97059495d5bf68e9-responsive-160.webp 160w, /assets/remote-97059495d5bf68e9-responsive-320.webp 320w, /assets/remote-97059495d5bf68e9-responsive-600.webp 600w"} sizes={"(max-width: 640px) calc(100vw - 40px), (max-width: 1024px) 50vw, 273px"} />
-</SiteLink>
-</div>
-</figure>
-<figure data-layout-node={"n645"} className={"v194 media-widget captured-style"}>
-<div data-layout-node={"n646"} className={"v195 media-widget captured-style"}>
-<SiteLink data-layout-node={"n647"} className={"v196 media-widget captured-style"} href={"https://aitscctv.com/wp-content/uploads/2023/03/16-wiring-2.jpg"}>
-<img data-layout-node={"n648"} className={"v197 captured-style"} src={"/assets/remote-990ebf6f1e5dfe40-responsive-600.webp"} alt={"16 wiring"} loading={"lazy"} decoding={"async"} width={"600"} height={"400"} srcSet={"/assets/remote-990ebf6f1e5dfe40-responsive-160.webp 160w, /assets/remote-990ebf6f1e5dfe40-responsive-320.webp 320w, /assets/remote-990ebf6f1e5dfe40-responsive-600.webp 600w"} sizes={"(max-width: 640px) calc(100vw - 40px), (max-width: 1024px) 50vw, 273px"} />
-</SiteLink>
-</div>
-</figure>
+<div data-layout-node={"n393"} className={"v160 captured-style"}>
+<div data-layout-node={"n394"} className={"v161 captured-style"}>
+{"\r\n\t\t\t\t\t\t\tนอกจากนี้การใช้งานโทรศัพท์องค์กรแบบใช้เบอร์โทรศัพท์เบอร์เดียวนั้น ยังช่วยเพิ่มภาพลักษณ์ให้องค์กรของท่านมีความน่าเชื่อถือมากขึ้นในสายตาของลูกค้า อีกทั้งยังตอบโจทย์การติดต่อที่ง่ายดาย เพราะคุณสามารถใช้เบอร์ติดต่อกับลูกค้าเบอร์เดียวได้เลย เวลาลูกค้าติดต่อเข้ามาก็ใช้วิธีโอนสายไปตามแผนกที่ลูกค้าต้องการ ดีกว่าการให้เบอร์ลูกค้าเป็นหลาย ๆ เบอรืสำหรับติดต่อแยกแผนกที่เสี่ยงต่อการสร้างความสับสนให้แก่ลูกค้าได้\r\n\t\t\t\t\t\t"}
 </div>
 </div>
 </div>
 </div>
 </div>
 </div>
-</div>
-</div>
-<div data-layout-node={"n773"} className={"v235 section captured-style"}>
-<div data-layout-node={"n774"} className={"v236 captured-style"}>
-<div data-layout-node={"n775"} className={"v3 text-widget captured-style"}>
-<div data-layout-node={"n776"} className={"v4 text-widget captured-style"}>
-<p data-layout-node={"n777"} className={"v237 large-copy captured-style"}>
-{"\" Let AITS Set Standard  ให้เราได้สร้างมาตรฐาน \"\r\n "}
-</p>
-</div>
-</div>
-<div data-layout-node={"n778"} className={"v238 section layout-row captured-style"}>
-<div data-layout-node={"n779"} className={"v239 captured-style"}>
-<div data-layout-node={"n780"} className={"v4 captured-style"}>
-<div data-layout-node={"n781"} className={"v4 captured-style"}>
-<SiteLink data-layout-node={"n782"} className={"v240 action-link captured-style"} href={"tel:0944606196"}>
-<span data-layout-node={"n783"} className={"v241 captured-style"}>
-<span data-layout-node={"n784"} className={"v242 captured-style"}>
-{"โทรหาเรา"}
+<div data-layout-node={"n395"} className={"v7 section captured-style"}>
+<div data-layout-node={"n396"} className={"v163 captured-style"}>
+<div data-layout-node={"n397"} className={"v3 captured-style"}>
+<div data-layout-node={"n398"} className={"v4 captured-style"}>
+<span data-layout-node={"n399"} className={"v53 captured-style"}>
+
 </span>
-</span>
-</SiteLink>
+<h2 data-layout-node={"n400"} className={"v9 captured-style"} id={"elementor-toc__heading-anchor-6"}>
+{"ความแตกต่างระหว่างโทรศัพท์อนาล็อก (Analog Phone) VS โทรศัพท์ IP Phone"}
+</h2>
+</div>
+</div>
+<div data-layout-node={"n401"} className={"v10 section captured-style"}>
+<div data-layout-node={"n402"} className={"v11 layout-row captured-style"}>
+<div data-layout-node={"n403"} className={"v164 section captured-style"}>
+<div data-layout-node={"n404"} className={"v165 captured-style"}>
+<div data-layout-node={"n405"} className={"v3 text-widget captured-style"}>
+<div data-layout-node={"n406"} className={"v166 text-widget captured-style"}>
+<h3 data-layout-node={"n407"} className={"v167 captured-style"}>
+{"โทรศัพท์อนาล็อก (Analog Phone)"}
+</h3>
+</div>
+</div>
+<div data-layout-node={"n408"} className={"v18 captured-style"}>
+<div data-layout-node={"n409"} className={"v19 captured-style"}>
+{"\r\n\t\t\t\t\t\t\tคือ โทรศัพท์อนาล็อก คืออุปกรณ์การสื่อสารทั่วไปที่ใช้การสื่อสารเชื่อมต่อผ่านสายทองแดง สามารถใช้ในการสื่อสารขั้นพื้นฐานคือ สามารถรับสาย โทรออก โอนสาย พักสาย โอนสาย รวมสายระบบชุมสายโทรศัพท์ได้ แม้แต่ในสถานที่ ๆ ไร้ไฟฟ้าก็สามารถใช้งานได้ (ในกรณีระบบชุมสายโทรศัพท์พร้อมใช้งานปกติ) มีราคาถูก แต่ว่ามีข้อกำกัดเวลาที่ต้องเพิ่มหรือเปลี่ยนตำแหน่ง จะต้องเดินสายใหม่ทั้งหมด \t\t\t\t\t\t"}
 </div>
 </div>
 </div>
-<div data-layout-node={"n785"} className={"v239 captured-style"}>
-<div data-layout-node={"n786"} className={"v4 captured-style"}>
-<div data-layout-node={"n787"} className={"v4 captured-style"}>
-<SiteLink data-layout-node={"n788"} className={"v243 action-link captured-style"} href={"https://page.line.me/852uanad?openQrModal=true"} target={"_blank"} rel={"noopener"}>
-<span data-layout-node={"n789"} className={"v244 captured-style"}>
-<span data-layout-node={"n790"} className={"v245 captured-style"}>
-{"ปรึกษาฟรีคลิก"}
-</span>
-</span>
-</SiteLink>
+</div>
+<div data-layout-node={"n410"} className={"v164 section captured-style"}>
+<div data-layout-node={"n411"} className={"v165 captured-style"}>
+<div data-layout-node={"n412"} className={"v3 text-widget captured-style"}>
+<div data-layout-node={"n413"} className={"v166 text-widget captured-style"}>
+<h3 data-layout-node={"n414"} className={"v167 captured-style"}>
+{"โทรศัพท์ IP Phone คือ"}
+</h3>
+</div>
+</div>
+<div data-layout-node={"n415"} className={"v18 captured-style"}>
+<div data-layout-node={"n416"} className={"v168 captured-style"}>
+{"\r\n\t\t\t\t\t\t\tคือโทรศัพท์ที่หากมองจากหน้าตาแล้วจะดูเหมือนโทรศัพทืบ้านทั่วไปไม่ต่างจากอลาล็อกเท่าไร แต่โทรศัพท์ IP Phone จะมีการพัฒนาภายในให้สามารถใช้ง่ายได้ตอบโจทย์กว่า Analog Phone เช่น การใช้สาย LAN ในการเชื่อมต่อ และยังรองรับการใช้งานผ่าน WiFi ได้ด้วย\r\nในอดีตโทรศัพท์ IP Phone มักจะไม่นิยมเพราะมีราคาสูง แต่ในปัจจุบันราคาจับต้องได้มากขึ้น ทำให้โทรศัพท์ IP Phone ได้รับความนิยมสูงกว่า Analog Phone เพราะมีฟังก์ชั่นการใช้งานที่หลากหลายกว่ากว่า ขั้นตอนการบำรุงรักษาที่ไม่ซับซ้อน การสื่อสารสามารถติดได้ทั้งผ่านเสื่อและวิดีโอ บางรุ่นมีการรองรับ Android หน้าจอแบบสัมผัสได้ เหมาะสำหรับการใช้งานในองค์กรมากกว่า\r\n\t\t\t\t\t\t"}
 </div>
 </div>
 </div>
 </div>
 </div>
 </div>
+</div>
+</div>
+</div>
+</details>
+</section>
+<section id={"service-projects"} className={"service-stage"} data-service-stage={"projects"}>
+<div className={"service-stage-heading"}>
+<h2>
+{"ผลงานและเนื้อหาที่เกี่ยวข้อง"}
+</h2>
+</div>
+<ServiceProjects path={"/telephone-system/"} />
+</section>
+<section id={"service-contact"} className={"service-stage"} data-service-stage={"contact"}>
+<div className={"service-stage-heading"}>
+<h2>
+{"ขอใบเสนอราคาและติดต่อทีมงาน"}
+</h2>
+</div>
+<ServiceContact path={"/telephone-system/"} />
+</section>
 </div></div>}

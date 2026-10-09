@@ -4,7 +4,9 @@ import {SiteLink} from "../components/SiteLink";
 import {VideoFrame} from "../components/VideoFrame";
 import {LogoCarousel} from "../components/LogoCarousel";
 import {ContactPhone} from "../components/ContactPhone";
+import {ServiceTrust,ServiceContents,ServiceBenefits,ServicePricing,ServiceWarranty,ServiceProjects,ServiceContact,AboutTeamGallery} from "../components/ServiceContent";
 export default function Page19702(){return <div className="page-19702 captured-page"><div data-layout-node={"n0"} className={"v0 captured-style"}>
+<section id={"service-overview"} className={"service-stage"} data-service-stage={"overview"}>
 <div data-layout-node={"n1"} className={"v1 section captured-style"}>
 <div data-layout-node={"n2"} className={"v2 captured-style"}>
 <div data-layout-node={"n3"} className={"v3 text-widget captured-style"}>
@@ -77,156 +79,21 @@ export default function Page19702(){return <div className="page-19702 captured-p
 </div>
 </div>
 </div>
-<div data-layout-node={"n34"} className={"v21 section captured-style"}>
-<div data-layout-node={"n35"} className={"v22 captured-style"}>
-<div data-layout-node={"n36"} className={"v3 text-widget captured-style"}>
-<div data-layout-node={"n37"} className={"v4 text-widget captured-style"}>
-<p data-layout-node={"n38"} className={"v5 captured-style"}>
-{"SMART MEETING ROOM SOLUTIONS"}
-</p>
-</div>
-</div>
-<div data-layout-node={"n39"} className={"v3 text-widget captured-style"}>
-<div data-layout-node={"n40"} className={"v4 text-widget captured-style"}>
-<h2 data-layout-node={"n41"} className={"v23 captured-style"}>
-{"โซลูชันระบบห้องประชุม Audio & Video แบบครบวงจร"}
+<ServiceTrust />
+</section>
+<ServiceContents />
+<section id={"service-benefits"} className={"service-stage"} data-service-stage={"benefits"}>
+<div className={"service-stage-heading"}>
+<h2>
+{"ประโยชน์และการใช้งาน"}
 </h2>
 </div>
-</div>
-<div data-layout-node={"n42"} className={"v24 section layout-row captured-style"}>
-<div data-layout-node={"n43"} className={"v25 section captured-style"}>
-<div data-layout-node={"n44"} className={"v26 layout-row captured-style"}>
-<div data-layout-node={"n45"} className={"v27 section captured-style"}>
-<div data-layout-node={"n46"} className={"v28 captured-style"}>
-<div data-layout-node={"n47"} className={"v3 text-widget captured-style"}>
-<div data-layout-node={"n48"} className={"v4 text-widget captured-style"}>
-<h2 data-layout-node={"n49"} className={"v29 captured-style"}>
-{"ระบบไมโครโฟนและเสียงประชุมอัจฉริยะ"}
-</h2>
-</div>
-</div>
-<div data-layout-node={"n50"} className={"v3 media-widget captured-style"}>
-<div data-layout-node={"n51"} className={"v4 media-widget captured-style"}>
-<img data-layout-node={"n52"} className={"v30 captured-style"} src={"/assets/remote-565cdfeb166e0fcc-responsive-640.webp"} alt={"ระบบไมโครโฟนและเสียงสำหรับห้องประชุมอัจฉริยะ"} loading={"lazy"} decoding={"async"} width={"1024"} height={"682"} srcSet={"/assets/remote-565cdfeb166e0fcc-responsive-160.webp 160w, /assets/remote-565cdfeb166e0fcc-responsive-320.webp 320w, /assets/remote-565cdfeb166e0fcc-responsive-640.webp 640w, /assets/remote-565cdfeb166e0fcc-responsive-1280.webp 1280w"} sizes={"(max-width: 640px) calc(100vw - 40px), (max-width: 1024px) 50vw, 340px"} />
-</div>
-</div>
-<div data-layout-node={"n53"} className={"v16 captured-style"}>
-<div data-layout-node={"n54"} className={"v17 captured-style"}>
-<p data-layout-node={"n55"} className={"v18 captured-style"}>
-{"ออกแบบระบบไมโครโฟนและลำโพงให้เหมาะกับขนาดห้อง รูปแบบโต๊ะ จำนวนผู้เข้าร่วม และตำแหน่งการนั่ง เพื่อให้ทุกคนได้ยินและพูดคุยได้อย่างชัดเจน"}
-</p>
-<p data-layout-node={"n56"} className={"v18 captured-style"}>
-{"สามารถออกแบบให้รองรับไมโครโฟนประชุมแบบตั้งโต๊ะ ไมโครโฟนไร้สาย ไมโครโฟน Ceiling Array ลำโพงติดเพดาน ลำโพงติดผนัง และระบบประมวลผลเสียง DSP เพื่อช่วยลดเสียงสะท้อน เสียงรบกวน และปรับระดับเสียงให้เหมาะสม"}
-</p>
-</div>
-</div>
-<div data-layout-node={"n57"} className={"v3 captured-style"}>
-<div data-layout-node={"n58"} className={"v31 captured-style"}>
-<div data-layout-node={"n59"} className={"v4 captured-style"}>
-<SiteLink data-layout-node={"n60"} className={"v32 action-link captured-style"} href={"https://page.line.me/852uanad?openQrModal=true"} target={"_blank"} rel={"noopener"}>
-<span data-layout-node={"n61"} className={"v33 captured-style"}>
-<span data-layout-node={"n62"} className={"v34 captured-style"}>
-{"ปรึกษาเรา "}
-<br data-layout-node={"n63"} className={"v35 captured-style"} />
-{" เรื่องระบบเสียงห้องประชุม"}
-</span>
-</span>
-</SiteLink>
-</div>
-</div>
-</div>
-</div>
-</div>
-<div data-layout-node={"n64"} className={"v27 section captured-style"}>
-<div data-layout-node={"n65"} className={"v28 captured-style"}>
-<div data-layout-node={"n66"} className={"v3 text-widget captured-style"}>
-<div data-layout-node={"n67"} className={"v4 text-widget captured-style"}>
-<h2 data-layout-node={"n68"} className={"v29 captured-style"}>
-{"จอ Interactive Display และระบบภาพ"}
-</h2>
-</div>
-</div>
-<div data-layout-node={"n69"} className={"v3 media-widget captured-style"}>
-<div data-layout-node={"n70"} className={"v4 media-widget captured-style"}>
-<img data-layout-node={"n71"} className={"v36 captured-style"} src={"/assets/remote-553133461f382209-responsive-640.webp"} alt={"จอ Interactive Display สำหรับเขียนและนำเสนอในห้องประชุม"} loading={"lazy"} decoding={"async"} width={"1024"} height={"683"} srcSet={"/assets/remote-553133461f382209-responsive-160.webp 160w, /assets/remote-553133461f382209-responsive-320.webp 320w, /assets/remote-553133461f382209-responsive-640.webp 640w, /assets/remote-553133461f382209-responsive-1280.webp 1280w"} sizes={"(max-width: 640px) calc(100vw - 40px), (max-width: 1024px) 50vw, 340px"} />
-</div>
-</div>
-<div data-layout-node={"n72"} className={"v16 captured-style"}>
-<div data-layout-node={"n73"} className={"v17 captured-style"}>
-<p data-layout-node={"n74"} className={"v18 captured-style"}>
-{"เปลี่ยนการนำเสนอแบบเดิมให้เป็นการทำงานร่วมกันบนหน้าจอ ผู้ใช้งานสามารถเขียน อธิบาย ทำเครื่องหมายบนเอกสาร เปิดไฟล์ แชร์หน้าจอ และบันทึกข้อมูลจากการประชุมได้อย่างสะดวก"}
-</p>
-<p data-layout-node={"n75"} className={"v18 captured-style"}>
-{"AITS ช่วยเลือกขนาดจอ ความละเอียด และตำแหน่งติดตั้งให้เหมาะกับระยะการมองเห็น พร้อมออกแบบการเชื่อมต่อกับคอมพิวเตอร์ กล้อง ไมโครโฟน และระบบประชุมออนไลน์"}
-</p>
-</div>
-</div>
-<div data-layout-node={"n76"} className={"v3 captured-style"}>
-<div data-layout-node={"n77"} className={"v31 captured-style"}>
-<div data-layout-node={"n78"} className={"v4 captured-style"}>
-<SiteLink data-layout-node={"n79"} className={"v32 action-link captured-style"} href={"https://page.line.me/852uanad?openQrModal=true"} target={"_blank"} rel={"noopener"}>
-<span data-layout-node={"n80"} className={"v37 captured-style"}>
-<span data-layout-node={"n81"} className={"v38 captured-style"}>
-{"ปรึกษาเรา"}
-<br data-layout-node={"n82"} className={"v35 captured-style"} />
-{" เรื่องจอ Interactive"}
-</span>
-</span>
-</SiteLink>
-</div>
-</div>
-</div>
-</div>
-</div>
-<div data-layout-node={"n83"} className={"v27 section captured-style"}>
-<div data-layout-node={"n84"} className={"v28 captured-style"}>
-<div data-layout-node={"n85"} className={"v3 text-widget captured-style"}>
-<div data-layout-node={"n86"} className={"v4 text-widget captured-style"}>
-<h2 data-layout-node={"n87"} className={"v29 captured-style"}>
-{"ระบบ Video Conference และ Wireless Presentation"}
-</h2>
-</div>
-</div>
-<div data-layout-node={"n88"} className={"v3 media-widget captured-style"}>
-<div data-layout-node={"n89"} className={"v4 media-widget captured-style"}>
-<img data-layout-node={"n90"} className={"v39 captured-style"} src={"/assets/remote-5ae472156c07fa32-responsive-640.webp"} alt={"ระบบ Video Conference สำหรับประชุมออนไลน์และ Hybrid Meeting"} loading={"lazy"} decoding={"async"} width={"1024"} height={"540"} srcSet={"/assets/remote-5ae472156c07fa32-responsive-160.webp 160w, /assets/remote-5ae472156c07fa32-responsive-320.webp 320w, /assets/remote-5ae472156c07fa32-responsive-640.webp 640w, /assets/remote-5ae472156c07fa32-responsive-1280.webp 1280w"} sizes={"(max-width: 640px) calc(100vw - 40px), (max-width: 1024px) 50vw, 340px"} />
-</div>
-</div>
-<div data-layout-node={"n91"} className={"v16 captured-style"}>
-<div data-layout-node={"n92"} className={"v17 captured-style"}>
-<p data-layout-node={"n93"} className={"v18 captured-style"}>
-{"ประชุมออนไลน์ได้อย่างเป็นมืออาชีพด้วยระบบกล้อง ไมโครโฟน ลำโพง และจอแสดงผลที่ออกแบบให้ทำงานร่วมกันอย่างเป็นระบบ"}
-</p>
-<p data-layout-node={"n94"} className={"v18 captured-style"}>
-{"รองรับการออกแบบสำหรับ Microsoft Teams, Zoom, Google Meet, Webex และระบบ BYOD ที่ผู้ใช้งานสามารถนำ Notebook ของตนเองมาเชื่อมต่อกับอุปกรณ์ภายในห้องได้"}
-</p>
-<p data-layout-node={"n95"} className={"v18 captured-style"}>
-{"สามารถเพิ่มระบบแชร์หน้าจอแบบไร้สาย เพื่อลดปัญหาสายต่อไม่ตรง พอร์ตไม่เพียงพอ และลดเวลาในการเตรียมอุปกรณ์ก่อนเริ่มประชุม"}
-</p>
-</div>
-</div>
-<div data-layout-node={"n96"} className={"v3 captured-style"}>
-<div data-layout-node={"n97"} className={"v31 captured-style"}>
-<div data-layout-node={"n98"} className={"v4 captured-style"}>
-<SiteLink data-layout-node={"n99"} className={"v32 action-link captured-style"} href={"https://page.line.me/852uanad?openQrModal=true"} target={"_blank"} rel={"noopener"}>
-<span data-layout-node={"n100"} className={"v40 captured-style"}>
-<span data-layout-node={"n101"} className={"v41 captured-style"}>
-{"ปรึกษาเรา"}
-<br data-layout-node={"n102"} className={"v35 captured-style"} />
-{" เรื่องระบบ Video Conference"}
-</span>
-</span>
-</SiteLink>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
+<ServiceBenefits path={"/smart-meeting-room/"} />
+<details className={"service-detail"}>
+<summary>
+{"รายละเอียดประโยชน์และการใช้งาน"}
+</summary>
+<div className={"service-detail-content"}>
 <div data-layout-node={"n103"} className={"v7 section captured-style"}>
 <div data-layout-node={"n104"} className={"v42 captured-style"}>
 <div data-layout-node={"n105"} className={"v3 text-widget captured-style"}>
@@ -418,71 +285,261 @@ export default function Page19702(){return <div className="page-19702 captured-p
 </div>
 </div>
 </div>
-<div data-layout-node={"n186"} className={"v49 section captured-style"}>
-<div data-layout-node={"n187"} className={"v50 layout-row captured-style"}>
-<div data-layout-node={"n188"} className={"v51 section captured-style"}>
-<div data-layout-node={"n189"} className={"v52 layout-row captured-style"}>
-<div data-layout-node={"n190"} className={"v53 section captured-style"}>
-<div data-layout-node={"n191"} className={"v54 captured-style"}>
-<div data-layout-node={"n192"} className={"v55 captured-style"}>
-<div data-layout-node={"n193"} className={"v56 layout-row captured-style"}>
-<div data-layout-node={"n194"} className={"v57 captured-style"}>
-<SiteLink data-layout-node={"n195"} className={"v58 captured-style"} href={"tel:0944606196"}>
-<i data-layout-node={"n196"} className={"v59 captured-style"}>
-
-</i>
-</SiteLink>
-</div>
-<div data-layout-node={"n197"} className={"v60 captured-style"}>
-<p data-layout-node={"n198"} className={"v61 captured-style"}>
-<SiteLink data-layout-node={"n199"} className={"v62 captured-style"} href={"tel:0944606196"}>
-{"\r\n\t\t\t\t\t\tให้คำปรึกษาฟรี\t\t\t\t\t"}
-</SiteLink>
-</p>
-<p data-layout-node={"n200"} className={"v63 large-copy captured-style"}>
-{"\r\n\t\t\t\t\t\t094 460 6196\t\t\t\t\t"}
+<div data-layout-node={"n337"} className={"v94 section captured-style"}>
+<div data-layout-node={"n338"} className={"v78 captured-style"}>
+<div data-layout-node={"n339"} className={"v3 text-widget captured-style"}>
+<div data-layout-node={"n340"} className={"v4 text-widget captured-style"}>
+<p data-layout-node={"n341"} className={"v95 captured-style"}>
+{"WHY AITSCCTV"}
 </p>
 </div>
 </div>
+<div data-layout-node={"n342"} className={"v3 text-widget captured-style"}>
+<div data-layout-node={"n343"} className={"v4 text-widget captured-style"}>
+<h2 data-layout-node={"n344"} className={"v43 captured-style"}>
+{"ทำไมต้องติดตั้งระบบห้องประชุมอัจฉริยะกับ AITS"}
+</h2>
 </div>
 </div>
+<div data-layout-node={"n345"} className={"v3 media-widget captured-style"}>
+<div data-layout-node={"n346"} className={"v4 media-widget captured-style"}>
+<img data-layout-node={"n347"} className={"v96 captured-style"} src={"/assets/remote-880e36aca3e0ccee-responsive-640.webp"} alt={"IMG"} loading={"lazy"} decoding={"async"} width={"768"} height={"511"} srcSet={"/assets/remote-880e36aca3e0ccee-responsive-160.webp 160w, /assets/remote-880e36aca3e0ccee-responsive-320.webp 320w, /assets/remote-880e36aca3e0ccee-responsive-640.webp 640w, /assets/remote-880e36aca3e0ccee-responsive-1024.webp 1024w"} sizes={"(max-width: 640px) calc(100vw - 40px), (max-width: 1024px) 50vw, 912px"} />
 </div>
-<div data-layout-node={"n201"} className={"v64 section captured-style"}>
-<div data-layout-node={"n202"} className={"v65 captured-style"}>
-<div data-layout-node={"n203"} className={"v66 captured-style"}>
-<div data-layout-node={"n204"} className={"v67 layout-row captured-style"}>
-<div data-layout-node={"n205"} className={"v68 captured-style"}>
-<SiteLink data-layout-node={"n206"} className={"v58 captured-style"} href={"https://page.line.me/852uanad?openQrModal=true"}>
-<i data-layout-node={"n207"} className={"v69 captured-style"}>
-
-</i>
-</SiteLink>
 </div>
-<div data-layout-node={"n208"} className={"v70 captured-style"}>
-<p data-layout-node={"n209"} className={"v71 captured-style"}>
-<SiteLink data-layout-node={"n210"} className={"v62 captured-style"} href={"https://page.line.me/852uanad?openQrModal=true"}>
-{"\r\n\t\t\t\t\t\tLine\t\t\t\t\t"}
-</SiteLink>
-</p>
-<p data-layout-node={"n211"} className={"v72 large-copy captured-style"}>
-{"\r\n\t\t\t\t\t\t@AITSCCTV\t\t\t\t\t"}
+<div data-layout-node={"n348"} className={"v97 section layout-row captured-style"}>
+<div data-layout-node={"n349"} className={"v98 captured-style"}>
+<div data-layout-node={"n350"} className={"v99 captured-style"}>
+<div data-layout-node={"n351"} className={"v100 captured-style"}>
+<figure data-layout-node={"n352"} className={"v101 media-widget captured-style"}>
+<span data-layout-node={"n353"} className={"v102 media-widget captured-style"}>
+<img data-layout-node={"n354"} className={"v103 captured-style"} src={"/assets/remote-27954ceaf8bdfd3b-responsive-512.webp"} alt={"Renewable"} loading={"lazy"} decoding={"async"} width={"512"} height={"512"} srcSet={"/assets/remote-27954ceaf8bdfd3b-responsive-160.webp 160w, /assets/remote-27954ceaf8bdfd3b-responsive-320.webp 320w, /assets/remote-27954ceaf8bdfd3b-responsive-512.webp 512w"} sizes={"63px"} />
+</span>
+</figure>
+<div data-layout-node={"n355"} className={"v47 captured-style"}>
+<h3 data-layout-node={"n356"} className={"v104 captured-style"}>
+<span data-layout-node={"n357"} className={"v105 captured-style"}>
+{"ออกแบบจากพื้นที่และวัตถุประสงค์จริง"}
+</span>
+</h3>
+<p data-layout-node={"n358"} className={"v106 captured-style"}>
+{"ทีมงานสำรวจขนาดห้อง รูปแบบโต๊ะ จำนวนผู้ใช้งาน ตำแหน่งผู้พูด สภาพเสียง แสง และระบบเครือข่าย ก่อนเลือกอุปกรณ์ เพื่อให้โซลูชันเหมาะกับการใช้งานจริง"}
 </p>
 </div>
 </div>
 </div>
 </div>
+<div data-layout-node={"n359"} className={"v98 captured-style"}>
+<div data-layout-node={"n360"} className={"v99 captured-style"}>
+<div data-layout-node={"n361"} className={"v100 captured-style"}>
+<figure data-layout-node={"n362"} className={"v101 media-widget captured-style"}>
+<img data-layout-node={"n363"} className={"v107 captured-style"} src={"/assets/remote-4ec2380225a0077c-responsive-512.webp"} alt={"Rating"} loading={"lazy"} decoding={"async"} width={"512"} height={"512"} srcSet={"/assets/remote-4ec2380225a0077c-responsive-160.webp 160w, /assets/remote-4ec2380225a0077c-responsive-320.webp 320w, /assets/remote-4ec2380225a0077c-responsive-512.webp 512w"} sizes={"63px"} />
+</figure>
+<div data-layout-node={"n364"} className={"v47 captured-style"}>
+<h3 data-layout-node={"n365"} className={"v104 captured-style"}>
+{"รวมระบบ Audio, Video, Network และ Control"}
+</h3>
+<p data-layout-node={"n366"} className={"v106 captured-style"}>
+{"AITS มีความเชี่ยวชาญทั้งระบบภาพ เสียง เครือข่าย และระบบควบคุม ช่วยลดปัญหาที่เกิดจากการแยกผู้รับผิดชอบหลายราย และทำให้ทุกระบบสามารถทำงานร่วมกันได้"}
+</p>
 </div>
-<div data-layout-node={"n212"} className={"v73 section captured-style"}>
-<div data-layout-node={"n213"} className={"v3 captured-style"}>
-<div data-layout-node={"n214"} className={"v74 captured-style"}>
-<div data-layout-node={"n215"} className={"v4 captured-style"}>
-<SiteLink data-layout-node={"n216"} className={"v32 action-link captured-style"} href={"https://page.line.me/852uanad?openQrModal=true"} target={"_blank"} rel={"noopener"}>
-<span data-layout-node={"n217"} className={"v75 captured-style"}>
-<span data-layout-node={"n218"} className={"v76 captured-style"}>
-{"ปรึกษาฟรีคลิก"}
+</div>
+</div>
+</div>
+</div>
+<div data-layout-node={"n367"} className={"v97 section layout-row captured-style"}>
+<div data-layout-node={"n368"} className={"v98 captured-style"}>
+<div data-layout-node={"n369"} className={"v99 captured-style"}>
+<div data-layout-node={"n370"} className={"v100 captured-style"}>
+<figure data-layout-node={"n371"} className={"v101 media-widget captured-style"}>
+<span data-layout-node={"n372"} className={"v102 media-widget captured-style"}>
+<img data-layout-node={"n373"} className={"v103 captured-style"} src={"/assets/remote-f3cd536302eaa953-responsive-512.webp"} alt={"Home sweet home"} loading={"lazy"} decoding={"async"} width={"512"} height={"512"} srcSet={"/assets/remote-f3cd536302eaa953-responsive-160.webp 160w, /assets/remote-f3cd536302eaa953-responsive-320.webp 320w, /assets/remote-f3cd536302eaa953-responsive-512.webp 512w"} sizes={"63px"} />
+</span>
+</figure>
+<div data-layout-node={"n374"} className={"v47 captured-style"}>
+<h3 data-layout-node={"n375"} className={"v104 captured-style"}>
+<span data-layout-node={"n376"} className={"v105 captured-style"}>
+{"ออกแบบให้ผู้ใช้งานเริ่มประชุมได้ง่าย"}
+</span>
+</h3>
+<p data-layout-node={"n377"} className={"v106 captured-style"}>
+{"ระบบที่ดีต้องไม่ทำให้ผู้ใช้งานเสียเวลาเรียนรู้ เราจึงให้ความสำคัญกับขั้นตอนการเปิดระบบ การเลือกแหล่งสัญญาณ การแชร์หน้าจอ และการเริ่มประชุมออนไลน์ให้สะดวกที่สุด"}
+</p>
+</div>
+</div>
+</div>
+</div>
+<div data-layout-node={"n378"} className={"v98 captured-style"}>
+<div data-layout-node={"n379"} className={"v99 captured-style"}>
+<div data-layout-node={"n380"} className={"v100 captured-style"}>
+<figure data-layout-node={"n381"} className={"v101 media-widget captured-style"}>
+<img data-layout-node={"n382"} className={"v107 captured-style"} src={"/assets/remote-e93e8a9d35e996c2-responsive-512.webp"} alt={"Insurance"} loading={"lazy"} decoding={"async"} width={"512"} height={"512"} srcSet={"/assets/remote-e93e8a9d35e996c2-responsive-160.webp 160w, /assets/remote-e93e8a9d35e996c2-responsive-320.webp 320w, /assets/remote-e93e8a9d35e996c2-responsive-512.webp 512w"} sizes={"63px"} />
+</figure>
+<div data-layout-node={"n383"} className={"v47 captured-style"}>
+<h3 data-layout-node={"n384"} className={"v104 captured-style"}>
+{"ทดสอบระบบและดูแลหลังการติดตั้ง"}
+</h3>
+<p data-layout-node={"n385"} className={"v106 captured-style"}>
+{"หลังติดตั้ง ทีมงานจะทดสอบคุณภาพเสียง ภาพ กล้อง ไมโครโฟน การแชร์หน้าจอ และการเชื่อมต่อระบบประชุมออนไลน์ พร้อมอบรมผู้ใช้งานและให้คำแนะนำในการดูแลระบบ"}
+</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</details>
+</section>
+<section id={"service-options"} className={"service-stage"} data-service-stage={"options"}>
+<div className={"service-stage-heading"}>
+<h2>
+{"รูปแบบบริการและราคา"}
+</h2>
+</div>
+<ServicePricing path={"/smart-meeting-room/"} />
+<div data-layout-node={"n34"} className={"v21 section captured-style"}>
+<div data-layout-node={"n35"} className={"v22 captured-style"}>
+<div data-layout-node={"n36"} className={"v3 text-widget captured-style"}>
+<div data-layout-node={"n37"} className={"v4 text-widget captured-style"}>
+<p data-layout-node={"n38"} className={"v5 captured-style"}>
+{"SMART MEETING ROOM SOLUTIONS"}
+</p>
+</div>
+</div>
+<div data-layout-node={"n39"} className={"v3 text-widget captured-style"}>
+<div data-layout-node={"n40"} className={"v4 text-widget captured-style"}>
+<h2 data-layout-node={"n41"} className={"v23 captured-style"}>
+{"โซลูชันระบบห้องประชุม Audio & Video แบบครบวงจร"}
+</h2>
+</div>
+</div>
+<div data-layout-node={"n42"} className={"v24 section layout-row captured-style"}>
+<div data-layout-node={"n43"} className={"v25 section captured-style"}>
+<div data-layout-node={"n44"} className={"v26 layout-row captured-style"}>
+<div data-layout-node={"n45"} className={"v27 section captured-style"}>
+<div data-layout-node={"n46"} className={"v28 captured-style"}>
+<div data-layout-node={"n47"} className={"v3 text-widget captured-style"}>
+<div data-layout-node={"n48"} className={"v4 text-widget captured-style"}>
+<h2 data-layout-node={"n49"} className={"v29 captured-style"}>
+{"ระบบไมโครโฟนและเสียงประชุมอัจฉริยะ"}
+</h2>
+</div>
+</div>
+<div data-layout-node={"n50"} className={"v3 media-widget captured-style"}>
+<div data-layout-node={"n51"} className={"v4 media-widget captured-style"}>
+<img data-layout-node={"n52"} className={"v30 captured-style"} src={"/assets/remote-565cdfeb166e0fcc-responsive-640.webp"} alt={"ระบบไมโครโฟนและเสียงสำหรับห้องประชุมอัจฉริยะ"} loading={"lazy"} decoding={"async"} width={"1024"} height={"682"} srcSet={"/assets/remote-565cdfeb166e0fcc-responsive-160.webp 160w, /assets/remote-565cdfeb166e0fcc-responsive-320.webp 320w, /assets/remote-565cdfeb166e0fcc-responsive-640.webp 640w, /assets/remote-565cdfeb166e0fcc-responsive-1280.webp 1280w"} sizes={"(max-width: 640px) calc(100vw - 40px), (max-width: 1024px) 50vw, 340px"} />
+</div>
+</div>
+<div data-layout-node={"n53"} className={"v16 captured-style"}>
+<div data-layout-node={"n54"} className={"v17 captured-style"}>
+<p data-layout-node={"n55"} className={"v18 captured-style"}>
+{"ออกแบบระบบไมโครโฟนและลำโพงให้เหมาะกับขนาดห้อง รูปแบบโต๊ะ จำนวนผู้เข้าร่วม และตำแหน่งการนั่ง เพื่อให้ทุกคนได้ยินและพูดคุยได้อย่างชัดเจน"}
+</p>
+<p data-layout-node={"n56"} className={"v18 captured-style"}>
+{"สามารถออกแบบให้รองรับไมโครโฟนประชุมแบบตั้งโต๊ะ ไมโครโฟนไร้สาย ไมโครโฟน Ceiling Array ลำโพงติดเพดาน ลำโพงติดผนัง และระบบประมวลผลเสียง DSP เพื่อช่วยลดเสียงสะท้อน เสียงรบกวน และปรับระดับเสียงให้เหมาะสม"}
+</p>
+</div>
+</div>
+<div data-layout-node={"n57"} className={"v3 captured-style"}>
+<div data-layout-node={"n58"} className={"v31 captured-style"}>
+<div data-layout-node={"n59"} className={"v4 captured-style"}>
+<SiteLink data-layout-node={"n60"} className={"v32 action-link captured-style"} href={"https://page.line.me/852uanad?openQrModal=true"} target={"_blank"} rel={"noopener"}>
+<span data-layout-node={"n61"} className={"v33 captured-style"}>
+<span data-layout-node={"n62"} className={"v34 captured-style"}>
+{"ปรึกษาเรา "}
+<br data-layout-node={"n63"} className={"v35 captured-style"} />
+{" เรื่องระบบเสียงห้องประชุม"}
 </span>
 </span>
 </SiteLink>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div data-layout-node={"n64"} className={"v27 section captured-style"}>
+<div data-layout-node={"n65"} className={"v28 captured-style"}>
+<div data-layout-node={"n66"} className={"v3 text-widget captured-style"}>
+<div data-layout-node={"n67"} className={"v4 text-widget captured-style"}>
+<h2 data-layout-node={"n68"} className={"v29 captured-style"}>
+{"จอ Interactive Display และระบบภาพ"}
+</h2>
+</div>
+</div>
+<div data-layout-node={"n69"} className={"v3 media-widget captured-style"}>
+<div data-layout-node={"n70"} className={"v4 media-widget captured-style"}>
+<img data-layout-node={"n71"} className={"v36 captured-style"} src={"/assets/remote-553133461f382209-responsive-640.webp"} alt={"จอ Interactive Display สำหรับเขียนและนำเสนอในห้องประชุม"} loading={"lazy"} decoding={"async"} width={"1024"} height={"683"} srcSet={"/assets/remote-553133461f382209-responsive-160.webp 160w, /assets/remote-553133461f382209-responsive-320.webp 320w, /assets/remote-553133461f382209-responsive-640.webp 640w, /assets/remote-553133461f382209-responsive-1280.webp 1280w"} sizes={"(max-width: 640px) calc(100vw - 40px), (max-width: 1024px) 50vw, 340px"} />
+</div>
+</div>
+<div data-layout-node={"n72"} className={"v16 captured-style"}>
+<div data-layout-node={"n73"} className={"v17 captured-style"}>
+<p data-layout-node={"n74"} className={"v18 captured-style"}>
+{"เปลี่ยนการนำเสนอแบบเดิมให้เป็นการทำงานร่วมกันบนหน้าจอ ผู้ใช้งานสามารถเขียน อธิบาย ทำเครื่องหมายบนเอกสาร เปิดไฟล์ แชร์หน้าจอ และบันทึกข้อมูลจากการประชุมได้อย่างสะดวก"}
+</p>
+<p data-layout-node={"n75"} className={"v18 captured-style"}>
+{"AITS ช่วยเลือกขนาดจอ ความละเอียด และตำแหน่งติดตั้งให้เหมาะกับระยะการมองเห็น พร้อมออกแบบการเชื่อมต่อกับคอมพิวเตอร์ กล้อง ไมโครโฟน และระบบประชุมออนไลน์"}
+</p>
+</div>
+</div>
+<div data-layout-node={"n76"} className={"v3 captured-style"}>
+<div data-layout-node={"n77"} className={"v31 captured-style"}>
+<div data-layout-node={"n78"} className={"v4 captured-style"}>
+<SiteLink data-layout-node={"n79"} className={"v32 action-link captured-style"} href={"https://page.line.me/852uanad?openQrModal=true"} target={"_blank"} rel={"noopener"}>
+<span data-layout-node={"n80"} className={"v37 captured-style"}>
+<span data-layout-node={"n81"} className={"v38 captured-style"}>
+{"ปรึกษาเรา"}
+<br data-layout-node={"n82"} className={"v35 captured-style"} />
+{" เรื่องจอ Interactive"}
+</span>
+</span>
+</SiteLink>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div data-layout-node={"n83"} className={"v27 section captured-style"}>
+<div data-layout-node={"n84"} className={"v28 captured-style"}>
+<div data-layout-node={"n85"} className={"v3 text-widget captured-style"}>
+<div data-layout-node={"n86"} className={"v4 text-widget captured-style"}>
+<h2 data-layout-node={"n87"} className={"v29 captured-style"}>
+{"ระบบ Video Conference และ Wireless Presentation"}
+</h2>
+</div>
+</div>
+<div data-layout-node={"n88"} className={"v3 media-widget captured-style"}>
+<div data-layout-node={"n89"} className={"v4 media-widget captured-style"}>
+<img data-layout-node={"n90"} className={"v39 captured-style"} src={"/assets/remote-5ae472156c07fa32-responsive-640.webp"} alt={"ระบบ Video Conference สำหรับประชุมออนไลน์และ Hybrid Meeting"} loading={"lazy"} decoding={"async"} width={"1024"} height={"540"} srcSet={"/assets/remote-5ae472156c07fa32-responsive-160.webp 160w, /assets/remote-5ae472156c07fa32-responsive-320.webp 320w, /assets/remote-5ae472156c07fa32-responsive-640.webp 640w, /assets/remote-5ae472156c07fa32-responsive-1280.webp 1280w"} sizes={"(max-width: 640px) calc(100vw - 40px), (max-width: 1024px) 50vw, 340px"} />
+</div>
+</div>
+<div data-layout-node={"n91"} className={"v16 captured-style"}>
+<div data-layout-node={"n92"} className={"v17 captured-style"}>
+<p data-layout-node={"n93"} className={"v18 captured-style"}>
+{"ประชุมออนไลน์ได้อย่างเป็นมืออาชีพด้วยระบบกล้อง ไมโครโฟน ลำโพง และจอแสดงผลที่ออกแบบให้ทำงานร่วมกันอย่างเป็นระบบ"}
+</p>
+<p data-layout-node={"n94"} className={"v18 captured-style"}>
+{"รองรับการออกแบบสำหรับ Microsoft Teams, Zoom, Google Meet, Webex และระบบ BYOD ที่ผู้ใช้งานสามารถนำ Notebook ของตนเองมาเชื่อมต่อกับอุปกรณ์ภายในห้องได้"}
+</p>
+<p data-layout-node={"n95"} className={"v18 captured-style"}>
+{"สามารถเพิ่มระบบแชร์หน้าจอแบบไร้สาย เพื่อลดปัญหาสายต่อไม่ตรง พอร์ตไม่เพียงพอ และลดเวลาในการเตรียมอุปกรณ์ก่อนเริ่มประชุม"}
+</p>
+</div>
+</div>
+<div data-layout-node={"n96"} className={"v3 captured-style"}>
+<div data-layout-node={"n97"} className={"v31 captured-style"}>
+<div data-layout-node={"n98"} className={"v4 captured-style"}>
+<SiteLink data-layout-node={"n99"} className={"v32 action-link captured-style"} href={"https://page.line.me/852uanad?openQrModal=true"} target={"_blank"} rel={"noopener"}>
+<span data-layout-node={"n100"} className={"v40 captured-style"}>
+<span data-layout-node={"n101"} className={"v41 captured-style"}>
+{"ปรึกษาเรา"}
+<br data-layout-node={"n102"} className={"v35 captured-style"} />
+{" เรื่องระบบ Video Conference"}
+</span>
+</span>
+</SiteLink>
+</div>
+</div>
 </div>
 </div>
 </div>
@@ -671,182 +728,12 @@ export default function Page19702(){return <div className="page-19702 captured-p
 </div>
 </div>
 </div>
-<div data-layout-node={"n304"} className={"v49 section captured-style"}>
-<div data-layout-node={"n305"} className={"v50 layout-row captured-style"}>
-<div data-layout-node={"n306"} className={"v51 section captured-style"}>
-<div data-layout-node={"n307"} className={"v52 layout-row captured-style"}>
-<div data-layout-node={"n308"} className={"v53 section captured-style"}>
-<div data-layout-node={"n309"} className={"v54 captured-style"}>
-<div data-layout-node={"n310"} className={"v55 captured-style"}>
-<div data-layout-node={"n311"} className={"v56 layout-row captured-style"}>
-<div data-layout-node={"n312"} className={"v57 captured-style"}>
-<SiteLink data-layout-node={"n313"} className={"v58 captured-style"} href={"tel:0944606196"}>
-<i data-layout-node={"n314"} className={"v59 captured-style"}>
-
-</i>
-</SiteLink>
-</div>
-<div data-layout-node={"n315"} className={"v60 captured-style"}>
-<p data-layout-node={"n316"} className={"v61 captured-style"}>
-<SiteLink data-layout-node={"n317"} className={"v62 captured-style"} href={"tel:0944606196"}>
-{"\r\n\t\t\t\t\t\tให้คำปรึกษาฟรี\t\t\t\t\t"}
-</SiteLink>
-</p>
-<p data-layout-node={"n318"} className={"v63 large-copy captured-style"}>
-{"\r\n\t\t\t\t\t\t094 460 6196\t\t\t\t\t"}
-</p>
-</div>
-</div>
-</div>
-</div>
-</div>
-<div data-layout-node={"n319"} className={"v64 section captured-style"}>
-<div data-layout-node={"n320"} className={"v65 captured-style"}>
-<div data-layout-node={"n321"} className={"v66 captured-style"}>
-<div data-layout-node={"n322"} className={"v67 layout-row captured-style"}>
-<div data-layout-node={"n323"} className={"v68 captured-style"}>
-<SiteLink data-layout-node={"n324"} className={"v58 captured-style"} href={"https://page.line.me/852uanad?openQrModal=true"}>
-<i data-layout-node={"n325"} className={"v69 captured-style"}>
-
-</i>
-</SiteLink>
-</div>
-<div data-layout-node={"n326"} className={"v70 captured-style"}>
-<p data-layout-node={"n327"} className={"v71 captured-style"}>
-<SiteLink data-layout-node={"n328"} className={"v62 captured-style"} href={"https://page.line.me/852uanad?openQrModal=true"}>
-{"\r\n\t\t\t\t\t\tLine\t\t\t\t\t"}
-</SiteLink>
-</p>
-<p data-layout-node={"n329"} className={"v72 large-copy captured-style"}>
-{"\r\n\t\t\t\t\t\t@AITSCCTV\t\t\t\t\t"}
-</p>
-</div>
-</div>
-</div>
-</div>
-</div>
-<div data-layout-node={"n330"} className={"v73 section captured-style"}>
-<div data-layout-node={"n331"} className={"v3 captured-style"}>
-<div data-layout-node={"n332"} className={"v74 captured-style"}>
-<div data-layout-node={"n333"} className={"v4 captured-style"}>
-<SiteLink data-layout-node={"n334"} className={"v32 action-link captured-style"} href={"https://page.line.me/852uanad?openQrModal=true"} target={"_blank"} rel={"noopener"}>
-<span data-layout-node={"n335"} className={"v75 captured-style"}>
-<span data-layout-node={"n336"} className={"v76 captured-style"}>
-{"ปรึกษาฟรีคลิก"}
-</span>
-</span>
-</SiteLink>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-<div data-layout-node={"n337"} className={"v94 section captured-style"}>
-<div data-layout-node={"n338"} className={"v78 captured-style"}>
-<div data-layout-node={"n339"} className={"v3 text-widget captured-style"}>
-<div data-layout-node={"n340"} className={"v4 text-widget captured-style"}>
-<p data-layout-node={"n341"} className={"v95 captured-style"}>
-{"WHY AITSCCTV"}
-</p>
-</div>
-</div>
-<div data-layout-node={"n342"} className={"v3 text-widget captured-style"}>
-<div data-layout-node={"n343"} className={"v4 text-widget captured-style"}>
-<h2 data-layout-node={"n344"} className={"v43 captured-style"}>
-{"ทำไมต้องติดตั้งระบบห้องประชุมอัจฉริยะกับ AITS"}
-</h2>
-</div>
-</div>
-<div data-layout-node={"n345"} className={"v3 media-widget captured-style"}>
-<div data-layout-node={"n346"} className={"v4 media-widget captured-style"}>
-<img data-layout-node={"n347"} className={"v96 captured-style"} src={"/assets/remote-880e36aca3e0ccee-responsive-640.webp"} alt={"IMG"} loading={"lazy"} decoding={"async"} width={"768"} height={"511"} srcSet={"/assets/remote-880e36aca3e0ccee-responsive-160.webp 160w, /assets/remote-880e36aca3e0ccee-responsive-320.webp 320w, /assets/remote-880e36aca3e0ccee-responsive-640.webp 640w, /assets/remote-880e36aca3e0ccee-responsive-1024.webp 1024w"} sizes={"(max-width: 640px) calc(100vw - 40px), (max-width: 1024px) 50vw, 912px"} />
-</div>
-</div>
-<div data-layout-node={"n348"} className={"v97 section layout-row captured-style"}>
-<div data-layout-node={"n349"} className={"v98 captured-style"}>
-<div data-layout-node={"n350"} className={"v99 captured-style"}>
-<div data-layout-node={"n351"} className={"v100 captured-style"}>
-<figure data-layout-node={"n352"} className={"v101 media-widget captured-style"}>
-<span data-layout-node={"n353"} className={"v102 media-widget captured-style"}>
-<img data-layout-node={"n354"} className={"v103 captured-style"} src={"/assets/remote-27954ceaf8bdfd3b-responsive-512.webp"} alt={"Renewable"} loading={"lazy"} decoding={"async"} width={"512"} height={"512"} srcSet={"/assets/remote-27954ceaf8bdfd3b-responsive-160.webp 160w, /assets/remote-27954ceaf8bdfd3b-responsive-320.webp 320w, /assets/remote-27954ceaf8bdfd3b-responsive-512.webp 512w"} sizes={"63px"} />
-</span>
-</figure>
-<div data-layout-node={"n355"} className={"v47 captured-style"}>
-<h3 data-layout-node={"n356"} className={"v104 captured-style"}>
-<span data-layout-node={"n357"} className={"v105 captured-style"}>
-{"ออกแบบจากพื้นที่และวัตถุประสงค์จริง"}
-</span>
-</h3>
-<p data-layout-node={"n358"} className={"v106 captured-style"}>
-{"ทีมงานสำรวจขนาดห้อง รูปแบบโต๊ะ จำนวนผู้ใช้งาน ตำแหน่งผู้พูด สภาพเสียง แสง และระบบเครือข่าย ก่อนเลือกอุปกรณ์ เพื่อให้โซลูชันเหมาะกับการใช้งานจริง"}
-</p>
-</div>
-</div>
-</div>
-</div>
-<div data-layout-node={"n359"} className={"v98 captured-style"}>
-<div data-layout-node={"n360"} className={"v99 captured-style"}>
-<div data-layout-node={"n361"} className={"v100 captured-style"}>
-<figure data-layout-node={"n362"} className={"v101 media-widget captured-style"}>
-<img data-layout-node={"n363"} className={"v107 captured-style"} src={"/assets/remote-4ec2380225a0077c-responsive-512.webp"} alt={"Rating"} loading={"lazy"} decoding={"async"} width={"512"} height={"512"} srcSet={"/assets/remote-4ec2380225a0077c-responsive-160.webp 160w, /assets/remote-4ec2380225a0077c-responsive-320.webp 320w, /assets/remote-4ec2380225a0077c-responsive-512.webp 512w"} sizes={"63px"} />
-</figure>
-<div data-layout-node={"n364"} className={"v47 captured-style"}>
-<h3 data-layout-node={"n365"} className={"v104 captured-style"}>
-{"รวมระบบ Audio, Video, Network และ Control"}
-</h3>
-<p data-layout-node={"n366"} className={"v106 captured-style"}>
-{"AITS มีความเชี่ยวชาญทั้งระบบภาพ เสียง เครือข่าย และระบบควบคุม ช่วยลดปัญหาที่เกิดจากการแยกผู้รับผิดชอบหลายราย และทำให้ทุกระบบสามารถทำงานร่วมกันได้"}
-</p>
-</div>
-</div>
-</div>
-</div>
-</div>
-<div data-layout-node={"n367"} className={"v97 section layout-row captured-style"}>
-<div data-layout-node={"n368"} className={"v98 captured-style"}>
-<div data-layout-node={"n369"} className={"v99 captured-style"}>
-<div data-layout-node={"n370"} className={"v100 captured-style"}>
-<figure data-layout-node={"n371"} className={"v101 media-widget captured-style"}>
-<span data-layout-node={"n372"} className={"v102 media-widget captured-style"}>
-<img data-layout-node={"n373"} className={"v103 captured-style"} src={"/assets/remote-f3cd536302eaa953-responsive-512.webp"} alt={"Home sweet home"} loading={"lazy"} decoding={"async"} width={"512"} height={"512"} srcSet={"/assets/remote-f3cd536302eaa953-responsive-160.webp 160w, /assets/remote-f3cd536302eaa953-responsive-320.webp 320w, /assets/remote-f3cd536302eaa953-responsive-512.webp 512w"} sizes={"63px"} />
-</span>
-</figure>
-<div data-layout-node={"n374"} className={"v47 captured-style"}>
-<h3 data-layout-node={"n375"} className={"v104 captured-style"}>
-<span data-layout-node={"n376"} className={"v105 captured-style"}>
-{"ออกแบบให้ผู้ใช้งานเริ่มประชุมได้ง่าย"}
-</span>
-</h3>
-<p data-layout-node={"n377"} className={"v106 captured-style"}>
-{"ระบบที่ดีต้องไม่ทำให้ผู้ใช้งานเสียเวลาเรียนรู้ เราจึงให้ความสำคัญกับขั้นตอนการเปิดระบบ การเลือกแหล่งสัญญาณ การแชร์หน้าจอ และการเริ่มประชุมออนไลน์ให้สะดวกที่สุด"}
-</p>
-</div>
-</div>
-</div>
-</div>
-<div data-layout-node={"n378"} className={"v98 captured-style"}>
-<div data-layout-node={"n379"} className={"v99 captured-style"}>
-<div data-layout-node={"n380"} className={"v100 captured-style"}>
-<figure data-layout-node={"n381"} className={"v101 media-widget captured-style"}>
-<img data-layout-node={"n382"} className={"v107 captured-style"} src={"/assets/remote-e93e8a9d35e996c2-responsive-512.webp"} alt={"Insurance"} loading={"lazy"} decoding={"async"} width={"512"} height={"512"} srcSet={"/assets/remote-e93e8a9d35e996c2-responsive-160.webp 160w, /assets/remote-e93e8a9d35e996c2-responsive-320.webp 320w, /assets/remote-e93e8a9d35e996c2-responsive-512.webp 512w"} sizes={"63px"} />
-</figure>
-<div data-layout-node={"n383"} className={"v47 captured-style"}>
-<h3 data-layout-node={"n384"} className={"v104 captured-style"}>
-{"ทดสอบระบบและดูแลหลังการติดตั้ง"}
-</h3>
-<p data-layout-node={"n385"} className={"v106 captured-style"}>
-{"หลังติดตั้ง ทีมงานจะทดสอบคุณภาพเสียง ภาพ กล้อง ไมโครโฟน การแชร์หน้าจอ และการเชื่อมต่อระบบประชุมออนไลน์ พร้อมอบรมผู้ใช้งานและให้คำแนะนำในการดูแลระบบ"}
-</p>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
+<ServiceWarranty path={"/smart-meeting-room/"} />
+<details className={"service-detail"}>
+<summary>
+{"รายละเอียดทางเทคนิคและแนวทางเลือกใช้งาน"}
+</summary>
+<div className={"service-detail-content"}>
 <div data-layout-node={"n386"} className={"v7 section captured-style"}>
 <div data-layout-node={"n387"} className={"v2 captured-style"}>
 <div data-layout-node={"n388"} className={"v3 text-widget captured-style"}>
@@ -1004,116 +891,23 @@ export default function Page19702(){return <div className="page-19702 captured-p
 </div>
 </div>
 </div>
-<div data-layout-node={"n456"} className={"v49 section captured-style"}>
-<div data-layout-node={"n457"} className={"v50 layout-row captured-style"}>
-<div data-layout-node={"n458"} className={"v51 section captured-style"}>
-<div data-layout-node={"n459"} className={"v52 layout-row captured-style"}>
-<div data-layout-node={"n460"} className={"v53 section captured-style"}>
-<div data-layout-node={"n461"} className={"v54 captured-style"}>
-<div data-layout-node={"n462"} className={"v55 captured-style"}>
-<div data-layout-node={"n463"} className={"v56 layout-row captured-style"}>
-<div data-layout-node={"n464"} className={"v57 captured-style"}>
-<SiteLink data-layout-node={"n465"} className={"v58 captured-style"} href={"tel:0944606196"}>
-<i data-layout-node={"n466"} className={"v59 captured-style"}>
-
-</i>
-</SiteLink>
 </div>
-<div data-layout-node={"n467"} className={"v60 captured-style"}>
-<p data-layout-node={"n468"} className={"v61 captured-style"}>
-<SiteLink data-layout-node={"n469"} className={"v62 captured-style"} href={"tel:0944606196"}>
-{"\r\n\t\t\t\t\t\tให้คำปรึกษาฟรี\t\t\t\t\t"}
-</SiteLink>
-</p>
-<p data-layout-node={"n470"} className={"v63 large-copy captured-style"}>
-{"\r\n\t\t\t\t\t\t094 460 6196\t\t\t\t\t"}
-</p>
+</details>
+</section>
+<section id={"service-projects"} className={"service-stage"} data-service-stage={"projects"}>
+<div className={"service-stage-heading"}>
+<h2>
+{"ผลงานและเนื้อหาที่เกี่ยวข้อง"}
+</h2>
 </div>
+<ServiceProjects path={"/smart-meeting-room/"} />
+</section>
+<section id={"service-contact"} className={"service-stage"} data-service-stage={"contact"}>
+<div className={"service-stage-heading"}>
+<h2>
+{"ขอใบเสนอราคาและติดต่อทีมงาน"}
+</h2>
 </div>
-</div>
-</div>
-</div>
-<div data-layout-node={"n471"} className={"v64 section captured-style"}>
-<div data-layout-node={"n472"} className={"v65 captured-style"}>
-<div data-layout-node={"n473"} className={"v66 captured-style"}>
-<div data-layout-node={"n474"} className={"v67 layout-row captured-style"}>
-<div data-layout-node={"n475"} className={"v68 captured-style"}>
-<SiteLink data-layout-node={"n476"} className={"v58 captured-style"} href={"https://page.line.me/852uanad?openQrModal=true"}>
-<i data-layout-node={"n477"} className={"v69 captured-style"}>
-
-</i>
-</SiteLink>
-</div>
-<div data-layout-node={"n478"} className={"v70 captured-style"}>
-<p data-layout-node={"n479"} className={"v71 captured-style"}>
-<SiteLink data-layout-node={"n480"} className={"v62 captured-style"} href={"https://page.line.me/852uanad?openQrModal=true"}>
-{"\r\n\t\t\t\t\t\tLine\t\t\t\t\t"}
-</SiteLink>
-</p>
-<p data-layout-node={"n481"} className={"v72 large-copy captured-style"}>
-{"\r\n\t\t\t\t\t\t@AITSCCTV\t\t\t\t\t"}
-</p>
-</div>
-</div>
-</div>
-</div>
-</div>
-<div data-layout-node={"n482"} className={"v73 section captured-style"}>
-<div data-layout-node={"n483"} className={"v3 captured-style"}>
-<div data-layout-node={"n484"} className={"v74 captured-style"}>
-<div data-layout-node={"n485"} className={"v4 captured-style"}>
-<SiteLink data-layout-node={"n486"} className={"v32 action-link captured-style"} href={"https://page.line.me/852uanad?openQrModal=true"} target={"_blank"} rel={"noopener"}>
-<span data-layout-node={"n487"} className={"v75 captured-style"}>
-<span data-layout-node={"n488"} className={"v76 captured-style"}>
-{"ปรึกษาฟรีคลิก"}
-</span>
-</span>
-</SiteLink>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-<div data-layout-node={"n501"} className={"v134 section captured-style"}>
-<div data-layout-node={"n502"} className={"v135 captured-style"}>
-<div data-layout-node={"n503"} className={"v3 text-widget captured-style"}>
-<div data-layout-node={"n504"} className={"v4 text-widget captured-style"}>
-<p data-layout-node={"n505"} className={"v136 large-copy captured-style"}>
-{"\" Let AITS Set Standard  ให้เราได้สร้างมาตรฐาน \"\r\n "}
-</p>
-</div>
-</div>
-<div data-layout-node={"n506"} className={"v137 section layout-row captured-style"}>
-<div data-layout-node={"n507"} className={"v138 captured-style"}>
-<div data-layout-node={"n508"} className={"v4 captured-style"}>
-<div data-layout-node={"n509"} className={"v4 captured-style"}>
-<SiteLink data-layout-node={"n510"} className={"v139 action-link captured-style"} href={"tel:0944606196"}>
-<span data-layout-node={"n511"} className={"v140 captured-style"}>
-<span data-layout-node={"n512"} className={"v141 captured-style"}>
-{"โทรหาเรา"}
-</span>
-</span>
-</SiteLink>
-</div>
-</div>
-</div>
-<div data-layout-node={"n513"} className={"v138 captured-style"}>
-<div data-layout-node={"n514"} className={"v4 captured-style"}>
-<div data-layout-node={"n515"} className={"v4 captured-style"}>
-<SiteLink data-layout-node={"n516"} className={"v142 action-link captured-style"} href={"https://page.line.me/852uanad?openQrModal=true"} target={"_blank"} rel={"noopener"}>
-<span data-layout-node={"n517"} className={"v143 captured-style"}>
-<span data-layout-node={"n518"} className={"v144 captured-style"}>
-{"ปรึกษาฟรีคลิก"}
-</span>
-</span>
-</SiteLink>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
+<ServiceContact path={"/smart-meeting-room/"} />
+</section>
 </div></div>}

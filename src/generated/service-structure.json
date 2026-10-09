@@ -1,0 +1,1280 @@
+[
+  {
+    "path": "/window-film/",
+    "intro": [
+      "n1",
+      "n9"
+    ],
+    "benefits": [
+      "n482"
+    ],
+    "options": [
+      "n32",
+      "n365",
+      "n526"
+    ],
+    "details": [
+      "n92",
+      "n136",
+      "n153",
+      "n276",
+      "n323",
+      "n424"
+    ],
+    "removed": [
+      {
+        "key": "n103",
+        "reason": "replaced with one quotation/contact section"
+      },
+      {
+        "key": "n243",
+        "reason": "replaced with one quotation/contact section"
+      },
+      {
+        "key": "n391",
+        "reason": "replaced with one quotation/contact section"
+      },
+      {
+        "key": "n563",
+        "reason": "replaced with one quotation/contact section"
+      },
+      {
+        "key": "n609",
+        "reason": "replaced with one quotation/contact section"
+      }
+    ],
+    "nestedRemoved": [],
+    "sectionsBefore": 17,
+    "sectionsRetained": 12,
+    "projects": [],
+    "warranties": []
+  },
+  {
+    "path": "/internet-system/",
+    "intro": [
+      "n1",
+      "n9"
+    ],
+    "benefits": [
+      "n348"
+    ],
+    "options": [
+      "n37",
+      "n230"
+    ],
+    "details": [
+      "n286",
+      "n317"
+    ],
+    "removed": [
+      {
+        "key": "n169",
+        "reason": "generic sales claims condensed into service benefits and trust statement"
+      },
+      {
+        "key": "n247",
+        "reason": "replaced with one quotation/contact section"
+      },
+      {
+        "key": "n253",
+        "reason": "replaced with one quotation/contact section"
+      },
+      {
+        "key": "n448",
+        "reason": "team moved to About Us"
+      },
+      {
+        "key": "n650",
+        "reason": "replaced with one quotation/contact section"
+      }
+    ],
+    "nestedRemoved": [
+      "n40"
+    ],
+    "sectionsBefore": 12,
+    "sectionsRetained": 7,
+    "projects": [
+      {
+        "href": "https://aitscctv.com/wi-fi/",
+        "title": "ผลงานติดตั้งกล้องวงจรปิด + ระบบ Wi-Fi โดย AITSCCTV",
+        "kind": "project"
+      },
+      {
+        "href": "https://aitscctv.com/access-point-for-university/",
+        "title": "ติดตั้ง Access Point และเดินสาย LAN ให้กับคณะอุตสาหกรรม มหาวิทยาลัยเกษตรศาสตร์",
+        "kind": "project"
+      },
+      {
+        "href": "https://aitscctv.com/aruba/",
+        "title": "การติดตั้งเครื่องกระจายสัญญาณ Aruba",
+        "kind": "project"
+      }
+    ],
+    "warranties": [
+      "รับประกันตัวสินค้าให้ 2 ปีเต็ม การรับประกันงานบริการ 1 ปี โดยเฉพาะ Onsite**"
+    ]
+  },
+  {
+    "path": "/internet-system/access-point/",
+    "intro": [
+      "n1",
+      "n9"
+    ],
+    "benefits": [
+      "n145"
+    ],
+    "options": [
+      "n35",
+      "n80"
+    ],
+    "details": [
+      "n135",
+      "n175",
+      "n251"
+    ],
+    "removed": [
+      {
+        "key": "n102",
+        "reason": "replaced with one quotation/contact section"
+      },
+      {
+        "key": "n291",
+        "reason": "replaced with one quotation/contact section"
+      },
+      {
+        "key": "n324",
+        "reason": "replaced with relevant published content"
+      },
+      {
+        "key": "n386",
+        "reason": "replaced with one quotation/contact section"
+      }
+    ],
+    "nestedRemoved": [],
+    "sectionsBefore": 12,
+    "sectionsRetained": 8,
+    "projects": [
+      {
+        "href": "https://aitscctv.com/%e0%b9%80%e0%b8%99%e0%b9%87%e0%b8%95%e0%b8%9a%e0%b9%89%e0%b8%b2%e0%b8%99%e0%b8%8a%e0%b9%89%e0%b8%b2/",
+        "title": "เน็ตบ้านช้า สัญญาณหลุดบ่อย? เบื้องหลังการติดตั้ง Access Point สุดมินิมอล ชุบชีวิต Wi-Fi ให้แรงทั่วบ้าน 100% โดย AITSCCTV",
+        "kind": "project"
+      },
+      {
+        "href": "https://aitscctv.com/access-point-for-university/",
+        "title": "ติดตั้ง Access Point และเดินสาย LAN ให้กับคณะอุตสาหกรรม มหาวิทยาลัยเกษตรศาสตร์",
+        "kind": "project"
+      },
+      {
+        "href": "https://aitscctv.com/aruba/",
+        "title": "การติดตั้งเครื่องกระจายสัญญาณ Aruba",
+        "kind": "project"
+      }
+    ],
+    "warranties": []
+  },
+  {
+    "path": "/internet-system/wi-fi/",
+    "intro": [
+      "n1",
+      "n9"
+    ],
+    "benefits": [
+      "n178",
+      "n209"
+    ],
+    "options": [
+      "n34",
+      "n160"
+    ],
+    "details": [
+      "n99",
+      "n153",
+      "n252"
+    ],
+    "removed": [
+      {
+        "key": "n120",
+        "reason": "replaced with one quotation/contact section"
+      },
+      {
+        "key": "n259",
+        "reason": "replaced with relevant published content"
+      },
+      {
+        "key": "n321",
+        "reason": "replaced with one quotation/contact section"
+      }
+    ],
+    "nestedRemoved": [],
+    "sectionsBefore": 12,
+    "sectionsRetained": 9,
+    "projects": [
+      {
+        "href": "https://aitscctv.com/wi-fi/",
+        "title": "ผลงานติดตั้งกล้องวงจรปิด + ระบบ Wi-Fi โดย AITSCCTV",
+        "kind": "project"
+      },
+      {
+        "href": "https://aitscctv.com/access-point-for-university/",
+        "title": "ติดตั้ง Access Point และเดินสาย LAN ให้กับคณะอุตสาหกรรม มหาวิทยาลัยเกษตรศาสตร์",
+        "kind": "project"
+      },
+      {
+        "href": "https://aitscctv.com/aruba/",
+        "title": "การติดตั้งเครื่องกระจายสัญญาณ Aruba",
+        "kind": "project"
+      }
+    ],
+    "warranties": []
+  },
+  {
+    "path": "/cctv-camera-service/",
+    "intro": [
+      "n1",
+      "n9"
+    ],
+    "benefits": [
+      "n83"
+    ],
+    "options": [
+      "n122",
+      "n182",
+      "n312"
+    ],
+    "details": [
+      "n437",
+      "n504",
+      "n541"
+    ],
+    "removed": [
+      {
+        "key": "n34",
+        "reason": "replaced with consistent section navigation"
+      },
+      {
+        "key": "n343",
+        "reason": "generic sales claims condensed into service benefits and trust statement"
+      },
+      {
+        "key": "n404",
+        "reason": "replaced with one quotation/contact section"
+      },
+      {
+        "key": "n595",
+        "reason": "team moved to About Us"
+      },
+      {
+        "key": "n817",
+        "reason": "replaced with one quotation/contact section"
+      }
+    ],
+    "nestedRemoved": [],
+    "sectionsBefore": 14,
+    "sectionsRetained": 9,
+    "projects": [
+      {
+        "href": "https://aitscctv.com/upgrade-cctv/",
+        "title": "เบื้องหลังการอัปเกรดระบบกล้องวงจรปิดเก่าให้คมชัดระดับเทพด้วยทีมช่าง AITSCCTV",
+        "kind": "project"
+      },
+      {
+        "href": "https://aitscctv.com/office-cctv/",
+        "title": "แผนติดตั้งกล้องวงจรปิดสำหรับพื้นที่สำนักงานในอาคาร — ระบบรักษาความปลอดภัยระดับองค์กรโดย AITS",
+        "kind": "article"
+      },
+      {
+        "href": "https://aitscctv.com/cctv-network-building/",
+        "title": "รีวิวงานติดตั้ง CCTV และออกแบบระบบเครือข่ายสำหรับอาคาร",
+        "kind": "project"
+      }
+    ],
+    "warranties": [
+      "รับประกันตัวสินค้าให้ 2 ปีเต็ม การรับประกันงานบริการ 1 ปี โดยเฉพาะ Onsite**"
+    ]
+  },
+  {
+    "path": "/cctv-camera-service/sixteen-cctv-camera/",
+    "intro": [
+      "n1",
+      "n9"
+    ],
+    "benefits": [
+      "n122",
+      "n140"
+    ],
+    "options": [
+      "n75",
+      "n31"
+    ],
+    "details": [],
+    "removed": [
+      {
+        "key": "n198",
+        "reason": "replaced with relevant published content"
+      },
+      {
+        "key": "n309",
+        "reason": "replaced with one quotation/contact section"
+      },
+      {
+        "key": "n319",
+        "reason": "replaced with one quotation/contact section"
+      },
+      {
+        "key": "n364",
+        "reason": "replaced with one quotation/contact section"
+      }
+    ],
+    "nestedRemoved": [],
+    "sectionsBefore": 10,
+    "sectionsRetained": 6,
+    "projects": [
+      {
+        "href": "https://aitscctv.com/office-cctv/",
+        "title": "แผนติดตั้งกล้องวงจรปิดสำหรับพื้นที่สำนักงานในอาคาร — ระบบรักษาความปลอดภัยระดับองค์กรโดย AITS",
+        "kind": "article"
+      },
+      {
+        "href": "https://aitscctv.com/cctv-network-building/",
+        "title": "รีวิวงานติดตั้ง CCTV และออกแบบระบบเครือข่ายสำหรับอาคาร",
+        "kind": "project"
+      },
+      {
+        "href": "https://aitscctv.com/design-cctv-home/",
+        "title": "การออกแบบและติดตั้งกล้องวงจรปิด",
+        "kind": "project"
+      }
+    ],
+    "warranties": []
+  },
+  {
+    "path": "/cctv-camera-service/four-cctv-camera/",
+    "intro": [
+      "n1",
+      "n9"
+    ],
+    "benefits": [
+      "n131",
+      "n160"
+    ],
+    "options": [
+      "n83",
+      "n34"
+    ],
+    "details": [],
+    "removed": [
+      {
+        "key": "n203",
+        "reason": "replaced with relevant published content"
+      },
+      {
+        "key": "n314",
+        "reason": "replaced with one quotation/contact section"
+      },
+      {
+        "key": "n323",
+        "reason": "replaced with one quotation/contact section"
+      },
+      {
+        "key": "n368",
+        "reason": "replaced with one quotation/contact section"
+      }
+    ],
+    "nestedRemoved": [],
+    "sectionsBefore": 10,
+    "sectionsRetained": 6,
+    "projects": [
+      {
+        "href": "https://aitscctv.com/design-cctv-home/",
+        "title": "การออกแบบและติดตั้งกล้องวงจรปิด",
+        "kind": "project"
+      },
+      {
+        "href": "https://aitscctv.com/soi-44/",
+        "title": "การติดตั้งกล้องวงจรปิดให้กับบ้านเดี่ยวในย่านพหลโยธิน ซอย 44",
+        "kind": "project"
+      },
+      {
+        "href": "https://aitscctv.com/cctv-and-network/",
+        "title": "รีวิวงานติดตั้ง CCTV และออกแบบระบบเครือข่ายสำหรับร้านค้า",
+        "kind": "project"
+      }
+    ],
+    "warranties": []
+  },
+  {
+    "path": "/cctv-camera-service/eight-cctv-camera/",
+    "intro": [
+      "n1",
+      "n9"
+    ],
+    "benefits": [
+      "n119",
+      "n135"
+    ],
+    "options": [
+      "n72",
+      "n31"
+    ],
+    "details": [],
+    "removed": [
+      {
+        "key": "n195",
+        "reason": "replaced with relevant published content"
+      },
+      {
+        "key": "n306",
+        "reason": "replaced with one quotation/contact section"
+      },
+      {
+        "key": "n317",
+        "reason": "replaced with one quotation/contact section"
+      },
+      {
+        "key": "n362",
+        "reason": "replaced with one quotation/contact section"
+      }
+    ],
+    "nestedRemoved": [],
+    "sectionsBefore": 10,
+    "sectionsRetained": 6,
+    "projects": [
+      {
+        "href": "https://aitscctv.com/cctv-network-building/",
+        "title": "รีวิวงานติดตั้ง CCTV และออกแบบระบบเครือข่ายสำหรับอาคาร",
+        "kind": "project"
+      },
+      {
+        "href": "https://aitscctv.com/soi-44/",
+        "title": "การติดตั้งกล้องวงจรปิดให้กับบ้านเดี่ยวในย่านพหลโยธิน ซอย 44",
+        "kind": "project"
+      },
+      {
+        "href": "https://aitscctv.com/design-cctv-home/",
+        "title": "การออกแบบและติดตั้งกล้องวงจรปิด",
+        "kind": "project"
+      }
+    ],
+    "warranties": []
+  },
+  {
+    "path": "/access-control-system/",
+    "intro": [
+      "n1",
+      "n9"
+    ],
+    "benefits": [
+      "n246"
+    ],
+    "options": [
+      "n41",
+      "n131"
+    ],
+    "details": [
+      "n33",
+      "n117",
+      "n329"
+    ],
+    "removed": [
+      {
+        "key": "n84",
+        "reason": "replaced with one quotation/contact section"
+      },
+      {
+        "key": "n186",
+        "reason": "generic sales claims condensed into service benefits and trust statement"
+      },
+      {
+        "key": "n296",
+        "reason": "replaced with one quotation/contact section"
+      },
+      {
+        "key": "n394",
+        "reason": "team moved to About Us"
+      },
+      {
+        "key": "n613",
+        "reason": "replaced with one quotation/contact section"
+      }
+    ],
+    "nestedRemoved": [],
+    "sectionsBefore": 13,
+    "sectionsRetained": 8,
+    "projects": [
+      {
+        "href": "https://aitscctv.com/access-control-9/",
+        "title": "ผลงานติดตั้งระบบ Access Control และระบบควบคุมประตูสำนักงาน",
+        "kind": "project"
+      },
+      {
+        "href": "https://aitscctv.com/high-clean-standard/",
+        "title": "ติดตั้งระบบ Access Control ในพื้นที่อุตสาหกรรมมาตรฐานสูง (High Clean Standard) — งานติดตั้งแบบมืออาชีพที่สะอาดตั้งแต่ต้นจนจบ โดย AITS",
+        "kind": "project"
+      },
+      {
+        "href": "https://aitscctv.com/access-control-8/",
+        "title": "ติดตั้งระบบ Access Control ให้โรงเรียนย่านพระราม 2 — มาตรฐานความปลอดภัยสำหรับสถานศึกษาโดย AITS",
+        "kind": "project"
+      }
+    ],
+    "warranties": [
+      "รับประกันตัวสินค้าให้ 2 ปีเต็ม การรับประกันงานบริการ 1 ปี โดยเฉพาะ Onsite**"
+    ]
+  },
+  {
+    "path": "/access-control-system/key-card-door/",
+    "intro": [
+      "n1",
+      "n9"
+    ],
+    "benefits": [
+      "n92"
+    ],
+    "options": [
+      "n138",
+      "n168"
+    ],
+    "details": [],
+    "removed": [
+      {
+        "key": "n81",
+        "reason": "replaced with one quotation/contact section"
+      },
+      {
+        "key": "n223",
+        "reason": "replaced with one quotation/contact section"
+      },
+      {
+        "key": "n256",
+        "reason": "replaced with one quotation/contact section"
+      },
+      {
+        "key": "n264",
+        "reason": "team moved to About Us"
+      },
+      {
+        "key": "n483",
+        "reason": "replaced with one quotation/contact section"
+      }
+    ],
+    "nestedRemoved": [],
+    "sectionsBefore": 10,
+    "sectionsRetained": 5,
+    "projects": [
+      {
+        "href": "https://aitscctv.com/access-control-9/",
+        "title": "ผลงานติดตั้งระบบ Access Control และระบบควบคุมประตูสำนักงาน",
+        "kind": "project"
+      },
+      {
+        "href": "https://aitscctv.com/smart-access/",
+        "title": "เปลี่ยนประตูเดิมให้กลายเป็น Smart Access อย่างสมบูรณ์ – โดยทีม AITS พร้อมโซลูชันครบวงจร",
+        "kind": "article"
+      }
+    ],
+    "warranties": []
+  },
+  {
+    "path": "/access-control-system/card-scanner/",
+    "intro": [
+      "n1",
+      "n10"
+    ],
+    "benefits": [
+      "n91"
+    ],
+    "options": [
+      "n140",
+      "n168"
+    ],
+    "details": [],
+    "removed": [
+      {
+        "key": "n80",
+        "reason": "replaced with one quotation/contact section"
+      },
+      {
+        "key": "n224",
+        "reason": "replaced with one quotation/contact section"
+      },
+      {
+        "key": "n257",
+        "reason": "replaced with one quotation/contact section"
+      },
+      {
+        "key": "n265",
+        "reason": "team moved to About Us"
+      },
+      {
+        "key": "n484",
+        "reason": "replaced with one quotation/contact section"
+      }
+    ],
+    "nestedRemoved": [],
+    "sectionsBefore": 10,
+    "sectionsRetained": 5,
+    "projects": [
+      {
+        "href": "https://aitscctv.com/access-control-9/",
+        "title": "ผลงานติดตั้งระบบ Access Control และระบบควบคุมประตูสำนักงาน",
+        "kind": "project"
+      },
+      {
+        "href": "https://aitscctv.com/access-control-8/",
+        "title": "ติดตั้งระบบ Access Control ให้โรงเรียนย่านพระราม 2 — มาตรฐานความปลอดภัยสำหรับสถานศึกษาโดย AITS",
+        "kind": "project"
+      }
+    ],
+    "warranties": []
+  },
+  {
+    "path": "/access-control-system/fingerprint-scanner/",
+    "intro": [
+      "n1",
+      "n9"
+    ],
+    "benefits": [
+      "n93"
+    ],
+    "options": [
+      "n139",
+      "n175"
+    ],
+    "details": [],
+    "removed": [
+      {
+        "key": "n82",
+        "reason": "replaced with one quotation/contact section"
+      },
+      {
+        "key": "n230",
+        "reason": "replaced with one quotation/contact section"
+      },
+      {
+        "key": "n263",
+        "reason": "replaced with one quotation/contact section"
+      },
+      {
+        "key": "n271",
+        "reason": "team moved to About Us"
+      },
+      {
+        "key": "n490",
+        "reason": "replaced with one quotation/contact section"
+      }
+    ],
+    "nestedRemoved": [],
+    "sectionsBefore": 10,
+    "sectionsRetained": 5,
+    "projects": [
+      {
+        "href": "https://aitscctv.com/access-control-7/",
+        "title": "รีวิวงานติดตั้งระบบ Access Control สแกนนิ้วมือ โดยช่างเทคนิค – Ocean Tower",
+        "kind": "project"
+      },
+      {
+        "href": "https://aitscctv.com/high-clean-standard/",
+        "title": "ติดตั้งระบบ Access Control ในพื้นที่อุตสาหกรรมมาตรฐานสูง (High Clean Standard) — งานติดตั้งแบบมืออาชีพที่สะอาดตั้งแต่ต้นจนจบ โดย AITS",
+        "kind": "project"
+      }
+    ],
+    "warranties": []
+  },
+  {
+    "path": "/solar-cell-system/",
+    "intro": [
+      "n1",
+      "n9"
+    ],
+    "benefits": [
+      "n331"
+    ],
+    "options": [
+      "n83",
+      "n239",
+      "n270"
+    ],
+    "details": [
+      "n76",
+      "n255"
+    ],
+    "removed": [
+      {
+        "key": "n32",
+        "reason": "replaced with consistent section navigation"
+      },
+      {
+        "key": "n141",
+        "reason": "generic sales claims condensed into service benefits and trust statement"
+      },
+      {
+        "key": "n202",
+        "reason": "replaced with one quotation/contact section"
+      },
+      {
+        "key": "n370",
+        "reason": "team moved to About Us"
+      },
+      {
+        "key": "n560",
+        "reason": "replaced with one quotation/contact section"
+      }
+    ],
+    "nestedRemoved": [],
+    "sectionsBefore": 13,
+    "sectionsRetained": 8,
+    "projects": [
+      {
+        "href": "https://aitscctv.com/solar-rooftop/",
+        "title": "ผลงานติดตั้งกล้องวงจรปิด 32 ตัว บนหลังคาโกดัง | ระบบ Monitoring โซล่าโดย AITSCCTV",
+        "kind": "project"
+      },
+      {
+        "href": "https://aitscctv.com/smart-energy-optimization/",
+        "title": "Smart Energy Optimization: ทำไมบ้านยุค 2030 ต้องใช้ AI และ IoT เพื่อประหยัดพลังงานอย่างแท้จริง",
+        "kind": "article"
+      }
+    ],
+    "warranties": [
+      "มีการรับประกันสินค้า",
+      "รับประกันตัวสินค้าให้ 2 ปีเต็ม การรับประกันงานบริการ 1 ปี โดยเฉพาะ Onsite**"
+    ]
+  },
+  {
+    "path": "/home-automation/",
+    "intro": [
+      "n1",
+      "n9"
+    ],
+    "benefits": [
+      "n266"
+    ],
+    "options": [
+      "n45",
+      "n91"
+    ],
+    "details": [
+      "n238",
+      "n253",
+      "n299"
+    ],
+    "removed": [
+      {
+        "key": "n34",
+        "reason": "replaced with one quotation/contact section"
+      },
+      {
+        "key": "n141",
+        "reason": "generic sales claims condensed into service benefits and trust statement"
+      },
+      {
+        "key": "n201",
+        "reason": "replaced with one quotation/contact section"
+      },
+      {
+        "key": "n324",
+        "reason": "team moved to About Us"
+      },
+      {
+        "key": "n503",
+        "reason": "replaced with one quotation/contact section"
+      }
+    ],
+    "nestedRemoved": [],
+    "sectionsBefore": 13,
+    "sectionsRetained": 8,
+    "projects": [
+      {
+        "href": "https://aitscctv.com/home-solution-2/",
+        "title": "วางระบบบ้านทั้งหลังแบบมืออาชีพ โดย AITS – ให้บ้านคุณ “พร้อมใช้งานทุกฟังก์ชันดิจิทัล” ตั้งแต่วันแรกที่เข้าอยู่",
+        "kind": "project"
+      },
+      {
+        "href": "https://aitscctv.com/solution-for-renovating/",
+        "title": "วางระบบเครือข่ายก่อนรีโนเวทบ้าน โดยทีม AITS – งานเดินสายที่เนี้ยบ พร้อมแผนเครือข่ายรองรับ Smart Home ในอนาคต",
+        "kind": "project"
+      },
+      {
+        "href": "https://aitscctv.com/smart-villa-resort-automation/",
+        "title": "Smart Villa & Resort Automation",
+        "kind": "article"
+      }
+    ],
+    "warranties": [
+      "มีการรับประกันสินค้า",
+      "รับประกันตัวสินค้าให้ 2 ปีเต็ม การรับประกันงานบริการ 1 ปี โดยเฉพาะ Onsite**"
+    ]
+  },
+  {
+    "path": "/network-service/",
+    "intro": [
+      "n1",
+      "n9"
+    ],
+    "benefits": [
+      "n532"
+    ],
+    "options": [
+      "n74",
+      "n399"
+    ],
+    "details": [
+      "n268",
+      "n291",
+      "n327"
+    ],
+    "removed": [
+      {
+        "key": "n34",
+        "reason": "replaced with consistent section navigation"
+      },
+      {
+        "key": "n138",
+        "reason": "replaced with one quotation/contact section"
+      },
+      {
+        "key": "n146",
+        "reason": "replaced with one quotation/contact section"
+      },
+      {
+        "key": "n179",
+        "reason": "generic sales claims condensed into service benefits and trust statement"
+      },
+      {
+        "key": "n499",
+        "reason": "replaced with one quotation/contact section"
+      },
+      {
+        "key": "n645",
+        "reason": "team moved to About Us"
+      },
+      {
+        "key": "n867",
+        "reason": "replaced with one quotation/contact section"
+      }
+    ],
+    "nestedRemoved": [],
+    "sectionsBefore": 15,
+    "sectionsRetained": 8,
+    "projects": [
+      {
+        "href": "https://aitscctv.com/smart-network-security/",
+        "title": "ผลงานติดตั้งระบบเครือข่ายสำนักงาน และกล้องวงจรปิดแบบครบวงจร",
+        "kind": "project"
+      },
+      {
+        "href": "https://aitscctv.com/lan-smart-security/",
+        "title": "ผลงานเดินสาย LAN ภายนอกอาคาร และติดตั้งระบบเครือข่ายในลานจอดรถ",
+        "kind": "project"
+      },
+      {
+        "href": "https://aitscctv.com/building-network/",
+        "title": "ออกแบบและเดินระบบ Network ในอาคาร",
+        "kind": "project"
+      }
+    ],
+    "warranties": [
+      "มีการรับประกันสินค้า",
+      "รับประกันตัวสินค้าให้ 2 ปีเต็ม การรับประกันงานบริการ 1 ปี โดยเฉพาะ Onsite**"
+    ]
+  },
+  {
+    "path": "/network-service/lan-cable/",
+    "intro": [
+      "n1",
+      "n9"
+    ],
+    "benefits": [],
+    "options": [
+      "n136",
+      "n270"
+    ],
+    "details": [
+      "n224",
+      "n308",
+      "n344",
+      "n382"
+    ],
+    "removed": [
+      {
+        "key": "n73",
+        "reason": "generic sales claims condensed into service benefits and trust statement"
+      },
+      {
+        "key": "n191",
+        "reason": "replaced with one quotation/contact section"
+      },
+      {
+        "key": "n444",
+        "reason": "replaced with relevant published content"
+      },
+      {
+        "key": "n569",
+        "reason": "replaced with one quotation/contact section"
+      }
+    ],
+    "nestedRemoved": [
+      "n35"
+    ],
+    "sectionsBefore": 12,
+    "sectionsRetained": 8,
+    "projects": [
+      {
+        "href": "https://aitscctv.com/lan-smart-security/",
+        "title": "ผลงานเดินสาย LAN ภายนอกอาคาร และติดตั้งระบบเครือข่ายในลานจอดรถ",
+        "kind": "project"
+      },
+      {
+        "href": "https://aitscctv.com/%e0%b8%a7%e0%b8%b2%e0%b8%87%e0%b8%97%e0%b8%b5%e0%b9%88%e0%b9%80%e0%b8%81%e0%b9%87%e0%b8%9a%e0%b8%aa%e0%b8%b2%e0%b8%a2/",
+        "title": "การเดินสาย LAN และการวางที่เก็บสายในอาคารพาณิชย์ในย่านชิดลม",
+        "kind": "project"
+      },
+      {
+        "href": "https://aitscctv.com/lan-checker/",
+        "title": "การติดตั้งเดินสาย LAN เป็นขั้นตอนที่สำคัญในการเชื่อมต่อเครือข่ายและการใช้งานอุปกรณ์เครือข่ายอย่างมีประสิทธิภาพ",
+        "kind": "project"
+      }
+    ],
+    "warranties": []
+  },
+  {
+    "path": "/network-service/fiberoptic-cable/",
+    "intro": [
+      "n1",
+      "n9"
+    ],
+    "benefits": [],
+    "options": [
+      "n141",
+      "n345",
+      "n404"
+    ],
+    "details": [
+      "n227",
+      "n374",
+      "n469"
+    ],
+    "removed": [
+      {
+        "key": "n75",
+        "reason": "generic sales claims condensed into service benefits and trust statement"
+      },
+      {
+        "key": "n194",
+        "reason": "replaced with one quotation/contact section"
+      },
+      {
+        "key": "n538",
+        "reason": "replaced with relevant published content"
+      },
+      {
+        "key": "n663",
+        "reason": "replaced with one quotation/contact section"
+      }
+    ],
+    "nestedRemoved": [
+      "n37"
+    ],
+    "sectionsBefore": 12,
+    "sectionsRetained": 8,
+    "projects": [
+      {
+        "href": "https://aitscctv.com/building-network/",
+        "title": "ออกแบบและเดินระบบ Network ในอาคาร",
+        "kind": "project"
+      },
+      {
+        "href": "https://aitscctv.com/network-home-rama-5/",
+        "title": "การออกแบบระบบเครือข่ายภายในบ้านณหมู่บ้านย่านพระราม 5",
+        "kind": "project"
+      },
+      {
+        "href": "https://aitscctv.com/organizing-network/",
+        "title": "การจัดระเบียบระบบ Network พร้อมติด Tag อุปกรณ์ทุกชิ้น — แสดงความเป็นมืออาชีพของ AITS และเพิ่มประสิทธิภาพการให้บริการในอนาคต",
+        "kind": "project"
+      }
+    ],
+    "warranties": []
+  },
+  {
+    "path": "/security-system/",
+    "intro": [
+      "n1",
+      "n9"
+    ],
+    "benefits": [
+      "n195",
+      "n303"
+    ],
+    "options": [
+      "n45",
+      "n121",
+      "n360"
+    ],
+    "details": [
+      "n290"
+    ],
+    "removed": [
+      {
+        "key": "n36",
+        "reason": "replaced with one quotation/contact section"
+      },
+      {
+        "key": "n84",
+        "reason": "replaced with one quotation/contact section"
+      },
+      {
+        "key": "n136",
+        "reason": "generic sales claims condensed into service benefits and trust statement"
+      },
+      {
+        "key": "n396",
+        "reason": "team moved to About Us"
+      },
+      {
+        "key": "n583",
+        "reason": "replaced with one quotation/contact section"
+      }
+    ],
+    "nestedRemoved": [],
+    "sectionsBefore": 13,
+    "sectionsRetained": 8,
+    "projects": [
+      {
+        "href": "https://aitscctv.com/high-clean-standard/",
+        "title": "ติดตั้งระบบ Access Control ในพื้นที่อุตสาหกรรมมาตรฐานสูง (High Clean Standard) — งานติดตั้งแบบมืออาชีพที่สะอาดตั้งแต่ต้นจนจบ โดย AITS",
+        "kind": "project"
+      },
+      {
+        "href": "https://aitscctv.com/access-control-9/",
+        "title": "ผลงานติดตั้งระบบ Access Control และระบบควบคุมประตูสำนักงาน",
+        "kind": "project"
+      },
+      {
+        "href": "https://aitscctv.com/thai-boxing-stage/",
+        "title": "ติดตั้งกล้องวงจรปิดสำหรับเวทีมวยไทยในกรุงเทพฯ — ระบบบันทึกภาพคมชัดสำหรับการแข่งขันและความปลอดภัย โดย AITS",
+        "kind": "project"
+      }
+    ],
+    "warranties": [
+      "มีการรับประกันสินค้า",
+      "รับประกันตัวสินค้าให้ 2 ปีเต็ม การรับประกันงานบริการ 1 ปี โดยเฉพาะ Onsite**"
+    ]
+  },
+  {
+    "path": "/telephone-system/",
+    "intro": [
+      "n1",
+      "n9"
+    ],
+    "benefits": [
+      "n100",
+      "n492"
+    ],
+    "options": [
+      "n196",
+      "n417"
+    ],
+    "details": [
+      "n82",
+      "n332",
+      "n372",
+      "n395"
+    ],
+    "removed": [
+      {
+        "key": "n29",
+        "reason": "replaced with consistent section navigation"
+      },
+      {
+        "key": "n234",
+        "reason": "generic sales claims condensed into service benefits and trust statement"
+      },
+      {
+        "key": "n295",
+        "reason": "replaced with one quotation/contact section"
+      },
+      {
+        "key": "n552",
+        "reason": "team moved to About Us"
+      },
+      {
+        "key": "n773",
+        "reason": "replaced with one quotation/contact section"
+      }
+    ],
+    "nestedRemoved": [],
+    "sectionsBefore": 15,
+    "sectionsRetained": 10,
+    "projects": [],
+    "warranties": [
+      "มีการรับประกันสินค้า",
+      "รับประกันตัวสินค้าให้ 1 ปีเต็ม การรับประกันงานบริการ 1 ปี โดยเฉพาะ Onsite*"
+    ]
+  },
+  {
+    "path": "/cctv-rental-service/",
+    "intro": [
+      "n1",
+      "n9"
+    ],
+    "benefits": [
+      "n125",
+      "n328"
+    ],
+    "options": [
+      "n57",
+      "n165",
+      "n230",
+      "n277"
+    ],
+    "details": [],
+    "removed": [
+      {
+        "key": "n115",
+        "reason": "replaced with one quotation/contact section"
+      },
+      {
+        "key": "n295",
+        "reason": "replaced with one quotation/contact section"
+      },
+      {
+        "key": "n379",
+        "reason": "team moved to About Us"
+      },
+      {
+        "key": "n601",
+        "reason": "replaced with one quotation/contact section"
+      }
+    ],
+    "nestedRemoved": [
+      "n22"
+    ],
+    "sectionsBefore": 12,
+    "sectionsRetained": 8,
+    "projects": [
+      {
+        "href": "https://aitscctv.com/%e0%b9%80%e0%b8%8a%e0%b9%88%e0%b8%b2%e0%b8%81%e0%b8%a5%e0%b9%89%e0%b8%ad%e0%b8%87%e0%b8%a7%e0%b8%87%e0%b8%88%e0%b8%a3%e0%b8%9b%e0%b8%b4%e0%b8%94-2/",
+        "title": "รีวิวผลงาน: เช่ากล้องวงจรปิดสำหรับงานอีเวนต์และนิทรรศการ พร้อมออกแบบระบบตามโจทย์ลูกค้า",
+        "kind": "project"
+      },
+      {
+        "href": "https://aitscctv.com/event-2/",
+        "title": "รีวิวเบื้องหลังระบบความปลอดภัยงาน Event ใหญ่ระดับประเทศมั่นใจ 100% ด้วยบริการเช่ากล้องวงจรปิดจาก AITSCCTV",
+        "kind": "project"
+      },
+      {
+        "href": "https://aitscctv.com/cctv-rental/",
+        "title": "แผนติดตั้งกล้องวงจรปิดแบบชั่วคราว (CCTV Rental) สำหรับอาคาร – โซลูชันพร้อมใช้งานโดย AITS",
+        "kind": "article"
+      }
+    ],
+    "warranties": []
+  },
+  {
+    "path": "/smart-meeting-room/",
+    "intro": [
+      "n1",
+      "n9"
+    ],
+    "benefits": [
+      "n103",
+      "n337"
+    ],
+    "options": [
+      "n34",
+      "n219",
+      "n247"
+    ],
+    "details": [
+      "n386"
+    ],
+    "removed": [
+      {
+        "key": "n186",
+        "reason": "replaced with one quotation/contact section"
+      },
+      {
+        "key": "n304",
+        "reason": "replaced with one quotation/contact section"
+      },
+      {
+        "key": "n456",
+        "reason": "replaced with one quotation/contact section"
+      },
+      {
+        "key": "n501",
+        "reason": "replaced with one quotation/contact section"
+      }
+    ],
+    "nestedRemoved": [],
+    "sectionsBefore": 12,
+    "sectionsRetained": 8,
+    "projects": [
+      {
+        "href": "https://aitscctv.com/smart-device/",
+        "title": "ติดตั้ง Smart Device สำหรับห้องเรียน ยกระดับการเรียนการสอนให้ทันสมัย โดย AITS",
+        "kind": "project"
+      },
+      {
+        "href": "https://aitscctv.com/allitsolution/",
+        "title": "ซื้อทีวี 85 นิ้วเครื่องใหม่อย่างแพง แต่ติดใช้งานไม่ได้",
+        "kind": "article"
+      }
+    ],
+    "warranties": []
+  },
+  {
+    "path": "/home-renovation/",
+    "intro": [
+      "n1",
+      "n9"
+    ],
+    "benefits": [
+      "n300"
+    ],
+    "options": [
+      "n31",
+      "n217"
+    ],
+    "details": [
+      "n90",
+      "n195",
+      "n350"
+    ],
+    "removed": [
+      {
+        "key": "n162",
+        "reason": "replaced with one quotation/contact section"
+      },
+      {
+        "key": "n267",
+        "reason": "replaced with one quotation/contact section"
+      },
+      {
+        "key": "n420",
+        "reason": "replaced with one quotation/contact section"
+      },
+      {
+        "key": "n466",
+        "reason": "replaced with one quotation/contact section"
+      }
+    ],
+    "nestedRemoved": [],
+    "sectionsBefore": 12,
+    "sectionsRetained": 8,
+    "projects": [
+      {
+        "href": "https://aitscctv.com/solution-for-renovating/",
+        "title": "วางระบบเครือข่ายก่อนรีโนเวทบ้าน โดยทีม AITS – งานเดินสายที่เนี้ยบ พร้อมแผนเครือข่ายรองรับ Smart Home ในอนาคต",
+        "kind": "project"
+      },
+      {
+        "href": "https://aitscctv.com/home-solution-2/",
+        "title": "วางระบบบ้านทั้งหลังแบบมืออาชีพ โดย AITS – ให้บ้านคุณ “พร้อมใช้งานทุกฟังก์ชันดิจิทัล” ตั้งแต่วันแรกที่เข้าอยู่",
+        "kind": "project"
+      }
+    ],
+    "warranties": []
+  }
+]

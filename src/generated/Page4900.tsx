@@ -4,7 +4,9 @@ import {SiteLink} from "../components/SiteLink";
 import {VideoFrame} from "../components/VideoFrame";
 import {LogoCarousel} from "../components/LogoCarousel";
 import {ContactPhone} from "../components/ContactPhone";
+import {ServiceTrust,ServiceContents,ServiceBenefits,ServicePricing,ServiceWarranty,ServiceProjects,ServiceContact,AboutTeamGallery} from "../components/ServiceContent";
 export default function Page4900(){return <div className="page-4900 captured-page"><div data-layout-node={"n0"} className={"v0 captured-style"}>
+<section id={"service-overview"} className={"service-stage"} data-service-stage={"overview"}>
 <div data-layout-node={"n1"} className={"v1 section captured-style"}>
 <div data-layout-node={"n2"} className={"v2 captured-style"}>
 <div data-layout-node={"n3"} className={"v3 text-widget captured-style"}>
@@ -84,240 +86,26 @@ export default function Page4900(){return <div className="page-4900 captured-pag
 </div>
 </div>
 </div>
-<div data-layout-node={"n37"} className={"v21 captured-style"}>
-<div data-layout-node={"n38"} className={"v22 captured-style"}>
-<div data-layout-node={"n39"} className={"v23 layout-row captured-style"}>
-<div data-layout-node={"n40"} className={"v24 captured-style"}>
-{"\r\n\t\t\t\tเลือกอ่านหัวข้อที่สนใจ\t\t\t"}
-</div>
-<div data-layout-node={"n41"} className={"v25 captured-style"}>
-<i data-layout-node={"n42"} className={"v26 captured-style"}>
-
-</i>
 </div>
 </div>
-<div data-layout-node={"n43"} className={"v27 captured-style"}>
-<ol data-layout-node={"n44"} className={"v28 toc-container toc-container toc-container toc-container toc-container toc-container toc-container toc-container toc-container toc-container captured-style"}>
-<li data-layout-node={"n45"} className={"v29 toc-container captured-style"}>
-<div data-layout-node={"n46"} className={"v30 toc-container captured-style"}>
-<SiteLink data-layout-node={"n47"} className={"v31 toc-link captured-style"} href={"#elementor-toc__heading-anchor-0"}>
-{"ทำไมต้องติดตั้งสายไฟเบอร์ออฟติก กับ AITSCCTV \r\n"}
-</SiteLink>
-</div>
-</li>
-<li data-layout-node={"n48"} className={"v29 toc-container captured-style"}>
-<div data-layout-node={"n49"} className={"v30 toc-container captured-style"}>
-<SiteLink data-layout-node={"n50"} className={"v32 toc-link captured-style"} href={"#elementor-toc__heading-anchor-1"}>
-{"บริการเดินสายไฟเบอร์ออฟติก ติดตั้งสายไฟเบอร์ออฟติก จากเรา"}
-</SiteLink>
-</div>
-</li>
-<li data-layout-node={"n51"} className={"v29 toc-container captured-style"}>
-<div data-layout-node={"n52"} className={"v30 toc-container captured-style"}>
-<span data-layout-node={"n53"} className={"v33 toc-link inactive-control captured-style"}>
-{"ตารางสำหรับบริการ รับเดินสายไฟเบอร์ออฟติก\r\nอัปเดตปีล่าสุด 2566\r\n"}
-</span>
-</div>
-</li>
-<li data-layout-node={"n54"} className={"v29 toc-container captured-style"}>
-<div data-layout-node={"n55"} className={"v30 toc-container captured-style"}>
-<SiteLink data-layout-node={"n56"} className={"v34 toc-link captured-style"} href={"#elementor-toc__heading-anchor-3"}>
-{"สาย Fiber Optice คืออะไรติดตั้งที่ไหนได้บ้าง ?"}
-</SiteLink>
-</div>
-</li>
-<li data-layout-node={"n57"} className={"v29 toc-container captured-style"}>
-<div data-layout-node={"n58"} className={"v30 toc-container captured-style"}>
-<SiteLink data-layout-node={"n59"} className={"v35 toc-link captured-style"} href={"#elementor-toc__heading-anchor-4"}>
-{"สาย Fiber Optic มีกี่ประเภท ติดตั้งประเภทไหนดี แนะนำประเภทที่เราให้บริการคุณ"}
-</SiteLink>
-</div>
-</li>
-<li data-layout-node={"n60"} className={"v29 toc-container captured-style"}>
-<div data-layout-node={"n61"} className={"v30 toc-container captured-style"}>
-<SiteLink data-layout-node={"n62"} className={"v36 toc-link captured-style"} href={"#elementor-toc__heading-anchor-5"}>
-{"สายไฟเบอร์ออฟติก ใช้ทำอะไร สำคัญยังไงกับระบบ Network และการทำงาน"}
-</SiteLink>
-</div>
-</li>
-<li data-layout-node={"n63"} className={"v29 toc-container captured-style"}>
-<div data-layout-node={"n64"} className={"v30 toc-container captured-style"}>
-<SiteLink data-layout-node={"n65"} className={"v37 toc-link captured-style"} href={"#elementor-toc__heading-anchor-6"}>
-{"สายไฟเบอร์ออฟติก มีกี่คอร์ แต่ละคอร์ใช้งานอย่างไร เลือกอย่างไรให้เหมาะกับการใช้งาน"}
-</SiteLink>
-</div>
-</li>
-<li data-layout-node={"n66"} className={"v29 toc-container captured-style"}>
-<div data-layout-node={"n67"} className={"v30 toc-container captured-style"}>
-<SiteLink data-layout-node={"n68"} className={"v38 toc-link captured-style"} href={"#elementor-toc__heading-anchor-7"}>
-{"สายไฟเบอร์ออฟติก ข้อดี ข้อเสียที่เราควรรู้สำหรับก่อนการติดตั้ง"}
-</SiteLink>
-</div>
-</li>
-<li data-layout-node={"n69"} className={"v29 toc-container captured-style"}>
-<div data-layout-node={"n70"} className={"v30 toc-container captured-style"}>
-<SiteLink data-layout-node={"n71"} className={"v39 toc-link captured-style"} href={"#elementor-toc__heading-anchor-8"}>
-{"รวมผลงานลูกค้าที่รับบริการ เดินสายไฟเบอร์ออฟติก จากเรา"}
-</SiteLink>
-</div>
-</li>
-<li data-layout-node={"n72"} className={"v29 toc-container captured-style"}>
-<div data-layout-node={"n73"} className={"v30 toc-container captured-style"}>
-<span data-layout-node={"n74"} className={"v40 toc-link inactive-control captured-style"}>
-{"คำถามที่พบบ่อย เกี่ยวกับสายไฟเบอร์ออฟติก"}
-</span>
-</div>
-</li>
-</ol>
-</div>
-</div>
-</div>
-</div>
-</div>
-<div data-layout-node={"n75"} className={"v41 section captured-style"}>
-<div data-layout-node={"n76"} className={"v42 captured-style"}>
-<div data-layout-node={"n77"} className={"v43 section captured-style"}>
-<div data-layout-node={"n78"} className={"v44 layout-row captured-style"}>
-<div data-layout-node={"n79"} className={"v45 section captured-style"}>
-<div data-layout-node={"n80"} className={"v3 text-widget captured-style"}>
-<div data-layout-node={"n81"} className={"v4 text-widget captured-style"}>
-<p data-layout-node={"n82"} className={"v5 captured-style"}>
-{"WHY AITSCCTV"}
-</p>
-</div>
-</div>
-<div data-layout-node={"n83"} className={"v3 captured-style"}>
-<div data-layout-node={"n84"} className={"v4 captured-style"}>
-<span data-layout-node={"n85"} className={"v46 captured-style"}>
-
-</span>
-<h2 data-layout-node={"n86"} className={"v47 captured-style"} id={"elementor-toc__heading-anchor-0"}>
-{"ทำไมต้องติดตั้งสายไฟเบอร์ออฟติก กับ AITSCCTV \r\n"}
+<ServiceTrust />
+</section>
+<ServiceContents />
+<section id={"service-benefits"} className={"service-stage"} data-service-stage={"benefits"}>
+<div className={"service-stage-heading"}>
+<h2>
+{"ประโยชน์และการใช้งาน"}
 </h2>
 </div>
+<ServiceBenefits path={"/network-service/fiberoptic-cable/"} />
+</section>
+<section id={"service-options"} className={"service-stage"} data-service-stage={"options"}>
+<div className={"service-stage-heading"}>
+<h2>
+{"รูปแบบบริการและราคา"}
+</h2>
 </div>
-<div data-layout-node={"n87"} className={"v14 text-widget captured-style"}>
-<div data-layout-node={"n88"} className={"v15 text-widget captured-style"}>
-<p data-layout-node={"n89"} className={"v16 captured-style"}>
-{"ในยุคปัจจุบัน ระบบ Network ถือว่ามีความสำคัญต่อการใช้ชีวิตประจำวัน เพราะระบบนี้ช่วยให้การทำงานทั้งภายในและภายนอกสะดวกรวดเร็ว และ"}
-<span data-layout-node={"n90"} className={"v17 captured-style"}>
-<SiteLink data-layout-node={"n91"} className={"v17 captured-style"} href={"https://aitscctv.com/fiber-optic-is/"}>
-{"การติดตั้งสายไฟเบอร์ออฟติกทำให้ชีวิตและการทำงานของทุกคนง่ายขึ้น"}
-</SiteLink>
-</span>
-{" แค่ติดตั้งสาย Fiber Optic กับ AITSCCTV เราบริการด้วยหลักการออกแบบที่ดี เข้าใจงานการวางระบบ ด้วยผู้เชี่ยวชาญมืออาชีพที่มีประสบการณ์กว่า 20 ปี"}
-</p>
-</div>
-</div>
-<div data-layout-node={"n92"} className={"v48 section layout-row captured-style"}>
-<div data-layout-node={"n93"} className={"v49 captured-style"}>
-<div data-layout-node={"n94"} className={"v50 captured-style"}>
-<div data-layout-node={"n95"} className={"v51 captured-style"}>
-<figure data-layout-node={"n96"} className={"v52 media-widget captured-style"}>
-<img data-layout-node={"n97"} className={"v53 captured-style"} src={"https://aitscctv.com/wp-content/uploads/2023/03/design-pencil.svg"} alt={"Design pencil"} loading={"lazy"} decoding={"async"} width={"800"} height={"800"} />
-</figure>
-<div data-layout-node={"n98"} className={"v54 captured-style"}>
-<h3 data-layout-node={"n99"} className={"v55 captured-style"}>
-{"มีหลักการออกแบบที่ดี"}
-</h3>
-<p data-layout-node={"n100"} className={"v56 captured-style"}>
-{"เราออกแบบวงจรการเดินสายไฟเบอร์ออฟติก ให้ตอบโจทย์กับทุกองค์กร\r\n"}
-</p>
-</div>
-</div>
-</div>
-</div>
-<div data-layout-node={"n101"} className={"v49 captured-style"}>
-<div data-layout-node={"n102"} className={"v50 captured-style"}>
-<div data-layout-node={"n103"} className={"v51 captured-style"}>
-<figure data-layout-node={"n104"} className={"v52 media-widget captured-style"}>
-<img data-layout-node={"n105"} className={"v53 captured-style"} src={"https://aitscctv.com/wp-content/uploads/2023/03/performance.svg"} alt={"Performance"} loading={"lazy"} decoding={"async"} width={"800"} height={"800"} />
-</figure>
-<div data-layout-node={"n106"} className={"v54 captured-style"}>
-<h3 data-layout-node={"n107"} className={"v55 captured-style"}>
-{"เน้นความปลอดภัยและประสิทธิภาพในการใช้งาน"}
-</h3>
-<p data-layout-node={"n108"} className={"v56 captured-style"}>
-{"เรายึดหลักการติดตั้งวงจรที่มีความปลอดภัยเป็นสิ่งสำคัญ และใข้งานได้จริง"}
-</p>
-</div>
-</div>
-</div>
-</div>
-<div data-layout-node={"n109"} className={"v49 captured-style"}>
-<div data-layout-node={"n110"} className={"v50 captured-style"}>
-<div data-layout-node={"n111"} className={"v51 captured-style"}>
-<figure data-layout-node={"n112"} className={"v52 media-widget captured-style"}>
-<img data-layout-node={"n113"} className={"v53 captured-style"} src={"https://aitscctv.com/wp-content/uploads/2023/03/plan.svg"} alt={"Plan"} loading={"lazy"} decoding={"async"} width={"800"} height={"800"} />
-</figure>
-<div data-layout-node={"n114"} className={"v54 captured-style"}>
-<h3 data-layout-node={"n115"} className={"v55 captured-style"}>
-{"วางแผนอย่างมีระบบ"}
-</h3>
-<p data-layout-node={"n116"} className={"v56 captured-style"}>
-{"วางแผนระบบการเดินสาย ตำแหน่ง เพื่อป้องกันไม่ให้เกิดปัญหาระหว่างใช้งาน"}
-</p>
-</div>
-</div>
-</div>
-</div>
-<div data-layout-node={"n117"} className={"v49 captured-style"}>
-<div data-layout-node={"n118"} className={"v50 captured-style"}>
-<div data-layout-node={"n119"} className={"v51 captured-style"}>
-<figure data-layout-node={"n120"} className={"v52 media-widget captured-style"}>
-<img data-layout-node={"n121"} className={"v53 captured-style"} src={"https://aitscctv.com/wp-content/uploads/2023/03/warranty-term.svg"} alt={"Warranty term"} loading={"lazy"} decoding={"async"} width={"800"} height={"800"} />
-</figure>
-<div data-layout-node={"n122"} className={"v54 captured-style"}>
-<h3 data-layout-node={"n123"} className={"v55 captured-style"}>
-{"ใช้สาย Fiber Optic ที่ได้มาตรฐาน"}
-</h3>
-<p data-layout-node={"n124"} className={"v56 captured-style"}>
-{"อุปกรณ์ที่เราใช้ได้รับมาตรฐานระดับสากล ใช้งานได้นานและปลอดภัย"}
-</p>
-</div>
-</div>
-</div>
-</div>
-<div data-layout-node={"n125"} className={"v49 captured-style"}>
-<div data-layout-node={"n126"} className={"v50 captured-style"}>
-<div data-layout-node={"n127"} className={"v51 captured-style"}>
-<figure data-layout-node={"n128"} className={"v52 media-widget captured-style"}>
-<img data-layout-node={"n129"} className={"v57 captured-style"} src={"/assets/remote-806feacd8c4e7ef9-responsive-512.webp"} alt={"Bandwidth"} loading={"lazy"} decoding={"async"} width={"512"} height={"512"} srcSet={"/assets/remote-806feacd8c4e7ef9-responsive-160.webp 160w, /assets/remote-806feacd8c4e7ef9-responsive-320.webp 320w, /assets/remote-806feacd8c4e7ef9-responsive-512.webp 512w"} sizes={"49px"} />
-</figure>
-<div data-layout-node={"n130"} className={"v54 captured-style"}>
-<h3 data-layout-node={"n131"} className={"v55 captured-style"}>
-{"รับเดินสายไฟเบอร์ออฟติกทั่วประเทศ"}
-</h3>
-<p data-layout-node={"n132"} className={"v56 captured-style"}>
-{"บริการรับเดินสายไฟเบอร์ออฟติกทั่วประเทศ เรารับดูหน้างานออกแบบ วางผังก่อนติดตั้งจริง"}
-</p>
-</div>
-</div>
-</div>
-</div>
-<div data-layout-node={"n133"} className={"v49 captured-style"}>
-<div data-layout-node={"n134"} className={"v50 captured-style"}>
-<div data-layout-node={"n135"} className={"v51 captured-style"}>
-<figure data-layout-node={"n136"} className={"v52 media-widget captured-style"}>
-<img data-layout-node={"n137"} className={"v53 captured-style"} src={"https://aitscctv.com/wp-content/uploads/2023/03/training-achievement-medal.svg"} alt={"Training achievement medal"} loading={"lazy"} decoding={"async"} width={"800"} height={"800"} />
-</figure>
-<div data-layout-node={"n138"} className={"v54 captured-style"}>
-<h3 data-layout-node={"n139"} className={"v55 captured-style"}>
-{"บริการอย่างมืออาชีพ"}
-</h3>
-<p data-layout-node={"n140"} className={"v56 captured-style"}>
-{"มีทีมผู้เชี่ยวชาญด้านการวางระบบ เดินสายระบบ Network ที่มีประสบการณ์กว่า 20 ปี"}
-</p>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
+<ServicePricing path={"/network-service/fiberoptic-cable/"} />
 <div data-layout-node={"n141"} className={"v7 section captured-style"}>
 <div data-layout-node={"n142"} className={"v2 captured-style"}>
 <div data-layout-node={"n143"} className={"v3 captured-style"}>
@@ -439,79 +227,221 @@ export default function Page4900(){return <div className="page-4900 captured-pag
 </div>
 </div>
 </div>
-<div data-layout-node={"n194"} className={"v7 section captured-style"}>
-<div data-layout-node={"n195"} className={"v68 layout-row captured-style"}>
-<div data-layout-node={"n196"} className={"v69 section captured-style"}>
-<div data-layout-node={"n197"} className={"v70 layout-row captured-style"}>
-<div data-layout-node={"n198"} className={"v71 section captured-style"}>
-<div data-layout-node={"n199"} className={"v72 captured-style"}>
-<div data-layout-node={"n200"} className={"v73 captured-style"}>
-<div data-layout-node={"n201"} className={"v74 layout-row captured-style"}>
-<div data-layout-node={"n202"} className={"v75 captured-style"}>
-<SiteLink data-layout-node={"n203"} className={"v76 captured-style"} href={"tel:0944606196"}>
-<i data-layout-node={"n204"} className={"v77 captured-style"}>
+<div data-layout-node={"n345"} className={"v7 section captured-style"}>
+<div data-layout-node={"n346"} className={"v110 captured-style"}>
+<div data-layout-node={"n347"} className={"v3 captured-style"}>
+<div data-layout-node={"n348"} className={"v4 captured-style"}>
+<span data-layout-node={"n349"} className={"v46 captured-style"}>
 
-</i>
-</SiteLink>
-</div>
-<div data-layout-node={"n205"} className={"v78 captured-style"}>
-<p data-layout-node={"n206"} className={"v79 captured-style"}>
-<SiteLink data-layout-node={"n207"} className={"v80 captured-style"} href={"tel:0944606196"}>
-{"\r\n\t\t\t\t\t\tให้คำปรึกษาฟรี\t\t\t\t\t"}
-</SiteLink>
-</p>
-<p data-layout-node={"n208"} className={"v81 large-copy captured-style"}>
-{"\r\n\t\t\t\t\t\t094 460 6196\t\t\t\t\t"}
-</p>
+</span>
+<h2 data-layout-node={"n350"} className={"v47 captured-style"} id={"elementor-toc__heading-anchor-4"}>
+{"สาย Fiber Optic มีกี่ประเภท ติดตั้งประเภทไหนดี "}
+<br data-layout-node={"n351"} className={"v58 captured-style"} />
+{"แนะนำประเภทที่เราให้บริการคุณ"}
+</h2>
 </div>
 </div>
+<div data-layout-node={"n352"} className={"v111 captured-style"}>
+<div data-layout-node={"n353"} className={"v112 captured-style"}>
+{"\r\n\t\t\t\t\t\t\tเราวางระบบการเดินสายไฟเบอร์ออฟติก เส้นใยแก้วนำแสง รับเข้าหัวไฟเบอร์ออฟติก วางระบบเครือข่ายคอมพิวเตอร์\t\t\t\t\t\t"}
+</div>
+</div>
+<div data-layout-node={"n354"} className={"v113 section captured-style"}>
+<div data-layout-node={"n355"} className={"v114 layout-row captured-style"}>
+<div data-layout-node={"n356"} className={"v115 section captured-style"}>
+<div data-layout-node={"n357"} className={"v116 text-widget captured-style"}>
+<div data-layout-node={"n358"} className={"v4 text-widget captured-style"}>
+<h3 data-layout-node={"n359"} className={"v117 captured-style"}>
+{"บริการเดินสายไฟเบอร์ออฟติก \r\nแบบ Fiber Optic Single-mode"}
+</h3>
+</div>
+</div>
+<div data-layout-node={"n360"} className={"v116 media-widget captured-style"}>
+<div data-layout-node={"n361"} className={"v4 media-widget captured-style"}>
+<img data-layout-node={"n362"} className={"v118 captured-style"} src={"/assets/remote-d84f602bb902c8a5-responsive-512.webp"} alt={"Fb1"} loading={"lazy"} decoding={"async"} width={"512"} height={"341"} srcSet={"/assets/remote-d84f602bb902c8a5-responsive-160.webp 160w, /assets/remote-d84f602bb902c8a5-responsive-320.webp 320w, /assets/remote-d84f602bb902c8a5-responsive-512.webp 512w"} sizes={"(max-width: 640px) calc(100vw - 40px), (max-width: 1024px) 50vw, 338px"} />
+</div>
+</div>
+<div data-layout-node={"n363"} className={"v119 captured-style"}>
+<div data-layout-node={"n364"} className={"v15 captured-style"}>
+{"\r\n\t\t\t\t\t\t\tสายไฟชนิดที่มีเส้นผ่านศูนย์กลางของแกนท่อแก้ว (Core) ประมาณ 9 ไมครอน ข้อดีของสายไฟชนิดนี้คือจะสามารถส่งสัญญาณข้อมูลได้อย่างรวดเร็ว และส่งได้ในปริมาณที่มาก เพราะลักษณะการส่งข้อมูลแสงมักจะถูกส่งเป็นเส้นตรง\t\t\t\t\t\t"}
 </div>
 </div>
 </div>
-<div data-layout-node={"n209"} className={"v82 section captured-style"}>
-<div data-layout-node={"n210"} className={"v83 captured-style"}>
-<div data-layout-node={"n211"} className={"v84 captured-style"}>
-<div data-layout-node={"n212"} className={"v85 layout-row captured-style"}>
-<div data-layout-node={"n213"} className={"v86 captured-style"}>
-<SiteLink data-layout-node={"n214"} className={"v76 captured-style"} href={"https://page.line.me/852uanad?openQrModal=true"}>
-<i data-layout-node={"n215"} className={"v87 captured-style"}>
+<div data-layout-node={"n365"} className={"v115 section captured-style"}>
+<div data-layout-node={"n366"} className={"v116 text-widget captured-style"}>
+<div data-layout-node={"n367"} className={"v4 text-widget captured-style"}>
+<h3 data-layout-node={"n368"} className={"v117 captured-style"}>
+{"บริการเดินสายไฟเบอร์ออฟติก \r\nแบบ Fiber Optic Muti-mode"}
+</h3>
+</div>
+</div>
+<div data-layout-node={"n369"} className={"v116 media-widget captured-style"}>
+<div data-layout-node={"n370"} className={"v4 media-widget captured-style"}>
+<img data-layout-node={"n371"} className={"v120 captured-style"} src={"/assets/remote-9ede62b88d05f3a5-responsive-512.webp"} alt={"Fb2"} loading={"lazy"} decoding={"async"} width={"512"} height={"312"} srcSet={"/assets/remote-9ede62b88d05f3a5-responsive-160.webp 160w, /assets/remote-9ede62b88d05f3a5-responsive-320.webp 320w, /assets/remote-9ede62b88d05f3a5-responsive-512.webp 512w"} sizes={"(max-width: 640px) calc(100vw - 40px), (max-width: 1024px) 50vw, 338px"} />
+</div>
+</div>
+<div data-layout-node={"n372"} className={"v119 captured-style"}>
+<div data-layout-node={"n373"} className={"v15 captured-style"}>
+{"\r\n\t\t\t\t\t\t\tเส้นผ่านศูนย์กลางของแกนท่อแก้ว (Core) อยู่ที่ 62.5 ไมครอน ซึ่งถือว่าเป็นขนาดแกนท่อแก้ว (Core) ที่มีขนาดใหญ่กว่าเมื่อเทียบกับแบบ Single mode และมีรูปแบบการใช้งานที่ต่างกัน คือการส่งข้อมูลแสงจะมีความกระจายตัวมากกว่า ไม่ได้เดินทางเป็นเส้นตรงมาก ทำให้การส่งข้อมูลช้ากว่า และยังส่งได้ในระยะที่สั้นกว่า\r\n\t\t\t\t\t\t"}
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div data-layout-node={"n404"} className={"v123 section captured-style"}>
+<div data-layout-node={"n405"} className={"v122 captured-style"}>
+<div data-layout-node={"n406"} className={"v3 captured-style"}>
+<div data-layout-node={"n407"} className={"v4 captured-style"}>
+<span data-layout-node={"n408"} className={"v46 captured-style"}>
 
-</i>
-</SiteLink>
-</div>
-<div data-layout-node={"n216"} className={"v88 captured-style"}>
-<p data-layout-node={"n217"} className={"v89 captured-style"}>
-<SiteLink data-layout-node={"n218"} className={"v80 captured-style"} href={"https://page.line.me/852uanad?openQrModal=true"}>
-{"\r\n\t\t\t\t\t\tLine\t\t\t\t\t"}
-</SiteLink>
-</p>
-<p data-layout-node={"n219"} className={"v90 large-copy captured-style"}>
-{"\r\n\t\t\t\t\t\t@AITSCCTV\t\t\t\t\t"}
-</p>
-</div>
-</div>
-</div>
-</div>
-</div>
-<div data-layout-node={"n220"} className={"v91 section captured-style"}>
-<div data-layout-node={"n221"} className={"v3 captured-style"}>
-<div data-layout-node={"n222"} className={"v92 captured-style"}>
-<div data-layout-node={"n223"} className={"v4 captured-style"}>
-<SiteLink data-layout-node={"n224"} className={"v93 action-link captured-style"} href={"https://page.line.me/852uanad?openQrModal=true"} target={"_blank"} rel={"noopener"}>
-<span data-layout-node={"n225"} className={"v94 captured-style"}>
-<span data-layout-node={"n226"} className={"v95 captured-style"}>
-{"ปรึกษาฟรีคลิก"}
 </span>
+<h2 data-layout-node={"n409"} className={"v47 captured-style"} id={"elementor-toc__heading-anchor-6"}>
+{"สายไฟเบอร์ออฟติก มีกี่คอร์ "}
+<br data-layout-node={"n410"} className={"v58 captured-style"} />
+{"แต่ละคอร์ใช้งานอย่างไร เลือกอย่างไรให้เหมาะกับการใช้งาน"}
+</h2>
+</div>
+</div>
+<div data-layout-node={"n411"} className={"v10 section captured-style"}>
+<div data-layout-node={"n412"} className={"v11 captured-style"}>
+<div data-layout-node={"n413"} className={"v3 media-widget captured-style"}>
+<div data-layout-node={"n414"} className={"v4 media-widget captured-style"}>
+<img data-layout-node={"n415"} className={"v124 captured-style"} src={"/assets/remote-677448b25e062f4b-responsive-512.webp"} alt={"Fb3"} loading={"lazy"} decoding={"async"} width={"512"} height={"302"} srcSet={"/assets/remote-677448b25e062f4b-responsive-160.webp 160w, /assets/remote-677448b25e062f4b-responsive-320.webp 320w, /assets/remote-677448b25e062f4b-responsive-512.webp 512w"} sizes={"(max-width: 640px) calc(100vw - 40px), (max-width: 1024px) 50vw, 1120px"} />
+</div>
+</div>
+<div data-layout-node={"n416"} className={"v14 captured-style"}>
+<div data-layout-node={"n417"} className={"v15 captured-style"}>
+{"\r\n\t\t\t\t\t\t\tสำหรับสายไฟเบอร์ออฟติก สามารถแบ่งได้หลายหลายประเภท ซึ่งแยกตามจำนวนคอร์แต่ละคอร์ มีตั้งแต่ 2 core – 24 core พร้อมจุดเด่น วิธีการใช้งาน ดังนี้\t\t\t\t\t\t"}
+</div>
+</div>
+</div>
+</div>
+<div data-layout-node={"n418"} className={"v10 section captured-style"}>
+<div data-layout-node={"n419"} className={"v62 captured-style"}>
+<div data-layout-node={"n420"} className={"v63 text-widget captured-style"}>
+<div data-layout-node={"n421"} className={"v64 text-widget captured-style"}>
+<h3 data-layout-node={"n422"} className={"v65 captured-style"}>
+{"สายไฟเบอร์ออฟติก 2 core"}
+</h3>
+</div>
+</div>
+<div data-layout-node={"n423"} className={"v14 captured-style"}>
+<div data-layout-node={"n424"} className={"v15 captured-style"}>
+{"\r\n\t\t\t\t\t\t\tสาย Fiber Optic ใช้สำหรับทั้งภายในและภายนอกอาคาร รองรับแรงดึงที่ระมาณ 45 กิโลกรัม วัสดุไม่ลามไฟและทนต่อสภาวะภายนอกได้อย่างดีเยี่ยม\t\t\t\t\t\t"}
+</div>
+</div>
+<div data-layout-node={"n425"} className={"v21 captured-style"}>
+<div data-layout-node={"n426"} className={"v59 captured-style"}>
+<div data-layout-node={"n427"} className={"v66 captured-style"}>
+<span data-layout-node={"n428"} className={"v67 captured-style"}>
+
 </span>
-</SiteLink>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div data-layout-node={"n429"} className={"v10 section captured-style"}>
+<div data-layout-node={"n430"} className={"v62 captured-style"}>
+<div data-layout-node={"n431"} className={"v63 text-widget captured-style"}>
+<div data-layout-node={"n432"} className={"v64 text-widget captured-style"}>
+<h3 data-layout-node={"n433"} className={"v65 captured-style"}>
+{"สายไฟเบอร์ออฟติก 4 core"}
+</h3>
+</div>
+</div>
+<div data-layout-node={"n434"} className={"v14 captured-style"}>
+<div data-layout-node={"n435"} className={"v15 captured-style"}>
+{"\r\n\t\t\t\t\t\t\tโดยทั่วไป สายไฟเบอร์ออฟติก 4 core มีความยาว 1,000 เมตร สำหรับใช้งานภายนอก รองรับแรงดึงสูง และมีปลอกโลหะหุ้มอยู่ใต้ Jacket โดยรอบ สามารถเดินสายฝังดินได้\t\t\t\t\t\t"}
+</div>
+</div>
+<div data-layout-node={"n436"} className={"v21 captured-style"}>
+<div data-layout-node={"n437"} className={"v59 captured-style"}>
+<div data-layout-node={"n438"} className={"v66 captured-style"}>
+<span data-layout-node={"n439"} className={"v67 captured-style"}>
+
+</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div data-layout-node={"n440"} className={"v10 section captured-style"}>
+<div data-layout-node={"n441"} className={"v62 captured-style"}>
+<div data-layout-node={"n442"} className={"v63 text-widget captured-style"}>
+<div data-layout-node={"n443"} className={"v64 text-widget captured-style"}>
+<h3 data-layout-node={"n444"} className={"v65 captured-style"}>
+{"สายไฟเบอร์ออฟติก 6 core"}
+</h3>
+</div>
+</div>
+<div data-layout-node={"n445"} className={"v14 captured-style"}>
+<div data-layout-node={"n446"} className={"v15 captured-style"}>
+{"\r\n\t\t\t\t\t\t\tสาย Fiber Optic ใช้งานได้ทั้งภายในและภายนอกอาคาร รองรับแรงดึงที่ระมาณ 45 กิโลกรัม ส่วนใหญ่ทำจากวัสดุที่ไม่ลุกลามไฟและไม่มีควันพิษ\t\t\t\t\t\t"}
+</div>
+</div>
+<div data-layout-node={"n447"} className={"v21 captured-style"}>
+<div data-layout-node={"n448"} className={"v59 captured-style"}>
+<div data-layout-node={"n449"} className={"v66 captured-style"}>
+<span data-layout-node={"n450"} className={"v67 captured-style"}>
+
+</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div data-layout-node={"n451"} className={"v10 section captured-style"}>
+<div data-layout-node={"n452"} className={"v62 captured-style"}>
+<div data-layout-node={"n453"} className={"v63 text-widget captured-style"}>
+<div data-layout-node={"n454"} className={"v64 text-widget captured-style"}>
+<h3 data-layout-node={"n455"} className={"v65 captured-style"}>
+{"สายไฟเบอร์ออฟติก 12 core"}
+</h3>
+</div>
+</div>
+<div data-layout-node={"n456"} className={"v14 captured-style"}>
+<div data-layout-node={"n457"} className={"v15 captured-style"}>
+{"\r\n\t\t\t\t\t\t\tเหมาะสำหรับเป็น Backbone ใช้เป็นสายไฟเบอร์ออฟติกทำเส้นทางหลักของระบบเน็ตเวิร์ก เชื่อมต่อระหว่างอาคารและภายในอาคาร\t\t\t\t\t\t"}
+</div>
+</div>
+<div data-layout-node={"n458"} className={"v21 captured-style"}>
+<div data-layout-node={"n459"} className={"v59 captured-style"}>
+<div data-layout-node={"n460"} className={"v66 captured-style"}>
+<span data-layout-node={"n461"} className={"v67 captured-style"}>
+
+</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div data-layout-node={"n462"} className={"v10 section captured-style"}>
+<div data-layout-node={"n463"} className={"v62 captured-style"}>
+<div data-layout-node={"n464"} className={"v63 text-widget captured-style"}>
+<div data-layout-node={"n465"} className={"v64 text-widget captured-style"}>
+<h3 data-layout-node={"n466"} className={"v65 captured-style"}>
+{"สายไฟเบอร์ออฟติก 24 core"}
+</h3>
+</div>
+</div>
+<div data-layout-node={"n467"} className={"v14 captured-style"}>
+<div data-layout-node={"n468"} className={"v15 captured-style"}>
+{"\r\n\t\t\t\t\t\t\tสำหรับใช้เชื่อมต่อระบบ ทั้งภายนอกและภายในอาคาร รองรับการใช้งานบริเวณใต้ดินได้ด้วย\t\t\t\t\t\t"}
 </div>
 </div>
 </div>
 </div>
 </div>
 </div>
-</div>
-</div>
+<ServiceWarranty path={"/network-service/fiberoptic-cable/"} />
+<details className={"service-detail"}>
+<summary>
+{"รายละเอียดทางเทคนิคและแนวทางเลือกใช้งาน"}
+</summary>
+<div className={"service-detail-content"}>
 <div data-layout-node={"n227"} className={"v96 section captured-style"}>
 <div data-layout-node={"n228"} className={"v97 layout-row captured-style"}>
 <div data-layout-node={"n229"} className={"v98 section captured-style"}>
@@ -754,69 +684,6 @@ export default function Page4900(){return <div className="page-4900 captured-pag
 </div>
 </div>
 </div>
-<div data-layout-node={"n345"} className={"v7 section captured-style"}>
-<div data-layout-node={"n346"} className={"v110 captured-style"}>
-<div data-layout-node={"n347"} className={"v3 captured-style"}>
-<div data-layout-node={"n348"} className={"v4 captured-style"}>
-<span data-layout-node={"n349"} className={"v46 captured-style"}>
-
-</span>
-<h2 data-layout-node={"n350"} className={"v47 captured-style"} id={"elementor-toc__heading-anchor-4"}>
-{"สาย Fiber Optic มีกี่ประเภท ติดตั้งประเภทไหนดี "}
-<br data-layout-node={"n351"} className={"v58 captured-style"} />
-{"แนะนำประเภทที่เราให้บริการคุณ"}
-</h2>
-</div>
-</div>
-<div data-layout-node={"n352"} className={"v111 captured-style"}>
-<div data-layout-node={"n353"} className={"v112 captured-style"}>
-{"\r\n\t\t\t\t\t\t\tเราวางระบบการเดินสายไฟเบอร์ออฟติก เส้นใยแก้วนำแสง รับเข้าหัวไฟเบอร์ออฟติก วางระบบเครือข่ายคอมพิวเตอร์\t\t\t\t\t\t"}
-</div>
-</div>
-<div data-layout-node={"n354"} className={"v113 section captured-style"}>
-<div data-layout-node={"n355"} className={"v114 layout-row captured-style"}>
-<div data-layout-node={"n356"} className={"v115 section captured-style"}>
-<div data-layout-node={"n357"} className={"v116 text-widget captured-style"}>
-<div data-layout-node={"n358"} className={"v4 text-widget captured-style"}>
-<h3 data-layout-node={"n359"} className={"v117 captured-style"}>
-{"บริการเดินสายไฟเบอร์ออฟติก \r\nแบบ Fiber Optic Single-mode"}
-</h3>
-</div>
-</div>
-<div data-layout-node={"n360"} className={"v116 media-widget captured-style"}>
-<div data-layout-node={"n361"} className={"v4 media-widget captured-style"}>
-<img data-layout-node={"n362"} className={"v118 captured-style"} src={"/assets/remote-d84f602bb902c8a5-responsive-512.webp"} alt={"Fb1"} loading={"lazy"} decoding={"async"} width={"512"} height={"341"} srcSet={"/assets/remote-d84f602bb902c8a5-responsive-160.webp 160w, /assets/remote-d84f602bb902c8a5-responsive-320.webp 320w, /assets/remote-d84f602bb902c8a5-responsive-512.webp 512w"} sizes={"(max-width: 640px) calc(100vw - 40px), (max-width: 1024px) 50vw, 338px"} />
-</div>
-</div>
-<div data-layout-node={"n363"} className={"v119 captured-style"}>
-<div data-layout-node={"n364"} className={"v15 captured-style"}>
-{"\r\n\t\t\t\t\t\t\tสายไฟชนิดที่มีเส้นผ่านศูนย์กลางของแกนท่อแก้ว (Core) ประมาณ 9 ไมครอน ข้อดีของสายไฟชนิดนี้คือจะสามารถส่งสัญญาณข้อมูลได้อย่างรวดเร็ว และส่งได้ในปริมาณที่มาก เพราะลักษณะการส่งข้อมูลแสงมักจะถูกส่งเป็นเส้นตรง\t\t\t\t\t\t"}
-</div>
-</div>
-</div>
-<div data-layout-node={"n365"} className={"v115 section captured-style"}>
-<div data-layout-node={"n366"} className={"v116 text-widget captured-style"}>
-<div data-layout-node={"n367"} className={"v4 text-widget captured-style"}>
-<h3 data-layout-node={"n368"} className={"v117 captured-style"}>
-{"บริการเดินสายไฟเบอร์ออฟติก \r\nแบบ Fiber Optic Muti-mode"}
-</h3>
-</div>
-</div>
-<div data-layout-node={"n369"} className={"v116 media-widget captured-style"}>
-<div data-layout-node={"n370"} className={"v4 media-widget captured-style"}>
-<img data-layout-node={"n371"} className={"v120 captured-style"} src={"/assets/remote-9ede62b88d05f3a5-responsive-512.webp"} alt={"Fb2"} loading={"lazy"} decoding={"async"} width={"512"} height={"312"} srcSet={"/assets/remote-9ede62b88d05f3a5-responsive-160.webp 160w, /assets/remote-9ede62b88d05f3a5-responsive-320.webp 320w, /assets/remote-9ede62b88d05f3a5-responsive-512.webp 512w"} sizes={"(max-width: 640px) calc(100vw - 40px), (max-width: 1024px) 50vw, 338px"} />
-</div>
-</div>
-<div data-layout-node={"n372"} className={"v119 captured-style"}>
-<div data-layout-node={"n373"} className={"v15 captured-style"}>
-{"\r\n\t\t\t\t\t\t\tเส้นผ่านศูนย์กลางของแกนท่อแก้ว (Core) อยู่ที่ 62.5 ไมครอน ซึ่งถือว่าเป็นขนาดแกนท่อแก้ว (Core) ที่มีขนาดใหญ่กว่าเมื่อเทียบกับแบบ Single mode และมีรูปแบบการใช้งานที่ต่างกัน คือการส่งข้อมูลแสงจะมีความกระจายตัวมากกว่า ไม่ได้เดินทางเป็นเส้นตรงมาก ทำให้การส่งข้อมูลช้ากว่า และยังส่งได้ในระยะที่สั้นกว่า\r\n\t\t\t\t\t\t"}
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
 <div data-layout-node={"n374"} className={"v121 section captured-style"}>
 <div data-layout-node={"n375"} className={"v122 captured-style"}>
 <div data-layout-node={"n376"} className={"v3 captured-style"}>
@@ -880,152 +747,6 @@ export default function Page4900(){return <div className="page-4900 captured-pag
 <div data-layout-node={"n402"} className={"v14 captured-style"}>
 <div data-layout-node={"n403"} className={"v15 captured-style"}>
 {"\r\n\t\t\t\t\t\t\tสายไฟเบอร์ออฟติกมีอายุการใช้งานที่ยาวนานและทนทานต่อการรบกวน ทำให้ไม่ต้องมีการบำรุงรักษาอย่างเป็นพิเศษเมื่อใช้งาน มีความทนทานต่อสภาวะอากาศที่แปรปรวน\t\t\t\t\t\t"}
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-<div data-layout-node={"n404"} className={"v123 section captured-style"}>
-<div data-layout-node={"n405"} className={"v122 captured-style"}>
-<div data-layout-node={"n406"} className={"v3 captured-style"}>
-<div data-layout-node={"n407"} className={"v4 captured-style"}>
-<span data-layout-node={"n408"} className={"v46 captured-style"}>
-
-</span>
-<h2 data-layout-node={"n409"} className={"v47 captured-style"} id={"elementor-toc__heading-anchor-6"}>
-{"สายไฟเบอร์ออฟติก มีกี่คอร์ "}
-<br data-layout-node={"n410"} className={"v58 captured-style"} />
-{"แต่ละคอร์ใช้งานอย่างไร เลือกอย่างไรให้เหมาะกับการใช้งาน"}
-</h2>
-</div>
-</div>
-<div data-layout-node={"n411"} className={"v10 section captured-style"}>
-<div data-layout-node={"n412"} className={"v11 captured-style"}>
-<div data-layout-node={"n413"} className={"v3 media-widget captured-style"}>
-<div data-layout-node={"n414"} className={"v4 media-widget captured-style"}>
-<img data-layout-node={"n415"} className={"v124 captured-style"} src={"/assets/remote-677448b25e062f4b-responsive-512.webp"} alt={"Fb3"} loading={"lazy"} decoding={"async"} width={"512"} height={"302"} srcSet={"/assets/remote-677448b25e062f4b-responsive-160.webp 160w, /assets/remote-677448b25e062f4b-responsive-320.webp 320w, /assets/remote-677448b25e062f4b-responsive-512.webp 512w"} sizes={"(max-width: 640px) calc(100vw - 40px), (max-width: 1024px) 50vw, 1120px"} />
-</div>
-</div>
-<div data-layout-node={"n416"} className={"v14 captured-style"}>
-<div data-layout-node={"n417"} className={"v15 captured-style"}>
-{"\r\n\t\t\t\t\t\t\tสำหรับสายไฟเบอร์ออฟติก สามารถแบ่งได้หลายหลายประเภท ซึ่งแยกตามจำนวนคอร์แต่ละคอร์ มีตั้งแต่ 2 core – 24 core พร้อมจุดเด่น วิธีการใช้งาน ดังนี้\t\t\t\t\t\t"}
-</div>
-</div>
-</div>
-</div>
-<div data-layout-node={"n418"} className={"v10 section captured-style"}>
-<div data-layout-node={"n419"} className={"v62 captured-style"}>
-<div data-layout-node={"n420"} className={"v63 text-widget captured-style"}>
-<div data-layout-node={"n421"} className={"v64 text-widget captured-style"}>
-<h3 data-layout-node={"n422"} className={"v65 captured-style"}>
-{"สายไฟเบอร์ออฟติก 2 core"}
-</h3>
-</div>
-</div>
-<div data-layout-node={"n423"} className={"v14 captured-style"}>
-<div data-layout-node={"n424"} className={"v15 captured-style"}>
-{"\r\n\t\t\t\t\t\t\tสาย Fiber Optic ใช้สำหรับทั้งภายในและภายนอกอาคาร รองรับแรงดึงที่ระมาณ 45 กิโลกรัม วัสดุไม่ลามไฟและทนต่อสภาวะภายนอกได้อย่างดีเยี่ยม\t\t\t\t\t\t"}
-</div>
-</div>
-<div data-layout-node={"n425"} className={"v21 captured-style"}>
-<div data-layout-node={"n426"} className={"v59 captured-style"}>
-<div data-layout-node={"n427"} className={"v66 captured-style"}>
-<span data-layout-node={"n428"} className={"v67 captured-style"}>
-
-</span>
-</div>
-</div>
-</div>
-</div>
-</div>
-<div data-layout-node={"n429"} className={"v10 section captured-style"}>
-<div data-layout-node={"n430"} className={"v62 captured-style"}>
-<div data-layout-node={"n431"} className={"v63 text-widget captured-style"}>
-<div data-layout-node={"n432"} className={"v64 text-widget captured-style"}>
-<h3 data-layout-node={"n433"} className={"v65 captured-style"}>
-{"สายไฟเบอร์ออฟติก 4 core"}
-</h3>
-</div>
-</div>
-<div data-layout-node={"n434"} className={"v14 captured-style"}>
-<div data-layout-node={"n435"} className={"v15 captured-style"}>
-{"\r\n\t\t\t\t\t\t\tโดยทั่วไป สายไฟเบอร์ออฟติก 4 core มีความยาว 1,000 เมตร สำหรับใช้งานภายนอก รองรับแรงดึงสูง และมีปลอกโลหะหุ้มอยู่ใต้ Jacket โดยรอบ สามารถเดินสายฝังดินได้\t\t\t\t\t\t"}
-</div>
-</div>
-<div data-layout-node={"n436"} className={"v21 captured-style"}>
-<div data-layout-node={"n437"} className={"v59 captured-style"}>
-<div data-layout-node={"n438"} className={"v66 captured-style"}>
-<span data-layout-node={"n439"} className={"v67 captured-style"}>
-
-</span>
-</div>
-</div>
-</div>
-</div>
-</div>
-<div data-layout-node={"n440"} className={"v10 section captured-style"}>
-<div data-layout-node={"n441"} className={"v62 captured-style"}>
-<div data-layout-node={"n442"} className={"v63 text-widget captured-style"}>
-<div data-layout-node={"n443"} className={"v64 text-widget captured-style"}>
-<h3 data-layout-node={"n444"} className={"v65 captured-style"}>
-{"สายไฟเบอร์ออฟติก 6 core"}
-</h3>
-</div>
-</div>
-<div data-layout-node={"n445"} className={"v14 captured-style"}>
-<div data-layout-node={"n446"} className={"v15 captured-style"}>
-{"\r\n\t\t\t\t\t\t\tสาย Fiber Optic ใช้งานได้ทั้งภายในและภายนอกอาคาร รองรับแรงดึงที่ระมาณ 45 กิโลกรัม ส่วนใหญ่ทำจากวัสดุที่ไม่ลุกลามไฟและไม่มีควันพิษ\t\t\t\t\t\t"}
-</div>
-</div>
-<div data-layout-node={"n447"} className={"v21 captured-style"}>
-<div data-layout-node={"n448"} className={"v59 captured-style"}>
-<div data-layout-node={"n449"} className={"v66 captured-style"}>
-<span data-layout-node={"n450"} className={"v67 captured-style"}>
-
-</span>
-</div>
-</div>
-</div>
-</div>
-</div>
-<div data-layout-node={"n451"} className={"v10 section captured-style"}>
-<div data-layout-node={"n452"} className={"v62 captured-style"}>
-<div data-layout-node={"n453"} className={"v63 text-widget captured-style"}>
-<div data-layout-node={"n454"} className={"v64 text-widget captured-style"}>
-<h3 data-layout-node={"n455"} className={"v65 captured-style"}>
-{"สายไฟเบอร์ออฟติก 12 core"}
-</h3>
-</div>
-</div>
-<div data-layout-node={"n456"} className={"v14 captured-style"}>
-<div data-layout-node={"n457"} className={"v15 captured-style"}>
-{"\r\n\t\t\t\t\t\t\tเหมาะสำหรับเป็น Backbone ใช้เป็นสายไฟเบอร์ออฟติกทำเส้นทางหลักของระบบเน็ตเวิร์ก เชื่อมต่อระหว่างอาคารและภายในอาคาร\t\t\t\t\t\t"}
-</div>
-</div>
-<div data-layout-node={"n458"} className={"v21 captured-style"}>
-<div data-layout-node={"n459"} className={"v59 captured-style"}>
-<div data-layout-node={"n460"} className={"v66 captured-style"}>
-<span data-layout-node={"n461"} className={"v67 captured-style"}>
-
-</span>
-</div>
-</div>
-</div>
-</div>
-</div>
-<div data-layout-node={"n462"} className={"v10 section captured-style"}>
-<div data-layout-node={"n463"} className={"v62 captured-style"}>
-<div data-layout-node={"n464"} className={"v63 text-widget captured-style"}>
-<div data-layout-node={"n465"} className={"v64 text-widget captured-style"}>
-<h3 data-layout-node={"n466"} className={"v65 captured-style"}>
-{"สายไฟเบอร์ออฟติก 24 core"}
-</h3>
-</div>
-</div>
-<div data-layout-node={"n467"} className={"v14 captured-style"}>
-<div data-layout-node={"n468"} className={"v15 captured-style"}>
-{"\r\n\t\t\t\t\t\t\tสำหรับใช้เชื่อมต่อระบบ ทั้งภายนอกและภายในอาคาร รองรับการใช้งานบริเวณใต้ดินได้ด้วย\t\t\t\t\t\t"}
 </div>
 </div>
 </div>
@@ -1187,290 +908,23 @@ export default function Page4900(){return <div className="page-4900 captured-pag
 </div>
 </div>
 </div>
-<div data-layout-node={"n538"} className={"v7 section captured-style"}>
-<div data-layout-node={"n539"} className={"v110 captured-style"}>
-<div data-layout-node={"n540"} className={"v3 text-widget captured-style"}>
-<div data-layout-node={"n541"} className={"v4 text-widget captured-style"}>
-<p data-layout-node={"n542"} className={"v5 captured-style"}>
-{"OUR REVIEWS"}
-</p>
 </div>
-</div>
-<div data-layout-node={"n543"} className={"v3 captured-style"}>
-<div data-layout-node={"n544"} className={"v4 captured-style"}>
-<span data-layout-node={"n545"} className={"v46 captured-style"}>
-
-</span>
-<h2 data-layout-node={"n546"} className={"v47 captured-style"} id={"elementor-toc__heading-anchor-8"}>
-{"รวมผลงานลูกค้าที่รับบริการ เดินสายไฟเบอร์ออฟติก จากเรา"}
+</details>
+</section>
+<section id={"service-projects"} className={"service-stage"} data-service-stage={"projects"}>
+<div className={"service-stage-heading"}>
+<h2>
+{"ผลงานและเนื้อหาที่เกี่ยวข้อง"}
 </h2>
 </div>
+<ServiceProjects path={"/network-service/fiberoptic-cable/"} />
+</section>
+<section id={"service-contact"} className={"service-stage"} data-service-stage={"contact"}>
+<div className={"service-stage-heading"}>
+<h2>
+{"ขอใบเสนอราคาและติดต่อทีมงาน"}
+</h2>
 </div>
-<div data-layout-node={"n547"} className={"v111 captured-style"}>
-<div data-layout-node={"n548"} className={"v112 captured-style"}>
-{"\r\n\t\t\t\t\t\t\tการันตีความพึงพอใจที่ลูกค้ามีให้กับ AITSCCTV ตลอดมา ด้วยรีวิวสินค้าและบริการจากเรา\t\t\t\t\t\t"}
-</div>
-</div>
-<div data-layout-node={"n549"} className={"v98 section captured-style"}>
-<div data-layout-node={"n550"} className={"v144 captured-style"}>
-<div data-layout-node={"n551"} className={"v145 captured-style"}>
-<div data-layout-node={"n552"} className={"v59 captured-style"}>
-<div data-layout-node={"n553"} className={"v146 grid listing-grid listing-grid listing-grid listing-grid listing-grid listing-grid listing-grid listing-grid listing-grid captured-style"}>
-<article data-layout-node={"n554"} className={"v147 listing-card captured-style"}>
-<SiteLink data-layout-node={"n555"} className={"v148 media-widget captured-style"} href={"https://aitscctv.com/upgrade-cctv/"}>
-<div data-layout-node={"n556"} className={"v149 media-widget captured-style"}>
-<img data-layout-node={"n557"} className={"v150 captured-style"} src={"/assets/remote-80dbe6649ea125dc-responsive-640.webp"} alt={"0"} loading={"lazy"} decoding={"async"} width={"768"} height={"576"} srcSet={"/assets/remote-80dbe6649ea125dc-responsive-160.webp 160w, /assets/remote-80dbe6649ea125dc-responsive-320.webp 320w, /assets/remote-80dbe6649ea125dc-responsive-640.webp 640w, /assets/remote-80dbe6649ea125dc-responsive-1024.webp 1024w"} sizes={"(max-width: 640px) calc(100vw - 40px), (max-width: 1024px) 50vw, 369px"} />
-</div>
-</SiteLink>
-<div data-layout-node={"n558"} className={"v151 captured-style"}>
-<p data-layout-node={"n559"} className={"v152 captured-style"}>
-<SiteLink data-layout-node={"n560"} className={"v153 captured-style"} href={"https://aitscctv.com/upgrade-cctv/"}>
-{"\r\n\t\t\t\tเบื้องหลังการอัปเกรดระบบกล้องวงจรปิดเก่าให้คมชัดระดับเทพด้วยทีมช่าง AITSCCTV\t\t\t"}
-</SiteLink>
-</p>
-<div data-layout-node={"n561"} className={"v154 captured-style"}>
-<span data-layout-node={"n562"} className={"v155 captured-style"}>
-{"\r\n\t\t\tJune 28, 2026\t\t"}
-</span>
-</div>
-<SiteLink data-layout-node={"n563"} className={"v156 captured-style"} href={"https://aitscctv.com/upgrade-cctv/"}>
-{"\r\n\t\t\tอ่านต่อ »\t\t"}
-</SiteLink>
-</div>
-</article>
-<article data-layout-node={"n564"} className={"v157 listing-card captured-style"}>
-<SiteLink data-layout-node={"n565"} className={"v158 media-widget captured-style"} href={"https://aitscctv.com/solution/"}>
-<div data-layout-node={"n566"} className={"v159 media-widget captured-style"}>
-<img data-layout-node={"n567"} className={"v160 captured-style"} src={"/assets/remote-e9933d285bd76c52-responsive-640.webp"} alt={"0"} loading={"lazy"} decoding={"async"} width={"768"} height={"423"} srcSet={"/assets/remote-e9933d285bd76c52-responsive-160.webp 160w, /assets/remote-e9933d285bd76c52-responsive-320.webp 320w, /assets/remote-e9933d285bd76c52-responsive-640.webp 640w, /assets/remote-e9933d285bd76c52-responsive-1024.webp 1024w"} sizes={"(max-width: 640px) calc(100vw - 40px), (max-width: 1024px) 50vw, 369px"} />
-</div>
-</SiteLink>
-<div data-layout-node={"n568"} className={"v161 captured-style"}>
-<p data-layout-node={"n569"} className={"v162 captured-style"}>
-<SiteLink data-layout-node={"n570"} className={"v153 captured-style"} href={"https://aitscctv.com/solution/"}>
-{"\r\n\t\t\t\tครบจบทุกระบบด้วย SOLUTION ที่ตอบโจทย์ทุกความต้องการ\t\t\t"}
-</SiteLink>
-</p>
-<div data-layout-node={"n571"} className={"v163 captured-style"}>
-<span data-layout-node={"n572"} className={"v155 captured-style"}>
-{"\r\n\t\t\tJanuary 11, 2025\t\t"}
-</span>
-</div>
-<SiteLink data-layout-node={"n573"} className={"v156 captured-style"} href={"https://aitscctv.com/solution/"}>
-{"\r\n\t\t\tอ่านต่อ »\t\t"}
-</SiteLink>
-</div>
-</article>
-<article data-layout-node={"n574"} className={"v164 listing-card captured-style"}>
-<SiteLink data-layout-node={"n575"} className={"v148 media-widget captured-style"} href={"https://aitscctv.com/%e0%b8%81%e0%b9%88%e0%b8%ad%e0%b8%aa%e0%b8%a3%e0%b9%89%e0%b8%b2%e0%b8%87/"}>
-<div data-layout-node={"n576"} className={"v149 media-widget captured-style"}>
-<img data-layout-node={"n577"} className={"v150 captured-style"} src={"/assets/remote-5066d07032173ec2-responsive-640.webp"} alt={"0"} loading={"lazy"} decoding={"async"} width={"768"} height={"576"} srcSet={"/assets/remote-5066d07032173ec2-responsive-160.webp 160w, /assets/remote-5066d07032173ec2-responsive-320.webp 320w, /assets/remote-5066d07032173ec2-responsive-640.webp 640w, /assets/remote-5066d07032173ec2-responsive-1024.webp 1024w"} sizes={"(max-width: 640px) calc(100vw - 40px), (max-width: 1024px) 50vw, 369px"} />
-</div>
-</SiteLink>
-<div data-layout-node={"n578"} className={"v151 captured-style"}>
-<p data-layout-node={"n579"} className={"v152 captured-style"}>
-<SiteLink data-layout-node={"n580"} className={"v153 captured-style"} href={"https://aitscctv.com/%e0%b8%81%e0%b9%88%e0%b8%ad%e0%b8%aa%e0%b8%a3%e0%b9%89%e0%b8%b2%e0%b8%87/"}>
-{"\r\n\t\t\t\tเดินสายโครงการก่อสร้าง \t\t\t"}
-</SiteLink>
-</p>
-<div data-layout-node={"n581"} className={"v154 captured-style"}>
-<span data-layout-node={"n582"} className={"v155 captured-style"}>
-{"\r\n\t\t\tJanuary 11, 2025\t\t"}
-</span>
-</div>
-<SiteLink data-layout-node={"n583"} className={"v156 captured-style"} href={"https://aitscctv.com/%e0%b8%81%e0%b9%88%e0%b8%ad%e0%b8%aa%e0%b8%a3%e0%b9%89%e0%b8%b2%e0%b8%87/"}>
-{"\r\n\t\t\tอ่านต่อ »\t\t"}
-</SiteLink>
-</div>
-</article>
-<article data-layout-node={"n584"} className={"v165 listing-card captured-style"}>
-<SiteLink data-layout-node={"n585"} className={"v148 media-widget captured-style"} href={"https://aitscctv.com/%e0%b8%aa%e0%b8%a7%e0%b8%a2%e0%b8%87%e0%b8%b2%e0%b8%a1/"}>
-<div data-layout-node={"n586"} className={"v149 media-widget captured-style"}>
-<img data-layout-node={"n587"} className={"v150 captured-style"} src={"/assets/remote-023774042b890e5d-responsive-640.webp"} alt={"0"} loading={"lazy"} decoding={"async"} width={"768"} height={"576"} srcSet={"/assets/remote-023774042b890e5d-responsive-160.webp 160w, /assets/remote-023774042b890e5d-responsive-320.webp 320w, /assets/remote-023774042b890e5d-responsive-640.webp 640w, /assets/remote-023774042b890e5d-responsive-1024.webp 1024w"} sizes={"(max-width: 640px) calc(100vw - 40px), (max-width: 1024px) 50vw, 369px"} />
-</div>
-</SiteLink>
-<div data-layout-node={"n588"} className={"v151 captured-style"}>
-<p data-layout-node={"n589"} className={"v152 captured-style"}>
-<SiteLink data-layout-node={"n590"} className={"v153 captured-style"} href={"https://aitscctv.com/%e0%b8%aa%e0%b8%a7%e0%b8%a2%e0%b8%87%e0%b8%b2%e0%b8%a1/"}>
-{"\r\n\t\t\t\tติดตั้งกล้องวงจรปิดบ้านโครงการสวยงามเรียบร้อยพร้อมเดินสายใต้ดิน\t\t\t"}
-</SiteLink>
-</p>
-<div data-layout-node={"n591"} className={"v154 captured-style"}>
-<span data-layout-node={"n592"} className={"v155 captured-style"}>
-{"\r\n\t\t\tJanuary 11, 2025\t\t"}
-</span>
-</div>
-<SiteLink data-layout-node={"n593"} className={"v156 captured-style"} href={"https://aitscctv.com/%e0%b8%aa%e0%b8%a7%e0%b8%a2%e0%b8%87%e0%b8%b2%e0%b8%a1/"}>
-{"\r\n\t\t\tอ่านต่อ »\t\t"}
-</SiteLink>
-</div>
-</article>
-<article data-layout-node={"n594"} className={"v166 listing-card captured-style"}>
-<SiteLink data-layout-node={"n595"} className={"v167 media-widget captured-style"} href={"https://aitscctv.com/%e0%b8%aa%e0%b8%a7%e0%b8%99/"}>
-<div data-layout-node={"n596"} className={"v168 media-widget captured-style"}>
-<img data-layout-node={"n597"} className={"v169 captured-style"} src={"/assets/remote-557e78200e31ee3b-responsive-640.webp"} alt={"0"} loading={"lazy"} decoding={"async"} width={"768"} height={"576"} srcSet={"/assets/remote-557e78200e31ee3b-responsive-160.webp 160w, /assets/remote-557e78200e31ee3b-responsive-320.webp 320w, /assets/remote-557e78200e31ee3b-responsive-640.webp 640w, /assets/remote-557e78200e31ee3b-responsive-1024.webp 1024w"} sizes={"(max-width: 640px) calc(100vw - 40px), (max-width: 1024px) 50vw, 369px"} />
-</div>
-</SiteLink>
-<div data-layout-node={"n598"} className={"v161 captured-style"}>
-<p data-layout-node={"n599"} className={"v162 captured-style"}>
-<SiteLink data-layout-node={"n600"} className={"v153 captured-style"} href={"https://aitscctv.com/%e0%b8%aa%e0%b8%a7%e0%b8%99/"}>
-{"\r\n\t\t\t\tเพิ่มความอุ่นใจให้สวนและพื้นที่ภายนอกที่วงเวียนใหญ่ด้วยกล้องวงจรปิดจาก AITSCCTV\t\t\t"}
-</SiteLink>
-</p>
-<div data-layout-node={"n601"} className={"v163 captured-style"}>
-<span data-layout-node={"n602"} className={"v155 captured-style"}>
-{"\r\n\t\t\tOctober 12, 2024\t\t"}
-</span>
-</div>
-<SiteLink data-layout-node={"n603"} className={"v156 captured-style"} href={"https://aitscctv.com/%e0%b8%aa%e0%b8%a7%e0%b8%99/"}>
-{"\r\n\t\t\tอ่านต่อ »\t\t"}
-</SiteLink>
-</div>
-</article>
-<article data-layout-node={"n604"} className={"v170 listing-card captured-style"}>
-<SiteLink data-layout-node={"n605"} className={"v171 media-widget captured-style"} href={"https://aitscctv.com/%e0%b8%a1%e0%b8%b2%e0%b8%95%e0%b8%a3%e0%b8%90%e0%b8%b2%e0%b8%99%e0%b8%87%e0%b8%b2%e0%b8%99-%e0%b8%9d%e0%b9%89%e0%b8%b2/"}>
-<div data-layout-node={"n606"} className={"v172 media-widget captured-style"}>
-<img data-layout-node={"n607"} className={"v173 captured-style"} src={"/assets/remote-ea8979ded03c7a4e-responsive-640.webp"} alt={"0"} loading={"lazy"} decoding={"async"} width={"768"} height={"753"} srcSet={"/assets/remote-ea8979ded03c7a4e-responsive-160.webp 160w, /assets/remote-ea8979ded03c7a4e-responsive-320.webp 320w, /assets/remote-ea8979ded03c7a4e-responsive-640.webp 640w, /assets/remote-ea8979ded03c7a4e-responsive-1024.webp 1024w"} sizes={"(max-width: 640px) calc(100vw - 40px), (max-width: 1024px) 50vw, 369px"} />
-</div>
-</SiteLink>
-<div data-layout-node={"n608"} className={"v151 captured-style"}>
-<p data-layout-node={"n609"} className={"v152 captured-style"}>
-<SiteLink data-layout-node={"n610"} className={"v153 captured-style"} href={"https://aitscctv.com/%e0%b8%a1%e0%b8%b2%e0%b8%95%e0%b8%a3%e0%b8%90%e0%b8%b2%e0%b8%99%e0%b8%87%e0%b8%b2%e0%b8%99-%e0%b8%9d%e0%b9%89%e0%b8%b2/"}>
-{"\r\n\t\t\t\tมาตรฐานงานติดตั้งอุปกรณ์เข้ากับฝ้า\t\t\t"}
-</SiteLink>
-</p>
-<div data-layout-node={"n611"} className={"v154 captured-style"}>
-<span data-layout-node={"n612"} className={"v155 captured-style"}>
-{"\r\n\t\t\tJuly 29, 2024\t\t"}
-</span>
-</div>
-<SiteLink data-layout-node={"n613"} className={"v156 captured-style"} href={"https://aitscctv.com/%e0%b8%a1%e0%b8%b2%e0%b8%95%e0%b8%a3%e0%b8%90%e0%b8%b2%e0%b8%99%e0%b8%87%e0%b8%b2%e0%b8%99-%e0%b8%9d%e0%b9%89%e0%b8%b2/"}>
-{"\r\n\t\t\tอ่านต่อ »\t\t"}
-</SiteLink>
-</div>
-</article>
-<article data-layout-node={"n614"} className={"v174 listing-card captured-style"}>
-<SiteLink data-layout-node={"n615"} className={"v148 media-widget captured-style"} href={"https://aitscctv.com/%e0%b8%a1%e0%b8%b2%e0%b8%95%e0%b8%a3%e0%b8%90%e0%b8%b2%e0%b8%99%e0%b8%87%e0%b8%b2%e0%b8%99-pvc/"}>
-<div data-layout-node={"n616"} className={"v149 media-widget captured-style"}>
-<img data-layout-node={"n617"} className={"v150 captured-style"} src={"/assets/remote-316c5bde52d4b4de-responsive-640.webp"} alt={"0"} loading={"lazy"} decoding={"async"} width={"768"} height={"576"} srcSet={"/assets/remote-316c5bde52d4b4de-responsive-160.webp 160w, /assets/remote-316c5bde52d4b4de-responsive-320.webp 320w, /assets/remote-316c5bde52d4b4de-responsive-640.webp 640w, /assets/remote-316c5bde52d4b4de-responsive-1024.webp 1024w"} sizes={"(max-width: 640px) calc(100vw - 40px), (max-width: 1024px) 50vw, 369px"} />
-</div>
-</SiteLink>
-<div data-layout-node={"n618"} className={"v151 captured-style"}>
-<p data-layout-node={"n619"} className={"v152 captured-style"}>
-<SiteLink data-layout-node={"n620"} className={"v153 captured-style"} href={"https://aitscctv.com/%e0%b8%a1%e0%b8%b2%e0%b8%95%e0%b8%a3%e0%b8%90%e0%b8%b2%e0%b8%99%e0%b8%87%e0%b8%b2%e0%b8%99-pvc/"}>
-{"\r\n\t\t\t\tมาตรฐานงานติดตั้งอุปกรณ์เข้ากับกล่อง PVC และกล่องอลูมิเนียม\t\t\t"}
-</SiteLink>
-</p>
-<div data-layout-node={"n621"} className={"v154 captured-style"}>
-<span data-layout-node={"n622"} className={"v155 captured-style"}>
-{"\r\n\t\t\tJuly 29, 2024\t\t"}
-</span>
-</div>
-<SiteLink data-layout-node={"n623"} className={"v156 captured-style"} href={"https://aitscctv.com/%e0%b8%a1%e0%b8%b2%e0%b8%95%e0%b8%a3%e0%b8%90%e0%b8%b2%e0%b8%99%e0%b8%87%e0%b8%b2%e0%b8%99-pvc/"}>
-{"\r\n\t\t\tอ่านต่อ »\t\t"}
-</SiteLink>
-</div>
-</article>
-<article data-layout-node={"n624"} className={"v175 listing-card captured-style"}>
-<SiteLink data-layout-node={"n625"} className={"v167 media-widget captured-style"} href={"https://aitscctv.com/%e0%b8%a1%e0%b8%b2%e0%b8%95%e0%b8%a3%e0%b8%90%e0%b8%b2%e0%b8%99%e0%b8%87%e0%b8%b2%e0%b8%99%e0%b8%95%e0%b8%b4%e0%b8%94%e0%b8%95%e0%b8%b1%e0%b9%89%e0%b8%87-rack/"}>
-<div data-layout-node={"n626"} className={"v168 media-widget captured-style"}>
-<img data-layout-node={"n627"} className={"v169 captured-style"} src={"/assets/remote-b54398d094b8eab6-responsive-640.webp"} alt={"0"} loading={"lazy"} decoding={"async"} width={"768"} height={"576"} srcSet={"/assets/remote-b54398d094b8eab6-responsive-160.webp 160w, /assets/remote-b54398d094b8eab6-responsive-320.webp 320w, /assets/remote-b54398d094b8eab6-responsive-640.webp 640w, /assets/remote-b54398d094b8eab6-responsive-1024.webp 1024w"} sizes={"(max-width: 640px) calc(100vw - 40px), (max-width: 1024px) 50vw, 369px"} />
-</div>
-</SiteLink>
-<div data-layout-node={"n628"} className={"v161 captured-style"}>
-<p data-layout-node={"n629"} className={"v162 captured-style"}>
-<SiteLink data-layout-node={"n630"} className={"v153 captured-style"} href={"https://aitscctv.com/%e0%b8%a1%e0%b8%b2%e0%b8%95%e0%b8%a3%e0%b8%90%e0%b8%b2%e0%b8%99%e0%b8%87%e0%b8%b2%e0%b8%99%e0%b8%95%e0%b8%b4%e0%b8%94%e0%b8%95%e0%b8%b1%e0%b9%89%e0%b8%87-rack/"}>
-{"\r\n\t\t\t\tมาตรฐานงานติดตั้งอุปกรณ์ในตู้ Rack\t\t\t"}
-</SiteLink>
-</p>
-<div data-layout-node={"n631"} className={"v163 captured-style"}>
-<span data-layout-node={"n632"} className={"v155 captured-style"}>
-{"\r\n\t\t\tJuly 29, 2024\t\t"}
-</span>
-</div>
-<SiteLink data-layout-node={"n633"} className={"v156 captured-style"} href={"https://aitscctv.com/%e0%b8%a1%e0%b8%b2%e0%b8%95%e0%b8%a3%e0%b8%90%e0%b8%b2%e0%b8%99%e0%b8%87%e0%b8%b2%e0%b8%99%e0%b8%95%e0%b8%b4%e0%b8%94%e0%b8%95%e0%b8%b1%e0%b9%89%e0%b8%87-rack/"}>
-{"\r\n\t\t\tอ่านต่อ »\t\t"}
-</SiteLink>
-</div>
-</article>
-<article data-layout-node={"n634"} className={"v176 listing-card captured-style"}>
-<SiteLink data-layout-node={"n635"} className={"v148 media-widget captured-style"} href={"https://aitscctv.com/%e0%b9%82%e0%b8%a3%e0%b8%87%e0%b8%87%e0%b8%b2%e0%b8%99%e0%b8%97%e0%b8%b5%e0%b9%88%e0%b8%a1%e0%b8%b5%e0%b8%97%e0%b8%b5%e0%b9%88%e0%b8%aa%e0%b8%b9%e0%b8%87%e0%b9%81%e0%b8%a5%e0%b8%b0%e0%b8%a5%e0%b8%b2/"}>
-<div data-layout-node={"n636"} className={"v149 media-widget captured-style"}>
-<img data-layout-node={"n637"} className={"v150 captured-style"} src={"/assets/remote-14c9c8089434369f-responsive-640.webp"} alt={"0"} loading={"lazy"} decoding={"async"} width={"768"} height={"576"} srcSet={"/assets/remote-14c9c8089434369f-responsive-160.webp 160w, /assets/remote-14c9c8089434369f-responsive-320.webp 320w, /assets/remote-14c9c8089434369f-responsive-640.webp 640w, /assets/remote-14c9c8089434369f-responsive-1024.webp 1024w"} sizes={"(max-width: 640px) calc(100vw - 40px), (max-width: 1024px) 50vw, 369px"} />
-</div>
-</SiteLink>
-<div data-layout-node={"n638"} className={"v151 captured-style"}>
-<p data-layout-node={"n639"} className={"v152 captured-style"}>
-<SiteLink data-layout-node={"n640"} className={"v153 captured-style"} href={"https://aitscctv.com/%e0%b9%82%e0%b8%a3%e0%b8%87%e0%b8%87%e0%b8%b2%e0%b8%99%e0%b8%97%e0%b8%b5%e0%b9%88%e0%b8%a1%e0%b8%b5%e0%b8%97%e0%b8%b5%e0%b9%88%e0%b8%aa%e0%b8%b9%e0%b8%87%e0%b9%81%e0%b8%a5%e0%b8%b0%e0%b8%a5%e0%b8%b2/"}>
-{"\r\n\t\t\t\tการติดตั้งกล้องวงจรปิดในโรงงานที่มีที่สูงและลานกว้าง\t\t\t"}
-</SiteLink>
-</p>
-<div data-layout-node={"n641"} className={"v154 captured-style"}>
-<span data-layout-node={"n642"} className={"v155 captured-style"}>
-{"\r\n\t\t\tMay 1, 2024\t\t"}
-</span>
-</div>
-<SiteLink data-layout-node={"n643"} className={"v156 captured-style"} href={"https://aitscctv.com/%e0%b9%82%e0%b8%a3%e0%b8%87%e0%b8%87%e0%b8%b2%e0%b8%99%e0%b8%97%e0%b8%b5%e0%b9%88%e0%b8%a1%e0%b8%b5%e0%b8%97%e0%b8%b5%e0%b9%88%e0%b8%aa%e0%b8%b9%e0%b8%87%e0%b9%81%e0%b8%a5%e0%b8%b0%e0%b8%a5%e0%b8%b2/"}>
-{"\r\n\t\t\tอ่านต่อ »\t\t"}
-</SiteLink>
-</div>
-</article>
-</div>
-</div>
-</div>
-<div data-layout-node={"n644"} className={"v3 captured-style"}>
-<div data-layout-node={"n645"} className={"v177 captured-style"}>
-<div data-layout-node={"n646"} className={"v4 captured-style"}>
-<SiteLink data-layout-node={"n647"} className={"v93 action-link captured-style"} href={"/our-standard/"} target={"_blank"} rel={"noopener"}>
-<span data-layout-node={"n648"} className={"v178 captured-style"}>
-<span data-layout-node={"n649"} className={"v179 captured-style"}>
-{"กดเพื่อดูรีวิวเพิ่มเติม"}
-</span>
-</span>
-</SiteLink>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-<div data-layout-node={"n663"} className={"v182 section captured-style"}>
-<div data-layout-node={"n664"} className={"v183 captured-style"}>
-<div data-layout-node={"n665"} className={"v3 text-widget captured-style"}>
-<div data-layout-node={"n666"} className={"v4 text-widget captured-style"}>
-<p data-layout-node={"n667"} className={"v184 large-copy captured-style"}>
-{"\" Let AITS Set Standard  ให้เราได้สร้างมาตรฐาน \"\r\n "}
-</p>
-</div>
-</div>
-<div data-layout-node={"n668"} className={"v185 section layout-row captured-style"}>
-<div data-layout-node={"n669"} className={"v186 captured-style"}>
-<div data-layout-node={"n670"} className={"v4 captured-style"}>
-<div data-layout-node={"n671"} className={"v4 captured-style"}>
-<SiteLink data-layout-node={"n672"} className={"v187 action-link captured-style"} href={"tel:0944606196"}>
-<span data-layout-node={"n673"} className={"v188 captured-style"}>
-<span data-layout-node={"n674"} className={"v189 captured-style"}>
-{"โทรหาเรา"}
-</span>
-</span>
-</SiteLink>
-</div>
-</div>
-</div>
-<div data-layout-node={"n675"} className={"v186 captured-style"}>
-<div data-layout-node={"n676"} className={"v4 captured-style"}>
-<div data-layout-node={"n677"} className={"v4 captured-style"}>
-<SiteLink data-layout-node={"n678"} className={"v190 action-link captured-style"} href={"https://page.line.me/852uanad?openQrModal=true"} target={"_blank"} rel={"noopener"}>
-<span data-layout-node={"n679"} className={"v191 captured-style"}>
-<span data-layout-node={"n680"} className={"v192 captured-style"}>
-{"ปรึกษาฟรีคลิก"}
-</span>
-</span>
-</SiteLink>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
+<ServiceContact path={"/network-service/fiberoptic-cable/"} />
+</section>
 </div></div>}

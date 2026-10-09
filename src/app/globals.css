@@ -175,3 +175,55 @@ main .page-1751 .review-card{width:100%!important;padding:0!important;min-width:
  main .page-6443 a{min-height:44px}
  main .page-5538 figure{margin-block:16px!important;max-width:100%!important}
 }
+/* Service content follows one sequence; captured details keep their design. */
+.service-stage{scroll-margin-top:20px}
+.service-stage-heading,.service-trust,.service-contents,.service-benefit-list,.service-pricing-note,.service-warranty,.service-projects,.service-contact,.service-detail,.about-team{max-width:1200px;margin-inline:auto}
+.service-stage-heading{padding:28px 24px 8px}
+.service-stage-heading h2{font-size:30px;line-height:1.4;color:#f7f7f7;margin:0;border-left:4px solid #bf2e2e;padding-left:16px}
+.service-trust{display:flex;align-items:center;justify-content:space-between;gap:20px;padding:20px 24px;border-top:1px solid #444;border-bottom:1px solid #444;color:#c5c4b5}
+.service-trust p{margin:0}
+.service-trust a{color:#fff;white-space:nowrap;min-height:44px;display:flex;align-items:center}
+.service-contents{display:grid;grid-template-columns:repeat(5,minmax(0,1fr));gap:10px;padding:24px}
+.service-contents a{min-height:48px;display:flex;align-items:center;justify-content:center;text-align:center;padding:10px 12px;border:1px solid #555;border-radius:8px;color:#fff;background:#222}
+.service-contents a:hover{background:#bf2e2e;border-color:#bf2e2e}
+.service-benefit-list{padding:12px 24px 20px;list-style:none;display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:16px;color:#ddd}
+.service-benefit-list li{padding:18px;border-left:3px solid #bf2e2e;background:#222;line-height:1.7}
+.service-pricing-note{padding:16px 24px;color:#c5c4b5}
+.service-pricing-note a,.service-warranty a{color:#fff;display:inline-block;min-height:44px;padding-block:10px}
+.service-warranty{padding:20px 24px;border-left:3px solid #bf2e2e;color:#ddd;background:#222;margin-block:24px}
+.service-warranty h3{color:#fff;font-size:22px}
+.service-warranty p{margin-bottom:12px}
+.service-detail{margin-block:16px 32px;padding-inline:24px;color:#c5c4b5}
+.service-detail>summary{cursor:pointer;min-height:52px;display:list-item;padding:14px 20px;border:1px solid #555;border-radius:8px;color:#fff;background:#222}
+.service-detail[open]>summary{border-color:#bf2e2e}
+.service-detail-content{margin-top:20px}
+.service-stage [data-layout-node].section{padding-block:40px!important}
+.service-stage-overview [data-layout-node].section{padding-block:40px!important}
+.service-projects{padding:16px 24px 32px;color:#c5c4b5}
+.service-project-context{max-width:900px;line-height:1.7}
+.service-project-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:24px}
+.service-project-card{background:#f5f7f8;color:#222;border-radius:12px;overflow:hidden;display:flex;flex-direction:column}
+.service-project-card img{display:block;width:100%;height:auto;aspect-ratio:4/3;object-fit:cover}
+.service-project-card>div{padding:20px}
+.service-project-card h3{font-size:21px;line-height:1.5;margin-bottom:12px;overflow-wrap:anywhere}
+.service-project-type{font-size:14px;color:#666;margin-bottom:10px}
+.service-project-read,.service-portfolio-link,.service-project-request a{display:inline-flex;align-items:center;min-height:44px;padding-block:8px}
+.service-portfolio-link{color:#fff;margin-top:20px}
+.service-project-request{background:#222;border-left:3px solid #bf2e2e;padding:20px}
+.service-project-request p{margin-bottom:8px}
+.service-contact{padding:24px;color:#eee;background:#222;border-radius:12px;margin-bottom:48px}
+.service-contact h3{font-size:24px;color:#fff}
+.service-contact-actions{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:16px;margin:24px 0 16px}
+.service-contact-actions a{display:flex;align-items:center;justify-content:center;text-align:center;min-height:52px;padding:12px 20px;border-radius:30px;color:#fff;font-weight:600}
+.service-quote{background:#bf2e2e}.service-line{background:#078923}.service-call{border:1px solid #888;background:#171717}
+.service-contact>a{display:inline-flex;align-items:center;min-height:44px}
+.about-team{padding:48px 24px;color:#c5c4b5;scroll-margin-top:20px}
+.about-team h2{color:#fff;font-size:32px}
+.about-team-grid{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:16px;margin-top:24px}
+.about-team-grid a{display:block;min-width:0;background:#222;border-radius:10px;overflow:hidden}
+.about-team-grid img{display:block;width:100%;height:auto;aspect-ratio:4/3;object-fit:cover}
+.about-team-more{margin-top:24px}.about-team-more summary{cursor:pointer;min-height:48px;padding:14px 20px;border:1px solid #555;border-radius:8px;color:#fff}
+.legacy-article-redirect{max-width:1000px;margin:auto;padding:60px 24px;color:#ddd;min-height:50vh}.legacy-article-redirect h1{color:#fff}
+.archive-portfolio-link{display:inline-flex;align-items:center;min-height:44px;margin-bottom:24px;text-decoration:underline}
+@media(max-width:1024px){.service-contents{grid-template-columns:repeat(2,minmax(0,1fr))}.service-contents a:last-child{grid-column:1/-1}.service-trust{flex-direction:column;align-items:flex-start;gap:4px}.service-trust a{white-space:normal}.service-benefit-list{grid-template-columns:1fr}.service-stage-heading h2{font-size:25px}.service-contact-actions{grid-template-columns:1fr;gap:12px}.service-project-grid{grid-template-columns:repeat(2,minmax(0,1fr))}.about-team-grid{grid-template-columns:repeat(3,minmax(0,1fr))}}
+@media(max-width:640px){.service-project-grid{grid-template-columns:1fr}.about-team-grid{grid-template-columns:repeat(2,minmax(0,1fr));gap:12px}.service-contents{padding:20px}.service-stage-heading{padding:24px 20px 8px}.service-projects,.service-benefit-list,.service-pricing-note,.service-trust,.service-detail{padding-inline:20px}.service-contact,.service-warranty{margin-inline:20px}.service-contact h3{font-size:22px}.service-stage [data-layout-node].section{padding-block:28px!important}}

@@ -15,7 +15,8 @@ for(const route of routes){
   if(node.name==='link'&&node.attribs.rel==='canonical')canonical=node.attribs.href;
   for(const key of ['src','href']){const value=node.attribs?.[key];if(value?.startsWith('/assets/')||value?.startsWith('/pages/')||value?.startsWith('/_next/'))assetPaths.add(value)}
  });
- if(response.status!==200||h1!==1||lang!=='th'||!hasMain||canonical!=='https://aitscctv.com'+route.path)issues.push({path:route.path,status:response.status,h1,lang,hasMain,canonical});
+ const target=route.path==='/blog/'?'/articles/':route.path;
+ if(response.status!==200||h1!==1||lang!=='th'||!hasMain||canonical!=='https://aitscctv.com'+target||(route.path==='/blog/'&&!response.redirected))issues.push({path:route.path,status:response.status,h1,lang,hasMain,canonical});
  results.push({path:route.path,status:response.status,h1,lang,description});
 }
 for(const asset of assetPaths){const r=await fetch(origin+asset);if(!r.ok)issues.push({asset,status:r.status});if(asset.endsWith('.css')){const css=await r.text();for(const match of css.matchAll(/url\(["']?([^"')]+)["']?\)/g)){const url=new URL(match[1],origin+asset);if(url.origin===origin)assetPaths.add(url.pathname)}}}

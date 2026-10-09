@@ -8,7 +8,6 @@ import Page19559 from "./Page19559";
 import Page6630 from "./Page6630";
 import Page40 from "./Page40";
 import Page4821 from "./Page4821";
-import Page3131 from "./Page3131";
 import Page3730 from "./Page3730";
 import Page5116 from "./Page5116";
 import Page5163 from "./Page5163";
@@ -44,7 +43,6 @@ export const pages={"/let-aits-set-standard/": {id:"5538",title:"- Let AITS Set 
 "/user-manual/": {id:"6630",title:"User Manual - AITSCCTV",description:"คู่มือการใช้งาน Uniview คู่มือใช้งานเครื่องบันทึก [ภาษาไทย] UNV-Network Video Recorders User Manual-V3.02-EN_5",Component:Page6630},
 "/contact/": {id:"40",title:"ติดต่อเรา บริษัท เอ.ไอ.ที.เอส จำกัด - AITSCCTV",description:"บริษัท เอ.ไอ.ที.เอส จำกัด 02 878 2951 094 460 6196 Line Messenger Facebook Instagram Youtube",Component:Page40},
 "/window-film/": {id:"4821",title:"รับติดฟิล์มกระจกบ้าน ติดฟิล์มอาคาร โดยทีมมืออาชีพ - AITSCCTV",description:"WINDOW FILM ติดฟิล์มกระจกบ้าน รับติดฟิล์มกระจกบ้าน ติดฟิล์มกระจกอาคาร ติดฟิล์มกันแดด ราคาสุดคุ้ม โดยช่างมืออาชีพ สนใจบริการติดฟิล์ม โทรติดต่อเราได้ที่นี่ บริการ",Component:Page4821},
-"/blog/": {id:"3131",title:"บทความ - AITSCCTV",description:"บทความ",Component:Page3131},
 "/internet-system/": {id:"3730",title:"อินเตอร์เน็ตบ้าน สำนักงาน ติดไวไฟ WiFi และระบบ Access Point",description:"INTERNET SERVICE บริการ ระบบอินเทอร์เน็ต INTERNET-INTRANET SYSTEM บริการติดตั้งอินเทอร์เน็ตในบริษัท รับวางระบบ Intranet ภายในองค์กร ติดเน็ตสำหรับสำนักงาน วางระบ",Component:Page3730},
 "/internet-system/access-point/": {id:"5116",title:"บริการติดตัวขยายสัญญาณ WiFi ราคาคุ้มจากแบรนด์ชั้นนำ ปี 2023",description:"Access Point ตัวขยายสัญญาณ WiFi บริการติดตั้ง Access Point และ ตัวขยายสัญญาณ WiFi สำหรับสถานที่ต่าง ๆ เพื่อการใช้งานที่รวดเร็ว เรารับบริการติดตั้ง Access Point",Component:Page5116},
 "/internet-system/wi-fi/": {id:"5163",title:"รับวางระบบ WiFi - AITSCCTV",description:"WiFi SYSTEM รับวางระบบ WiFi บริการติดตั้งไวไฟ บ้าน ติดตั้ง WiFi ให้การใช้งานอินเทอร์เน็ตทุกที่เร็วและดีที่สุด ทั้งภายในและนอกอาคาร บริการรับติดตั้ง WiFi ติดตั้ง",Component:Page5163},

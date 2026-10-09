@@ -4,7 +4,9 @@ import {SiteLink} from "../components/SiteLink";
 import {VideoFrame} from "../components/VideoFrame";
 import {LogoCarousel} from "../components/LogoCarousel";
 import {ContactPhone} from "../components/ContactPhone";
+import {ServiceTrust,ServiceContents,ServiceBenefits,ServicePricing,ServiceWarranty,ServiceProjects,ServiceContact,AboutTeamGallery} from "../components/ServiceContent";
 export default function Page3709(){return <div className="page-3709 captured-page"><div data-layout-node={"n0"} className={"v0 captured-style"}>
+<section id={"service-overview"} className={"service-stage"} data-service-stage={"overview"}>
 <div data-layout-node={"n1"} className={"v1 section captured-style"}>
 <div data-layout-node={"n2"} className={"v2 captured-style"}>
 <div data-layout-node={"n3"} className={"v3 text-widget captured-style"}>
@@ -71,122 +73,116 @@ export default function Page3709(){return <div className="page-3709 captured-pag
 </div>
 </div>
 </div>
-<div data-layout-node={"n32"} className={"v21 section captured-style"}>
-<div data-layout-node={"n33"} className={"v22 section captured-style"}>
-<div data-layout-node={"n34"} className={"v23 layout-row captured-style"}>
-<div data-layout-node={"n35"} className={"v24 section captured-style"}>
-<div data-layout-node={"n36"} className={"v25 section layout-row captured-style"}>
-<div data-layout-node={"n37"} className={"v26 section captured-style"}>
-<div data-layout-node={"n38"} className={"v27 captured-style"}>
-<div data-layout-node={"n39"} className={"v28 captured-style"}>
-<div data-layout-node={"n40"} className={"v29 layout-row captured-style"}>
-<div data-layout-node={"n41"} className={"v30 captured-style"}>
-{"\r\n\t\t\t\tเลือกอ่านหัวข้อที่สนใจ\t\t\t"}
+<ServiceTrust />
+</section>
+<ServiceContents />
+<section id={"service-benefits"} className={"service-stage"} data-service-stage={"benefits"}>
+<div className={"service-stage-heading"}>
+<h2>
+{"ประโยชน์และการใช้งาน"}
+</h2>
 </div>
-<div data-layout-node={"n42"} className={"v31 captured-style"}>
-<i data-layout-node={"n43"} className={"v32 captured-style"}>
+<ServiceBenefits path={"/solar-cell-system/"} />
+<details className={"service-detail"}>
+<summary>
+{"รายละเอียดประโยชน์และการใช้งาน"}
+</summary>
+<div className={"service-detail-content"}>
+<div data-layout-node={"n331"} className={"v80 section captured-style"}>
+<div data-layout-node={"n332"} className={"v81 layout-row captured-style"}>
+<div data-layout-node={"n333"} className={"v24 section captured-style"}>
+<div data-layout-node={"n334"} className={"v3 text-widget captured-style"}>
+<div data-layout-node={"n335"} className={"v4 text-widget captured-style"}>
+<p data-layout-node={"n336"} className={"v5 captured-style"}>
+{"WHY SHOULD  SOLAR CELL"}
+</p>
+</div>
+</div>
+<div data-layout-node={"n337"} className={"v3 captured-style"}>
+<div data-layout-node={"n338"} className={"v4 captured-style"}>
+<span data-layout-node={"n339"} className={"v51 captured-style"}>
 
-</i>
-</div>
-</div>
-<div data-layout-node={"n44"} className={"v33 captured-style"}>
-<ol data-layout-node={"n45"} className={"v34 toc-container toc-container toc-container toc-container toc-container toc-container toc-container toc-container toc-container toc-container captured-style"}>
-<li data-layout-node={"n46"} className={"v35 toc-container captured-style"}>
-<div data-layout-node={"n47"} className={"v36 toc-container captured-style"}>
-<SiteLink data-layout-node={"n48"} className={"v37 toc-link captured-style"} href={"#elementor-toc__heading-anchor-0"}>
-{"บริการติดตั้งระบบโซล่าเซลล์ราคาดีที่สุด รับติดตั้งออกแบบระบบโซล่าเซลล์ ติดตั้งแผงโซล่าเซลล์ ติดตั้งระบบพลังงานแสงอาทิตย์ ระบบหลังคาโซลาร์เซลล์ ระบบพลังงานทดแทน ติดตั้งโซล่าเซลล์ในบ้าน และโรงงาน ดูแลโดยทีมงานมืออาชีพ"}
-</SiteLink>
-</div>
-</li>
-<li data-layout-node={"n49"} className={"v35 toc-container captured-style"}>
-<div data-layout-node={"n50"} className={"v36 toc-container captured-style"}>
-<SiteLink data-layout-node={"n51"} className={"v38 toc-link captured-style"} href={"#elementor-toc__heading-anchor-1"}>
-{"บริการติดตั้งระบบโซล่าเซลล์ ติดตั้งระบบพลังงานแสงอาทิตย์ ระบบพลังงานทดแทน ติดตั้งโซล่าเซลล์บนหลังคาบ้าน โดย AITS มีอะไรบ้าง"}
-</SiteLink>
-</div>
-</li>
-<li data-layout-node={"n52"} className={"v35 toc-container captured-style"}>
-<div data-layout-node={"n53"} className={"v36 toc-container captured-style"}>
-<SiteLink data-layout-node={"n54"} className={"v39 toc-link captured-style"} href={"#elementor-toc__heading-anchor-2"}>
-{"บริการติดตั้งระบบโซล่าเซลล์ กับ AITSCCTV ดีอย่างไร? \r\n"}
-</SiteLink>
-</div>
-</li>
-<li data-layout-node={"n55"} className={"v35 toc-container captured-style"}>
-<div data-layout-node={"n56"} className={"v36 toc-container captured-style"}>
-<SiteLink data-layout-node={"n57"} className={"v40 toc-link captured-style"} href={"#elementor-toc__heading-anchor-3"}>
-{"ยี่ห้ออุปกรณ์โซล่าเซลล์ที่ AITSCCTV แนะนำ"}
-</SiteLink>
-</div>
-</li>
-<li data-layout-node={"n58"} className={"v35 toc-container captured-style"}>
-<div data-layout-node={"n59"} className={"v36 toc-container captured-style"}>
-<SiteLink data-layout-node={"n60"} className={"v41 toc-link captured-style"} href={"#elementor-toc__heading-anchor-4"}>
-{"โซล่าเซลล์ (Solar Cell) คืออะไร"}
-</SiteLink>
-</div>
-</li>
-<li data-layout-node={"n61"} className={"v35 toc-container captured-style"}>
-<div data-layout-node={"n62"} className={"v36 toc-container captured-style"}>
-<SiteLink data-layout-node={"n63"} className={"v42 toc-link captured-style"} href={"#elementor-toc__heading-anchor-5"}>
-{"ประเภทของโซลาเซลล์ที่นิยมในปัจจุบัน\r\n"}
-</SiteLink>
-</div>
-</li>
-<li data-layout-node={"n64"} className={"v35 toc-container captured-style"}>
-<div data-layout-node={"n65"} className={"v36 toc-container captured-style"}>
-<SiteLink data-layout-node={"n66"} className={"v43 toc-link captured-style"} href={"#elementor-toc__heading-anchor-6"}>
+</span>
+<h2 data-layout-node={"n340"} className={"v10 captured-style"} id={"elementor-toc__heading-anchor-6"}>
 {"ติดแผงโซล่าเซลล์ ดีไหม ทำไมจึงควรติดตั้งโซล่าเซลล์?\r\n"}
-</SiteLink>
-</div>
-</li>
-<li data-layout-node={"n67"} className={"v35 toc-container captured-style"}>
-<div data-layout-node={"n68"} className={"v36 toc-container captured-style"}>
-<SiteLink data-layout-node={"n69"} className={"v44 toc-link captured-style"} href={"#elementor-toc__heading-anchor-7"}>
-{"ทีมงานของเรา AITSCCTV"}
-</SiteLink>
-</div>
-</li>
-<li data-layout-node={"n70"} className={"v35 toc-container captured-style"}>
-<div data-layout-node={"n71"} className={"v36 toc-container captured-style"}>
-<span data-layout-node={"n72"} className={"v45 toc-link inactive-control captured-style"}>
-{"รีวิวลูกค้า"}
-</span>
-</div>
-</li>
-<li data-layout-node={"n73"} className={"v35 toc-container captured-style"}>
-<div data-layout-node={"n74"} className={"v36 toc-container captured-style"}>
-<span data-layout-node={"n75"} className={"v46 toc-link inactive-control captured-style"}>
-{"คำถามที่พบบ่อย\r\n"}
-</span>
-</div>
-</li>
-</ol>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-<div data-layout-node={"n76"} className={"v47 section captured-style"}>
-<div data-layout-node={"n77"} className={"v48 layout-row captured-style"}>
-<div data-layout-node={"n78"} className={"v26 section captured-style"}>
-<div data-layout-node={"n79"} className={"v49 captured-style"}>
-<div data-layout-node={"n80"} className={"v50 captured-style"}>
-<span data-layout-node={"n81"} className={"v51 captured-style"}>
-
-</span>
-<h2 data-layout-node={"n82"} className={"v52 captured-style"} id={"elementor-toc__heading-anchor-0"}>
-{"บริการติดตั้งระบบโซล่าเซลล์ราคาดีที่สุด รับติดตั้งออกแบบระบบโซล่าเซลล์ ติดตั้งแผงโซล่าเซลล์ ติดตั้งระบบพลังงานแสงอาทิตย์ ระบบหลังคาโซลาร์เซลล์ ระบบพลังงานทดแทน ติดตั้งโซล่าเซลล์ในบ้าน และโรงงาน ดูแลโดยทีมงานมืออาชีพ"}
 </h2>
 </div>
 </div>
+<div data-layout-node={"n341"} className={"v148 section captured-style"}>
+<div data-layout-node={"n342"} className={"v145 captured-style"}>
+<div data-layout-node={"n343"} className={"v94 captured-style"}>
+<div data-layout-node={"n344"} className={"v95 captured-style"}>
+{"\r\n\t\t\t\t\t\t\tข้อดีของการติดตั้งแผงโซล่าเซลล์ มีประโยชน์ดังนี้\t\t\t\t\t\t"}
 </div>
 </div>
 </div>
+</div>
+<div data-layout-node={"n345"} className={"v82 section layout-row captured-style"}>
+<div data-layout-node={"n346"} className={"v83 captured-style"}>
+<div data-layout-node={"n347"} className={"v84 captured-style"}>
+<div data-layout-node={"n348"} className={"v85 captured-style"}>
+<figure data-layout-node={"n349"} className={"v86 media-widget captured-style"}>
+<img data-layout-node={"n350"} className={"v149 captured-style"} src={"/assets/remote-caaabba0f481361d-responsive-512.webp"} alt={"Eco house"} loading={"lazy"} decoding={"async"} width={"512"} height={"512"} srcSet={"/assets/remote-caaabba0f481361d-responsive-160.webp 160w, /assets/remote-caaabba0f481361d-responsive-320.webp 320w, /assets/remote-caaabba0f481361d-responsive-512.webp 512w"} sizes={"59px"} />
+</figure>
+<div data-layout-node={"n351"} className={"v88 captured-style"}>
+<p data-layout-node={"n352"} className={"v89 captured-style"}>
+{"เป็นพลังงานจากธรรมชาติ"}
+</p>
+<p data-layout-node={"n353"} className={"v90 captured-style"}>
+{"แผงโซล่าเซลล์สามารถดึงพลังงานจากธรรมชาติมาใช้ได้ฟรี ช่วยประหยัดค่าใช้จ่ายมากกว่า 30-50 %\r\n\r\n"}
+</p>
+</div>
+</div>
+</div>
+</div>
+<div data-layout-node={"n354"} className={"v83 captured-style"}>
+<div data-layout-node={"n355"} className={"v84 captured-style"}>
+<div data-layout-node={"n356"} className={"v85 captured-style"}>
+<figure data-layout-node={"n357"} className={"v86 media-widget captured-style"}>
+<img data-layout-node={"n358"} className={"v149 captured-style"} src={"/assets/remote-615330d152461a26-responsive-512.webp"} alt={"Solar cell (1)"} loading={"lazy"} decoding={"async"} width={"512"} height={"512"} srcSet={"/assets/remote-615330d152461a26-responsive-160.webp 160w, /assets/remote-615330d152461a26-responsive-320.webp 320w, /assets/remote-615330d152461a26-responsive-512.webp 512w"} sizes={"59px"} />
+</figure>
+<div data-layout-node={"n359"} className={"v88 captured-style"}>
+<p data-layout-node={"n360"} className={"v89 captured-style"}>
+{"เป็นพลังงานสะอาด"}
+</p>
+<p data-layout-node={"n361"} className={"v90 captured-style"}>
+{"ไม่ก่อให้เกิดมลภาวะในกระบวนการผลิต เช่น ก๊าซคาร์บอนไดออกไซด์ จากการผลิตพลังงานไฟฟ้าด้วยถ่านหิน"}
+</p>
+</div>
+</div>
+</div>
+</div>
+<div data-layout-node={"n362"} className={"v83 captured-style"}>
+<div data-layout-node={"n363"} className={"v84 captured-style"}>
+<div data-layout-node={"n364"} className={"v85 captured-style"}>
+<figure data-layout-node={"n365"} className={"v86 media-widget captured-style"}>
+<img data-layout-node={"n366"} className={"v149 captured-style"} src={"/assets/remote-4577da3955532ea9-responsive-512.webp"} alt={"Protection"} loading={"lazy"} decoding={"async"} width={"512"} height={"512"} srcSet={"/assets/remote-4577da3955532ea9-responsive-160.webp 160w, /assets/remote-4577da3955532ea9-responsive-320.webp 320w, /assets/remote-4577da3955532ea9-responsive-512.webp 512w"} sizes={"59px"} />
+</figure>
+<div data-layout-node={"n367"} className={"v88 captured-style"}>
+<p data-layout-node={"n368"} className={"v89 captured-style"}>
+{"ช่วยสะท้อนความร้อน"}
+</p>
+<p data-layout-node={"n369"} className={"v90 captured-style"}>
+{"การติดตั้งโซล่าเซลล์ช่วยให้บ้านสะท้อนความร้อนได้มากถึง 3-5 องศา\r\n"}
+</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</details>
+</section>
+<section id={"service-options"} className={"service-stage"} data-service-stage={"options"}>
+<div className={"service-stage-heading"}>
+<h2>
+{"รูปแบบบริการและราคา"}
+</h2>
+</div>
+<ServicePricing path={"/solar-cell-system/"} />
 <div data-layout-node={"n83"} className={"v7 section captured-style"}>
 <div data-layout-node={"n84"} className={"v53 captured-style"}>
 <div data-layout-node={"n85"} className={"v3 text-widget captured-style"}>
@@ -311,220 +307,6 @@ export default function Page3709(){return <div className="page-3709 captured-pag
 </div>
 </div>
 </div>
-<div data-layout-node={"n141"} className={"v80 section captured-style"}>
-<div data-layout-node={"n142"} className={"v81 layout-row captured-style"}>
-<div data-layout-node={"n143"} className={"v24 section captured-style"}>
-<div data-layout-node={"n144"} className={"v3 text-widget captured-style"}>
-<div data-layout-node={"n145"} className={"v4 text-widget captured-style"}>
-<p data-layout-node={"n146"} className={"v5 captured-style"}>
-{"WHY AITSCCTV"}
-</p>
-</div>
-</div>
-<div data-layout-node={"n147"} className={"v3 captured-style"}>
-<div data-layout-node={"n148"} className={"v4 captured-style"}>
-<span data-layout-node={"n149"} className={"v51 captured-style"}>
-
-</span>
-<h2 data-layout-node={"n150"} className={"v10 captured-style"} id={"elementor-toc__heading-anchor-2"}>
-{"บริการติดตั้งระบบโซล่าเซลล์ กับ AITSCCTV ดีอย่างไร? \r\n"}
-</h2>
-</div>
-</div>
-<div data-layout-node={"n151"} className={"v82 section layout-row captured-style"}>
-<div data-layout-node={"n152"} className={"v83 captured-style"}>
-<div data-layout-node={"n153"} className={"v84 captured-style"}>
-<div data-layout-node={"n154"} className={"v85 captured-style"}>
-<figure data-layout-node={"n155"} className={"v86 media-widget captured-style"}>
-<img data-layout-node={"n156"} className={"v87 captured-style"} src={"https://aitscctv.com/wp-content/uploads/2023/03/design-pencil.svg"} alt={"Design pencil"} loading={"lazy"} decoding={"async"} width={"800"} height={"800"} />
-</figure>
-<div data-layout-node={"n157"} className={"v88 captured-style"}>
-<p data-layout-node={"n158"} className={"v89 captured-style"}>
-{"มีหลักการออกแบบที่ดี"}
-</p>
-<p data-layout-node={"n159"} className={"v90 captured-style"}>
-{"ออกแบบการติดตั้งระบบโซล่าเซลล์ให้ตอบโจทย์ และแก้ปัญหาได้ตรงจุด\r\n"}
-</p>
-</div>
-</div>
-</div>
-</div>
-<div data-layout-node={"n160"} className={"v83 captured-style"}>
-<div data-layout-node={"n161"} className={"v84 captured-style"}>
-<div data-layout-node={"n162"} className={"v85 captured-style"}>
-<figure data-layout-node={"n163"} className={"v86 media-widget captured-style"}>
-<img data-layout-node={"n164"} className={"v87 captured-style"} src={"https://aitscctv.com/wp-content/uploads/2023/03/performance.svg"} alt={"Performance"} loading={"lazy"} decoding={"async"} width={"800"} height={"800"} />
-</figure>
-<div data-layout-node={"n165"} className={"v88 captured-style"}>
-<p data-layout-node={"n166"} className={"v89 captured-style"}>
-{"เน้นประสิทธิภาพในการใช้งานและความสวยงาม"}
-</p>
-<p data-layout-node={"n167"} className={"v90 captured-style"}>
-{"การติดตั้งเน้นความอย่างถูกต้อง ปลอดภัย และสวยงาม\r\n"}
-</p>
-</div>
-</div>
-</div>
-</div>
-<div data-layout-node={"n168"} className={"v83 captured-style"}>
-<div data-layout-node={"n169"} className={"v84 captured-style"}>
-<div data-layout-node={"n170"} className={"v85 captured-style"}>
-<figure data-layout-node={"n171"} className={"v86 media-widget captured-style"}>
-<img data-layout-node={"n172"} className={"v87 captured-style"} src={"https://aitscctv.com/wp-content/uploads/2023/03/plan.svg"} alt={"Plan"} loading={"lazy"} decoding={"async"} width={"800"} height={"800"} />
-</figure>
-<div data-layout-node={"n173"} className={"v88 captured-style"}>
-<p data-layout-node={"n174"} className={"v89 captured-style"}>
-{"วางแผนงานอย่างมีระบบ"}
-</p>
-<p data-layout-node={"n175"} className={"v90 captured-style"}>
-{"วางแผนการติดตั้ง ตำแหน่งมุมกล้องและ จอแสดงผล เพื่อป้องกันและไม่ให้เกิดปัญหามากที่สุด\r\n"}
-</p>
-</div>
-</div>
-</div>
-</div>
-<div data-layout-node={"n176"} className={"v83 captured-style"}>
-<div data-layout-node={"n177"} className={"v84 captured-style"}>
-<div data-layout-node={"n178"} className={"v85 captured-style"}>
-<figure data-layout-node={"n179"} className={"v86 media-widget captured-style"}>
-<img data-layout-node={"n180"} className={"v87 captured-style"} src={"https://aitscctv.com/wp-content/uploads/2023/03/training-achievement-medal.svg"} alt={"Training achievement medal"} loading={"lazy"} decoding={"async"} width={"800"} height={"800"} />
-</figure>
-<div data-layout-node={"n181"} className={"v88 captured-style"}>
-<p data-layout-node={"n182"} className={"v89 captured-style"}>
-{"มีความเป็นมืออาชีพ"}
-</p>
-<p data-layout-node={"n183"} className={"v90 captured-style"}>
-{"ดำเนินงานโดยช่างติดตั้งกล้องวงจรปิดมืออาชีพที่มีประสบการณ์มากกว่า 20 ปี\r\n"}
-</p>
-</div>
-</div>
-</div>
-</div>
-<div data-layout-node={"n184"} className={"v83 captured-style"}>
-<div data-layout-node={"n185"} className={"v84 captured-style"}>
-<div data-layout-node={"n186"} className={"v85 captured-style"}>
-<figure data-layout-node={"n187"} className={"v86 media-widget captured-style"}>
-<img data-layout-node={"n188"} className={"v87 captured-style"} src={"https://aitscctv.com/wp-content/uploads/2023/03/care-treatment-heart.svg"} alt={"Care treatment heart"} loading={"lazy"} decoding={"async"} width={"800"} height={"800"} />
-</figure>
-<div data-layout-node={"n189"} className={"v88 captured-style"}>
-<p data-layout-node={"n190"} className={"v89 captured-style"}>
-{"ใส่ใจดูแลลูกค้าเป็นอย่างดี"}
-</p>
-<p data-layout-node={"n191"} className={"v90 captured-style"}>
-{"มีทีมงานดูแลบริการหลังการขาย พร้อมให้คำแนะนำอย่างใกล้ชิด ไม่ต้องกังวลเรื่องช่างเทงานอย่างแน่นอน \r\n"}
-</p>
-</div>
-</div>
-</div>
-</div>
-<div data-layout-node={"n192"} className={"v83 captured-style"}>
-<div data-layout-node={"n193"} className={"v84 captured-style"}>
-<div data-layout-node={"n194"} className={"v85 captured-style"}>
-<figure data-layout-node={"n195"} className={"v86 media-widget captured-style"}>
-<img data-layout-node={"n196"} className={"v87 captured-style"} src={"https://aitscctv.com/wp-content/uploads/2023/03/warranty-term.svg"} alt={"Warranty term"} loading={"lazy"} decoding={"async"} width={"800"} height={"800"} />
-</figure>
-<div data-layout-node={"n197"} className={"v88 captured-style"}>
-<p data-layout-node={"n198"} className={"v89 captured-style"}>
-{"มีการรับประกันสินค้า"}
-</p>
-<p data-layout-node={"n199"} className={"v90 captured-style"}>
-{"รับประกันตัวสินค้าให้ 2 ปีเต็ม\r\nการรับประกันงานบริการ 1 ปี โดยเฉพาะ Onsite**\r\n"}
-</p>
-</div>
-</div>
-</div>
-</div>
-</div>
-<div data-layout-node={"n200"} className={"v91 captured-style"}>
-<div data-layout-node={"n201"} className={"v92 captured-style"}>
-{"\r\n\t\t\t\t\t\t\t**ยกเว้นความเสียหายในกรณีที่เกิดขึ้นมาจากคน สัตว์ สิ่งของ และภัยธรรมชาติ\t\t\t\t\t\t"}
-</div>
-</div>
-</div>
-</div>
-</div>
-<div data-layout-node={"n202"} className={"v7 section captured-style"}>
-<div data-layout-node={"n203"} className={"v93 captured-style"}>
-<div data-layout-node={"n204"} className={"v94 text-widget captured-style"}>
-<div data-layout-node={"n205"} className={"v95 text-widget captured-style"}>
-<p data-layout-node={"n206"} className={"v96 captured-style"}>
-{"ทีมงานพร้อมให้คำแนะนำการบริการติดตั้งระบบโซล่าเซลล์"}
-<br data-layout-node={"n207"} className={"v97 captured-style"} />
-{"อย่างครบวงจร หากสนใจสามารถเข้ามาปรึกษาเราได้"}
-</p>
-</div>
-</div>
-<div data-layout-node={"n208"} className={"v98 section captured-style"}>
-<div data-layout-node={"n209"} className={"v99 layout-row captured-style"}>
-<div data-layout-node={"n210"} className={"v100 section captured-style"}>
-<div data-layout-node={"n211"} className={"v101 captured-style"}>
-<div data-layout-node={"n212"} className={"v102 captured-style"}>
-<div data-layout-node={"n213"} className={"v103 layout-row captured-style"}>
-<div data-layout-node={"n214"} className={"v104 captured-style"}>
-<SiteLink data-layout-node={"n215"} className={"v105 captured-style"} href={"tel:0944606196"}>
-<i data-layout-node={"n216"} className={"v106 captured-style"}>
-
-</i>
-</SiteLink>
-</div>
-<div data-layout-node={"n217"} className={"v107 captured-style"}>
-<p data-layout-node={"n218"} className={"v108 captured-style"}>
-<SiteLink data-layout-node={"n219"} className={"v109 captured-style"} href={"tel:0944606196"}>
-{"\r\n\t\t\t\t\t\tให้คำปรึกษาฟรี\t\t\t\t\t"}
-</SiteLink>
-</p>
-<p data-layout-node={"n220"} className={"v110 large-copy captured-style"}>
-{"\r\n\t\t\t\t\t\t094 460 6196\t\t\t\t\t"}
-</p>
-</div>
-</div>
-</div>
-</div>
-</div>
-<div data-layout-node={"n221"} className={"v111 section captured-style"}>
-<div data-layout-node={"n222"} className={"v112 captured-style"}>
-<div data-layout-node={"n223"} className={"v113 captured-style"}>
-<div data-layout-node={"n224"} className={"v114 layout-row captured-style"}>
-<div data-layout-node={"n225"} className={"v115 captured-style"}>
-<SiteLink data-layout-node={"n226"} className={"v105 captured-style"} href={"https://page.line.me/852uanad?openQrModal=true"}>
-<i data-layout-node={"n227"} className={"v116 captured-style"}>
-
-</i>
-</SiteLink>
-</div>
-<div data-layout-node={"n228"} className={"v117 captured-style"}>
-<p data-layout-node={"n229"} className={"v118 captured-style"}>
-<SiteLink data-layout-node={"n230"} className={"v109 captured-style"} href={"https://page.line.me/852uanad?openQrModal=true"}>
-{"\r\n\t\t\t\t\t\tLine\t\t\t\t\t"}
-</SiteLink>
-</p>
-<p data-layout-node={"n231"} className={"v119 large-copy captured-style"}>
-{"\r\n\t\t\t\t\t\t@AITSCCTV\t\t\t\t\t"}
-</p>
-</div>
-</div>
-</div>
-</div>
-</div>
-<div data-layout-node={"n232"} className={"v120 section captured-style"}>
-<div data-layout-node={"n233"} className={"v3 captured-style"}>
-<div data-layout-node={"n234"} className={"v121 captured-style"}>
-<div data-layout-node={"n235"} className={"v4 captured-style"}>
-<SiteLink data-layout-node={"n236"} className={"v122 action-link captured-style"} href={"https://page.line.me/852uanad?openQrModal=true"} target={"_blank"} rel={"noopener"}>
-<span data-layout-node={"n237"} className={"v123 captured-style"}>
-<span data-layout-node={"n238"} className={"v124 captured-style"}>
-{"ปรึกษาฟรีคลิก"}
-</span>
-</span>
-</SiteLink>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
 <div data-layout-node={"n239"} className={"v125 section captured-style"}>
 <div data-layout-node={"n240"} className={"v126 captured-style"}>
 <div data-layout-node={"n241"} className={"v127 section captured-style"}>
@@ -552,39 +334,6 @@ export default function Page3709(){return <div className="page-3709 captured-pag
 </div>
 </div>
 </div>
-</div>
-</div>
-</div>
-</div>
-</div>
-<div data-layout-node={"n255"} className={"v7 section captured-style"}>
-<div data-layout-node={"n256"} className={"v81 layout-row captured-style"}>
-<div data-layout-node={"n257"} className={"v24 section captured-style"}>
-<div data-layout-node={"n258"} className={"v3 text-widget captured-style"}>
-<div data-layout-node={"n259"} className={"v4 text-widget captured-style"}>
-<p data-layout-node={"n260"} className={"v5 captured-style"}>
-{"WHAT IS SOLAR CELL"}
-</p>
-</div>
-</div>
-<div data-layout-node={"n261"} className={"v3 captured-style"}>
-<div data-layout-node={"n262"} className={"v4 captured-style"}>
-<span data-layout-node={"n263"} className={"v51 captured-style"}>
-
-</span>
-<h2 data-layout-node={"n264"} className={"v10 captured-style"} id={"elementor-toc__heading-anchor-4"}>
-{"โซล่าเซลล์ (Solar Cell) คืออะไร"}
-</h2>
-</div>
-</div>
-<div data-layout-node={"n265"} className={"v3 media-widget captured-style"}>
-<div data-layout-node={"n266"} className={"v4 media-widget captured-style"}>
-<img data-layout-node={"n267"} className={"v133 captured-style"} src={"/assets/remote-9f3d8e01632c194f-responsive-640.webp"} alt={"Solar panels on the roof"} loading={"lazy"} decoding={"async"} width={"768"} height={"403"} srcSet={"/assets/remote-9f3d8e01632c194f-responsive-160.webp 160w, /assets/remote-9f3d8e01632c194f-responsive-320.webp 320w, /assets/remote-9f3d8e01632c194f-responsive-640.webp 640w, /assets/remote-9f3d8e01632c194f-responsive-1024.webp 1024w"} sizes={"(max-width: 640px) calc(100vw - 40px), (max-width: 1024px) 50vw, 768px"} />
-</div>
-</div>
-<div data-layout-node={"n268"} className={"v134 captured-style"}>
-<div data-layout-node={"n269"} className={"v135 captured-style"}>
-{"\r\n\t\t\t\t\t\t\tโซล่าเซลล์ คือเทคโนโลยีสมัยใหม่ที่ใช้การดึงนำพลังงานจากแสงอาทิตย์นำมาเปลี่ยนให้กลายเป็นพลังงานไฟฟ้า โดยพลังงานแสงอาทิตย์นั้นถือว่าเป็นพลังงานสะอาดที่ไม่สร้างมลภาวะกับสิ่งแวดล้อม ไม่ปล่อยก๊าซเรือนกระจก (Co2) เป็นพลังงานที่ใช้แล้วไม่มีวันหมด ถือเป็นทางเลือกหนึ่งของการลดภาวะโลกร้อนที่คนยุคใหม่กำลังให้ความสำคัญ ทำให้การติดตั้งโซล่าเซลล์ในบ้าน และติดตั้งโซล่าเซลล์ในสวนเป็นที่นิยมสูงขึ้นมากกว่ายุคก่อน ๆ มาก\r\n\t\t\t\t\t\t"}
 </div>
 </div>
 </div>
@@ -754,250 +503,78 @@ export default function Page3709(){return <div className="page-3709 captured-pag
 </div>
 </div>
 </div>
-<div data-layout-node={"n331"} className={"v80 section captured-style"}>
-<div data-layout-node={"n332"} className={"v81 layout-row captured-style"}>
-<div data-layout-node={"n333"} className={"v24 section captured-style"}>
-<div data-layout-node={"n334"} className={"v3 text-widget captured-style"}>
-<div data-layout-node={"n335"} className={"v4 text-widget captured-style"}>
-<p data-layout-node={"n336"} className={"v5 captured-style"}>
-{"WHY SHOULD  SOLAR CELL"}
-</p>
-</div>
-</div>
-<div data-layout-node={"n337"} className={"v3 captured-style"}>
-<div data-layout-node={"n338"} className={"v4 captured-style"}>
-<span data-layout-node={"n339"} className={"v51 captured-style"}>
+<ServiceWarranty path={"/solar-cell-system/"} />
+<details className={"service-detail"}>
+<summary>
+{"รายละเอียดทางเทคนิคและแนวทางเลือกใช้งาน"}
+</summary>
+<div className={"service-detail-content"}>
+<div data-layout-node={"n76"} className={"v47 section captured-style"}>
+<div data-layout-node={"n77"} className={"v48 layout-row captured-style"}>
+<div data-layout-node={"n78"} className={"v26 section captured-style"}>
+<div data-layout-node={"n79"} className={"v49 captured-style"}>
+<div data-layout-node={"n80"} className={"v50 captured-style"}>
+<span data-layout-node={"n81"} className={"v51 captured-style"}>
 
 </span>
-<h2 data-layout-node={"n340"} className={"v10 captured-style"} id={"elementor-toc__heading-anchor-6"}>
-{"ติดแผงโซล่าเซลล์ ดีไหม ทำไมจึงควรติดตั้งโซล่าเซลล์?\r\n"}
+<h2 data-layout-node={"n82"} className={"v52 captured-style"} id={"elementor-toc__heading-anchor-0"}>
+{"บริการติดตั้งระบบโซล่าเซลล์ราคาดีที่สุด รับติดตั้งออกแบบระบบโซล่าเซลล์ ติดตั้งแผงโซล่าเซลล์ ติดตั้งระบบพลังงานแสงอาทิตย์ ระบบหลังคาโซลาร์เซลล์ ระบบพลังงานทดแทน ติดตั้งโซล่าเซลล์ในบ้าน และโรงงาน ดูแลโดยทีมงานมืออาชีพ"}
 </h2>
 </div>
 </div>
-<div data-layout-node={"n341"} className={"v148 section captured-style"}>
-<div data-layout-node={"n342"} className={"v145 captured-style"}>
-<div data-layout-node={"n343"} className={"v94 captured-style"}>
-<div data-layout-node={"n344"} className={"v95 captured-style"}>
-{"\r\n\t\t\t\t\t\t\tข้อดีของการติดตั้งแผงโซล่าเซลล์ มีประโยชน์ดังนี้\t\t\t\t\t\t"}
 </div>
 </div>
 </div>
-</div>
-<div data-layout-node={"n345"} className={"v82 section layout-row captured-style"}>
-<div data-layout-node={"n346"} className={"v83 captured-style"}>
-<div data-layout-node={"n347"} className={"v84 captured-style"}>
-<div data-layout-node={"n348"} className={"v85 captured-style"}>
-<figure data-layout-node={"n349"} className={"v86 media-widget captured-style"}>
-<img data-layout-node={"n350"} className={"v149 captured-style"} src={"/assets/remote-caaabba0f481361d-responsive-512.webp"} alt={"Eco house"} loading={"lazy"} decoding={"async"} width={"512"} height={"512"} srcSet={"/assets/remote-caaabba0f481361d-responsive-160.webp 160w, /assets/remote-caaabba0f481361d-responsive-320.webp 320w, /assets/remote-caaabba0f481361d-responsive-512.webp 512w"} sizes={"59px"} />
-</figure>
-<div data-layout-node={"n351"} className={"v88 captured-style"}>
-<p data-layout-node={"n352"} className={"v89 captured-style"}>
-{"เป็นพลังงานจากธรรมชาติ"}
-</p>
-<p data-layout-node={"n353"} className={"v90 captured-style"}>
-{"แผงโซล่าเซลล์สามารถดึงพลังงานจากธรรมชาติมาใช้ได้ฟรี ช่วยประหยัดค่าใช้จ่ายมากกว่า 30-50 %\r\n\r\n"}
+<div data-layout-node={"n255"} className={"v7 section captured-style"}>
+<div data-layout-node={"n256"} className={"v81 layout-row captured-style"}>
+<div data-layout-node={"n257"} className={"v24 section captured-style"}>
+<div data-layout-node={"n258"} className={"v3 text-widget captured-style"}>
+<div data-layout-node={"n259"} className={"v4 text-widget captured-style"}>
+<p data-layout-node={"n260"} className={"v5 captured-style"}>
+{"WHAT IS SOLAR CELL"}
 </p>
 </div>
 </div>
-</div>
-</div>
-<div data-layout-node={"n354"} className={"v83 captured-style"}>
-<div data-layout-node={"n355"} className={"v84 captured-style"}>
-<div data-layout-node={"n356"} className={"v85 captured-style"}>
-<figure data-layout-node={"n357"} className={"v86 media-widget captured-style"}>
-<img data-layout-node={"n358"} className={"v149 captured-style"} src={"/assets/remote-615330d152461a26-responsive-512.webp"} alt={"Solar cell (1)"} loading={"lazy"} decoding={"async"} width={"512"} height={"512"} srcSet={"/assets/remote-615330d152461a26-responsive-160.webp 160w, /assets/remote-615330d152461a26-responsive-320.webp 320w, /assets/remote-615330d152461a26-responsive-512.webp 512w"} sizes={"59px"} />
-</figure>
-<div data-layout-node={"n359"} className={"v88 captured-style"}>
-<p data-layout-node={"n360"} className={"v89 captured-style"}>
-{"เป็นพลังงานสะอาด"}
-</p>
-<p data-layout-node={"n361"} className={"v90 captured-style"}>
-{"ไม่ก่อให้เกิดมลภาวะในกระบวนการผลิต เช่น ก๊าซคาร์บอนไดออกไซด์ จากการผลิตพลังงานไฟฟ้าด้วยถ่านหิน"}
-</p>
-</div>
-</div>
-</div>
-</div>
-<div data-layout-node={"n362"} className={"v83 captured-style"}>
-<div data-layout-node={"n363"} className={"v84 captured-style"}>
-<div data-layout-node={"n364"} className={"v85 captured-style"}>
-<figure data-layout-node={"n365"} className={"v86 media-widget captured-style"}>
-<img data-layout-node={"n366"} className={"v149 captured-style"} src={"/assets/remote-4577da3955532ea9-responsive-512.webp"} alt={"Protection"} loading={"lazy"} decoding={"async"} width={"512"} height={"512"} srcSet={"/assets/remote-4577da3955532ea9-responsive-160.webp 160w, /assets/remote-4577da3955532ea9-responsive-320.webp 320w, /assets/remote-4577da3955532ea9-responsive-512.webp 512w"} sizes={"59px"} />
-</figure>
-<div data-layout-node={"n367"} className={"v88 captured-style"}>
-<p data-layout-node={"n368"} className={"v89 captured-style"}>
-{"ช่วยสะท้อนความร้อน"}
-</p>
-<p data-layout-node={"n369"} className={"v90 captured-style"}>
-{"การติดตั้งโซล่าเซลล์ช่วยให้บ้านสะท้อนความร้อนได้มากถึง 3-5 องศา\r\n"}
-</p>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-<div data-layout-node={"n370"} className={"v7 section captured-style"}>
-<div data-layout-node={"n371"} className={"v150 captured-style"}>
-<div data-layout-node={"n372"} className={"v3 text-widget captured-style"}>
-<div data-layout-node={"n373"} className={"v4 text-widget captured-style"}>
-<p data-layout-node={"n374"} className={"v5 captured-style"}>
-{"Our Team"}
-</p>
-</div>
-</div>
-<div data-layout-node={"n375"} className={"v3 captured-style"}>
-<div data-layout-node={"n376"} className={"v4 captured-style"}>
-<span data-layout-node={"n377"} className={"v51 captured-style"}>
+<div data-layout-node={"n261"} className={"v3 captured-style"}>
+<div data-layout-node={"n262"} className={"v4 captured-style"}>
+<span data-layout-node={"n263"} className={"v51 captured-style"}>
 
 </span>
-<h2 data-layout-node={"n378"} className={"v10 captured-style"} id={"elementor-toc__heading-anchor-7"}>
-{"ทีมงานของเรา AITSCCTV"}
+<h2 data-layout-node={"n264"} className={"v10 captured-style"} id={"elementor-toc__heading-anchor-4"}>
+{"โซล่าเซลล์ (Solar Cell) คืออะไร"}
 </h2>
 </div>
 </div>
-<div data-layout-node={"n379"} className={"v94 captured-style"}>
-<div data-layout-node={"n380"} className={"v95 captured-style"}>
-{"\r\n\t\t\t\t\t\t\tพวกเรา AITSCCTV พร้อมสร้างมาตรฐานความปลอดภัยใหม่ให้คุณ\t\t\t\t\t\t"}
+<div data-layout-node={"n265"} className={"v3 media-widget captured-style"}>
+<div data-layout-node={"n266"} className={"v4 media-widget captured-style"}>
+<img data-layout-node={"n267"} className={"v133 captured-style"} src={"/assets/remote-9f3d8e01632c194f-responsive-640.webp"} alt={"Solar panels on the roof"} loading={"lazy"} decoding={"async"} width={"768"} height={"403"} srcSet={"/assets/remote-9f3d8e01632c194f-responsive-160.webp 160w, /assets/remote-9f3d8e01632c194f-responsive-320.webp 320w, /assets/remote-9f3d8e01632c194f-responsive-640.webp 640w, /assets/remote-9f3d8e01632c194f-responsive-1024.webp 1024w"} sizes={"(max-width: 640px) calc(100vw - 40px), (max-width: 1024px) 50vw, 768px"} />
 </div>
 </div>
-<div data-layout-node={"n381"} className={"v151 section captured-style"}>
-<div data-layout-node={"n382"} className={"v152 captured-style"}>
-<div data-layout-node={"n383"} className={"v27 captured-style"}>
-<div data-layout-node={"n384"} className={"v136 captured-style"}>
-<div data-layout-node={"n385"} className={"v136 captured-style"}>
-<div data-layout-node={"n386"} className={"v153 captured-style"}>
-<figure data-layout-node={"n387"} className={"v154 media-widget captured-style"}>
-<div data-layout-node={"n388"} className={"v155 media-widget captured-style"}>
-<SiteLink data-layout-node={"n389"} className={"v156 media-widget captured-style"} href={"https://aitscctv.com/wp-content/uploads/2023/05/6-4.jpg"}>
-<img data-layout-node={"n390"} className={"v157 captured-style"} src={"/assets/remote-84272f85619707a5-responsive-640.webp"} alt={"6"} loading={"lazy"} decoding={"async"} width={"1200"} height={"630"} srcSet={"/assets/remote-84272f85619707a5-responsive-160.webp 160w, /assets/remote-84272f85619707a5-responsive-320.webp 320w, /assets/remote-84272f85619707a5-responsive-640.webp 640w, /assets/remote-84272f85619707a5-responsive-1200.webp 1200w"} sizes={"(max-width: 640px) calc(100vw - 40px), (max-width: 1024px) 50vw, 369px"} />
-</SiteLink>
-</div>
-</figure>
-<figure data-layout-node={"n391"} className={"v154 media-widget captured-style"}>
-<div data-layout-node={"n392"} className={"v155 media-widget captured-style"}>
-<SiteLink data-layout-node={"n393"} className={"v156 media-widget captured-style"} href={"https://aitscctv.com/wp-content/uploads/2023/05/3-5.jpg"}>
-<img data-layout-node={"n394"} className={"v157 captured-style"} src={"/assets/remote-967f14711cec5f9d-responsive-640.webp"} alt={"3"} loading={"lazy"} decoding={"async"} width={"1200"} height={"630"} srcSet={"/assets/remote-967f14711cec5f9d-responsive-160.webp 160w, /assets/remote-967f14711cec5f9d-responsive-320.webp 320w, /assets/remote-967f14711cec5f9d-responsive-640.webp 640w, /assets/remote-967f14711cec5f9d-responsive-1200.webp 1200w"} sizes={"(max-width: 640px) calc(100vw - 40px), (max-width: 1024px) 50vw, 369px"} />
-</SiteLink>
-</div>
-</figure>
-<figure data-layout-node={"n395"} className={"v154 media-widget captured-style"}>
-<div data-layout-node={"n396"} className={"v155 media-widget captured-style"}>
-<SiteLink data-layout-node={"n397"} className={"v156 media-widget captured-style"} href={"https://aitscctv.com/wp-content/uploads/2023/05/1-3.jpg"}>
-<img data-layout-node={"n398"} className={"v157 captured-style"} src={"/assets/remote-7551b90a7d589db8-responsive-640.webp"} alt={"1"} loading={"lazy"} decoding={"async"} width={"1200"} height={"630"} srcSet={"/assets/remote-7551b90a7d589db8-responsive-160.webp 160w, /assets/remote-7551b90a7d589db8-responsive-320.webp 320w, /assets/remote-7551b90a7d589db8-responsive-640.webp 640w, /assets/remote-7551b90a7d589db8-responsive-1200.webp 1200w"} sizes={"(max-width: 640px) calc(100vw - 40px), (max-width: 1024px) 50vw, 369px"} />
-</SiteLink>
-</div>
-</figure>
-<figure data-layout-node={"n399"} className={"v154 media-widget captured-style"}>
-<div data-layout-node={"n400"} className={"v155 media-widget captured-style"}>
-<SiteLink data-layout-node={"n401"} className={"v156 media-widget captured-style"} href={"https://aitscctv.com/wp-content/uploads/2023/05/12-2.jpg"}>
-<img data-layout-node={"n402"} className={"v157 captured-style"} src={"/assets/remote-c2ffabcc50a2b718-responsive-640.webp"} alt={"12"} loading={"lazy"} decoding={"async"} width={"1200"} height={"630"} srcSet={"/assets/remote-c2ffabcc50a2b718-responsive-160.webp 160w, /assets/remote-c2ffabcc50a2b718-responsive-320.webp 320w, /assets/remote-c2ffabcc50a2b718-responsive-640.webp 640w, /assets/remote-c2ffabcc50a2b718-responsive-1200.webp 1200w"} sizes={"(max-width: 640px) calc(100vw - 40px), (max-width: 1024px) 50vw, 369px"} />
-</SiteLink>
-</div>
-</figure>
-<figure data-layout-node={"n403"} className={"v154 media-widget captured-style"}>
-<div data-layout-node={"n404"} className={"v155 media-widget captured-style"}>
-<SiteLink data-layout-node={"n405"} className={"v156 media-widget captured-style"} href={"https://aitscctv.com/wp-content/uploads/2023/05/11-3.jpg"}>
-<img data-layout-node={"n406"} className={"v157 captured-style"} src={"/assets/remote-1a114f0882b25b26-responsive-640.webp"} alt={"11"} loading={"lazy"} decoding={"async"} width={"1200"} height={"630"} srcSet={"/assets/remote-1a114f0882b25b26-responsive-160.webp 160w, /assets/remote-1a114f0882b25b26-responsive-320.webp 320w, /assets/remote-1a114f0882b25b26-responsive-640.webp 640w, /assets/remote-1a114f0882b25b26-responsive-1200.webp 1200w"} sizes={"(max-width: 640px) calc(100vw - 40px), (max-width: 1024px) 50vw, 369px"} />
-</SiteLink>
-</div>
-</figure>
-<figure data-layout-node={"n407"} className={"v154 media-widget captured-style"}>
-<div data-layout-node={"n408"} className={"v155 media-widget captured-style"}>
-<SiteLink data-layout-node={"n409"} className={"v156 media-widget captured-style"} href={"https://aitscctv.com/wp-content/uploads/2023/05/10-6.jpg"}>
-<img data-layout-node={"n410"} className={"v157 captured-style"} src={"/assets/remote-c39dfe157aae5075-responsive-640.webp"} alt={"10"} loading={"lazy"} decoding={"async"} width={"1200"} height={"630"} srcSet={"/assets/remote-c39dfe157aae5075-responsive-160.webp 160w, /assets/remote-c39dfe157aae5075-responsive-320.webp 320w, /assets/remote-c39dfe157aae5075-responsive-640.webp 640w, /assets/remote-c39dfe157aae5075-responsive-1200.webp 1200w"} sizes={"(max-width: 640px) calc(100vw - 40px), (max-width: 1024px) 50vw, 369px"} />
-</SiteLink>
-</div>
-</figure>
-<figure data-layout-node={"n411"} className={"v154 media-widget captured-style"}>
-<div data-layout-node={"n412"} className={"v155 media-widget captured-style"}>
-<SiteLink data-layout-node={"n413"} className={"v156 media-widget captured-style"} href={"https://aitscctv.com/wp-content/uploads/2023/05/9-4.jpg"}>
-<img data-layout-node={"n414"} className={"v157 captured-style"} src={"/assets/remote-1fd77ccf9840d268-responsive-640.webp"} alt={"9"} loading={"lazy"} decoding={"async"} width={"1200"} height={"630"} srcSet={"/assets/remote-1fd77ccf9840d268-responsive-160.webp 160w, /assets/remote-1fd77ccf9840d268-responsive-320.webp 320w, /assets/remote-1fd77ccf9840d268-responsive-640.webp 640w, /assets/remote-1fd77ccf9840d268-responsive-1200.webp 1200w"} sizes={"(max-width: 640px) calc(100vw - 40px), (max-width: 1024px) 50vw, 369px"} />
-</SiteLink>
-</div>
-</figure>
-<figure data-layout-node={"n415"} className={"v154 media-widget captured-style"}>
-<div data-layout-node={"n416"} className={"v155 media-widget captured-style"}>
-<SiteLink data-layout-node={"n417"} className={"v156 media-widget captured-style"} href={"https://aitscctv.com/wp-content/uploads/2023/05/8-3.jpg"}>
-<img data-layout-node={"n418"} className={"v157 captured-style"} src={"/assets/remote-6b7e913cb987edd0-responsive-640.webp"} alt={"8"} loading={"lazy"} decoding={"async"} width={"1200"} height={"630"} srcSet={"/assets/remote-6b7e913cb987edd0-responsive-160.webp 160w, /assets/remote-6b7e913cb987edd0-responsive-320.webp 320w, /assets/remote-6b7e913cb987edd0-responsive-640.webp 640w, /assets/remote-6b7e913cb987edd0-responsive-1200.webp 1200w"} sizes={"(max-width: 640px) calc(100vw - 40px), (max-width: 1024px) 50vw, 369px"} />
-</SiteLink>
-</div>
-</figure>
-<figure data-layout-node={"n419"} className={"v154 media-widget captured-style"}>
-<div data-layout-node={"n420"} className={"v155 media-widget captured-style"}>
-<SiteLink data-layout-node={"n421"} className={"v156 media-widget captured-style"} href={"https://aitscctv.com/wp-content/uploads/2023/05/7-3.jpg"}>
-<img data-layout-node={"n422"} className={"v157 captured-style"} src={"/assets/remote-58e7d9f811c170dc-responsive-640.webp"} alt={"7"} loading={"lazy"} decoding={"async"} width={"1200"} height={"630"} srcSet={"/assets/remote-58e7d9f811c170dc-responsive-160.webp 160w, /assets/remote-58e7d9f811c170dc-responsive-320.webp 320w, /assets/remote-58e7d9f811c170dc-responsive-640.webp 640w, /assets/remote-58e7d9f811c170dc-responsive-1200.webp 1200w"} sizes={"(max-width: 640px) calc(100vw - 40px), (max-width: 1024px) 50vw, 369px"} />
-</SiteLink>
-</div>
-</figure>
-<figure data-layout-node={"n423"} className={"v154 media-widget captured-style"}>
-<div data-layout-node={"n424"} className={"v155 media-widget captured-style"}>
-<SiteLink data-layout-node={"n425"} className={"v156 media-widget captured-style"} href={"https://aitscctv.com/wp-content/uploads/2023/05/5-3.jpg"}>
-<img data-layout-node={"n426"} className={"v157 captured-style"} src={"/assets/remote-d8bd984780972109-responsive-640.webp"} alt={"5"} loading={"lazy"} decoding={"async"} width={"1200"} height={"630"} srcSet={"/assets/remote-d8bd984780972109-responsive-160.webp 160w, /assets/remote-d8bd984780972109-responsive-320.webp 320w, /assets/remote-d8bd984780972109-responsive-640.webp 640w, /assets/remote-d8bd984780972109-responsive-1200.webp 1200w"} sizes={"(max-width: 640px) calc(100vw - 40px), (max-width: 1024px) 50vw, 369px"} />
-</SiteLink>
-</div>
-</figure>
-<figure data-layout-node={"n427"} className={"v154 media-widget captured-style"}>
-<div data-layout-node={"n428"} className={"v155 media-widget captured-style"}>
-<SiteLink data-layout-node={"n429"} className={"v156 media-widget captured-style"} href={"https://aitscctv.com/wp-content/uploads/2023/05/4-3.jpg"}>
-<img data-layout-node={"n430"} className={"v157 captured-style"} src={"/assets/remote-8f5cd0d39c82da79-responsive-640.webp"} alt={"4"} loading={"lazy"} decoding={"async"} width={"1200"} height={"630"} srcSet={"/assets/remote-8f5cd0d39c82da79-responsive-160.webp 160w, /assets/remote-8f5cd0d39c82da79-responsive-320.webp 320w, /assets/remote-8f5cd0d39c82da79-responsive-640.webp 640w, /assets/remote-8f5cd0d39c82da79-responsive-1200.webp 1200w"} sizes={"(max-width: 640px) calc(100vw - 40px), (max-width: 1024px) 50vw, 369px"} />
-</SiteLink>
-</div>
-</figure>
-<figure data-layout-node={"n431"} className={"v154 media-widget captured-style"}>
-<div data-layout-node={"n432"} className={"v155 media-widget captured-style"}>
-<SiteLink data-layout-node={"n433"} className={"v156 media-widget captured-style"} href={"https://aitscctv.com/wp-content/uploads/2023/05/2-3.jpg"}>
-<img data-layout-node={"n434"} className={"v157 captured-style"} src={"/assets/remote-564f1f9834fb0a0b-responsive-640.webp"} alt={"2"} loading={"lazy"} decoding={"async"} width={"1200"} height={"630"} srcSet={"/assets/remote-564f1f9834fb0a0b-responsive-160.webp 160w, /assets/remote-564f1f9834fb0a0b-responsive-320.webp 320w, /assets/remote-564f1f9834fb0a0b-responsive-640.webp 640w, /assets/remote-564f1f9834fb0a0b-responsive-1200.webp 1200w"} sizes={"(max-width: 640px) calc(100vw - 40px), (max-width: 1024px) 50vw, 369px"} />
-</SiteLink>
-</div>
-</figure>
+<div data-layout-node={"n268"} className={"v134 captured-style"}>
+<div data-layout-node={"n269"} className={"v135 captured-style"}>
+{"\r\n\t\t\t\t\t\t\tโซล่าเซลล์ คือเทคโนโลยีสมัยใหม่ที่ใช้การดึงนำพลังงานจากแสงอาทิตย์นำมาเปลี่ยนให้กลายเป็นพลังงานไฟฟ้า โดยพลังงานแสงอาทิตย์นั้นถือว่าเป็นพลังงานสะอาดที่ไม่สร้างมลภาวะกับสิ่งแวดล้อม ไม่ปล่อยก๊าซเรือนกระจก (Co2) เป็นพลังงานที่ใช้แล้วไม่มีวันหมด ถือเป็นทางเลือกหนึ่งของการลดภาวะโลกร้อนที่คนยุคใหม่กำลังให้ความสำคัญ ทำให้การติดตั้งโซล่าเซลล์ในบ้าน และติดตั้งโซล่าเซลล์ในสวนเป็นที่นิยมสูงขึ้นมากกว่ายุคก่อน ๆ มาก\r\n\t\t\t\t\t\t"}
 </div>
 </div>
 </div>
 </div>
 </div>
 </div>
+</details>
+</section>
+<section id={"service-projects"} className={"service-stage"} data-service-stage={"projects"}>
+<div className={"service-stage-heading"}>
+<h2>
+{"ผลงานและเนื้อหาที่เกี่ยวข้อง"}
+</h2>
 </div>
+<ServiceProjects path={"/solar-cell-system/"} />
+</section>
+<section id={"service-contact"} className={"service-stage"} data-service-stage={"contact"}>
+<div className={"service-stage-heading"}>
+<h2>
+{"ขอใบเสนอราคาและติดต่อทีมงาน"}
+</h2>
 </div>
-<div data-layout-node={"n560"} className={"v194 section captured-style"}>
-<div data-layout-node={"n561"} className={"v195 captured-style"}>
-<div data-layout-node={"n562"} className={"v3 text-widget captured-style"}>
-<div data-layout-node={"n563"} className={"v4 text-widget captured-style"}>
-<p data-layout-node={"n564"} className={"v196 large-copy captured-style"}>
-{"\" Let AITS Set Standard  ให้เราได้สร้างมาตรฐาน \"\r\n "}
-</p>
-</div>
-</div>
-<div data-layout-node={"n565"} className={"v197 section layout-row captured-style"}>
-<div data-layout-node={"n566"} className={"v198 captured-style"}>
-<div data-layout-node={"n567"} className={"v4 captured-style"}>
-<div data-layout-node={"n568"} className={"v4 captured-style"}>
-<SiteLink data-layout-node={"n569"} className={"v199 action-link captured-style"} href={"tel:0944606196"}>
-<span data-layout-node={"n570"} className={"v200 captured-style"}>
-<span data-layout-node={"n571"} className={"v201 captured-style"}>
-{"โทรหาเรา"}
-</span>
-</span>
-</SiteLink>
-</div>
-</div>
-</div>
-<div data-layout-node={"n572"} className={"v198 captured-style"}>
-<div data-layout-node={"n573"} className={"v4 captured-style"}>
-<div data-layout-node={"n574"} className={"v4 captured-style"}>
-<SiteLink data-layout-node={"n575"} className={"v202 action-link captured-style"} href={"https://page.line.me/852uanad?openQrModal=true"} target={"_blank"} rel={"noopener"}>
-<span data-layout-node={"n576"} className={"v203 captured-style"}>
-<span data-layout-node={"n577"} className={"v204 captured-style"}>
-{"ปรึกษาฟรีคลิก"}
-</span>
-</span>
-</SiteLink>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
+<ServiceContact path={"/solar-cell-system/"} />
+</section>
 </div></div>}

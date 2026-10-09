@@ -4,7 +4,9 @@ import {SiteLink} from "../components/SiteLink";
 import {VideoFrame} from "../components/VideoFrame";
 import {LogoCarousel} from "../components/LogoCarousel";
 import {ContactPhone} from "../components/ContactPhone";
+import {ServiceTrust,ServiceContents,ServiceBenefits,ServicePricing,ServiceWarranty,ServiceProjects,ServiceContact,AboutTeamGallery} from "../components/ServiceContent";
 export default function Page4919(){return <div className="page-4919 captured-page"><div data-layout-node={"n0"} className={"v0 captured-style"}>
+<section id={"service-overview"} className={"service-stage"} data-service-stage={"overview"}>
 <div data-layout-node={"n1"} className={"v1 section captured-style"}>
 <div data-layout-node={"n2"} className={"v2 captured-style"}>
 <div data-layout-node={"n3"} className={"v3 text-widget captured-style"}>
@@ -80,232 +82,26 @@ export default function Page4919(){return <div className="page-4919 captured-pag
 </div>
 </div>
 </div>
-<div data-layout-node={"n35"} className={"v21 captured-style"}>
-<div data-layout-node={"n36"} className={"v22 captured-style"}>
-<div data-layout-node={"n37"} className={"v23 layout-row captured-style"}>
-<div data-layout-node={"n38"} className={"v24 captured-style"}>
-{"\r\n\t\t\t\tเลือกอ่านหัวข้อที่สนใจ\t\t\t"}
-</div>
-<div data-layout-node={"n39"} className={"v25 captured-style"}>
-<i data-layout-node={"n40"} className={"v26 captured-style"}>
-
-</i>
 </div>
 </div>
-<div data-layout-node={"n41"} className={"v27 captured-style"}>
-<ol data-layout-node={"n42"} className={"v28 toc-container toc-container toc-container toc-container toc-container toc-container toc-container toc-container toc-container toc-container captured-style"}>
-<li data-layout-node={"n43"} className={"v29 toc-container captured-style"}>
-<div data-layout-node={"n44"} className={"v30 toc-container captured-style"}>
-<SiteLink data-layout-node={"n45"} className={"v31 toc-link captured-style"} href={"#elementor-toc__heading-anchor-0"}>
-{"ติดตั้งสายแลน กับ AITSCCTV ดียังไง ?ทำไมต้องเลือกใช้บริการจากเรา"}
-</SiteLink>
-</div>
-</li>
-<li data-layout-node={"n46"} className={"v29 toc-container captured-style"}>
-<div data-layout-node={"n47"} className={"v30 toc-container captured-style"}>
-<SiteLink data-layout-node={"n48"} className={"v32 toc-link captured-style"} href={"#elementor-toc__heading-anchor-1"}>
-{"บริการเดินสายแลนวางระบบสายแลน ที่เราให้บริการ"}
-</SiteLink>
-</div>
-</li>
-<li data-layout-node={"n49"} className={"v29 toc-container captured-style"}>
-<div data-layout-node={"n50"} className={"v30 toc-container captured-style"}>
-<span data-layout-node={"n51"} className={"v33 toc-link inactive-control captured-style"}>
-{"ตารางราคาสำหรับบริการ รับเดินสายแลน\r\nอัปเดตปีล่าสุด 2566"}
-</span>
-</div>
-</li>
-<li data-layout-node={"n52"} className={"v29 toc-container captured-style"}>
-<div data-layout-node={"n53"} className={"v30 toc-container captured-style"}>
-<SiteLink data-layout-node={"n54"} className={"v34 toc-link captured-style"} href={"#elementor-toc__heading-anchor-3"}>
-{"สายแลนคืออะไร การต่อสายแลนจำเป็นอย่างไรกับการทำงานทำไมต้องใช้บริการติดตั้งสายแลน"}
-</SiteLink>
-</div>
-</li>
-<li data-layout-node={"n55"} className={"v29 toc-container captured-style"}>
-<div data-layout-node={"n56"} className={"v30 toc-container captured-style"}>
-<SiteLink data-layout-node={"n57"} className={"v35 toc-link captured-style"} href={"#elementor-toc__heading-anchor-4"}>
-{"สายแลนมีกี่แบบ ใช้แบบไหนดี สำหรับการใช้งาน เรามีคำตอบให้สำหรับคุณ"}
-</SiteLink>
-</div>
-</li>
-<li data-layout-node={"n58"} className={"v29 toc-container captured-style"}>
-<div data-layout-node={"n59"} className={"v30 toc-container captured-style"}>
-<SiteLink data-layout-node={"n60"} className={"v36 toc-link captured-style"} href={"#elementor-toc__heading-anchor-5"}>
-{"สายแลน CAT6 ทำไมถึงได้รับความนิยมในการต่อสายแลน "}
-</SiteLink>
-</div>
-</li>
-<li data-layout-node={"n61"} className={"v29 toc-container captured-style"}>
-<div data-layout-node={"n62"} className={"v30 toc-container captured-style"}>
-<SiteLink data-layout-node={"n63"} className={"v37 toc-link captured-style"} href={"#elementor-toc__heading-anchor-6"}>
-{"การต่อสายแลนมีกี่แบบ ? แต่ละแบบทำงานอย่างไร เลือกแบบไหนเพื่อให้ใช้งานได้ดีที่สุด"}
-</SiteLink>
-</div>
-</li>
-<li data-layout-node={"n64"} className={"v29 toc-container captured-style"}>
-<div data-layout-node={"n65"} className={"v30 toc-container captured-style"}>
-<SiteLink data-layout-node={"n66"} className={"v38 toc-link captured-style"} href={"#elementor-toc__heading-anchor-7"}>
-{"วิธีการเชื่อมต่อสายแลนต่อสายแลนเข้าคอม ต่อสายแลนเข้าโน๊ตบุ๊ค แตกต่างกันอย่างไร ?"}
-</SiteLink>
-</div>
-</li>
-<li data-layout-node={"n67"} className={"v29 toc-container captured-style"}>
-<div data-layout-node={"n68"} className={"v30 toc-container captured-style"}>
-<SiteLink data-layout-node={"n69"} className={"v39 toc-link captured-style"} href={"#elementor-toc__heading-anchor-8"}>
-{"รวมผลงานลูกค้าที่รับบริการ เดินสายแลน จากเรา"}
-</SiteLink>
-</div>
-</li>
-<li data-layout-node={"n70"} className={"v29 toc-container captured-style"}>
-<div data-layout-node={"n71"} className={"v30 toc-container captured-style"}>
-<span data-layout-node={"n72"} className={"v40 toc-link inactive-control captured-style"}>
-{"คำถามที่พบบ่อย เกี่ยวกับสายแลน"}
-</span>
-</div>
-</li>
-</ol>
-</div>
-</div>
-</div>
-</div>
-</div>
-<div data-layout-node={"n73"} className={"v41 section captured-style"}>
-<div data-layout-node={"n74"} className={"v42 layout-row captured-style"}>
-<div data-layout-node={"n75"} className={"v43 section captured-style"}>
-<div data-layout-node={"n76"} className={"v3 text-widget captured-style"}>
-<div data-layout-node={"n77"} className={"v4 text-widget captured-style"}>
-<p data-layout-node={"n78"} className={"v5 captured-style"}>
-{"WHY AITSCCTV"}
-</p>
-</div>
-</div>
-<div data-layout-node={"n79"} className={"v3 captured-style"}>
-<div data-layout-node={"n80"} className={"v4 captured-style"}>
-<span data-layout-node={"n81"} className={"v44 captured-style"}>
-
-</span>
-<h2 data-layout-node={"n82"} className={"v45 captured-style"} id={"elementor-toc__heading-anchor-0"}>
-{"ติดตั้งสายแลน กับ AITSCCTV ดียังไง ?"}
-<br data-layout-node={"n83"} className={"v46 captured-style"} />
-{"ทำไมต้องเลือกใช้บริการจากเรา"}
+<ServiceTrust />
+</section>
+<ServiceContents />
+<section id={"service-benefits"} className={"service-stage"} data-service-stage={"benefits"}>
+<div className={"service-stage-heading"}>
+<h2>
+{"ประโยชน์และการใช้งาน"}
 </h2>
 </div>
+<ServiceBenefits path={"/network-service/lan-cable/"} />
+</section>
+<section id={"service-options"} className={"service-stage"} data-service-stage={"options"}>
+<div className={"service-stage-heading"}>
+<h2>
+{"รูปแบบบริการและราคา"}
+</h2>
 </div>
-<div data-layout-node={"n84"} className={"v14 text-widget captured-style"}>
-<div data-layout-node={"n85"} className={"v15 text-widget captured-style"}>
-<p data-layout-node={"n86"} className={"v16 captured-style"}>
-{"การติดตั้งระบบสายแลน ช่วยเชื่อมต่อและปรับตั้งค่าอุปกรณ์เครือข่ายให้อุปกรณ์ภายในอาคารทำงานร่วมกันอย่างมีประสิทธิภาพ ระบบแลนจะช่วยส่งต่อข้อมูลและสัญญาณระหว่างอุปกรณ์ต่าง ๆ ในเครือข่าย เช่น คอมพิวเตอร์ เซิร์ฟเวอร์ เมื่อให้ AITSCCTV รับเดินสายแลน เราบริการด้วยหลักการออกแบบที่ดี เข้าใจงานการวางระบบ ด้วยผู้เชี่ยวชาญมืออาชีพที่มีประสบการณ์กว่า 20 ปี"}
-</p>
-</div>
-</div>
-<div data-layout-node={"n87"} className={"v47 section layout-row captured-style"}>
-<div data-layout-node={"n88"} className={"v48 captured-style"}>
-<div data-layout-node={"n89"} className={"v49 captured-style"}>
-<div data-layout-node={"n90"} className={"v50 captured-style"}>
-<figure data-layout-node={"n91"} className={"v51 media-widget captured-style"}>
-<img data-layout-node={"n92"} className={"v52 captured-style"} src={"https://aitscctv.com/wp-content/uploads/2023/03/design-pencil.svg"} alt={"Design pencil"} loading={"lazy"} decoding={"async"} width={"800"} height={"800"} />
-</figure>
-<div data-layout-node={"n93"} className={"v53 captured-style"}>
-<h3 data-layout-node={"n94"} className={"v54 captured-style"}>
-{"มีหลักการออกแบบที่ดี"}
-</h3>
-<p data-layout-node={"n95"} className={"v55 captured-style"}>
-{"เราออกแบบวงจรการเดินสายแลน ให้ตอบโจทย์กับทุกองค์กร"}
-</p>
-</div>
-</div>
-</div>
-</div>
-<div data-layout-node={"n96"} className={"v48 captured-style"}>
-<div data-layout-node={"n97"} className={"v49 captured-style"}>
-<div data-layout-node={"n98"} className={"v50 captured-style"}>
-<figure data-layout-node={"n99"} className={"v51 media-widget captured-style"}>
-<img data-layout-node={"n100"} className={"v52 captured-style"} src={"https://aitscctv.com/wp-content/uploads/2023/03/performance.svg"} alt={"Performance"} loading={"lazy"} decoding={"async"} width={"800"} height={"800"} />
-</figure>
-<div data-layout-node={"n101"} className={"v53 captured-style"}>
-<h3 data-layout-node={"n102"} className={"v54 captured-style"}>
-{"เน้นความปลอดภัยและประสิทธิภาพในการใช้งาน"}
-</h3>
-<p data-layout-node={"n103"} className={"v55 captured-style"}>
-{"เรายึดหลักการติดตั้งวงจรที่มีความปลอดภัยเป็นสิ่งสำคัญ และใข้งานได้จริง"}
-</p>
-</div>
-</div>
-</div>
-</div>
-<div data-layout-node={"n104"} className={"v48 captured-style"}>
-<div data-layout-node={"n105"} className={"v49 captured-style"}>
-<div data-layout-node={"n106"} className={"v50 captured-style"}>
-<figure data-layout-node={"n107"} className={"v51 media-widget captured-style"}>
-<img data-layout-node={"n108"} className={"v52 captured-style"} src={"https://aitscctv.com/wp-content/uploads/2023/03/plan.svg"} alt={"Plan"} loading={"lazy"} decoding={"async"} width={"800"} height={"800"} />
-</figure>
-<div data-layout-node={"n109"} className={"v53 captured-style"}>
-<h3 data-layout-node={"n110"} className={"v54 captured-style"}>
-{"วางแผนอย่างมีระบบ"}
-</h3>
-<p data-layout-node={"n111"} className={"v55 captured-style"}>
-{"วางแผนระบบการเดินสาย ตำแหน่ง เพื่อป้องกันไม่ให้เกิดปัญหาระหว่างใช้งาน\r\n"}
-</p>
-</div>
-</div>
-</div>
-</div>
-<div data-layout-node={"n112"} className={"v48 captured-style"}>
-<div data-layout-node={"n113"} className={"v49 captured-style"}>
-<div data-layout-node={"n114"} className={"v50 captured-style"}>
-<figure data-layout-node={"n115"} className={"v51 media-widget captured-style"}>
-<img data-layout-node={"n116"} className={"v52 captured-style"} src={"https://aitscctv.com/wp-content/uploads/2023/03/warranty-term.svg"} alt={"Warranty term"} loading={"lazy"} decoding={"async"} width={"800"} height={"800"} />
-</figure>
-<div data-layout-node={"n117"} className={"v53 captured-style"}>
-<h3 data-layout-node={"n118"} className={"v54 captured-style"}>
-{"ใช้สาย LAN ที่ได้มาตรฐาน"}
-</h3>
-<p data-layout-node={"n119"} className={"v55 captured-style"}>
-{"อุปกรณ์ที่เราใช้ได้รับมาตรฐานระดับสากล ใช้งานได้นานและปลอดภัย"}
-</p>
-</div>
-</div>
-</div>
-</div>
-<div data-layout-node={"n120"} className={"v48 captured-style"}>
-<div data-layout-node={"n121"} className={"v49 captured-style"}>
-<div data-layout-node={"n122"} className={"v50 captured-style"}>
-<figure data-layout-node={"n123"} className={"v51 media-widget captured-style"}>
-<img data-layout-node={"n124"} className={"v56 captured-style"} src={"/assets/remote-806feacd8c4e7ef9-responsive-512.webp"} alt={"Bandwidth"} loading={"lazy"} decoding={"async"} width={"512"} height={"512"} srcSet={"/assets/remote-806feacd8c4e7ef9-responsive-160.webp 160w, /assets/remote-806feacd8c4e7ef9-responsive-320.webp 320w, /assets/remote-806feacd8c4e7ef9-responsive-512.webp 512w"} sizes={"49px"} />
-</figure>
-<div data-layout-node={"n125"} className={"v53 captured-style"}>
-<h3 data-layout-node={"n126"} className={"v54 captured-style"}>
-{"รับเดินสาย LAN ทั่วประเทศ"}
-</h3>
-<p data-layout-node={"n127"} className={"v55 captured-style"}>
-{"บริการรับเดินสายแลนทั่วประเทศ เรารับดูหน้างานออกแบบ วางผังก่อนติดตั้งจริง\r\n"}
-</p>
-</div>
-</div>
-</div>
-</div>
-<div data-layout-node={"n128"} className={"v48 captured-style"}>
-<div data-layout-node={"n129"} className={"v49 captured-style"}>
-<div data-layout-node={"n130"} className={"v50 captured-style"}>
-<figure data-layout-node={"n131"} className={"v51 media-widget captured-style"}>
-<img data-layout-node={"n132"} className={"v52 captured-style"} src={"https://aitscctv.com/wp-content/uploads/2023/03/training-achievement-medal.svg"} alt={"Training achievement medal"} loading={"lazy"} decoding={"async"} width={"800"} height={"800"} />
-</figure>
-<div data-layout-node={"n133"} className={"v53 captured-style"}>
-<h3 data-layout-node={"n134"} className={"v54 captured-style"}>
-{"บริการอย่างมืออาชีพ"}
-</h3>
-<p data-layout-node={"n135"} className={"v55 captured-style"}>
-{"มีทีมผู้เชี่ยวชาญด้านการวางระบบ เดินสายระบบ Network ที่มีประสบการณ์กว่า 20 ปี"}
-</p>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
+<ServicePricing path={"/network-service/lan-cable/"} />
 <div data-layout-node={"n136"} className={"v57 section captured-style"}>
 <div data-layout-node={"n137"} className={"v8 captured-style"}>
 <div data-layout-node={"n138"} className={"v3 captured-style"}>
@@ -433,71 +229,87 @@ export default function Page4919(){return <div className="page-4919 captured-pag
 </div>
 </div>
 </div>
-<div data-layout-node={"n191"} className={"v7 section captured-style"}>
-<div data-layout-node={"n192"} className={"v66 layout-row captured-style"}>
-<div data-layout-node={"n193"} className={"v67 section captured-style"}>
-<div data-layout-node={"n194"} className={"v68 layout-row captured-style"}>
-<div data-layout-node={"n195"} className={"v69 section captured-style"}>
-<div data-layout-node={"n196"} className={"v70 captured-style"}>
-<div data-layout-node={"n197"} className={"v71 captured-style"}>
-<div data-layout-node={"n198"} className={"v72 layout-row captured-style"}>
-<div data-layout-node={"n199"} className={"v73 captured-style"}>
-<SiteLink data-layout-node={"n200"} className={"v74 captured-style"} href={"tel:0944606196"}>
-<i data-layout-node={"n201"} className={"v75 captured-style"}>
+<div data-layout-node={"n270"} className={"v7 section captured-style"}>
+<div data-layout-node={"n271"} className={"v101 captured-style"}>
+<div data-layout-node={"n272"} className={"v3 captured-style"}>
+<div data-layout-node={"n273"} className={"v4 captured-style"}>
+<span data-layout-node={"n274"} className={"v44 captured-style"}>
 
-</i>
-</SiteLink>
-</div>
-<div data-layout-node={"n202"} className={"v76 captured-style"}>
-<p data-layout-node={"n203"} className={"v77 captured-style"}>
-<SiteLink data-layout-node={"n204"} className={"v78 captured-style"} href={"tel:0944606196"}>
-{"\r\n\t\t\t\t\t\tให้คำปรึกษาฟรี\t\t\t\t\t"}
-</SiteLink>
-</p>
-<p data-layout-node={"n205"} className={"v79 large-copy captured-style"}>
-{"\r\n\t\t\t\t\t\t094 460 6196\t\t\t\t\t"}
-</p>
-</div>
-</div>
-</div>
-</div>
-</div>
-<div data-layout-node={"n206"} className={"v80 section captured-style"}>
-<div data-layout-node={"n207"} className={"v81 captured-style"}>
-<div data-layout-node={"n208"} className={"v82 captured-style"}>
-<div data-layout-node={"n209"} className={"v83 layout-row captured-style"}>
-<div data-layout-node={"n210"} className={"v84 captured-style"}>
-<SiteLink data-layout-node={"n211"} className={"v74 captured-style"} href={"https://page.line.me/852uanad?openQrModal=true"}>
-<i data-layout-node={"n212"} className={"v85 captured-style"}>
-
-</i>
-</SiteLink>
-</div>
-<div data-layout-node={"n213"} className={"v86 captured-style"}>
-<p data-layout-node={"n214"} className={"v87 captured-style"}>
-<SiteLink data-layout-node={"n215"} className={"v78 captured-style"} href={"https://page.line.me/852uanad?openQrModal=true"}>
-{"\r\n\t\t\t\t\t\tLine\t\t\t\t\t"}
-</SiteLink>
-</p>
-<p data-layout-node={"n216"} className={"v88 large-copy captured-style"}>
-{"\r\n\t\t\t\t\t\t@AITSCCTV\t\t\t\t\t"}
-</p>
-</div>
-</div>
-</div>
-</div>
-</div>
-<div data-layout-node={"n217"} className={"v89 section captured-style"}>
-<div data-layout-node={"n218"} className={"v3 captured-style"}>
-<div data-layout-node={"n219"} className={"v90 captured-style"}>
-<div data-layout-node={"n220"} className={"v4 captured-style"}>
-<SiteLink data-layout-node={"n221"} className={"v91 action-link captured-style"} href={"https://page.line.me/852uanad?openQrModal=true"} target={"_blank"} rel={"noopener"}>
-<span data-layout-node={"n222"} className={"v92 captured-style"}>
-<span data-layout-node={"n223"} className={"v93 captured-style"}>
-{"ปรึกษาฟรีคลิก"}
 </span>
-</span>
+<h2 data-layout-node={"n275"} className={"v45 captured-style"} id={"elementor-toc__heading-anchor-4"}>
+{"สายแลนมีกี่แบบ ใช้แบบไหนดี "}
+<br data-layout-node={"n276"} className={"v46 captured-style"} />
+{"สำหรับการใช้งาน เรามีคำตอบให้สำหรับคุณ"}
+</h2>
+</div>
+</div>
+<div data-layout-node={"n277"} className={"v14 text-widget captured-style"}>
+<div data-layout-node={"n278"} className={"v15 text-widget captured-style"}>
+<p data-layout-node={"n279"} className={"v16 captured-style"}>
+<span data-layout-node={"n280"} className={"v17 captured-style"}>
+<SiteLink data-layout-node={"n281"} className={"v17 captured-style"} href={"https://race.nstru.ac.th/home_ex/blog/topic/show/7400"}>
+{"สายแลน"}
 </SiteLink>
+</span>
+{" มีเพื่อเชื่อมต่ออุปกรณ์คอมพิวเตอร์ในระบบเครือข่ายเข้าด้วยกัน ซึ่งสายแลนแต่ละแบบก็ใช้งานแตกต่างกันออกไป สำหรับสายแลนที่เป็นที่นิยม เป็นสายแลน CAT6 นอกจากนี้ยังมีสายแลนอื่น ๆ เช่น"}
+</p>
+</div>
+</div>
+<div data-layout-node={"n282"} className={"v102 section captured-style"}>
+<div data-layout-node={"n283"} className={"v103 layout-row captured-style"}>
+<div data-layout-node={"n284"} className={"v104 section captured-style"}>
+<div data-layout-node={"n285"} className={"v105 text-widget captured-style"}>
+<div data-layout-node={"n286"} className={"v106 text-widget captured-style"}>
+<h3 data-layout-node={"n287"} className={"v107 captured-style"}>
+{"สายแลน CAT5e"}
+</h3>
+</div>
+</div>
+<div data-layout-node={"n288"} className={"v108 captured-style"}>
+<div data-layout-node={"n289"} className={"v109 captured-style"}>
+{"\r\n\t\t\t\t\t\t\tเหมาะกับระบบเครือข่ายทั่วไป ใช้งานกับความเร็วไม่เกิน 100Mbps เหมาะกับการใช้งานในบ้านและองค์กรเล็ก ๆ \t\t\t\t\t\t"}
+</div>
+</div>
+</div>
+<div data-layout-node={"n290"} className={"v110 section captured-style"}>
+<div data-layout-node={"n291"} className={"v111 text-widget captured-style"}>
+<div data-layout-node={"n292"} className={"v4 text-widget captured-style"}>
+<h3 data-layout-node={"n293"} className={"v112 captured-style"}>
+{"สายแลน CAT6"}
+</h3>
+</div>
+</div>
+<div data-layout-node={"n294"} className={"v113 captured-style"}>
+<div data-layout-node={"n295"} className={"v15 captured-style"}>
+{"\r\n\t\t\t\t\t\t\tเหมาะกับระบบเครือข่ายแบบ 1Gbps ที่ต้องการใช้ Bandwidth สูง นิยมใช้ในองค์กรขนาดกลางถึงขนาดใหญ่\t\t\t\t\t\t"}
+</div>
+</div>
+</div>
+<div data-layout-node={"n296"} className={"v110 section captured-style"}>
+<div data-layout-node={"n297"} className={"v111 text-widget captured-style"}>
+<div data-layout-node={"n298"} className={"v4 text-widget captured-style"}>
+<h3 data-layout-node={"n299"} className={"v112 captured-style"}>
+{"สายแลน CAT6A"}
+</h3>
+</div>
+</div>
+<div data-layout-node={"n300"} className={"v113 captured-style"}>
+<div data-layout-node={"n301"} className={"v15 captured-style"}>
+{"\r\n\t\t\t\t\t\t\tสาย CAT6A สามารถรองรับความเร็วได้ถึง 10Gbps ใช้งานกับองค์กรขนาดใหญ่\t\t\t\t\t\t"}
+</div>
+</div>
+</div>
+<div data-layout-node={"n302"} className={"v110 section captured-style"}>
+<div data-layout-node={"n303"} className={"v111 text-widget captured-style"}>
+<div data-layout-node={"n304"} className={"v4 text-widget captured-style"}>
+<h3 data-layout-node={"n305"} className={"v112 captured-style"}>
+{"สายแลน CAT8"}
+</h3>
+</div>
+</div>
+<div data-layout-node={"n306"} className={"v113 captured-style"}>
+<div data-layout-node={"n307"} className={"v15 captured-style"}>
+{"\r\n\t\t\t\t\t\t\tเป็นสาย UTP รุ่นใหม่ล่าสุดที่ในอนาคตจะมาแทน CAT6A รองรับความได้ถึง 25/40Gbps แต่มีราคาสูง และหายาก\t\t\t\t\t\t"}
 </div>
 </div>
 </div>
@@ -505,7 +317,12 @@ export default function Page4919(){return <div className="page-4919 captured-pag
 </div>
 </div>
 </div>
-</div>
+<ServiceWarranty path={"/network-service/lan-cable/"} />
+<details className={"service-detail"}>
+<summary>
+{"รายละเอียดทางเทคนิคและแนวทางเลือกใช้งาน"}
+</summary>
+<div className={"service-detail-content"}>
 <div data-layout-node={"n224"} className={"v94 section captured-style"}>
 <div data-layout-node={"n225"} className={"v95 captured-style"}>
 <div data-layout-node={"n226"} className={"v3 captured-style"}>
@@ -604,94 +421,6 @@ export default function Page4919(){return <div className="page-4919 captured-pag
 <div data-layout-node={"n269"} className={"v15 captured-style"}>
 {"\r\n\t\t\t\t\t\t\tเมื่ออุปกรณ์เชื่อมต่อกับสายแลน จะสามารถแลกเปลี่ยนข้อมูลและข้อมูลควบคุมกันได้ ซึ่งเป็นสิ่งสำคัญในการทำงานร่วมกัน เช่น การทำงานในทีม, การเข้าถึงและใช้งานทรัพยากรในเครือข่าย เป็นต้น\r\n\t\t\t\t\t\t"}
 </div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-<div data-layout-node={"n270"} className={"v7 section captured-style"}>
-<div data-layout-node={"n271"} className={"v101 captured-style"}>
-<div data-layout-node={"n272"} className={"v3 captured-style"}>
-<div data-layout-node={"n273"} className={"v4 captured-style"}>
-<span data-layout-node={"n274"} className={"v44 captured-style"}>
-
-</span>
-<h2 data-layout-node={"n275"} className={"v45 captured-style"} id={"elementor-toc__heading-anchor-4"}>
-{"สายแลนมีกี่แบบ ใช้แบบไหนดี "}
-<br data-layout-node={"n276"} className={"v46 captured-style"} />
-{"สำหรับการใช้งาน เรามีคำตอบให้สำหรับคุณ"}
-</h2>
-</div>
-</div>
-<div data-layout-node={"n277"} className={"v14 text-widget captured-style"}>
-<div data-layout-node={"n278"} className={"v15 text-widget captured-style"}>
-<p data-layout-node={"n279"} className={"v16 captured-style"}>
-<span data-layout-node={"n280"} className={"v17 captured-style"}>
-<SiteLink data-layout-node={"n281"} className={"v17 captured-style"} href={"https://race.nstru.ac.th/home_ex/blog/topic/show/7400"}>
-{"สายแลน"}
-</SiteLink>
-</span>
-{" มีเพื่อเชื่อมต่ออุปกรณ์คอมพิวเตอร์ในระบบเครือข่ายเข้าด้วยกัน ซึ่งสายแลนแต่ละแบบก็ใช้งานแตกต่างกันออกไป สำหรับสายแลนที่เป็นที่นิยม เป็นสายแลน CAT6 นอกจากนี้ยังมีสายแลนอื่น ๆ เช่น"}
-</p>
-</div>
-</div>
-<div data-layout-node={"n282"} className={"v102 section captured-style"}>
-<div data-layout-node={"n283"} className={"v103 layout-row captured-style"}>
-<div data-layout-node={"n284"} className={"v104 section captured-style"}>
-<div data-layout-node={"n285"} className={"v105 text-widget captured-style"}>
-<div data-layout-node={"n286"} className={"v106 text-widget captured-style"}>
-<h3 data-layout-node={"n287"} className={"v107 captured-style"}>
-{"สายแลน CAT5e"}
-</h3>
-</div>
-</div>
-<div data-layout-node={"n288"} className={"v108 captured-style"}>
-<div data-layout-node={"n289"} className={"v109 captured-style"}>
-{"\r\n\t\t\t\t\t\t\tเหมาะกับระบบเครือข่ายทั่วไป ใช้งานกับความเร็วไม่เกิน 100Mbps เหมาะกับการใช้งานในบ้านและองค์กรเล็ก ๆ \t\t\t\t\t\t"}
-</div>
-</div>
-</div>
-<div data-layout-node={"n290"} className={"v110 section captured-style"}>
-<div data-layout-node={"n291"} className={"v111 text-widget captured-style"}>
-<div data-layout-node={"n292"} className={"v4 text-widget captured-style"}>
-<h3 data-layout-node={"n293"} className={"v112 captured-style"}>
-{"สายแลน CAT6"}
-</h3>
-</div>
-</div>
-<div data-layout-node={"n294"} className={"v113 captured-style"}>
-<div data-layout-node={"n295"} className={"v15 captured-style"}>
-{"\r\n\t\t\t\t\t\t\tเหมาะกับระบบเครือข่ายแบบ 1Gbps ที่ต้องการใช้ Bandwidth สูง นิยมใช้ในองค์กรขนาดกลางถึงขนาดใหญ่\t\t\t\t\t\t"}
-</div>
-</div>
-</div>
-<div data-layout-node={"n296"} className={"v110 section captured-style"}>
-<div data-layout-node={"n297"} className={"v111 text-widget captured-style"}>
-<div data-layout-node={"n298"} className={"v4 text-widget captured-style"}>
-<h3 data-layout-node={"n299"} className={"v112 captured-style"}>
-{"สายแลน CAT6A"}
-</h3>
-</div>
-</div>
-<div data-layout-node={"n300"} className={"v113 captured-style"}>
-<div data-layout-node={"n301"} className={"v15 captured-style"}>
-{"\r\n\t\t\t\t\t\t\tสาย CAT6A สามารถรองรับความเร็วได้ถึง 10Gbps ใช้งานกับองค์กรขนาดใหญ่\t\t\t\t\t\t"}
-</div>
-</div>
-</div>
-<div data-layout-node={"n302"} className={"v110 section captured-style"}>
-<div data-layout-node={"n303"} className={"v111 text-widget captured-style"}>
-<div data-layout-node={"n304"} className={"v4 text-widget captured-style"}>
-<h3 data-layout-node={"n305"} className={"v112 captured-style"}>
-{"สายแลน CAT8"}
-</h3>
-</div>
-</div>
-<div data-layout-node={"n306"} className={"v113 captured-style"}>
-<div data-layout-node={"n307"} className={"v15 captured-style"}>
-{"\r\n\t\t\t\t\t\t\tเป็นสาย UTP รุ่นใหม่ล่าสุดที่ในอนาคตจะมาแทน CAT6A รองรับความได้ถึง 25/40Gbps แต่มีราคาสูง และหายาก\t\t\t\t\t\t"}
 </div>
 </div>
 </div>
@@ -1005,290 +734,23 @@ export default function Page4919(){return <div className="page-4919 captured-pag
 </div>
 </div>
 </div>
-<div data-layout-node={"n444"} className={"v7 section captured-style"}>
-<div data-layout-node={"n445"} className={"v138 captured-style"}>
-<div data-layout-node={"n446"} className={"v3 text-widget captured-style"}>
-<div data-layout-node={"n447"} className={"v4 text-widget captured-style"}>
-<p data-layout-node={"n448"} className={"v5 captured-style"}>
-{"OUR REVIEWS"}
-</p>
 </div>
-</div>
-<div data-layout-node={"n449"} className={"v3 captured-style"}>
-<div data-layout-node={"n450"} className={"v4 captured-style"}>
-<span data-layout-node={"n451"} className={"v44 captured-style"}>
-
-</span>
-<h2 data-layout-node={"n452"} className={"v45 captured-style"} id={"elementor-toc__heading-anchor-8"}>
-{"รวมผลงานลูกค้าที่รับบริการ เดินสายแลน จากเรา"}
+</details>
+</section>
+<section id={"service-projects"} className={"service-stage"} data-service-stage={"projects"}>
+<div className={"service-stage-heading"}>
+<h2>
+{"ผลงานและเนื้อหาที่เกี่ยวข้อง"}
 </h2>
 </div>
+<ServiceProjects path={"/network-service/lan-cable/"} />
+</section>
+<section id={"service-contact"} className={"service-stage"} data-service-stage={"contact"}>
+<div className={"service-stage-heading"}>
+<h2>
+{"ขอใบเสนอราคาและติดต่อทีมงาน"}
+</h2>
 </div>
-<div data-layout-node={"n453"} className={"v139 captured-style"}>
-<div data-layout-node={"n454"} className={"v140 captured-style"}>
-{"\r\n\t\t\t\t\t\t\tการันตีความพึงพอใจที่ลูกค้ามีให้กับ AITSCCTV ตลอดมา ด้วยรีวิวสินค้าและบริการจากเรา\t\t\t\t\t\t"}
-</div>
-</div>
-<div data-layout-node={"n455"} className={"v141 section captured-style"}>
-<div data-layout-node={"n456"} className={"v142 captured-style"}>
-<div data-layout-node={"n457"} className={"v143 captured-style"}>
-<div data-layout-node={"n458"} className={"v62 captured-style"}>
-<div data-layout-node={"n459"} className={"v144 grid listing-grid listing-grid listing-grid listing-grid listing-grid listing-grid listing-grid listing-grid listing-grid captured-style"}>
-<article data-layout-node={"n460"} className={"v145 listing-card captured-style"}>
-<SiteLink data-layout-node={"n461"} className={"v146 media-widget captured-style"} href={"https://aitscctv.com/upgrade-cctv/"}>
-<div data-layout-node={"n462"} className={"v147 media-widget captured-style"}>
-<img data-layout-node={"n463"} className={"v148 captured-style"} src={"/assets/remote-80dbe6649ea125dc-responsive-640.webp"} alt={"0"} loading={"lazy"} decoding={"async"} width={"768"} height={"576"} srcSet={"/assets/remote-80dbe6649ea125dc-responsive-160.webp 160w, /assets/remote-80dbe6649ea125dc-responsive-320.webp 320w, /assets/remote-80dbe6649ea125dc-responsive-640.webp 640w, /assets/remote-80dbe6649ea125dc-responsive-1024.webp 1024w"} sizes={"(max-width: 640px) calc(100vw - 40px), (max-width: 1024px) 50vw, 369px"} />
-</div>
-</SiteLink>
-<div data-layout-node={"n464"} className={"v149 captured-style"}>
-<p data-layout-node={"n465"} className={"v150 captured-style"}>
-<SiteLink data-layout-node={"n466"} className={"v151 captured-style"} href={"https://aitscctv.com/upgrade-cctv/"}>
-{"\r\n\t\t\t\tเบื้องหลังการอัปเกรดระบบกล้องวงจรปิดเก่าให้คมชัดระดับเทพด้วยทีมช่าง AITSCCTV\t\t\t"}
-</SiteLink>
-</p>
-<div data-layout-node={"n467"} className={"v152 captured-style"}>
-<span data-layout-node={"n468"} className={"v153 captured-style"}>
-{"\r\n\t\t\tJune 28, 2026\t\t"}
-</span>
-</div>
-<SiteLink data-layout-node={"n469"} className={"v154 captured-style"} href={"https://aitscctv.com/upgrade-cctv/"}>
-{"\r\n\t\t\tอ่านต่อ »\t\t"}
-</SiteLink>
-</div>
-</article>
-<article data-layout-node={"n470"} className={"v155 listing-card captured-style"}>
-<SiteLink data-layout-node={"n471"} className={"v156 media-widget captured-style"} href={"https://aitscctv.com/solution/"}>
-<div data-layout-node={"n472"} className={"v157 media-widget captured-style"}>
-<img data-layout-node={"n473"} className={"v158 captured-style"} src={"/assets/remote-e9933d285bd76c52-responsive-640.webp"} alt={"0"} loading={"lazy"} decoding={"async"} width={"768"} height={"423"} srcSet={"/assets/remote-e9933d285bd76c52-responsive-160.webp 160w, /assets/remote-e9933d285bd76c52-responsive-320.webp 320w, /assets/remote-e9933d285bd76c52-responsive-640.webp 640w, /assets/remote-e9933d285bd76c52-responsive-1024.webp 1024w"} sizes={"(max-width: 640px) calc(100vw - 40px), (max-width: 1024px) 50vw, 369px"} />
-</div>
-</SiteLink>
-<div data-layout-node={"n474"} className={"v159 captured-style"}>
-<p data-layout-node={"n475"} className={"v160 captured-style"}>
-<SiteLink data-layout-node={"n476"} className={"v151 captured-style"} href={"https://aitscctv.com/solution/"}>
-{"\r\n\t\t\t\tครบจบทุกระบบด้วย SOLUTION ที่ตอบโจทย์ทุกความต้องการ\t\t\t"}
-</SiteLink>
-</p>
-<div data-layout-node={"n477"} className={"v161 captured-style"}>
-<span data-layout-node={"n478"} className={"v153 captured-style"}>
-{"\r\n\t\t\tJanuary 11, 2025\t\t"}
-</span>
-</div>
-<SiteLink data-layout-node={"n479"} className={"v154 captured-style"} href={"https://aitscctv.com/solution/"}>
-{"\r\n\t\t\tอ่านต่อ »\t\t"}
-</SiteLink>
-</div>
-</article>
-<article data-layout-node={"n480"} className={"v162 listing-card captured-style"}>
-<SiteLink data-layout-node={"n481"} className={"v146 media-widget captured-style"} href={"https://aitscctv.com/%e0%b8%81%e0%b9%88%e0%b8%ad%e0%b8%aa%e0%b8%a3%e0%b9%89%e0%b8%b2%e0%b8%87/"}>
-<div data-layout-node={"n482"} className={"v147 media-widget captured-style"}>
-<img data-layout-node={"n483"} className={"v148 captured-style"} src={"/assets/remote-5066d07032173ec2-responsive-640.webp"} alt={"0"} loading={"lazy"} decoding={"async"} width={"768"} height={"576"} srcSet={"/assets/remote-5066d07032173ec2-responsive-160.webp 160w, /assets/remote-5066d07032173ec2-responsive-320.webp 320w, /assets/remote-5066d07032173ec2-responsive-640.webp 640w, /assets/remote-5066d07032173ec2-responsive-1024.webp 1024w"} sizes={"(max-width: 640px) calc(100vw - 40px), (max-width: 1024px) 50vw, 369px"} />
-</div>
-</SiteLink>
-<div data-layout-node={"n484"} className={"v149 captured-style"}>
-<p data-layout-node={"n485"} className={"v150 captured-style"}>
-<SiteLink data-layout-node={"n486"} className={"v151 captured-style"} href={"https://aitscctv.com/%e0%b8%81%e0%b9%88%e0%b8%ad%e0%b8%aa%e0%b8%a3%e0%b9%89%e0%b8%b2%e0%b8%87/"}>
-{"\r\n\t\t\t\tเดินสายโครงการก่อสร้าง \t\t\t"}
-</SiteLink>
-</p>
-<div data-layout-node={"n487"} className={"v152 captured-style"}>
-<span data-layout-node={"n488"} className={"v153 captured-style"}>
-{"\r\n\t\t\tJanuary 11, 2025\t\t"}
-</span>
-</div>
-<SiteLink data-layout-node={"n489"} className={"v154 captured-style"} href={"https://aitscctv.com/%e0%b8%81%e0%b9%88%e0%b8%ad%e0%b8%aa%e0%b8%a3%e0%b9%89%e0%b8%b2%e0%b8%87/"}>
-{"\r\n\t\t\tอ่านต่อ »\t\t"}
-</SiteLink>
-</div>
-</article>
-<article data-layout-node={"n490"} className={"v163 listing-card captured-style"}>
-<SiteLink data-layout-node={"n491"} className={"v146 media-widget captured-style"} href={"https://aitscctv.com/%e0%b8%aa%e0%b8%a7%e0%b8%a2%e0%b8%87%e0%b8%b2%e0%b8%a1/"}>
-<div data-layout-node={"n492"} className={"v147 media-widget captured-style"}>
-<img data-layout-node={"n493"} className={"v148 captured-style"} src={"/assets/remote-023774042b890e5d-responsive-640.webp"} alt={"0"} loading={"lazy"} decoding={"async"} width={"768"} height={"576"} srcSet={"/assets/remote-023774042b890e5d-responsive-160.webp 160w, /assets/remote-023774042b890e5d-responsive-320.webp 320w, /assets/remote-023774042b890e5d-responsive-640.webp 640w, /assets/remote-023774042b890e5d-responsive-1024.webp 1024w"} sizes={"(max-width: 640px) calc(100vw - 40px), (max-width: 1024px) 50vw, 369px"} />
-</div>
-</SiteLink>
-<div data-layout-node={"n494"} className={"v149 captured-style"}>
-<p data-layout-node={"n495"} className={"v150 captured-style"}>
-<SiteLink data-layout-node={"n496"} className={"v151 captured-style"} href={"https://aitscctv.com/%e0%b8%aa%e0%b8%a7%e0%b8%a2%e0%b8%87%e0%b8%b2%e0%b8%a1/"}>
-{"\r\n\t\t\t\tติดตั้งกล้องวงจรปิดบ้านโครงการสวยงามเรียบร้อยพร้อมเดินสายใต้ดิน\t\t\t"}
-</SiteLink>
-</p>
-<div data-layout-node={"n497"} className={"v152 captured-style"}>
-<span data-layout-node={"n498"} className={"v153 captured-style"}>
-{"\r\n\t\t\tJanuary 11, 2025\t\t"}
-</span>
-</div>
-<SiteLink data-layout-node={"n499"} className={"v154 captured-style"} href={"https://aitscctv.com/%e0%b8%aa%e0%b8%a7%e0%b8%a2%e0%b8%87%e0%b8%b2%e0%b8%a1/"}>
-{"\r\n\t\t\tอ่านต่อ »\t\t"}
-</SiteLink>
-</div>
-</article>
-<article data-layout-node={"n500"} className={"v164 listing-card captured-style"}>
-<SiteLink data-layout-node={"n501"} className={"v165 media-widget captured-style"} href={"https://aitscctv.com/%e0%b8%aa%e0%b8%a7%e0%b8%99/"}>
-<div data-layout-node={"n502"} className={"v166 media-widget captured-style"}>
-<img data-layout-node={"n503"} className={"v167 captured-style"} src={"/assets/remote-557e78200e31ee3b-responsive-640.webp"} alt={"0"} loading={"lazy"} decoding={"async"} width={"768"} height={"576"} srcSet={"/assets/remote-557e78200e31ee3b-responsive-160.webp 160w, /assets/remote-557e78200e31ee3b-responsive-320.webp 320w, /assets/remote-557e78200e31ee3b-responsive-640.webp 640w, /assets/remote-557e78200e31ee3b-responsive-1024.webp 1024w"} sizes={"(max-width: 640px) calc(100vw - 40px), (max-width: 1024px) 50vw, 369px"} />
-</div>
-</SiteLink>
-<div data-layout-node={"n504"} className={"v159 captured-style"}>
-<p data-layout-node={"n505"} className={"v160 captured-style"}>
-<SiteLink data-layout-node={"n506"} className={"v151 captured-style"} href={"https://aitscctv.com/%e0%b8%aa%e0%b8%a7%e0%b8%99/"}>
-{"\r\n\t\t\t\tเพิ่มความอุ่นใจให้สวนและพื้นที่ภายนอกที่วงเวียนใหญ่ด้วยกล้องวงจรปิดจาก AITSCCTV\t\t\t"}
-</SiteLink>
-</p>
-<div data-layout-node={"n507"} className={"v161 captured-style"}>
-<span data-layout-node={"n508"} className={"v153 captured-style"}>
-{"\r\n\t\t\tOctober 12, 2024\t\t"}
-</span>
-</div>
-<SiteLink data-layout-node={"n509"} className={"v154 captured-style"} href={"https://aitscctv.com/%e0%b8%aa%e0%b8%a7%e0%b8%99/"}>
-{"\r\n\t\t\tอ่านต่อ »\t\t"}
-</SiteLink>
-</div>
-</article>
-<article data-layout-node={"n510"} className={"v168 listing-card captured-style"}>
-<SiteLink data-layout-node={"n511"} className={"v169 media-widget captured-style"} href={"https://aitscctv.com/%e0%b8%a1%e0%b8%b2%e0%b8%95%e0%b8%a3%e0%b8%90%e0%b8%b2%e0%b8%99%e0%b8%87%e0%b8%b2%e0%b8%99-%e0%b8%9d%e0%b9%89%e0%b8%b2/"}>
-<div data-layout-node={"n512"} className={"v170 media-widget captured-style"}>
-<img data-layout-node={"n513"} className={"v171 captured-style"} src={"/assets/remote-ea8979ded03c7a4e-responsive-640.webp"} alt={"0"} loading={"lazy"} decoding={"async"} width={"768"} height={"753"} srcSet={"/assets/remote-ea8979ded03c7a4e-responsive-160.webp 160w, /assets/remote-ea8979ded03c7a4e-responsive-320.webp 320w, /assets/remote-ea8979ded03c7a4e-responsive-640.webp 640w, /assets/remote-ea8979ded03c7a4e-responsive-1024.webp 1024w"} sizes={"(max-width: 640px) calc(100vw - 40px), (max-width: 1024px) 50vw, 369px"} />
-</div>
-</SiteLink>
-<div data-layout-node={"n514"} className={"v149 captured-style"}>
-<p data-layout-node={"n515"} className={"v150 captured-style"}>
-<SiteLink data-layout-node={"n516"} className={"v151 captured-style"} href={"https://aitscctv.com/%e0%b8%a1%e0%b8%b2%e0%b8%95%e0%b8%a3%e0%b8%90%e0%b8%b2%e0%b8%99%e0%b8%87%e0%b8%b2%e0%b8%99-%e0%b8%9d%e0%b9%89%e0%b8%b2/"}>
-{"\r\n\t\t\t\tมาตรฐานงานติดตั้งอุปกรณ์เข้ากับฝ้า\t\t\t"}
-</SiteLink>
-</p>
-<div data-layout-node={"n517"} className={"v152 captured-style"}>
-<span data-layout-node={"n518"} className={"v153 captured-style"}>
-{"\r\n\t\t\tJuly 29, 2024\t\t"}
-</span>
-</div>
-<SiteLink data-layout-node={"n519"} className={"v154 captured-style"} href={"https://aitscctv.com/%e0%b8%a1%e0%b8%b2%e0%b8%95%e0%b8%a3%e0%b8%90%e0%b8%b2%e0%b8%99%e0%b8%87%e0%b8%b2%e0%b8%99-%e0%b8%9d%e0%b9%89%e0%b8%b2/"}>
-{"\r\n\t\t\tอ่านต่อ »\t\t"}
-</SiteLink>
-</div>
-</article>
-<article data-layout-node={"n520"} className={"v172 listing-card captured-style"}>
-<SiteLink data-layout-node={"n521"} className={"v146 media-widget captured-style"} href={"https://aitscctv.com/%e0%b8%a1%e0%b8%b2%e0%b8%95%e0%b8%a3%e0%b8%90%e0%b8%b2%e0%b8%99%e0%b8%87%e0%b8%b2%e0%b8%99-pvc/"}>
-<div data-layout-node={"n522"} className={"v147 media-widget captured-style"}>
-<img data-layout-node={"n523"} className={"v148 captured-style"} src={"/assets/remote-316c5bde52d4b4de-responsive-640.webp"} alt={"0"} loading={"lazy"} decoding={"async"} width={"768"} height={"576"} srcSet={"/assets/remote-316c5bde52d4b4de-responsive-160.webp 160w, /assets/remote-316c5bde52d4b4de-responsive-320.webp 320w, /assets/remote-316c5bde52d4b4de-responsive-640.webp 640w, /assets/remote-316c5bde52d4b4de-responsive-1024.webp 1024w"} sizes={"(max-width: 640px) calc(100vw - 40px), (max-width: 1024px) 50vw, 369px"} />
-</div>
-</SiteLink>
-<div data-layout-node={"n524"} className={"v149 captured-style"}>
-<p data-layout-node={"n525"} className={"v150 captured-style"}>
-<SiteLink data-layout-node={"n526"} className={"v151 captured-style"} href={"https://aitscctv.com/%e0%b8%a1%e0%b8%b2%e0%b8%95%e0%b8%a3%e0%b8%90%e0%b8%b2%e0%b8%99%e0%b8%87%e0%b8%b2%e0%b8%99-pvc/"}>
-{"\r\n\t\t\t\tมาตรฐานงานติดตั้งอุปกรณ์เข้ากับกล่อง PVC และกล่องอลูมิเนียม\t\t\t"}
-</SiteLink>
-</p>
-<div data-layout-node={"n527"} className={"v152 captured-style"}>
-<span data-layout-node={"n528"} className={"v153 captured-style"}>
-{"\r\n\t\t\tJuly 29, 2024\t\t"}
-</span>
-</div>
-<SiteLink data-layout-node={"n529"} className={"v154 captured-style"} href={"https://aitscctv.com/%e0%b8%a1%e0%b8%b2%e0%b8%95%e0%b8%a3%e0%b8%90%e0%b8%b2%e0%b8%99%e0%b8%87%e0%b8%b2%e0%b8%99-pvc/"}>
-{"\r\n\t\t\tอ่านต่อ »\t\t"}
-</SiteLink>
-</div>
-</article>
-<article data-layout-node={"n530"} className={"v173 listing-card captured-style"}>
-<SiteLink data-layout-node={"n531"} className={"v165 media-widget captured-style"} href={"https://aitscctv.com/%e0%b8%a1%e0%b8%b2%e0%b8%95%e0%b8%a3%e0%b8%90%e0%b8%b2%e0%b8%99%e0%b8%87%e0%b8%b2%e0%b8%99%e0%b8%95%e0%b8%b4%e0%b8%94%e0%b8%95%e0%b8%b1%e0%b9%89%e0%b8%87-rack/"}>
-<div data-layout-node={"n532"} className={"v166 media-widget captured-style"}>
-<img data-layout-node={"n533"} className={"v167 captured-style"} src={"/assets/remote-b54398d094b8eab6-responsive-640.webp"} alt={"0"} loading={"lazy"} decoding={"async"} width={"768"} height={"576"} srcSet={"/assets/remote-b54398d094b8eab6-responsive-160.webp 160w, /assets/remote-b54398d094b8eab6-responsive-320.webp 320w, /assets/remote-b54398d094b8eab6-responsive-640.webp 640w, /assets/remote-b54398d094b8eab6-responsive-1024.webp 1024w"} sizes={"(max-width: 640px) calc(100vw - 40px), (max-width: 1024px) 50vw, 369px"} />
-</div>
-</SiteLink>
-<div data-layout-node={"n534"} className={"v159 captured-style"}>
-<p data-layout-node={"n535"} className={"v160 captured-style"}>
-<SiteLink data-layout-node={"n536"} className={"v151 captured-style"} href={"https://aitscctv.com/%e0%b8%a1%e0%b8%b2%e0%b8%95%e0%b8%a3%e0%b8%90%e0%b8%b2%e0%b8%99%e0%b8%87%e0%b8%b2%e0%b8%99%e0%b8%95%e0%b8%b4%e0%b8%94%e0%b8%95%e0%b8%b1%e0%b9%89%e0%b8%87-rack/"}>
-{"\r\n\t\t\t\tมาตรฐานงานติดตั้งอุปกรณ์ในตู้ Rack\t\t\t"}
-</SiteLink>
-</p>
-<div data-layout-node={"n537"} className={"v161 captured-style"}>
-<span data-layout-node={"n538"} className={"v153 captured-style"}>
-{"\r\n\t\t\tJuly 29, 2024\t\t"}
-</span>
-</div>
-<SiteLink data-layout-node={"n539"} className={"v154 captured-style"} href={"https://aitscctv.com/%e0%b8%a1%e0%b8%b2%e0%b8%95%e0%b8%a3%e0%b8%90%e0%b8%b2%e0%b8%99%e0%b8%87%e0%b8%b2%e0%b8%99%e0%b8%95%e0%b8%b4%e0%b8%94%e0%b8%95%e0%b8%b1%e0%b9%89%e0%b8%87-rack/"}>
-{"\r\n\t\t\tอ่านต่อ »\t\t"}
-</SiteLink>
-</div>
-</article>
-<article data-layout-node={"n540"} className={"v174 listing-card captured-style"}>
-<SiteLink data-layout-node={"n541"} className={"v146 media-widget captured-style"} href={"https://aitscctv.com/%e0%b9%82%e0%b8%a3%e0%b8%87%e0%b8%87%e0%b8%b2%e0%b8%99%e0%b8%97%e0%b8%b5%e0%b9%88%e0%b8%a1%e0%b8%b5%e0%b8%97%e0%b8%b5%e0%b9%88%e0%b8%aa%e0%b8%b9%e0%b8%87%e0%b9%81%e0%b8%a5%e0%b8%b0%e0%b8%a5%e0%b8%b2/"}>
-<div data-layout-node={"n542"} className={"v147 media-widget captured-style"}>
-<img data-layout-node={"n543"} className={"v148 captured-style"} src={"/assets/remote-14c9c8089434369f-responsive-640.webp"} alt={"0"} loading={"lazy"} decoding={"async"} width={"768"} height={"576"} srcSet={"/assets/remote-14c9c8089434369f-responsive-160.webp 160w, /assets/remote-14c9c8089434369f-responsive-320.webp 320w, /assets/remote-14c9c8089434369f-responsive-640.webp 640w, /assets/remote-14c9c8089434369f-responsive-1024.webp 1024w"} sizes={"(max-width: 640px) calc(100vw - 40px), (max-width: 1024px) 50vw, 369px"} />
-</div>
-</SiteLink>
-<div data-layout-node={"n544"} className={"v149 captured-style"}>
-<p data-layout-node={"n545"} className={"v150 captured-style"}>
-<SiteLink data-layout-node={"n546"} className={"v151 captured-style"} href={"https://aitscctv.com/%e0%b9%82%e0%b8%a3%e0%b8%87%e0%b8%87%e0%b8%b2%e0%b8%99%e0%b8%97%e0%b8%b5%e0%b9%88%e0%b8%a1%e0%b8%b5%e0%b8%97%e0%b8%b5%e0%b9%88%e0%b8%aa%e0%b8%b9%e0%b8%87%e0%b9%81%e0%b8%a5%e0%b8%b0%e0%b8%a5%e0%b8%b2/"}>
-{"\r\n\t\t\t\tการติดตั้งกล้องวงจรปิดในโรงงานที่มีที่สูงและลานกว้าง\t\t\t"}
-</SiteLink>
-</p>
-<div data-layout-node={"n547"} className={"v152 captured-style"}>
-<span data-layout-node={"n548"} className={"v153 captured-style"}>
-{"\r\n\t\t\tMay 1, 2024\t\t"}
-</span>
-</div>
-<SiteLink data-layout-node={"n549"} className={"v154 captured-style"} href={"https://aitscctv.com/%e0%b9%82%e0%b8%a3%e0%b8%87%e0%b8%87%e0%b8%b2%e0%b8%99%e0%b8%97%e0%b8%b5%e0%b9%88%e0%b8%a1%e0%b8%b5%e0%b8%97%e0%b8%b5%e0%b9%88%e0%b8%aa%e0%b8%b9%e0%b8%87%e0%b9%81%e0%b8%a5%e0%b8%b0%e0%b8%a5%e0%b8%b2/"}>
-{"\r\n\t\t\tอ่านต่อ »\t\t"}
-</SiteLink>
-</div>
-</article>
-</div>
-</div>
-</div>
-<div data-layout-node={"n550"} className={"v3 captured-style"}>
-<div data-layout-node={"n551"} className={"v175 captured-style"}>
-<div data-layout-node={"n552"} className={"v4 captured-style"}>
-<SiteLink data-layout-node={"n553"} className={"v91 action-link captured-style"} href={"/our-standard/"} target={"_blank"} rel={"noopener"}>
-<span data-layout-node={"n554"} className={"v176 captured-style"}>
-<span data-layout-node={"n555"} className={"v177 captured-style"}>
-{"กดเพื่อดูรีวิวเพิ่มเติม"}
-</span>
-</span>
-</SiteLink>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-<div data-layout-node={"n569"} className={"v180 section captured-style"}>
-<div data-layout-node={"n570"} className={"v181 captured-style"}>
-<div data-layout-node={"n571"} className={"v3 text-widget captured-style"}>
-<div data-layout-node={"n572"} className={"v4 text-widget captured-style"}>
-<p data-layout-node={"n573"} className={"v182 large-copy captured-style"}>
-{"\" Let AITS Set Standard  ให้เราได้สร้างมาตรฐาน \"\r\n "}
-</p>
-</div>
-</div>
-<div data-layout-node={"n574"} className={"v183 section layout-row captured-style"}>
-<div data-layout-node={"n575"} className={"v184 captured-style"}>
-<div data-layout-node={"n576"} className={"v4 captured-style"}>
-<div data-layout-node={"n577"} className={"v4 captured-style"}>
-<SiteLink data-layout-node={"n578"} className={"v185 action-link captured-style"} href={"tel:0944606196"}>
-<span data-layout-node={"n579"} className={"v186 captured-style"}>
-<span data-layout-node={"n580"} className={"v187 captured-style"}>
-{"โทรหาเรา"}
-</span>
-</span>
-</SiteLink>
-</div>
-</div>
-</div>
-<div data-layout-node={"n581"} className={"v184 captured-style"}>
-<div data-layout-node={"n582"} className={"v4 captured-style"}>
-<div data-layout-node={"n583"} className={"v4 captured-style"}>
-<SiteLink data-layout-node={"n584"} className={"v188 action-link captured-style"} href={"https://page.line.me/852uanad?openQrModal=true"} target={"_blank"} rel={"noopener"}>
-<span data-layout-node={"n585"} className={"v189 captured-style"}>
-<span data-layout-node={"n586"} className={"v190 captured-style"}>
-{"ปรึกษาฟรีคลิก"}
-</span>
-</span>
-</SiteLink>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
+<ServiceContact path={"/network-service/lan-cable/"} />
+</section>
 </div></div>}

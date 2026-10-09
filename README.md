@@ -54,6 +54,18 @@ After adding or changing captured images, run `npm run optimize:images`, then `n
 
 Header and footer links use `prefetch={false}` while retaining Next.js client navigation. Kanit uses three weights (300, 400, 600); the other text weights map to these. Legacy icon fonts are replaced with small SVG masks made from their original outlines. Versioned icons need no Python during normal builds. Optional `scripts/export-svg-icons.py` requires fonttools and brotli to regenerate outlines; copyright and Font Awesome license notices are included with the assets.
 
-The generator keeps only rendered classes, factors 46 common declarations into `public/pages/shared.css`, and groups identical remaining rules. Source captures are kept intact for future regeneration. Current captured CSS is approximately 1.6 MB across all 36 pages, down from 6 MB; these are uncompressed totals, not per-visit downloads.
+The generator keeps only rendered classes, factors 46 common declarations into `public/pages/shared.css`, and groups identical remaining rules. Source captures are kept intact for future regeneration. After service restructuring, captured CSS is approximately 1.1 MB across 35 generated pages, down from 6 MB; these are uncompressed totals, not per-visit downloads.
 
 Run `npm run test:performance` against a production preview (set `TEST_ORIGIN` when using another port). It checks responsive raster images across all 39 pages, intrinsic image dimensions, missing local resources, legacy font downloads and navigation/footer prefetching. Measured asset sizes are saved to `qa/performance-regression.json`; these local checks do not represent a public PageSpeed score.
+
+## Service and article structure
+
+All 22 service pages follow the same order: overview, benefits, options/pricing, relevant projects, and quotation/contact. Their original service descriptions and package information remain available; supplementary technical content uses native expandable panels. Service-specific warranty periods and qualifiers are retained. Repeated installation galleries are collected on About Us (8 initial images, 61 additional images behind an expandable panel). Service pages instead link to that gallery through a compact trust statement.
+
+`scripts/service-policy.mjs` defines retained service sections and curated published content. Related articles are labelled separately from project stories. Where no matching published case is available, the page offers a way to ask the team for examples. The project portfolio retains its 20 entries; the article archive retains all 99 articles, including every entry from the former blog listing. Reviews and FAQs remain on the homepages only.
+
+`/blog/` redirects permanently to `/articles/` on a Next.js server. The GitHub Pages export uses an early browser redirect with a no-JavaScript fallback because Pages cannot provide application redirect rules. Browser redirects preserve search parameters and fragments. Article bodies continue linking to their existing WordPress destinations.
+
+Run `node scripts/restructure-regression.mjs` against a running production preview (set `TEST_ORIGIN`). It checks the 22-page structure at phone and desktop widths, retained/removed sections, original warranty wording, project links, expandable technical content, gallery completeness, archive search/pagination, and legacy redirects.
+
+After preparing a Pages export, `node scripts/restructure-pages.mjs` starts a temporary local static server and verifies project-path links, legacy redirect search/fragment preservation, the no-JavaScript fallback, and responsive assets in Chromium.

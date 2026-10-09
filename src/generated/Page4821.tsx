@@ -4,7 +4,9 @@ import {SiteLink} from "../components/SiteLink";
 import {VideoFrame} from "../components/VideoFrame";
 import {LogoCarousel} from "../components/LogoCarousel";
 import {ContactPhone} from "../components/ContactPhone";
+import {ServiceTrust,ServiceContents,ServiceBenefits,ServicePricing,ServiceWarranty,ServiceProjects,ServiceContact,AboutTeamGallery} from "../components/ServiceContent";
 export default function Page4821(){return <div className="page-4821 captured-page"><div data-layout-node={"n0"} className={"v0 captured-style"}>
+<section id={"service-overview"} className={"service-stage"} data-service-stage={"overview"}>
 <div data-layout-node={"n1"} className={"v1 section captured-style"}>
 <div data-layout-node={"n2"} className={"v2 captured-style"}>
 <div data-layout-node={"n3"} className={"v3 text-widget captured-style"}>
@@ -71,6 +73,125 @@ export default function Page4821(){return <div className="page-4821 captured-pag
 </div>
 </div>
 </div>
+<ServiceTrust />
+</section>
+<ServiceContents />
+<section id={"service-benefits"} className={"service-stage"} data-service-stage={"benefits"}>
+<div className={"service-stage-heading"}>
+<h2>
+{"ประโยชน์และการใช้งาน"}
+</h2>
+</div>
+<ServiceBenefits path={"/window-film/"} />
+<details className={"service-detail"}>
+<summary>
+{"รายละเอียดประโยชน์และการใช้งาน"}
+</summary>
+<div className={"service-detail-content"}>
+<div data-layout-node={"n482"} className={"v114 section captured-style"}>
+<div data-layout-node={"n483"} className={"v74 captured-style"}>
+<div data-layout-node={"n484"} className={"v3 text-widget captured-style"}>
+<div data-layout-node={"n485"} className={"v4 text-widget captured-style"}>
+<p data-layout-node={"n486"} className={"v115 captured-style"}>
+{"WHY AITSCCTV"}
+</p>
+</div>
+</div>
+<div data-layout-node={"n487"} className={"v3 text-widget captured-style"}>
+<div data-layout-node={"n488"} className={"v4 text-widget captured-style"}>
+<h2 data-layout-node={"n489"} className={"v40 captured-style"}>
+{"ติดฟิล์มกระจกบ้าน ติดฟิล์มอาคาร ฟิล์มกันแดด"}
+<br data-layout-node={"n490"} className={"v41 captured-style"} />
+{"กับ AITSCCTV ดีอย่างไร"}
+</h2>
+</div>
+</div>
+<div data-layout-node={"n491"} className={"v116 section layout-row captured-style"}>
+<div data-layout-node={"n492"} className={"v117 captured-style"}>
+<div data-layout-node={"n493"} className={"v118 captured-style"}>
+<div data-layout-node={"n494"} className={"v119 captured-style"}>
+<figure data-layout-node={"n495"} className={"v120 media-widget captured-style"}>
+<span data-layout-node={"n496"} className={"v121 media-widget captured-style"}>
+<img data-layout-node={"n497"} className={"v122 captured-style"} src={"/assets/remote-491db29e12f57f55-responsive-512.webp"} alt={"Hand"} loading={"lazy"} decoding={"async"} width={"512"} height={"512"} srcSet={"/assets/remote-491db29e12f57f55-responsive-160.webp 160w, /assets/remote-491db29e12f57f55-responsive-320.webp 320w, /assets/remote-491db29e12f57f55-responsive-512.webp 512w"} sizes={"36px"} />
+</span>
+</figure>
+<div data-layout-node={"n498"} className={"v123 captured-style"}>
+<h3 data-layout-node={"n499"} className={"v124 captured-style"}>
+<span data-layout-node={"n500"} className={"v125 captured-style"}>
+{"ประเมินราคาติดฟิล์มกระจกบ้านได้ทันที"}
+</span>
+</h3>
+<p data-layout-node={"n501"} className={"v126 captured-style"}>
+{"เช็กราคาฟิล์มติดบ้านกับเรา อัปเดตล่าสุด คัดสรรคุณภาพ ราคาสุดคุ้ม และพร้อมให้คำปรึกษา ประเมินราคาก่อนเริ่มงาน\r\n"}
+</p>
+</div>
+</div>
+</div>
+</div>
+<div data-layout-node={"n502"} className={"v117 captured-style"}>
+<div data-layout-node={"n503"} className={"v118 captured-style"}>
+<div data-layout-node={"n504"} className={"v119 captured-style"}>
+<figure data-layout-node={"n505"} className={"v120 media-widget captured-style"}>
+<img data-layout-node={"n506"} className={"v127 captured-style"} src={"/assets/remote-4ec2380225a0077c-responsive-512.webp"} alt={"Rating"} loading={"lazy"} decoding={"async"} width={"512"} height={"512"} srcSet={"/assets/remote-4ec2380225a0077c-responsive-160.webp 160w, /assets/remote-4ec2380225a0077c-responsive-320.webp 320w, /assets/remote-4ec2380225a0077c-responsive-512.webp 512w"} sizes={"36px"} />
+</figure>
+<div data-layout-node={"n507"} className={"v123 captured-style"}>
+<h3 data-layout-node={"n508"} className={"v124 captured-style"}>
+{"คัดสรรแต่ฟิล์มจากแบรนด์ชั้นนำ"}
+</h3>
+<p data-layout-node={"n509"} className={"v126 captured-style"}>
+{"คัดสรรยี่ห้อฟิล์มติดบ้านจากแบรนด์ชั้นนำของไทย ของแท้แน่นอน"}
+</p>
+</div>
+</div>
+</div>
+</div>
+<div data-layout-node={"n510"} className={"v117 captured-style"}>
+<div data-layout-node={"n511"} className={"v118 captured-style"}>
+<div data-layout-node={"n512"} className={"v119 captured-style"}>
+<figure data-layout-node={"n513"} className={"v120 media-widget captured-style"}>
+<img data-layout-node={"n514"} className={"v127 captured-style"} src={"/assets/remote-558242ca5191e516-responsive-512.webp"} alt={"Design team"} loading={"lazy"} decoding={"async"} width={"512"} height={"512"} srcSet={"/assets/remote-558242ca5191e516-responsive-160.webp 160w, /assets/remote-558242ca5191e516-responsive-320.webp 320w, /assets/remote-558242ca5191e516-responsive-512.webp 512w"} sizes={"36px"} />
+</figure>
+<div data-layout-node={"n515"} className={"v123 captured-style"}>
+<h3 data-layout-node={"n516"} className={"v124 captured-style"}>
+{"มีทีมประเมินหน้างาน และเก็บความเรียบร้อยหลังงานเสร็จ"}
+</h3>
+<p data-layout-node={"n517"} className={"v126 captured-style"}>
+{"เช็กหน้างานก่อนติดฟิล์ม และเก็บรายละเอียดงานหลังติดฟิล์มเสร็จแล้ว"}
+</p>
+</div>
+</div>
+</div>
+</div>
+<div data-layout-node={"n518"} className={"v117 captured-style"}>
+<div data-layout-node={"n519"} className={"v118 captured-style"}>
+<div data-layout-node={"n520"} className={"v119 captured-style"}>
+<figure data-layout-node={"n521"} className={"v120 media-widget captured-style"}>
+<img data-layout-node={"n522"} className={"v127 captured-style"} src={"/assets/remote-38203e515a055b98-responsive-512.webp"} alt={"Technical support"} loading={"lazy"} decoding={"async"} width={"512"} height={"512"} srcSet={"/assets/remote-38203e515a055b98-responsive-160.webp 160w, /assets/remote-38203e515a055b98-responsive-320.webp 320w, /assets/remote-38203e515a055b98-responsive-512.webp 512w"} sizes={"36px"} />
+</figure>
+<div data-layout-node={"n523"} className={"v123 captured-style"}>
+<h3 data-layout-node={"n524"} className={"v124 captured-style"}>
+{"ให้คำปรึกษาบริการติดฟิล์มบ้านจากช่างมืออาชีพ"}
+</h3>
+<p data-layout-node={"n525"} className={"v126 captured-style"}>
+{"ให้คำปรึกษาจากช่างมืออาชีพ มากประสบการณ์ ครอบคลุมทุกพื้นที่\r\n"}
+</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</details>
+</section>
+<section id={"service-options"} className={"service-stage"} data-service-stage={"options"}>
+<div className={"service-stage-heading"}>
+<h2>
+{"รูปแบบบริการและราคา"}
+</h2>
+</div>
+<ServicePricing path={"/window-film/"} />
 <div data-layout-node={"n32"} className={"v21 section captured-style"}>
 <div data-layout-node={"n33"} className={"v22 captured-style"}>
 <div data-layout-node={"n34"} className={"v3 text-widget captured-style"}>
@@ -198,6 +319,163 @@ export default function Page4821(){return <div className="page-4821 captured-pag
 </div>
 </div>
 </div>
+<div data-layout-node={"n365"} className={"v97 section captured-style"}>
+<div data-layout-node={"n366"} className={"v74 captured-style"}>
+<div data-layout-node={"n367"} className={"v3 text-widget captured-style"}>
+<div data-layout-node={"n368"} className={"v4 text-widget captured-style"}>
+<h2 data-layout-node={"n369"} className={"v8 captured-style"}>
+{"ราคาติดฟิล์มบ้าน ฟิล์มติดอาคาร คิดราคาอย่างไร"}
+<br data-layout-node={"n370"} className={"v9 captured-style"} />
+{"ประเมินราคาติดฟิล์มบ้านและอาคาร กับ AITSCCTV ฟรี !!"}
+</h2>
+</div>
+</div>
+<div data-layout-node={"n371"} className={"v17 text-widget captured-style"}>
+<div data-layout-node={"n372"} className={"v18 text-widget captured-style"}>
+<p data-layout-node={"n373"} className={"v81 captured-style"}>
+{"ราคาติดฟิล์มอาคาร ติดฟิล์มบ้าน โดยทีมงานช่างจาก AITSCCTV เราจะคำนวณราคาติดตั้งเป็น ราคา/ตารางฟุต หรือ ราคา/ตารางเมตร ขึ้นอยู่กับความเหมาะสมของประเภทงานนั้น ๆ โดยราคาเริ่มต้นตั้งแต่ ตารางฟุตละ 50 – 450 บาท ขึ้นอยู่กับประเภทของฟิล์ม และยี่ห้อของฟิล์มกรองแสงติดบ้านที่เลือกใช้งาน หากต้องการประเมินราคาเบื้องต้น สามารถติดต่อได้ที่นี่ "}
+<span data-layout-node={"n374"} className={"v82 captured-style"}>
+{"“"}
+<SiteLink data-layout-node={"n375"} className={"v82 captured-style"} href={"https://page.line.me/852uanad?openQrModal=true"}>
+{"ประเมินราคาติดฟิล์มบ้าน"}
+</SiteLink>
+{"”"}
+</span>
+{" หรือสามารถลองคำนวณราคาด้วยตนเองเบื้องต้น ดังนี้"}
+</p>
+</div>
+</div>
+<div data-layout-node={"n376"} className={"v17 captured-style"}>
+<div data-layout-node={"n377"} className={"v18 captured-style"}>
+<ol data-layout-node={"n378"} className={"v75 captured-style"}>
+<li data-layout-node={"n379"} className={"v76 captured-style"}>
+{"ใช้ตลับเมตรวัดขนาดกระจกแต่ละบานที่ต้องการติดฟิล์ม"}
+<br data-layout-node={"n380"} className={"v98 captured-style"} />
+{"ในรูปแบบ : ความกว้าง x ความยาว x จำนวนบาน"}
+<br data-layout-node={"n381"} className={"v98 captured-style"} />
+<br data-layout-node={"n382"} className={"v98 captured-style"} />
+<em data-layout-node={"n383"} className={"v99 captured-style"}>
+{"** ใช้หน่วยเป็นเซนติเมตร หรือนิ้ว"}
+</em>
+<br data-layout-node={"n384"} className={"v98 captured-style"} />
+<em data-layout-node={"n385"} className={"v99 captured-style"}>
+{"** วัดแต่เนื้อกระจก ไม่ต้องวัดขอบของกระจก"}
+</em>
+<br data-layout-node={"n386"} className={"v98 captured-style"} />
+<em data-layout-node={"n387"} className={"v99 captured-style"}>
+{"** ต้องวัดแยกเป็นบาน ไม่รวมกันทั้งหมดทีเดียว"}
+<br data-layout-node={"n388"} className={"v99 captured-style"} />
+<br data-layout-node={"n389"} className={"v99 captured-style"} />
+</em>
+</li>
+<li data-layout-node={"n390"} className={"v76 captured-style"}>
+{"แทนค่าในสูตรด้านบน และแปลงค่าที่ได้ให้เป็นตารางฟุต หรือตารางเมตร"}
+</li>
+</ol>
+</div>
+</div>
+</div>
+</div>
+<div data-layout-node={"n526"} className={"v7 section captured-style"}>
+<div data-layout-node={"n527"} className={"v74 captured-style"}>
+<div data-layout-node={"n528"} className={"v3 text-widget captured-style"}>
+<div data-layout-node={"n529"} className={"v4 text-widget captured-style"}>
+<h2 data-layout-node={"n530"} className={"v40 captured-style"}>
+{"จ้างช่างติดฟิล์มกระจกบ้าน ติดฟิล์มอาคาร "}
+<br data-layout-node={"n531"} className={"v41 captured-style"} />
+{"ราคาแพงไหม เทียบราคาอัปเดตล่าสุด 2023"}
+</h2>
+</div>
+</div>
+<div data-layout-node={"n532"} className={"v17 captured-style"}>
+<div data-layout-node={"n533"} className={"v18 captured-style"}>
+{"\r\n\t\t\t\t\t\t\tการคำนวณค่าจ้างติดฟิล์มกระจกบ้าน ฟิล์มอาคาร สำนักงาน และบริษัท ราคาถูกหรือแพงขึ้นอยู่กับว่าจะเลือกฟิล์มติดบ้านประเภทไหน ยี่ห้อไหน เพราะราคาจะขึ้นอยู่กับคุณภาพ ความเข้ม และชนิดของฟิล์มเป็นหลัก ซึ่งราคาฟิล์มกรองแสงแต่ละประเภทฟิล์มจะมีดังนี้\t\t\t\t\t\t"}
+</div>
+</div>
+<div data-layout-node={"n534"} className={"v83 captured-style"}>
+<div data-layout-node={"n535"} className={"v84 captured-style"}>
+<div data-layout-node={"n536"} className={"v128 captured-style"}>
+<div className={"table-scroll"} role={"region"} aria-label={"ตารางเปรียบเทียบ เลื่อนเพื่อดูข้อมูลเพิ่มเติม"} tabIndex={0}>
+<table data-layout-node={"n537"} className={"v129 captured-style"}>
+<tbody data-layout-node={"n538"} className={"v130 captured-style"}>
+<tr data-layout-node={"n539"} className={"v131 captured-style"}>
+<td data-layout-node={"n540"} className={"v132 captured-style"}>
+{"\r\n                                        ประเภทฟิล์ม                    "}
+</td>
+<td data-layout-node={"n541"} className={"v133 captured-style"}>
+{"\r\n                                        ราคาติดฟิล์มต่อตารางฟุต                    "}
+</td>
+<td data-layout-node={"n542"} className={"v134 captured-style"}>
+{"\r\n                                        ราคาติดฟิล์มต่อตารางเมตร                    "}
+</td>
+</tr>
+<tr data-layout-node={"n543"} className={"v131 captured-style"}>
+<td data-layout-node={"n544"} className={"v135 captured-style"}>
+{"\r\n                                        ฟิล์มดำ                    "}
+</td>
+<td data-layout-node={"n545"} className={"v136 captured-style"}>
+{"\r\n                                        50 - 80 บาท                    "}
+</td>
+<td data-layout-node={"n546"} className={"v137 captured-style"}>
+{"\r\n                                        550 - 750 บาท                    "}
+</td>
+</tr>
+<tr data-layout-node={"n547"} className={"v131 captured-style"}>
+<td data-layout-node={"n548"} className={"v135 captured-style"}>
+{"\r\n                                        ฟิล์มปรอท                    "}
+</td>
+<td data-layout-node={"n549"} className={"v136 captured-style"}>
+{"\r\n                                        60 - 200 บาท                    "}
+</td>
+<td data-layout-node={"n550"} className={"v137 captured-style"}>
+{"\r\n                                        700  - 2500 บาท                    "}
+</td>
+</tr>
+<tr data-layout-node={"n551"} className={"v131 captured-style"}>
+<td data-layout-node={"n552"} className={"v135 captured-style"}>
+{"\r\n                                        ฟิล์มใส                    "}
+</td>
+<td data-layout-node={"n553"} className={"v136 captured-style"}>
+{"\r\n                                        60 - 500 บาท                    "}
+</td>
+<td data-layout-node={"n554"} className={"v137 captured-style"}>
+{"\r\n                                        700 - 4500 บาท                    "}
+</td>
+</tr>
+<tr data-layout-node={"n555"} className={"v131 captured-style"}>
+<td data-layout-node={"n556"} className={"v135 captured-style"}>
+{"\r\n                                        ฟิล์มเซรามิก                    "}
+</td>
+<td data-layout-node={"n557"} className={"v136 captured-style"}>
+{"\r\n                                        120 - 200 บาท                    "}
+</td>
+<td data-layout-node={"n558"} className={"v137 captured-style"}>
+{"\r\n                                        1300 - 1800 บาท                    "}
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</div>
+</div>
+<div data-layout-node={"n559"} className={"v138 text-widget captured-style"}>
+<div data-layout-node={"n560"} className={"v139 text-widget captured-style"}>
+<p data-layout-node={"n561"} className={"v140 captured-style"}>
+<span data-layout-node={"n562"} className={"v141 captured-style"}>
+{"** ราคาขึ้นอยู่กับยี่ห้อของแบรนด์ ประเภทฟิล์ม และความเข้มของฟิล์ม"}
+</span>
+</p>
+</div>
+</div>
+</div>
+</div>
+<ServiceWarranty path={"/window-film/"} />
+<details className={"service-detail"}>
+<summary>
+{"รายละเอียดทางเทคนิคและแนวทางเลือกใช้งาน"}
+</summary>
+<div className={"service-detail-content"}>
 <div data-layout-node={"n92"} className={"v7 section captured-style"}>
 <div data-layout-node={"n93"} className={"v39 captured-style"}>
 <div data-layout-node={"n94"} className={"v3 text-widget captured-style"}>
@@ -219,79 +497,6 @@ export default function Page4821(){return <div className="page-4821 captured-pag
 <div data-layout-node={"n101"} className={"v17 captured-style"}>
 <div data-layout-node={"n102"} className={"v18 captured-style"}>
 {"\r\n\t\t\t\t\t\t\tสำหรับใครที่ไม่ต้องการ ติดฟิล์มกระจกบ้านด้วยตนเอง หรือมองหาช่างมืออาชีพสำหรับการติดฟิล์มบ้าน สามารถปรึกษาและใช้บริการจากทีมช่างมืออาชีพด้านการติดฟิล์มกระจกบ้าน อาคาร สำนักงาน และคอนโด กับเราได้ที่นี่ AITSCCTV\t\t\t\t\t\t"}
-</div>
-</div>
-</div>
-</div>
-<div data-layout-node={"n103"} className={"v45 section captured-style"}>
-<div data-layout-node={"n104"} className={"v46 layout-row captured-style"}>
-<div data-layout-node={"n105"} className={"v47 section captured-style"}>
-<div data-layout-node={"n106"} className={"v48 layout-row captured-style"}>
-<div data-layout-node={"n107"} className={"v49 section captured-style"}>
-<div data-layout-node={"n108"} className={"v50 captured-style"}>
-<div data-layout-node={"n109"} className={"v51 captured-style"}>
-<div data-layout-node={"n110"} className={"v52 layout-row captured-style"}>
-<div data-layout-node={"n111"} className={"v53 captured-style"}>
-<SiteLink data-layout-node={"n112"} className={"v54 captured-style"} href={"tel:0944606196"}>
-<i data-layout-node={"n113"} className={"v55 captured-style"}>
-
-</i>
-</SiteLink>
-</div>
-<div data-layout-node={"n114"} className={"v56 captured-style"}>
-<p data-layout-node={"n115"} className={"v57 captured-style"}>
-<SiteLink data-layout-node={"n116"} className={"v58 captured-style"} href={"tel:0944606196"}>
-{"\r\n\t\t\t\t\t\tให้คำปรึกษาฟรี\t\t\t\t\t"}
-</SiteLink>
-</p>
-<p data-layout-node={"n117"} className={"v59 large-copy captured-style"}>
-{"\r\n\t\t\t\t\t\t094 460 6196\t\t\t\t\t"}
-</p>
-</div>
-</div>
-</div>
-</div>
-</div>
-<div data-layout-node={"n118"} className={"v60 section captured-style"}>
-<div data-layout-node={"n119"} className={"v61 captured-style"}>
-<div data-layout-node={"n120"} className={"v62 captured-style"}>
-<div data-layout-node={"n121"} className={"v63 layout-row captured-style"}>
-<div data-layout-node={"n122"} className={"v64 captured-style"}>
-<SiteLink data-layout-node={"n123"} className={"v54 captured-style"} href={"https://page.line.me/852uanad?openQrModal=true"}>
-<i data-layout-node={"n124"} className={"v65 captured-style"}>
-
-</i>
-</SiteLink>
-</div>
-<div data-layout-node={"n125"} className={"v66 captured-style"}>
-<p data-layout-node={"n126"} className={"v67 captured-style"}>
-<SiteLink data-layout-node={"n127"} className={"v58 captured-style"} href={"https://page.line.me/852uanad?openQrModal=true"}>
-{"\r\n\t\t\t\t\t\tLine\t\t\t\t\t"}
-</SiteLink>
-</p>
-<p data-layout-node={"n128"} className={"v68 large-copy captured-style"}>
-{"\r\n\t\t\t\t\t\t@AITSCCTV\t\t\t\t\t"}
-</p>
-</div>
-</div>
-</div>
-</div>
-</div>
-<div data-layout-node={"n129"} className={"v69 section captured-style"}>
-<div data-layout-node={"n130"} className={"v3 captured-style"}>
-<div data-layout-node={"n131"} className={"v70 captured-style"}>
-<div data-layout-node={"n132"} className={"v4 captured-style"}>
-<SiteLink data-layout-node={"n133"} className={"v32 action-link captured-style"} href={"https://page.line.me/852uanad?openQrModal=true"} target={"_blank"} rel={"noopener"}>
-<span data-layout-node={"n134"} className={"v71 captured-style"}>
-<span data-layout-node={"n135"} className={"v72 captured-style"}>
-{"ปรึกษาฟรีคลิก"}
-</span>
-</span>
-</SiteLink>
-</div>
-</div>
-</div>
-</div>
 </div>
 </div>
 </div>
@@ -547,79 +752,6 @@ export default function Page4821(){return <div className="page-4821 captured-pag
 </div>
 </div>
 </div>
-<div data-layout-node={"n243"} className={"v45 section captured-style"}>
-<div data-layout-node={"n244"} className={"v46 layout-row captured-style"}>
-<div data-layout-node={"n245"} className={"v47 section captured-style"}>
-<div data-layout-node={"n246"} className={"v48 layout-row captured-style"}>
-<div data-layout-node={"n247"} className={"v49 section captured-style"}>
-<div data-layout-node={"n248"} className={"v50 captured-style"}>
-<div data-layout-node={"n249"} className={"v51 captured-style"}>
-<div data-layout-node={"n250"} className={"v52 layout-row captured-style"}>
-<div data-layout-node={"n251"} className={"v53 captured-style"}>
-<SiteLink data-layout-node={"n252"} className={"v54 captured-style"} href={"tel:0944606196"}>
-<i data-layout-node={"n253"} className={"v55 captured-style"}>
-
-</i>
-</SiteLink>
-</div>
-<div data-layout-node={"n254"} className={"v56 captured-style"}>
-<h2 data-layout-node={"n255"} className={"v87 captured-style"}>
-<SiteLink data-layout-node={"n256"} className={"v88 captured-style"} href={"tel:0944606196"}>
-{"\r\n\t\t\t\t\t\tให้คำปรึกษาฟรี\t\t\t\t\t"}
-</SiteLink>
-</h2>
-<p data-layout-node={"n257"} className={"v59 large-copy captured-style"}>
-{"\r\n\t\t\t\t\t\t094 460 6196\t\t\t\t\t"}
-</p>
-</div>
-</div>
-</div>
-</div>
-</div>
-<div data-layout-node={"n258"} className={"v60 section captured-style"}>
-<div data-layout-node={"n259"} className={"v61 captured-style"}>
-<div data-layout-node={"n260"} className={"v62 captured-style"}>
-<div data-layout-node={"n261"} className={"v63 layout-row captured-style"}>
-<div data-layout-node={"n262"} className={"v64 captured-style"}>
-<SiteLink data-layout-node={"n263"} className={"v54 captured-style"} href={"https://page.line.me/852uanad?openQrModal=true"}>
-<i data-layout-node={"n264"} className={"v65 captured-style"}>
-
-</i>
-</SiteLink>
-</div>
-<div data-layout-node={"n265"} className={"v66 captured-style"}>
-<p data-layout-node={"n266"} className={"v67 captured-style"}>
-<SiteLink data-layout-node={"n267"} className={"v58 captured-style"} href={"https://page.line.me/852uanad?openQrModal=true"}>
-{"\r\n\t\t\t\t\t\tLine\t\t\t\t\t"}
-</SiteLink>
-</p>
-<p data-layout-node={"n268"} className={"v68 large-copy captured-style"}>
-{"\r\n\t\t\t\t\t\t@AITSCCTV\t\t\t\t\t"}
-</p>
-</div>
-</div>
-</div>
-</div>
-</div>
-<div data-layout-node={"n269"} className={"v69 section captured-style"}>
-<div data-layout-node={"n270"} className={"v3 captured-style"}>
-<div data-layout-node={"n271"} className={"v70 captured-style"}>
-<div data-layout-node={"n272"} className={"v4 captured-style"}>
-<SiteLink data-layout-node={"n273"} className={"v32 action-link captured-style"} href={"https://page.line.me/852uanad?openQrModal=true"} target={"_blank"} rel={"noopener"}>
-<span data-layout-node={"n274"} className={"v71 captured-style"}>
-<span data-layout-node={"n275"} className={"v72 captured-style"}>
-{"ปรึกษาฟรีคลิก"}
-</span>
-</span>
-</SiteLink>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
 <div data-layout-node={"n276"} className={"v7 section captured-style"}>
 <div data-layout-node={"n277"} className={"v2 captured-style"}>
 <div data-layout-node={"n278"} className={"v3 text-widget captured-style"}>
@@ -816,136 +948,6 @@ export default function Page4821(){return <div className="page-4821 captured-pag
 </div>
 </div>
 </div>
-<div data-layout-node={"n365"} className={"v97 section captured-style"}>
-<div data-layout-node={"n366"} className={"v74 captured-style"}>
-<div data-layout-node={"n367"} className={"v3 text-widget captured-style"}>
-<div data-layout-node={"n368"} className={"v4 text-widget captured-style"}>
-<h2 data-layout-node={"n369"} className={"v8 captured-style"}>
-{"ราคาติดฟิล์มบ้าน ฟิล์มติดอาคาร คิดราคาอย่างไร"}
-<br data-layout-node={"n370"} className={"v9 captured-style"} />
-{"ประเมินราคาติดฟิล์มบ้านและอาคาร กับ AITSCCTV ฟรี !!"}
-</h2>
-</div>
-</div>
-<div data-layout-node={"n371"} className={"v17 text-widget captured-style"}>
-<div data-layout-node={"n372"} className={"v18 text-widget captured-style"}>
-<p data-layout-node={"n373"} className={"v81 captured-style"}>
-{"ราคาติดฟิล์มอาคาร ติดฟิล์มบ้าน โดยทีมงานช่างจาก AITSCCTV เราจะคำนวณราคาติดตั้งเป็น ราคา/ตารางฟุต หรือ ราคา/ตารางเมตร ขึ้นอยู่กับความเหมาะสมของประเภทงานนั้น ๆ โดยราคาเริ่มต้นตั้งแต่ ตารางฟุตละ 50 – 450 บาท ขึ้นอยู่กับประเภทของฟิล์ม และยี่ห้อของฟิล์มกรองแสงติดบ้านที่เลือกใช้งาน หากต้องการประเมินราคาเบื้องต้น สามารถติดต่อได้ที่นี่ "}
-<span data-layout-node={"n374"} className={"v82 captured-style"}>
-{"“"}
-<SiteLink data-layout-node={"n375"} className={"v82 captured-style"} href={"https://page.line.me/852uanad?openQrModal=true"}>
-{"ประเมินราคาติดฟิล์มบ้าน"}
-</SiteLink>
-{"”"}
-</span>
-{" หรือสามารถลองคำนวณราคาด้วยตนเองเบื้องต้น ดังนี้"}
-</p>
-</div>
-</div>
-<div data-layout-node={"n376"} className={"v17 captured-style"}>
-<div data-layout-node={"n377"} className={"v18 captured-style"}>
-<ol data-layout-node={"n378"} className={"v75 captured-style"}>
-<li data-layout-node={"n379"} className={"v76 captured-style"}>
-{"ใช้ตลับเมตรวัดขนาดกระจกแต่ละบานที่ต้องการติดฟิล์ม"}
-<br data-layout-node={"n380"} className={"v98 captured-style"} />
-{"ในรูปแบบ : ความกว้าง x ความยาว x จำนวนบาน"}
-<br data-layout-node={"n381"} className={"v98 captured-style"} />
-<br data-layout-node={"n382"} className={"v98 captured-style"} />
-<em data-layout-node={"n383"} className={"v99 captured-style"}>
-{"** ใช้หน่วยเป็นเซนติเมตร หรือนิ้ว"}
-</em>
-<br data-layout-node={"n384"} className={"v98 captured-style"} />
-<em data-layout-node={"n385"} className={"v99 captured-style"}>
-{"** วัดแต่เนื้อกระจก ไม่ต้องวัดขอบของกระจก"}
-</em>
-<br data-layout-node={"n386"} className={"v98 captured-style"} />
-<em data-layout-node={"n387"} className={"v99 captured-style"}>
-{"** ต้องวัดแยกเป็นบาน ไม่รวมกันทั้งหมดทีเดียว"}
-<br data-layout-node={"n388"} className={"v99 captured-style"} />
-<br data-layout-node={"n389"} className={"v99 captured-style"} />
-</em>
-</li>
-<li data-layout-node={"n390"} className={"v76 captured-style"}>
-{"แทนค่าในสูตรด้านบน และแปลงค่าที่ได้ให้เป็นตารางฟุต หรือตารางเมตร"}
-</li>
-</ol>
-</div>
-</div>
-</div>
-</div>
-<div data-layout-node={"n391"} className={"v45 section captured-style"}>
-<div data-layout-node={"n392"} className={"v46 layout-row captured-style"}>
-<div data-layout-node={"n393"} className={"v47 section captured-style"}>
-<div data-layout-node={"n394"} className={"v48 layout-row captured-style"}>
-<div data-layout-node={"n395"} className={"v49 section captured-style"}>
-<div data-layout-node={"n396"} className={"v50 captured-style"}>
-<div data-layout-node={"n397"} className={"v51 captured-style"}>
-<div data-layout-node={"n398"} className={"v52 layout-row captured-style"}>
-<div data-layout-node={"n399"} className={"v53 captured-style"}>
-<SiteLink data-layout-node={"n400"} className={"v54 captured-style"} href={"tel:0944606196"}>
-<i data-layout-node={"n401"} className={"v55 captured-style"}>
-
-</i>
-</SiteLink>
-</div>
-<div data-layout-node={"n402"} className={"v56 captured-style"}>
-<p data-layout-node={"n403"} className={"v57 captured-style"}>
-<SiteLink data-layout-node={"n404"} className={"v58 captured-style"} href={"tel:0944606196"}>
-{"\r\n\t\t\t\t\t\tให้คำปรึกษาฟรี\t\t\t\t\t"}
-</SiteLink>
-</p>
-<p data-layout-node={"n405"} className={"v59 large-copy captured-style"}>
-{"\r\n\t\t\t\t\t\t094 460 6196\t\t\t\t\t"}
-</p>
-</div>
-</div>
-</div>
-</div>
-</div>
-<div data-layout-node={"n406"} className={"v60 section captured-style"}>
-<div data-layout-node={"n407"} className={"v61 captured-style"}>
-<div data-layout-node={"n408"} className={"v62 captured-style"}>
-<div data-layout-node={"n409"} className={"v63 layout-row captured-style"}>
-<div data-layout-node={"n410"} className={"v64 captured-style"}>
-<SiteLink data-layout-node={"n411"} className={"v54 captured-style"} href={"https://page.line.me/852uanad?openQrModal=true"}>
-<i data-layout-node={"n412"} className={"v65 captured-style"}>
-
-</i>
-</SiteLink>
-</div>
-<div data-layout-node={"n413"} className={"v66 captured-style"}>
-<p data-layout-node={"n414"} className={"v67 captured-style"}>
-<SiteLink data-layout-node={"n415"} className={"v58 captured-style"} href={"https://page.line.me/852uanad?openQrModal=true"}>
-{"\r\n\t\t\t\t\t\tLine\t\t\t\t\t"}
-</SiteLink>
-</p>
-<p data-layout-node={"n416"} className={"v68 large-copy captured-style"}>
-{"\r\n\t\t\t\t\t\t@AITSCCTV\t\t\t\t\t"}
-</p>
-</div>
-</div>
-</div>
-</div>
-</div>
-<div data-layout-node={"n417"} className={"v69 section captured-style"}>
-<div data-layout-node={"n418"} className={"v3 captured-style"}>
-<div data-layout-node={"n419"} className={"v70 captured-style"}>
-<div data-layout-node={"n420"} className={"v4 captured-style"}>
-<SiteLink data-layout-node={"n421"} className={"v32 action-link captured-style"} href={"https://page.line.me/852uanad?openQrModal=true"} target={"_blank"} rel={"noopener"}>
-<span data-layout-node={"n422"} className={"v71 captured-style"}>
-<span data-layout-node={"n423"} className={"v72 captured-style"}>
-{"ปรึกษาฟรีคลิก"}
-</span>
-</span>
-</SiteLink>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
 <div data-layout-node={"n424"} className={"v100 section captured-style"}>
 <div data-layout-node={"n425"} className={"v74 captured-style"}>
 <div data-layout-node={"n426"} className={"v3 text-widget captured-style"}>
@@ -1068,304 +1070,23 @@ export default function Page4821(){return <div className="page-4821 captured-pag
 </div>
 </div>
 </div>
-<div data-layout-node={"n482"} className={"v114 section captured-style"}>
-<div data-layout-node={"n483"} className={"v74 captured-style"}>
-<div data-layout-node={"n484"} className={"v3 text-widget captured-style"}>
-<div data-layout-node={"n485"} className={"v4 text-widget captured-style"}>
-<p data-layout-node={"n486"} className={"v115 captured-style"}>
-{"WHY AITSCCTV"}
-</p>
 </div>
-</div>
-<div data-layout-node={"n487"} className={"v3 text-widget captured-style"}>
-<div data-layout-node={"n488"} className={"v4 text-widget captured-style"}>
-<h2 data-layout-node={"n489"} className={"v40 captured-style"}>
-{"ติดฟิล์มกระจกบ้าน ติดฟิล์มอาคาร ฟิล์มกันแดด"}
-<br data-layout-node={"n490"} className={"v41 captured-style"} />
-{"กับ AITSCCTV ดีอย่างไร"}
+</details>
+</section>
+<section id={"service-projects"} className={"service-stage"} data-service-stage={"projects"}>
+<div className={"service-stage-heading"}>
+<h2>
+{"ผลงานและเนื้อหาที่เกี่ยวข้อง"}
 </h2>
 </div>
-</div>
-<div data-layout-node={"n491"} className={"v116 section layout-row captured-style"}>
-<div data-layout-node={"n492"} className={"v117 captured-style"}>
-<div data-layout-node={"n493"} className={"v118 captured-style"}>
-<div data-layout-node={"n494"} className={"v119 captured-style"}>
-<figure data-layout-node={"n495"} className={"v120 media-widget captured-style"}>
-<span data-layout-node={"n496"} className={"v121 media-widget captured-style"}>
-<img data-layout-node={"n497"} className={"v122 captured-style"} src={"/assets/remote-491db29e12f57f55-responsive-512.webp"} alt={"Hand"} loading={"lazy"} decoding={"async"} width={"512"} height={"512"} srcSet={"/assets/remote-491db29e12f57f55-responsive-160.webp 160w, /assets/remote-491db29e12f57f55-responsive-320.webp 320w, /assets/remote-491db29e12f57f55-responsive-512.webp 512w"} sizes={"36px"} />
-</span>
-</figure>
-<div data-layout-node={"n498"} className={"v123 captured-style"}>
-<h3 data-layout-node={"n499"} className={"v124 captured-style"}>
-<span data-layout-node={"n500"} className={"v125 captured-style"}>
-{"ประเมินราคาติดฟิล์มกระจกบ้านได้ทันที"}
-</span>
-</h3>
-<p data-layout-node={"n501"} className={"v126 captured-style"}>
-{"เช็กราคาฟิล์มติดบ้านกับเรา อัปเดตล่าสุด คัดสรรคุณภาพ ราคาสุดคุ้ม และพร้อมให้คำปรึกษา ประเมินราคาก่อนเริ่มงาน\r\n"}
-</p>
-</div>
-</div>
-</div>
-</div>
-<div data-layout-node={"n502"} className={"v117 captured-style"}>
-<div data-layout-node={"n503"} className={"v118 captured-style"}>
-<div data-layout-node={"n504"} className={"v119 captured-style"}>
-<figure data-layout-node={"n505"} className={"v120 media-widget captured-style"}>
-<img data-layout-node={"n506"} className={"v127 captured-style"} src={"/assets/remote-4ec2380225a0077c-responsive-512.webp"} alt={"Rating"} loading={"lazy"} decoding={"async"} width={"512"} height={"512"} srcSet={"/assets/remote-4ec2380225a0077c-responsive-160.webp 160w, /assets/remote-4ec2380225a0077c-responsive-320.webp 320w, /assets/remote-4ec2380225a0077c-responsive-512.webp 512w"} sizes={"36px"} />
-</figure>
-<div data-layout-node={"n507"} className={"v123 captured-style"}>
-<h3 data-layout-node={"n508"} className={"v124 captured-style"}>
-{"คัดสรรแต่ฟิล์มจากแบรนด์ชั้นนำ"}
-</h3>
-<p data-layout-node={"n509"} className={"v126 captured-style"}>
-{"คัดสรรยี่ห้อฟิล์มติดบ้านจากแบรนด์ชั้นนำของไทย ของแท้แน่นอน"}
-</p>
-</div>
-</div>
-</div>
-</div>
-<div data-layout-node={"n510"} className={"v117 captured-style"}>
-<div data-layout-node={"n511"} className={"v118 captured-style"}>
-<div data-layout-node={"n512"} className={"v119 captured-style"}>
-<figure data-layout-node={"n513"} className={"v120 media-widget captured-style"}>
-<img data-layout-node={"n514"} className={"v127 captured-style"} src={"/assets/remote-558242ca5191e516-responsive-512.webp"} alt={"Design team"} loading={"lazy"} decoding={"async"} width={"512"} height={"512"} srcSet={"/assets/remote-558242ca5191e516-responsive-160.webp 160w, /assets/remote-558242ca5191e516-responsive-320.webp 320w, /assets/remote-558242ca5191e516-responsive-512.webp 512w"} sizes={"36px"} />
-</figure>
-<div data-layout-node={"n515"} className={"v123 captured-style"}>
-<h3 data-layout-node={"n516"} className={"v124 captured-style"}>
-{"มีทีมประเมินหน้างาน และเก็บความเรียบร้อยหลังงานเสร็จ"}
-</h3>
-<p data-layout-node={"n517"} className={"v126 captured-style"}>
-{"เช็กหน้างานก่อนติดฟิล์ม และเก็บรายละเอียดงานหลังติดฟิล์มเสร็จแล้ว"}
-</p>
-</div>
-</div>
-</div>
-</div>
-<div data-layout-node={"n518"} className={"v117 captured-style"}>
-<div data-layout-node={"n519"} className={"v118 captured-style"}>
-<div data-layout-node={"n520"} className={"v119 captured-style"}>
-<figure data-layout-node={"n521"} className={"v120 media-widget captured-style"}>
-<img data-layout-node={"n522"} className={"v127 captured-style"} src={"/assets/remote-38203e515a055b98-responsive-512.webp"} alt={"Technical support"} loading={"lazy"} decoding={"async"} width={"512"} height={"512"} srcSet={"/assets/remote-38203e515a055b98-responsive-160.webp 160w, /assets/remote-38203e515a055b98-responsive-320.webp 320w, /assets/remote-38203e515a055b98-responsive-512.webp 512w"} sizes={"36px"} />
-</figure>
-<div data-layout-node={"n523"} className={"v123 captured-style"}>
-<h3 data-layout-node={"n524"} className={"v124 captured-style"}>
-{"ให้คำปรึกษาบริการติดฟิล์มบ้านจากช่างมืออาชีพ"}
-</h3>
-<p data-layout-node={"n525"} className={"v126 captured-style"}>
-{"ให้คำปรึกษาจากช่างมืออาชีพ มากประสบการณ์ ครอบคลุมทุกพื้นที่\r\n"}
-</p>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-<div data-layout-node={"n526"} className={"v7 section captured-style"}>
-<div data-layout-node={"n527"} className={"v74 captured-style"}>
-<div data-layout-node={"n528"} className={"v3 text-widget captured-style"}>
-<div data-layout-node={"n529"} className={"v4 text-widget captured-style"}>
-<h2 data-layout-node={"n530"} className={"v40 captured-style"}>
-{"จ้างช่างติดฟิล์มกระจกบ้าน ติดฟิล์มอาคาร "}
-<br data-layout-node={"n531"} className={"v41 captured-style"} />
-{"ราคาแพงไหม เทียบราคาอัปเดตล่าสุด 2023"}
+<ServiceProjects path={"/window-film/"} />
+</section>
+<section id={"service-contact"} className={"service-stage"} data-service-stage={"contact"}>
+<div className={"service-stage-heading"}>
+<h2>
+{"ขอใบเสนอราคาและติดต่อทีมงาน"}
 </h2>
 </div>
-</div>
-<div data-layout-node={"n532"} className={"v17 captured-style"}>
-<div data-layout-node={"n533"} className={"v18 captured-style"}>
-{"\r\n\t\t\t\t\t\t\tการคำนวณค่าจ้างติดฟิล์มกระจกบ้าน ฟิล์มอาคาร สำนักงาน และบริษัท ราคาถูกหรือแพงขึ้นอยู่กับว่าจะเลือกฟิล์มติดบ้านประเภทไหน ยี่ห้อไหน เพราะราคาจะขึ้นอยู่กับคุณภาพ ความเข้ม และชนิดของฟิล์มเป็นหลัก ซึ่งราคาฟิล์มกรองแสงแต่ละประเภทฟิล์มจะมีดังนี้\t\t\t\t\t\t"}
-</div>
-</div>
-<div data-layout-node={"n534"} className={"v83 captured-style"}>
-<div data-layout-node={"n535"} className={"v84 captured-style"}>
-<div data-layout-node={"n536"} className={"v128 captured-style"}>
-<div className={"table-scroll"} role={"region"} aria-label={"ตารางเปรียบเทียบ เลื่อนเพื่อดูข้อมูลเพิ่มเติม"} tabIndex={0}>
-<table data-layout-node={"n537"} className={"v129 captured-style"}>
-<tbody data-layout-node={"n538"} className={"v130 captured-style"}>
-<tr data-layout-node={"n539"} className={"v131 captured-style"}>
-<td data-layout-node={"n540"} className={"v132 captured-style"}>
-{"\r\n                                        ประเภทฟิล์ม                    "}
-</td>
-<td data-layout-node={"n541"} className={"v133 captured-style"}>
-{"\r\n                                        ราคาติดฟิล์มต่อตารางฟุต                    "}
-</td>
-<td data-layout-node={"n542"} className={"v134 captured-style"}>
-{"\r\n                                        ราคาติดฟิล์มต่อตารางเมตร                    "}
-</td>
-</tr>
-<tr data-layout-node={"n543"} className={"v131 captured-style"}>
-<td data-layout-node={"n544"} className={"v135 captured-style"}>
-{"\r\n                                        ฟิล์มดำ                    "}
-</td>
-<td data-layout-node={"n545"} className={"v136 captured-style"}>
-{"\r\n                                        50 - 80 บาท                    "}
-</td>
-<td data-layout-node={"n546"} className={"v137 captured-style"}>
-{"\r\n                                        550 - 750 บาท                    "}
-</td>
-</tr>
-<tr data-layout-node={"n547"} className={"v131 captured-style"}>
-<td data-layout-node={"n548"} className={"v135 captured-style"}>
-{"\r\n                                        ฟิล์มปรอท                    "}
-</td>
-<td data-layout-node={"n549"} className={"v136 captured-style"}>
-{"\r\n                                        60 - 200 บาท                    "}
-</td>
-<td data-layout-node={"n550"} className={"v137 captured-style"}>
-{"\r\n                                        700  - 2500 บาท                    "}
-</td>
-</tr>
-<tr data-layout-node={"n551"} className={"v131 captured-style"}>
-<td data-layout-node={"n552"} className={"v135 captured-style"}>
-{"\r\n                                        ฟิล์มใส                    "}
-</td>
-<td data-layout-node={"n553"} className={"v136 captured-style"}>
-{"\r\n                                        60 - 500 บาท                    "}
-</td>
-<td data-layout-node={"n554"} className={"v137 captured-style"}>
-{"\r\n                                        700 - 4500 บาท                    "}
-</td>
-</tr>
-<tr data-layout-node={"n555"} className={"v131 captured-style"}>
-<td data-layout-node={"n556"} className={"v135 captured-style"}>
-{"\r\n                                        ฟิล์มเซรามิก                    "}
-</td>
-<td data-layout-node={"n557"} className={"v136 captured-style"}>
-{"\r\n                                        120 - 200 บาท                    "}
-</td>
-<td data-layout-node={"n558"} className={"v137 captured-style"}>
-{"\r\n                                        1300 - 1800 บาท                    "}
-</td>
-</tr>
-</tbody>
-</table>
-</div>
-</div>
-</div>
-</div>
-<div data-layout-node={"n559"} className={"v138 text-widget captured-style"}>
-<div data-layout-node={"n560"} className={"v139 text-widget captured-style"}>
-<p data-layout-node={"n561"} className={"v140 captured-style"}>
-<span data-layout-node={"n562"} className={"v141 captured-style"}>
-{"** ราคาขึ้นอยู่กับยี่ห้อของแบรนด์ ประเภทฟิล์ม และความเข้มของฟิล์ม"}
-</span>
-</p>
-</div>
-</div>
-</div>
-</div>
-<div data-layout-node={"n563"} className={"v45 section captured-style"}>
-<div data-layout-node={"n564"} className={"v46 layout-row captured-style"}>
-<div data-layout-node={"n565"} className={"v47 section captured-style"}>
-<div data-layout-node={"n566"} className={"v48 layout-row captured-style"}>
-<div data-layout-node={"n567"} className={"v49 section captured-style"}>
-<div data-layout-node={"n568"} className={"v50 captured-style"}>
-<div data-layout-node={"n569"} className={"v51 captured-style"}>
-<div data-layout-node={"n570"} className={"v52 layout-row captured-style"}>
-<div data-layout-node={"n571"} className={"v53 captured-style"}>
-<SiteLink data-layout-node={"n572"} className={"v54 captured-style"} href={"tel:0944606196"}>
-<i data-layout-node={"n573"} className={"v55 captured-style"}>
-
-</i>
-</SiteLink>
-</div>
-<div data-layout-node={"n574"} className={"v56 captured-style"}>
-<p data-layout-node={"n575"} className={"v57 captured-style"}>
-<SiteLink data-layout-node={"n576"} className={"v58 captured-style"} href={"tel:0944606196"}>
-{"\r\n\t\t\t\t\t\tให้คำปรึกษาฟรี\t\t\t\t\t"}
-</SiteLink>
-</p>
-<p data-layout-node={"n577"} className={"v59 large-copy captured-style"}>
-{"\r\n\t\t\t\t\t\t094 460 6196\t\t\t\t\t"}
-</p>
-</div>
-</div>
-</div>
-</div>
-</div>
-<div data-layout-node={"n578"} className={"v60 section captured-style"}>
-<div data-layout-node={"n579"} className={"v61 captured-style"}>
-<div data-layout-node={"n580"} className={"v62 captured-style"}>
-<div data-layout-node={"n581"} className={"v63 layout-row captured-style"}>
-<div data-layout-node={"n582"} className={"v64 captured-style"}>
-<SiteLink data-layout-node={"n583"} className={"v54 captured-style"} href={"https://page.line.me/852uanad?openQrModal=true"}>
-<i data-layout-node={"n584"} className={"v65 captured-style"}>
-
-</i>
-</SiteLink>
-</div>
-<div data-layout-node={"n585"} className={"v66 captured-style"}>
-<p data-layout-node={"n586"} className={"v67 captured-style"}>
-<SiteLink data-layout-node={"n587"} className={"v58 captured-style"} href={"https://page.line.me/852uanad?openQrModal=true"}>
-{"\r\n\t\t\t\t\t\tLine\t\t\t\t\t"}
-</SiteLink>
-</p>
-<p data-layout-node={"n588"} className={"v68 large-copy captured-style"}>
-{"\r\n\t\t\t\t\t\t@AITSCCTV\t\t\t\t\t"}
-</p>
-</div>
-</div>
-</div>
-</div>
-</div>
-<div data-layout-node={"n589"} className={"v69 section captured-style"}>
-<div data-layout-node={"n590"} className={"v3 captured-style"}>
-<div data-layout-node={"n591"} className={"v70 captured-style"}>
-<div data-layout-node={"n592"} className={"v4 captured-style"}>
-<SiteLink data-layout-node={"n593"} className={"v32 action-link captured-style"} href={"https://page.line.me/852uanad?openQrModal=true"} target={"_blank"} rel={"noopener"}>
-<span data-layout-node={"n594"} className={"v71 captured-style"}>
-<span data-layout-node={"n595"} className={"v72 captured-style"}>
-{"ปรึกษาฟรีคลิก"}
-</span>
-</span>
-</SiteLink>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-<div data-layout-node={"n609"} className={"v145 section captured-style"}>
-<div data-layout-node={"n610"} className={"v146 captured-style"}>
-<div data-layout-node={"n611"} className={"v3 text-widget captured-style"}>
-<div data-layout-node={"n612"} className={"v4 text-widget captured-style"}>
-<p data-layout-node={"n613"} className={"v147 large-copy captured-style"}>
-{"\" Let AITS Set Standard  ให้เราได้สร้างมาตรฐาน \"\r\n "}
-</p>
-</div>
-</div>
-<div data-layout-node={"n614"} className={"v148 section layout-row captured-style"}>
-<div data-layout-node={"n615"} className={"v149 captured-style"}>
-<div data-layout-node={"n616"} className={"v4 captured-style"}>
-<div data-layout-node={"n617"} className={"v4 captured-style"}>
-<SiteLink data-layout-node={"n618"} className={"v150 action-link captured-style"} href={"tel:0944606196"}>
-<span data-layout-node={"n619"} className={"v151 captured-style"}>
-<span data-layout-node={"n620"} className={"v152 captured-style"}>
-{"โทรหาเรา"}
-</span>
-</span>
-</SiteLink>
-</div>
-</div>
-</div>
-<div data-layout-node={"n621"} className={"v149 captured-style"}>
-<div data-layout-node={"n622"} className={"v4 captured-style"}>
-<div data-layout-node={"n623"} className={"v4 captured-style"}>
-<SiteLink data-layout-node={"n624"} className={"v153 action-link captured-style"} href={"https://page.line.me/852uanad?openQrModal=true"} target={"_blank"} rel={"noopener"}>
-<span data-layout-node={"n625"} className={"v154 captured-style"}>
-<span data-layout-node={"n626"} className={"v155 captured-style"}>
-{"ปรึกษาฟรีคลิก"}
-</span>
-</span>
-</SiteLink>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
+<ServiceContact path={"/window-film/"} />
+</section>
 </div></div>}

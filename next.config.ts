@@ -7,6 +7,8 @@ const config:NextConfig={
   output:'export',
   basePath:'/website',
   images:{unoptimized:true},
- }:{}),
+ }:{
+  async redirects(){return [{source:'/blog/',destination:'/articles/',permanent:true}]},
+ }),
 };
 export default config;

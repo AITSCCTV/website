@@ -4,7 +4,9 @@ import {SiteLink} from "../components/SiteLink";
 import {VideoFrame} from "../components/VideoFrame";
 import {LogoCarousel} from "../components/LogoCarousel";
 import {ContactPhone} from "../components/ContactPhone";
+import {ServiceTrust,ServiceContents,ServiceBenefits,ServicePricing,ServiceWarranty,ServiceProjects,ServiceContact,AboutTeamGallery} from "../components/ServiceContent";
 export default function Page5116(){return <div className="page-5116 captured-page"><div data-layout-node={"n0"} className={"v0 captured-style"}>
+<section id={"service-overview"} className={"service-stage"} data-service-stage={"overview"}>
 <div data-layout-node={"n1"} className={"v1 section captured-style"}>
 <div data-layout-node={"n2"} className={"v2 captured-style"}>
 <div data-layout-node={"n3"} className={"v3 text-widget captured-style"}>
@@ -79,6 +81,100 @@ export default function Page5116(){return <div className="page-5116 captured-pag
 </div>
 </div>
 </div>
+<ServiceTrust />
+</section>
+<ServiceContents />
+<section id={"service-benefits"} className={"service-stage"} data-service-stage={"benefits"}>
+<div className={"service-stage-heading"}>
+<h2>
+{"ประโยชน์และการใช้งาน"}
+</h2>
+</div>
+<ServiceBenefits path={"/internet-system/access-point/"} />
+<details className={"service-detail"}>
+<summary>
+{"รายละเอียดประโยชน์และการใช้งาน"}
+</summary>
+<div className={"service-detail-content"}>
+<div data-layout-node={"n145"} className={"v80 section captured-style"}>
+<div data-layout-node={"n146"} className={"v79 captured-style"}>
+<div data-layout-node={"n147"} className={"v3 text-widget captured-style"}>
+<div data-layout-node={"n148"} className={"v4 text-widget captured-style"}>
+<h3 data-layout-node={"n149"} className={"v8 captured-style"}>
+{"ตัวขยายสัญญาณ WiFi ใช้ได้จริงไหม "}
+<br data-layout-node={"n150"} className={"v81 captured-style"} />
+{"และข้อดีของการติดตั้งตัวขยายสัญญาณ"}
+</h3>
+</div>
+</div>
+<div data-layout-node={"n151"} className={"v13 text-widget captured-style"}>
+<div data-layout-node={"n152"} className={"v14 text-widget captured-style"}>
+<p data-layout-node={"n153"} className={"v15 captured-style"}>
+{"สำหรับใครที่ต้องการติดตั้ง "}
+<span data-layout-node={"n154"} className={"v16 captured-style"}>
+<SiteLink data-layout-node={"n155"} className={"v16 captured-style"} href={"https://th.wikipedia.org/wiki/%E0%B9%81%E0%B8%AD%E0%B8%84%E0%B9%80%E0%B8%8B%E0%B8%AA%E0%B8%9E%E0%B8%AD%E0%B8%A2%E0%B8%95%E0%B9%8C%E0%B9%84%E0%B8%A3%E0%B9%89%E0%B8%AA%E0%B8%B2%E0%B8%A2"}>
+{"Access Point"}
+</SiteLink>
+</span>
+{" แล้วสงสัยว่า ตัวขยายสัญญาณ WiFi ใช้ได้จริงไหมนั้น สามารถใช้ได้จริงและมีประโยชน์มากมาย โดยขึ้นอยู่กับสถานการณ์และวัตถุประสงค์ของการใช้งาน"}
+</p>
+</div>
+</div>
+<div data-layout-node={"n156"} className={"v13 captured-style"}>
+<div data-layout-node={"n157"} className={"v14 captured-style"}>
+<ol data-layout-node={"n158"} className={"v82 captured-style"}>
+<li data-layout-node={"n159"} className={"v83 captured-style"}>
+<strong data-layout-node={"n160"} className={"v84 captured-style"}>
+{"ช่วยให้ขยายสัญญาณ WiFi ด้วย Router ขยายพื้นที่ได้อย่างครอบคลุม"}
+</strong>
+<br data-layout-node={"n161"} className={"v85 captured-style"} />
+{"ไม่ว่าจะอยู่ในอาคาร หรือในบ้าน ก็สามารถใช้อินเทอร์เน็ตได้อย่างไม่มีสะดุด"}
+<br data-layout-node={"n162"} className={"v85 captured-style"} />
+{"ความสะดวกในการติดตั้ง"}
+</li>
+<li data-layout-node={"n163"} className={"v83 captured-style"}>
+<strong data-layout-node={"n164"} className={"v84 captured-style"}>
+{"การติดตั้งตัวขยายสัญญาณ WiFi ง่าย"}
+</strong>
+<br data-layout-node={"n165"} className={"v85 captured-style"} />
+{"แค่มีผู้เชี่ยวชาญมาเข้าช่วยติดตั้งสัญญาณขยายไวไฟ ไม่ต้องเสียเวลาเยอะ สามารถติดตั้งเสร็จภายในวันเดียว"}
+</li>
+<li data-layout-node={"n166"} className={"v83 captured-style"}>
+<strong data-layout-node={"n167"} className={"v84 captured-style"}>
+{"ลดปัญหาสัญญาณอ่อน"}
+</strong>
+<br data-layout-node={"n168"} className={"v85 captured-style"} />
+{"ตัวขยายสัญญาณ WiFi ช่วยให้คุณสามารถเชื่อมต่ออุปกรณ์ของคุณและเล่น Network ได้เร็วขึ้น"}
+</li>
+<li data-layout-node={"n169"} className={"v83 captured-style"}>
+<strong data-layout-node={"n170"} className={"v84 captured-style"}>
+{"รองรับหลายอุปกรณ์"}
+</strong>
+<br data-layout-node={"n171"} className={"v85 captured-style"} />
+{"ตัวขยายสัญญาณ WiFi ช่วยให้คุณสามารถเชื่อมต่อหลายอุปกรณ์ไร้สายในบริเวณเดียว ซึ่งเหมาะสำหรับครอบครัวหรือสถานที่ที่มีการใช้งานหลายอุปกรณ์พร้อมกัน"}
+</li>
+<li data-layout-node={"n172"} className={"v83 captured-style"}>
+<strong data-layout-node={"n173"} className={"v84 captured-style"}>
+{"ราคาไม่แพง"}
+</strong>
+<br data-layout-node={"n174"} className={"v85 captured-style"} />
+{"ตัวขยายสัญญาไวไฟ และการติดตั้งนั้นราคาไม่แพง และคุ้มค่าแก่การติดตั้ง"}
+</li>
+</ol>
+</div>
+</div>
+</div>
+</div>
+</div>
+</details>
+</section>
+<section id={"service-options"} className={"service-stage"} data-service-stage={"options"}>
+<div className={"service-stage-heading"}>
+<h2>
+{"รูปแบบบริการและราคา"}
+</h2>
+</div>
+<ServicePricing path={"/internet-system/access-point/"} />
 <div data-layout-node={"n35"} className={"v23 section captured-style"}>
 <div data-layout-node={"n36"} className={"v24 captured-style"}>
 <div data-layout-node={"n37"} className={"v3 text-widget captured-style"}>
@@ -230,79 +326,12 @@ export default function Page5116(){return <div className="page-5116 captured-pag
 </div>
 </div>
 </div>
-<div data-layout-node={"n102"} className={"v49 section captured-style"}>
-<div data-layout-node={"n103"} className={"v50 layout-row captured-style"}>
-<div data-layout-node={"n104"} className={"v51 section captured-style"}>
-<div data-layout-node={"n105"} className={"v52 layout-row captured-style"}>
-<div data-layout-node={"n106"} className={"v53 section captured-style"}>
-<div data-layout-node={"n107"} className={"v54 captured-style"}>
-<div data-layout-node={"n108"} className={"v55 captured-style"}>
-<div data-layout-node={"n109"} className={"v56 layout-row captured-style"}>
-<div data-layout-node={"n110"} className={"v57 captured-style"}>
-<SiteLink data-layout-node={"n111"} className={"v58 captured-style"} href={"tel:0944606196"}>
-<i data-layout-node={"n112"} className={"v59 captured-style"}>
-
-</i>
-</SiteLink>
-</div>
-<div data-layout-node={"n113"} className={"v60 captured-style"}>
-<h2 data-layout-node={"n114"} className={"v61 captured-style"}>
-<SiteLink data-layout-node={"n115"} className={"v62 captured-style"} href={"tel:0944606196"}>
-{"\r\n\t\t\t\t\t\tให้คำปรึกษาฟรี\t\t\t\t\t"}
-</SiteLink>
-</h2>
-<p data-layout-node={"n116"} className={"v63 large-copy captured-style"}>
-{"\r\n\t\t\t\t\t\t094 460 6196\t\t\t\t\t"}
-</p>
-</div>
-</div>
-</div>
-</div>
-</div>
-<div data-layout-node={"n117"} className={"v64 section captured-style"}>
-<div data-layout-node={"n118"} className={"v65 captured-style"}>
-<div data-layout-node={"n119"} className={"v66 captured-style"}>
-<div data-layout-node={"n120"} className={"v67 layout-row captured-style"}>
-<div data-layout-node={"n121"} className={"v68 captured-style"}>
-<SiteLink data-layout-node={"n122"} className={"v58 captured-style"} href={"https://page.line.me/852uanad?openQrModal=true"}>
-<i data-layout-node={"n123"} className={"v69 captured-style"}>
-
-</i>
-</SiteLink>
-</div>
-<div data-layout-node={"n124"} className={"v70 captured-style"}>
-<p data-layout-node={"n125"} className={"v71 captured-style"}>
-<SiteLink data-layout-node={"n126"} className={"v72 captured-style"} href={"https://page.line.me/852uanad?openQrModal=true"}>
-{"\r\n\t\t\t\t\t\tLine\t\t\t\t\t"}
-</SiteLink>
-</p>
-<p data-layout-node={"n127"} className={"v73 large-copy captured-style"}>
-{"\r\n\t\t\t\t\t\t@AITSCCTV\t\t\t\t\t"}
-</p>
-</div>
-</div>
-</div>
-</div>
-</div>
-<div data-layout-node={"n128"} className={"v74 section captured-style"}>
-<div data-layout-node={"n129"} className={"v3 captured-style"}>
-<div data-layout-node={"n130"} className={"v75 captured-style"}>
-<div data-layout-node={"n131"} className={"v4 captured-style"}>
-<SiteLink data-layout-node={"n132"} className={"v33 action-link captured-style"} href={"https://page.line.me/852uanad?openQrModal=true"} target={"_blank"} rel={"noopener"}>
-<span data-layout-node={"n133"} className={"v76 captured-style"}>
-<span data-layout-node={"n134"} className={"v77 captured-style"}>
-{"ปรึกษาฟรีคลิก"}
-</span>
-</span>
-</SiteLink>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
+<ServiceWarranty path={"/internet-system/access-point/"} />
+<details className={"service-detail"}>
+<summary>
+{"รายละเอียดทางเทคนิคและแนวทางเลือกใช้งาน"}
+</summary>
+<div className={"service-detail-content"}>
 <div data-layout-node={"n135"} className={"v78 section captured-style"}>
 <div data-layout-node={"n136"} className={"v79 captured-style"}>
 <div data-layout-node={"n137"} className={"v3 text-widget captured-style"}>
@@ -322,75 +351,6 @@ export default function Page5116(){return <div className="page-5116 captured-pag
 </span>
 {" เป็นอุปกรณ์ที่ใช้ในเครือข่ายไร้สายเพื่อเชื่อมต่อเครือข่ายข้อมูลในรูปแบบไร้สายให้กับอุปกรณ์แบบไร้สายอื่น ๆ อาทิเช่น คอมพิวเตอร์, โทรศัพท์มือถือ, แท็บเล็ต, หรืออุปกรณ์อื่น ๆ ที่สามารถเชื่อมต่อกับเครือข่าย WiFi ได้ เพื่อให้ใช้งาน Network ได้รวดเร็วมากที่สุด มีบทบาทสำคัญในบางสถานการณ์ โดยเฉพาะเมื่อคุณต้องการขยายสัญญาณ WiFi ไปยังบริเวณระยะไกลที่มีการอับสัญญาณ หรือสัญญาณเข้าไม่ถึง"}
 </p>
-</div>
-</div>
-</div>
-</div>
-<div data-layout-node={"n145"} className={"v80 section captured-style"}>
-<div data-layout-node={"n146"} className={"v79 captured-style"}>
-<div data-layout-node={"n147"} className={"v3 text-widget captured-style"}>
-<div data-layout-node={"n148"} className={"v4 text-widget captured-style"}>
-<h3 data-layout-node={"n149"} className={"v8 captured-style"}>
-{"ตัวขยายสัญญาณ WiFi ใช้ได้จริงไหม "}
-<br data-layout-node={"n150"} className={"v81 captured-style"} />
-{"และข้อดีของการติดตั้งตัวขยายสัญญาณ"}
-</h3>
-</div>
-</div>
-<div data-layout-node={"n151"} className={"v13 text-widget captured-style"}>
-<div data-layout-node={"n152"} className={"v14 text-widget captured-style"}>
-<p data-layout-node={"n153"} className={"v15 captured-style"}>
-{"สำหรับใครที่ต้องการติดตั้ง "}
-<span data-layout-node={"n154"} className={"v16 captured-style"}>
-<SiteLink data-layout-node={"n155"} className={"v16 captured-style"} href={"https://th.wikipedia.org/wiki/%E0%B9%81%E0%B8%AD%E0%B8%84%E0%B9%80%E0%B8%8B%E0%B8%AA%E0%B8%9E%E0%B8%AD%E0%B8%A2%E0%B8%95%E0%B9%8C%E0%B9%84%E0%B8%A3%E0%B9%89%E0%B8%AA%E0%B8%B2%E0%B8%A2"}>
-{"Access Point"}
-</SiteLink>
-</span>
-{" แล้วสงสัยว่า ตัวขยายสัญญาณ WiFi ใช้ได้จริงไหมนั้น สามารถใช้ได้จริงและมีประโยชน์มากมาย โดยขึ้นอยู่กับสถานการณ์และวัตถุประสงค์ของการใช้งาน"}
-</p>
-</div>
-</div>
-<div data-layout-node={"n156"} className={"v13 captured-style"}>
-<div data-layout-node={"n157"} className={"v14 captured-style"}>
-<ol data-layout-node={"n158"} className={"v82 captured-style"}>
-<li data-layout-node={"n159"} className={"v83 captured-style"}>
-<strong data-layout-node={"n160"} className={"v84 captured-style"}>
-{"ช่วยให้ขยายสัญญาณ WiFi ด้วย Router ขยายพื้นที่ได้อย่างครอบคลุม"}
-</strong>
-<br data-layout-node={"n161"} className={"v85 captured-style"} />
-{"ไม่ว่าจะอยู่ในอาคาร หรือในบ้าน ก็สามารถใช้อินเทอร์เน็ตได้อย่างไม่มีสะดุด"}
-<br data-layout-node={"n162"} className={"v85 captured-style"} />
-{"ความสะดวกในการติดตั้ง"}
-</li>
-<li data-layout-node={"n163"} className={"v83 captured-style"}>
-<strong data-layout-node={"n164"} className={"v84 captured-style"}>
-{"การติดตั้งตัวขยายสัญญาณ WiFi ง่าย"}
-</strong>
-<br data-layout-node={"n165"} className={"v85 captured-style"} />
-{"แค่มีผู้เชี่ยวชาญมาเข้าช่วยติดตั้งสัญญาณขยายไวไฟ ไม่ต้องเสียเวลาเยอะ สามารถติดตั้งเสร็จภายในวันเดียว"}
-</li>
-<li data-layout-node={"n166"} className={"v83 captured-style"}>
-<strong data-layout-node={"n167"} className={"v84 captured-style"}>
-{"ลดปัญหาสัญญาณอ่อน"}
-</strong>
-<br data-layout-node={"n168"} className={"v85 captured-style"} />
-{"ตัวขยายสัญญาณ WiFi ช่วยให้คุณสามารถเชื่อมต่ออุปกรณ์ของคุณและเล่น Network ได้เร็วขึ้น"}
-</li>
-<li data-layout-node={"n169"} className={"v83 captured-style"}>
-<strong data-layout-node={"n170"} className={"v84 captured-style"}>
-{"รองรับหลายอุปกรณ์"}
-</strong>
-<br data-layout-node={"n171"} className={"v85 captured-style"} />
-{"ตัวขยายสัญญาณ WiFi ช่วยให้คุณสามารถเชื่อมต่อหลายอุปกรณ์ไร้สายในบริเวณเดียว ซึ่งเหมาะสำหรับครอบครัวหรือสถานที่ที่มีการใช้งานหลายอุปกรณ์พร้อมกัน"}
-</li>
-<li data-layout-node={"n172"} className={"v83 captured-style"}>
-<strong data-layout-node={"n173"} className={"v84 captured-style"}>
-{"ราคาไม่แพง"}
-</strong>
-<br data-layout-node={"n174"} className={"v85 captured-style"} />
-{"ตัวขยายสัญญาไวไฟ และการติดตั้งนั้นราคาไม่แพง และคุ้มค่าแก่การติดตั้ง"}
-</li>
-</ol>
 </div>
 </div>
 </div>
@@ -648,192 +608,23 @@ export default function Page5116(){return <div className="page-5116 captured-pag
 </div>
 </div>
 </div>
-<div data-layout-node={"n291"} className={"v49 section captured-style"}>
-<div data-layout-node={"n292"} className={"v50 layout-row captured-style"}>
-<div data-layout-node={"n293"} className={"v51 section captured-style"}>
-<div data-layout-node={"n294"} className={"v52 layout-row captured-style"}>
-<div data-layout-node={"n295"} className={"v53 section captured-style"}>
-<div data-layout-node={"n296"} className={"v54 captured-style"}>
-<div data-layout-node={"n297"} className={"v55 captured-style"}>
-<div data-layout-node={"n298"} className={"v56 layout-row captured-style"}>
-<div data-layout-node={"n299"} className={"v57 captured-style"}>
-<SiteLink data-layout-node={"n300"} className={"v58 captured-style"} href={"tel:0944606196"}>
-<i data-layout-node={"n301"} className={"v59 captured-style"}>
-
-</i>
-</SiteLink>
 </div>
-<div data-layout-node={"n302"} className={"v60 captured-style"}>
-<h2 data-layout-node={"n303"} className={"v61 captured-style"}>
-<SiteLink data-layout-node={"n304"} className={"v62 captured-style"} href={"tel:0944606196"}>
-{"\r\n\t\t\t\t\t\tให้คำปรึกษาฟรี\t\t\t\t\t"}
-</SiteLink>
-</h2>
-<p data-layout-node={"n305"} className={"v63 large-copy captured-style"}>
-{"\r\n\t\t\t\t\t\t094 460 6196\t\t\t\t\t"}
-</p>
-</div>
-</div>
-</div>
-</div>
-</div>
-<div data-layout-node={"n306"} className={"v64 section captured-style"}>
-<div data-layout-node={"n307"} className={"v65 captured-style"}>
-<div data-layout-node={"n308"} className={"v66 captured-style"}>
-<div data-layout-node={"n309"} className={"v67 layout-row captured-style"}>
-<div data-layout-node={"n310"} className={"v68 captured-style"}>
-<SiteLink data-layout-node={"n311"} className={"v58 captured-style"} href={"https://page.line.me/852uanad?openQrModal=true"}>
-<i data-layout-node={"n312"} className={"v69 captured-style"}>
-
-</i>
-</SiteLink>
-</div>
-<div data-layout-node={"n313"} className={"v70 captured-style"}>
-<p data-layout-node={"n314"} className={"v71 captured-style"}>
-<SiteLink data-layout-node={"n315"} className={"v72 captured-style"} href={"https://page.line.me/852uanad?openQrModal=true"}>
-{"\r\n\t\t\t\t\t\tLine\t\t\t\t\t"}
-</SiteLink>
-</p>
-<p data-layout-node={"n316"} className={"v73 large-copy captured-style"}>
-{"\r\n\t\t\t\t\t\t@AITSCCTV\t\t\t\t\t"}
-</p>
-</div>
-</div>
-</div>
-</div>
-</div>
-<div data-layout-node={"n317"} className={"v74 section captured-style"}>
-<div data-layout-node={"n318"} className={"v3 captured-style"}>
-<div data-layout-node={"n319"} className={"v75 captured-style"}>
-<div data-layout-node={"n320"} className={"v4 captured-style"}>
-<SiteLink data-layout-node={"n321"} className={"v33 action-link captured-style"} href={"https://page.line.me/852uanad?openQrModal=true"} target={"_blank"} rel={"noopener"}>
-<span data-layout-node={"n322"} className={"v76 captured-style"}>
-<span data-layout-node={"n323"} className={"v77 captured-style"}>
-{"ปรึกษาฟรีคลิก"}
-</span>
-</span>
-</SiteLink>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-<div data-layout-node={"n324"} className={"v7 section captured-style"}>
-<div data-layout-node={"n325"} className={"v79 captured-style"}>
-<div data-layout-node={"n326"} className={"v3 text-widget captured-style"}>
-<div data-layout-node={"n327"} className={"v4 text-widget captured-style"}>
-<h2 data-layout-node={"n328"} className={"v8 captured-style"}>
-{"รวมผลงานลูกค้าที่ติดตั้งตัวกระจายสัญญาณ WiFi กับเรา"}
+</details>
+</section>
+<section id={"service-projects"} className={"service-stage"} data-service-stage={"projects"}>
+<div className={"service-stage-heading"}>
+<h2>
+{"ผลงานและเนื้อหาที่เกี่ยวข้อง"}
 </h2>
 </div>
-</div>
-<div data-layout-node={"n329"} className={"v41 captured-style"}>
-<div data-layout-node={"n330"} className={"v112 captured-style"}>
-<div data-layout-node={"n331"} className={"v113 captured-style"}>
-<LogoCarousel items={[<Fragment key={0}> <div data-layout-node={"n333"} className={"v115 media-widget captured-style"}>
-<figure data-layout-node={"n334"} className={"v116 media-widget captured-style"}>
-<img data-layout-node={"n335"} className={"v117 captured-style"} src={"/assets/remote-7a173528c46ff9d8-responsive-640.webp"} alt={"7 star logo white 1"} loading={"lazy"} decoding={"async"} width={"1024"} height={"572"} srcSet={"/assets/remote-7a173528c46ff9d8-responsive-160.webp 160w, /assets/remote-7a173528c46ff9d8-responsive-320.webp 320w, /assets/remote-7a173528c46ff9d8-responsive-640.webp 640w, /assets/remote-7a173528c46ff9d8-responsive-1024.webp 1024w"} sizes={"(max-width: 640px) calc(100vw - 40px), (max-width: 1024px) 50vw, 360px"} />
-</figure>
-</div> </Fragment>,<Fragment key={1}> <div data-layout-node={"n336"} className={"v115 media-widget captured-style"}>
-<figure data-layout-node={"n337"} className={"v116 media-widget captured-style"}>
-<img data-layout-node={"n338"} className={"v117 captured-style"} src={"/assets/remote-990ec438cdaa232f-responsive-640.webp"} alt={"7 ptt logo white 1"} loading={"lazy"} decoding={"async"} width={"1024"} height={"572"} srcSet={"/assets/remote-990ec438cdaa232f-responsive-160.webp 160w, /assets/remote-990ec438cdaa232f-responsive-320.webp 320w, /assets/remote-990ec438cdaa232f-responsive-640.webp 640w, /assets/remote-990ec438cdaa232f-responsive-1024.webp 1024w"} sizes={"(max-width: 640px) calc(100vw - 40px), (max-width: 1024px) 50vw, 360px"} />
-</figure>
-</div> </Fragment>,<Fragment key={2}> <div data-layout-node={"n339"} className={"v115 media-widget captured-style"}>
-<figure data-layout-node={"n340"} className={"v116 media-widget captured-style"}>
-<img data-layout-node={"n341"} className={"v117 captured-style"} src={"/assets/remote-1cd49c676fad66e8-responsive-640.webp"} alt={"6 ptt logo white 1"} loading={"lazy"} decoding={"async"} width={"1024"} height={"572"} srcSet={"/assets/remote-1cd49c676fad66e8-responsive-160.webp 160w, /assets/remote-1cd49c676fad66e8-responsive-320.webp 320w, /assets/remote-1cd49c676fad66e8-responsive-640.webp 640w, /assets/remote-1cd49c676fad66e8-responsive-1024.webp 1024w"} sizes={"(max-width: 640px) calc(100vw - 40px), (max-width: 1024px) 50vw, 360px"} />
-</figure>
-</div> </Fragment>,<Fragment key={3}> <div data-layout-node={"n342"} className={"v115 media-widget captured-style"}>
-<figure data-layout-node={"n343"} className={"v116 media-widget captured-style"}>
-<img data-layout-node={"n344"} className={"v117 captured-style"} src={"/assets/remote-43621ab7b55f699c-responsive-640.webp"} alt={"5 ptt logo white 1"} loading={"lazy"} decoding={"async"} width={"1024"} height={"572"} srcSet={"/assets/remote-43621ab7b55f699c-responsive-160.webp 160w, /assets/remote-43621ab7b55f699c-responsive-320.webp 320w, /assets/remote-43621ab7b55f699c-responsive-640.webp 640w, /assets/remote-43621ab7b55f699c-responsive-1024.webp 1024w"} sizes={"(max-width: 640px) calc(100vw - 40px), (max-width: 1024px) 50vw, 360px"} />
-</figure>
-</div> </Fragment>,<Fragment key={4}> <div data-layout-node={"n345"} className={"v115 media-widget captured-style"}>
-<figure data-layout-node={"n346"} className={"v116 media-widget captured-style"}>
-<img data-layout-node={"n347"} className={"v117 captured-style"} src={"/assets/remote-9ddfcf6fcbd1db43-responsive-640.webp"} alt={"4 ptt logo white 1"} loading={"lazy"} decoding={"async"} width={"1024"} height={"572"} srcSet={"/assets/remote-9ddfcf6fcbd1db43-responsive-160.webp 160w, /assets/remote-9ddfcf6fcbd1db43-responsive-320.webp 320w, /assets/remote-9ddfcf6fcbd1db43-responsive-640.webp 640w, /assets/remote-9ddfcf6fcbd1db43-responsive-1024.webp 1024w"} sizes={"(max-width: 640px) calc(100vw - 40px), (max-width: 1024px) 50vw, 360px"} />
-</figure>
-</div> </Fragment>,<Fragment key={5}> <div data-layout-node={"n348"} className={"v115 media-widget captured-style"}>
-<figure data-layout-node={"n349"} className={"v116 media-widget captured-style"}>
-<img data-layout-node={"n350"} className={"v117 captured-style"} src={"/assets/remote-7f2ed1d7d9adbaea-responsive-640.webp"} alt={"3 bts logo white 1"} loading={"lazy"} decoding={"async"} width={"1024"} height={"572"} srcSet={"/assets/remote-7f2ed1d7d9adbaea-responsive-160.webp 160w, /assets/remote-7f2ed1d7d9adbaea-responsive-320.webp 320w, /assets/remote-7f2ed1d7d9adbaea-responsive-640.webp 640w, /assets/remote-7f2ed1d7d9adbaea-responsive-1024.webp 1024w"} sizes={"(max-width: 640px) calc(100vw - 40px), (max-width: 1024px) 50vw, 360px"} />
-</figure>
-</div> </Fragment>,<Fragment key={6}> <div data-layout-node={"n351"} className={"v115 media-widget captured-style"}>
-<figure data-layout-node={"n352"} className={"v116 media-widget captured-style"}>
-<img data-layout-node={"n353"} className={"v117 captured-style"} src={"/assets/remote-910495e42dd81324-responsive-640.webp"} alt={"2 btu logo white"} loading={"lazy"} decoding={"async"} width={"1024"} height={"572"} srcSet={"/assets/remote-910495e42dd81324-responsive-160.webp 160w, /assets/remote-910495e42dd81324-responsive-320.webp 320w, /assets/remote-910495e42dd81324-responsive-640.webp 640w, /assets/remote-910495e42dd81324-responsive-1024.webp 1024w"} sizes={"(max-width: 640px) calc(100vw - 40px), (max-width: 1024px) 50vw, 360px"} />
-</figure>
-</div> </Fragment>,<Fragment key={7}> <div data-layout-node={"n354"} className={"v115 media-widget captured-style"}>
-<figure data-layout-node={"n355"} className={"v116 media-widget captured-style"}>
-<img data-layout-node={"n356"} className={"v117 captured-style"} src={"/assets/remote-8b85f97ee6ce7ad9-responsive-640.webp"} alt={"logo"} loading={"lazy"} decoding={"async"} width={"1024"} height={"572"} srcSet={"/assets/remote-8b85f97ee6ce7ad9-responsive-160.webp 160w, /assets/remote-8b85f97ee6ce7ad9-responsive-320.webp 320w, /assets/remote-8b85f97ee6ce7ad9-responsive-640.webp 640w, /assets/remote-8b85f97ee6ce7ad9-responsive-1024.webp 1024w"} sizes={"(max-width: 640px) calc(100vw - 40px), (max-width: 1024px) 50vw, 360px"} />
-</figure>
-</div> </Fragment>]} />
-<div data-layout-node={"n357"} className={"v118 design-overlay captured-style"}>
-<span data-layout-node={"n358"} className={"v119 captured-style"}>
-
-</span>
-<span data-layout-node={"n359"} className={"v120 captured-style"}>
-
-</span>
-<span data-layout-node={"n360"} className={"v120 captured-style"}>
-
-</span>
-<span data-layout-node={"n361"} className={"v120 captured-style"}>
-
-</span>
-<span data-layout-node={"n362"} className={"v120 captured-style"}>
-
-</span>
-<span data-layout-node={"n363"} className={"v120 captured-style"}>
-
-</span>
-<span data-layout-node={"n364"} className={"v120 captured-style"}>
-
-</span>
-<span data-layout-node={"n365"} className={"v120 captured-style"}>
-
-</span>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-<div data-layout-node={"n386"} className={"v131 section captured-style"}>
-<div data-layout-node={"n387"} className={"v132 captured-style"}>
-<div data-layout-node={"n388"} className={"v3 text-widget captured-style"}>
-<div data-layout-node={"n389"} className={"v4 text-widget captured-style"}>
-<h2 data-layout-node={"n390"} className={"v133 captured-style"}>
-{"\" Let AITS Set Standard  ให้เราได้สร้างมาตรฐาน \"\r\n "}
+<ServiceProjects path={"/internet-system/access-point/"} />
+</section>
+<section id={"service-contact"} className={"service-stage"} data-service-stage={"contact"}>
+<div className={"service-stage-heading"}>
+<h2>
+{"ขอใบเสนอราคาและติดต่อทีมงาน"}
 </h2>
 </div>
-</div>
-<div data-layout-node={"n391"} className={"v134 section layout-row captured-style"}>
-<div data-layout-node={"n392"} className={"v135 captured-style"}>
-<div data-layout-node={"n393"} className={"v4 captured-style"}>
-<div data-layout-node={"n394"} className={"v4 captured-style"}>
-<SiteLink data-layout-node={"n395"} className={"v136 action-link captured-style"} href={"tel:0944606196"}>
-<span data-layout-node={"n396"} className={"v137 captured-style"}>
-<span data-layout-node={"n397"} className={"v138 captured-style"}>
-{"โทรหาเรา"}
-</span>
-</span>
-</SiteLink>
-</div>
-</div>
-</div>
-<div data-layout-node={"n398"} className={"v135 captured-style"}>
-<div data-layout-node={"n399"} className={"v4 captured-style"}>
-<div data-layout-node={"n400"} className={"v4 captured-style"}>
-<SiteLink data-layout-node={"n401"} className={"v139 action-link captured-style"} href={"https://page.line.me/852uanad?openQrModal=true"} target={"_blank"} rel={"noopener"}>
-<span data-layout-node={"n402"} className={"v140 captured-style"}>
-<span data-layout-node={"n403"} className={"v141 captured-style"}>
-{"ปรึกษาฟรีคลิก"}
-</span>
-</span>
-</SiteLink>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
+<ServiceContact path={"/internet-system/access-point/"} />
+</section>
 </div></div>}
