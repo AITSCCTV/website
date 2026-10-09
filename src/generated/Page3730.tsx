@@ -11,7 +11,7 @@ export default function Page3730(){return <div className="page-3730 captured-pag
 <div data-layout-node={"n2"} className={"v2 captured-style"}>
 <div data-layout-node={"n3"} className={"v3 text-widget captured-style"}>
 <div data-layout-node={"n4"} className={"v4 text-widget captured-style"}>
-<p data-layout-node={"n5"} className={"v5 captured-style"}>
+<p data-layout-node={"n5"} className={"v5 accessible-accent-dark captured-style"}>
 {"INTERNET SERVICE"}
 </p>
 </div>
@@ -29,7 +29,7 @@ export default function Page3730(){return <div className="page-3730 captured-pag
 <div data-layout-node={"n10"} className={"v8 captured-style"}>
 <div data-layout-node={"n11"} className={"v3 media-widget captured-style"}>
 <div data-layout-node={"n12"} className={"v4 media-widget captured-style"}>
-<img data-layout-node={"n13"} className={"v9 captured-style"} src={"/assets/remote-58caedc77d622c95-responsive-640.webp"} alt={"Network3"} loading={"lazy"} decoding={"async"} width={"1024"} height={"537"} srcSet={"/assets/remote-58caedc77d622c95-responsive-160.webp 160w, /assets/remote-58caedc77d622c95-responsive-320.webp 320w, /assets/remote-58caedc77d622c95-responsive-640.webp 640w, /assets/remote-58caedc77d622c95-responsive-1200.webp 1200w"} sizes={"(max-width: 640px) calc(100vw - 40px), (max-width: 1024px) 50vw, 1140px"} />
+<img data-layout-node={"n13"} className={"v9 captured-style"} src={"/assets/remote-58caedc77d622c95-responsive-640.webp"} alt={"Network3"} loading={"lazy"} decoding={"async"} width={"1200"} height={"630"} srcSet={"/assets/remote-58caedc77d622c95-responsive-160.webp 160w, /assets/remote-58caedc77d622c95-responsive-320.webp 320w, /assets/remote-58caedc77d622c95-responsive-640.webp 640w, /assets/remote-58caedc77d622c95-responsive-1200.webp 1200w"} sizes={"(max-width: 640px) calc(100vw - 40px), (max-width: 1024px) 50vw, 1140px"} />
 </div>
 </div>
 <div data-layout-node={"n14"} className={"v10 captured-style"}>
@@ -43,7 +43,7 @@ export default function Page3730(){return <div className="page-3730 captured-pag
 </div>
 <div data-layout-node={"n18"} className={"v3 text-widget captured-style"}>
 <div data-layout-node={"n19"} className={"v4 text-widget captured-style"}>
-<p data-layout-node={"n20"} className={"v13 captured-style"}>
+<p data-layout-node={"n20"} className={"v13 accessible-accent-dark captured-style"}>
 {"INTERNET-INTRANET SYSTEM"}
 </p>
 </div>
@@ -106,7 +106,7 @@ export default function Page3730(){return <div className="page-3730 captured-pag
 <div data-layout-node={"n352"} className={"v27 section captured-style"}>
 <div data-layout-node={"n353"} className={"v3 text-widget captured-style"}>
 <div data-layout-node={"n354"} className={"v4 text-widget captured-style"}>
-<p data-layout-node={"n355"} className={"v5 captured-style"}>
+<p data-layout-node={"n355"} className={"v5 accessible-accent-dark captured-style"}>
 {"DESIGN AND SET UP INTERNET-INTRANET SYSTEM "}
 </p>
 </div>
@@ -318,7 +318,7 @@ export default function Page3730(){return <div className="page-3730 captured-pag
 <div data-layout-node={"n39"} className={"v27 section captured-style"}>
 <div data-layout-node={"n72"} className={"v3 text-widget captured-style"}>
 <div data-layout-node={"n73"} className={"v4 text-widget captured-style"}>
-<p data-layout-node={"n74"} className={"v5 captured-style"}>
+<p data-layout-node={"n74"} className={"v5 accessible-accent-dark captured-style"}>
 {"WHAT ARE INTERNET SERVICE\r\n"}
 </p>
 </div>
@@ -345,7 +345,7 @@ export default function Page3730(){return <div className="page-3730 captured-pag
 <div data-layout-node={"n85"} className={"v50 section captured-style"}>
 <div data-layout-node={"n86"} className={"v54 text-widget captured-style"}>
 <div data-layout-node={"n87"} className={"v55 text-widget captured-style"}>
-<h3 data-layout-node={"n88"} className={"v56 captured-style"}>
+<h3 data-layout-node={"n88"} className={"v56 accessible-accent-dark captured-style"}>
 {"บริการออกแบบ และติดตั้งอินเทอร์เน็ต "}
 </h3>
 </div>
@@ -386,7 +386,7 @@ export default function Page3730(){return <div className="page-3730 captured-pag
 </div>
 <div data-layout-node={"n104"} className={"v64 text-widget captured-style"}>
 <div data-layout-node={"n105"} className={"v65 text-widget captured-style"}>
-<h3 data-layout-node={"n106"} className={"v66 captured-style"}>
+<h3 data-layout-node={"n106"} className={"v66 accessible-accent-dark captured-style"}>
 {"ดูแลติดตั้งอินเตอร์เน็ต ติดตั้ง WiFi ติดตั้งไวไฟบ้าน\r\n"}
 </h3>
 </div>
@@ -461,9 +461,9 @@ export default function Page3730(){return <div className="page-3730 captured-pag
 </div>
 <div data-layout-node={"n137"} className={"v64 text-widget captured-style"}>
 <div data-layout-node={"n138"} className={"v65 text-widget captured-style"}>
-<h3 data-layout-node={"n139"} className={"v66 captured-style"}>
+<h3 data-layout-node={"n139"} className={"v66 accessible-accent-dark captured-style"}>
 {"ติดตั้งเครื่องขยายสัญญาณ WiFi"}
-<br data-layout-node={"n140"} className={"v69 captured-style"} />
+<br data-layout-node={"n140"} className={"v69 accessible-accent-dark captured-style"} />
 {"ติดตั้งระบบ Access Point\r\n"}
 </h3>
 </div>
@@ -556,17 +556,17 @@ export default function Page3730(){return <div className="page-3730 captured-pag
 <div data-layout-node={"n237"} className={"v86 layout-row captured-style"}>
 <div data-layout-node={"n238"} className={"v87 captured-style"}>
 <div data-layout-node={"n239"} className={"v4 captured-style"}>
-<img data-layout-node={"n240"} className={"v88 captured-style"} src={"/assets/remote-00192a486dd133e7-responsive-300.webp"} alt={"Cisco"} loading={"lazy"} decoding={"async"} width={"150"} height={"150"} srcSet={"/assets/remote-00192a486dd133e7-responsive-160.webp 160w, /assets/remote-00192a486dd133e7-responsive-300.webp 300w"} sizes={"150px"} />
+<img data-layout-node={"n240"} className={"v88 captured-style"} src={"/assets/remote-00192a486dd133e7-responsive-300.webp"} alt={"Cisco"} loading={"lazy"} decoding={"async"} width={"300"} height={"300"} srcSet={"/assets/remote-00192a486dd133e7-responsive-160.webp 160w, /assets/remote-00192a486dd133e7-responsive-300.webp 300w"} sizes={"150px"} />
 </div>
 </div>
 <div data-layout-node={"n241"} className={"v87 captured-style"}>
 <div data-layout-node={"n242"} className={"v4 captured-style"}>
-<img data-layout-node={"n243"} className={"v88 captured-style"} src={"/assets/remote-3af31d5a292d6b63-responsive-300.webp"} alt={"ARUBA"} loading={"lazy"} decoding={"async"} width={"150"} height={"150"} srcSet={"/assets/remote-3af31d5a292d6b63-responsive-160.webp 160w, /assets/remote-3af31d5a292d6b63-responsive-300.webp 300w"} sizes={"150px"} />
+<img data-layout-node={"n243"} className={"v88 captured-style"} src={"/assets/remote-3af31d5a292d6b63-responsive-300.webp"} alt={"ARUBA"} loading={"lazy"} decoding={"async"} width={"300"} height={"300"} srcSet={"/assets/remote-3af31d5a292d6b63-responsive-160.webp 160w, /assets/remote-3af31d5a292d6b63-responsive-300.webp 300w"} sizes={"150px"} />
 </div>
 </div>
 <div data-layout-node={"n244"} className={"v87 captured-style"}>
 <div data-layout-node={"n245"} className={"v4 captured-style"}>
-<img data-layout-node={"n246"} className={"v88 captured-style"} src={"/assets/remote-16ea2c11a1969679-responsive-300.webp"} alt={"Mikrotik"} loading={"lazy"} decoding={"async"} width={"150"} height={"150"} srcSet={"/assets/remote-16ea2c11a1969679-responsive-160.webp 160w, /assets/remote-16ea2c11a1969679-responsive-300.webp 300w"} sizes={"150px"} />
+<img data-layout-node={"n246"} className={"v88 captured-style"} src={"/assets/remote-16ea2c11a1969679-responsive-300.webp"} alt={"Mikrotik"} loading={"lazy"} decoding={"async"} width={"300"} height={"300"} srcSet={"/assets/remote-16ea2c11a1969679-responsive-160.webp 160w, /assets/remote-16ea2c11a1969679-responsive-300.webp 300w"} sizes={"150px"} />
 </div>
 </div>
 </div>
@@ -583,7 +583,7 @@ export default function Page3730(){return <div className="page-3730 captured-pag
 <div data-layout-node={"n287"} className={"v8 captured-style"}>
 <div data-layout-node={"n288"} className={"v3 text-widget captured-style"}>
 <div data-layout-node={"n289"} className={"v4 text-widget captured-style"}>
-<p data-layout-node={"n290"} className={"v13 captured-style"}>
+<p data-layout-node={"n290"} className={"v13 accessible-accent-dark captured-style"}>
 {"INTERNET-INTRANET SYSTEM"}
 </p>
 </div>
@@ -664,7 +664,7 @@ export default function Page3730(){return <div className="page-3730 captured-pag
 {"อินทราเน็ต VS อินเทอร์เน็ตแตกต่างกันยังไง"}
 </h3>
 <div data-layout-node={"n327"} className={"v142 captured-style"}>
-<div className={"table-scroll"} role={"region"} aria-label={"ตารางเปรียบเทียบ เลื่อนเพื่อดูข้อมูลเพิ่มเติม"} tabIndex={0}>
+<div className={"table-scroll"} role={"region"} aria-label={"ตารางเปรียบเทียบ 1 เลื่อนเพื่อดูข้อมูลเพิ่มเติม"} tabIndex={0}>
 <table data-layout-node={"n328"} className={"v143 captured-style"}>
 <tbody data-layout-node={"n329"} className={"v144 captured-style"}>
 <tr data-layout-node={"n330"} className={"v145 captured-style"}>

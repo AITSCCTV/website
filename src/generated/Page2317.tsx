@@ -11,7 +11,7 @@ export default function Page2317(){return <div className="page-2317 captured-pag
 <div data-layout-node={"n2"} className={"v2 captured-style"}>
 <div data-layout-node={"n3"} className={"v3 text-widget captured-style"}>
 <div data-layout-node={"n4"} className={"v4 text-widget captured-style"}>
-<p data-layout-node={"n5"} className={"v5 captured-style"}>
+<p data-layout-node={"n5"} className={"v5 accessible-accent-dark captured-style"}>
 {"CCTV SERVICE"}
 </p>
 </div>
@@ -29,7 +29,7 @@ export default function Page2317(){return <div className="page-2317 captured-pag
 <div data-layout-node={"n10"} className={"v2 captured-style"}>
 <div data-layout-node={"n11"} className={"v3 text-widget captured-style"}>
 <div data-layout-node={"n12"} className={"v4 text-widget captured-style"}>
-<p data-layout-node={"n13"} className={"v8 captured-style"}>
+<p data-layout-node={"n13"} className={"v8 accessible-accent-dark captured-style"}>
 {"CCTV SYSTEM"}
 </p>
 </div>
@@ -99,7 +99,7 @@ export default function Page2317(){return <div className="page-2317 captured-pag
 <div data-layout-node={"n85"} className={"v54 section captured-style"}>
 <div data-layout-node={"n86"} className={"v17 text-widget captured-style"}>
 <div data-layout-node={"n87"} className={"v18 text-widget captured-style"}>
-<p data-layout-node={"n88"} className={"v55 captured-style"}>
+<p data-layout-node={"n88"} className={"v55 accessible-accent-dark captured-style"}>
 {"WHY INSTALLING CCTV"}
 </p>
 </div>
@@ -126,7 +126,7 @@ export default function Page2317(){return <div className="page-2317 captured-pag
 <ul data-layout-node={"n98"} className={"v62 captured-style"}>
 <li data-layout-node={"n99"} className={"v63 captured-style"}>
 <span data-layout-node={"n100"} className={"v64 captured-style"}>
-<i data-layout-node={"n101"} className={"v65 captured-style"}>
+<i data-layout-node={"n101"} className={"v65 accessible-accent-dark captured-style"}>
 
 </i>
 </span>
@@ -136,7 +136,7 @@ export default function Page2317(){return <div className="page-2317 captured-pag
 </li>
 <li data-layout-node={"n103"} className={"v67 captured-style"}>
 <span data-layout-node={"n104"} className={"v64 captured-style"}>
-<i data-layout-node={"n105"} className={"v68 captured-style"}>
+<i data-layout-node={"n105"} className={"v68 accessible-accent-dark captured-style"}>
 
 </i>
 </span>
@@ -146,7 +146,7 @@ export default function Page2317(){return <div className="page-2317 captured-pag
 </li>
 <li data-layout-node={"n107"} className={"v67 captured-style"}>
 <span data-layout-node={"n108"} className={"v64 captured-style"}>
-<i data-layout-node={"n109"} className={"v70 captured-style"}>
+<i data-layout-node={"n109"} className={"v70 accessible-accent-dark captured-style"}>
 
 </i>
 </span>
@@ -156,7 +156,7 @@ export default function Page2317(){return <div className="page-2317 captured-pag
 </li>
 <li data-layout-node={"n111"} className={"v72 captured-style"}>
 <span data-layout-node={"n112"} className={"v64 captured-style"}>
-<i data-layout-node={"n113"} className={"v73 captured-style"}>
+<i data-layout-node={"n113"} className={"v73 accessible-accent-dark captured-style"}>
 
 </i>
 </span>
@@ -198,7 +198,7 @@ export default function Page2317(){return <div className="page-2317 captured-pag
 <div data-layout-node={"n123"} className={"v80 captured-style"}>
 <div data-layout-node={"n124"} className={"v3 text-widget captured-style"}>
 <div data-layout-node={"n125"} className={"v4 text-widget captured-style"}>
-<p data-layout-node={"n126"} className={"v8 captured-style"}>
+<p data-layout-node={"n126"} className={"v8 accessible-accent-dark captured-style"}>
 {"CCTV PRICE"}
 </p>
 </div>
@@ -226,7 +226,7 @@ export default function Page2317(){return <div className="page-2317 captured-pag
 <div data-layout-node={"n137"} className={"v86 media-widget layout-row captured-style"}>
 <div data-layout-node={"n138"} className={"v3 media-widget captured-style"}>
 <div data-layout-node={"n139"} className={"v4 media-widget captured-style"}>
-<img data-layout-node={"n140"} className={"v87 captured-style"} src={"/assets/09a0e6409234d43c-responsive-640.webp"} alt={"2024 Promotion"} loading={"lazy"} decoding={"async"} width={"576"} height={"1023"} srcSet={"/assets/09a0e6409234d43c-responsive-160.webp 160w, /assets/09a0e6409234d43c-responsive-320.webp 320w, /assets/09a0e6409234d43c-responsive-640.webp 640w, /assets/09a0e6409234d43c-responsive-768.webp 768w"} sizes={"(max-width: 640px) calc(100vw - 40px), (max-width: 1024px) 50vw, 560px"} />
+<img data-layout-node={"n140"} className={"v87 captured-style"} src={"/assets/09a0e6409234d43c-responsive-640.webp"} alt={"2024 Promotion"} loading={"lazy"} decoding={"async"} width={"768"} height={"1365"} srcSet={"/assets/09a0e6409234d43c-responsive-160.webp 160w, /assets/09a0e6409234d43c-responsive-320.webp 320w, /assets/09a0e6409234d43c-responsive-640.webp 640w, /assets/09a0e6409234d43c-responsive-768.webp 768w"} sizes={"(max-width: 640px) calc(100vw - 40px), (max-width: 1024px) 50vw, 560px"} />
 </div>
 </div>
 </div>
@@ -237,7 +237,7 @@ export default function Page2317(){return <div className="page-2317 captured-pag
 <div data-layout-node={"n144"} className={"v90 captured-style"}>
 <div data-layout-node={"n145"} className={"v91 text-widget captured-style"}>
 <div data-layout-node={"n146"} className={"v92 text-widget captured-style"}>
-<h3 data-layout-node={"n147"} className={"v93 captured-style"}>
+<h3 data-layout-node={"n147"} className={"v93 accessible-accent-dark captured-style"}>
 {"ราคาชุดกล้อง 4 ตัว"}
 </h3>
 </div>
@@ -255,7 +255,7 @@ export default function Page2317(){return <div className="page-2317 captured-pag
 <div data-layout-node={"n152"} className={"v95 captured-style"}>
 <div data-layout-node={"n153"} className={"v28 text-widget captured-style"}>
 <div data-layout-node={"n154"} className={"v96 text-widget captured-style"}>
-<h3 data-layout-node={"n155"} className={"v97 captured-style"}>
+<h3 data-layout-node={"n155"} className={"v97 accessible-accent-dark captured-style"}>
 {"ราคาชุดกล้อง 8 ตัว"}
 </h3>
 </div>
@@ -273,7 +273,7 @@ export default function Page2317(){return <div className="page-2317 captured-pag
 <div data-layout-node={"n160"} className={"v95 captured-style"}>
 <div data-layout-node={"n161"} className={"v28 text-widget captured-style"}>
 <div data-layout-node={"n162"} className={"v96 text-widget captured-style"}>
-<h3 data-layout-node={"n163"} className={"v97 captured-style"}>
+<h3 data-layout-node={"n163"} className={"v97 accessible-accent-dark captured-style"}>
 {"ราคาชุดกล้อง 16 ตัว"}
 </h3>
 </div>
@@ -296,7 +296,7 @@ export default function Page2317(){return <div className="page-2317 captured-pag
 <div data-layout-node={"n170"} className={"v95 captured-style"}>
 <div data-layout-node={"n171"} className={"v28 text-widget captured-style"}>
 <div data-layout-node={"n172"} className={"v98 text-widget captured-style"}>
-<p data-layout-node={"n173"} className={"v99 captured-style"}>
+<p data-layout-node={"n173"} className={"v99 accessible-accent-dark captured-style"}>
 {"Specification !!"}
 </p>
 </div>
@@ -331,7 +331,7 @@ export default function Page2317(){return <div className="page-2317 captured-pag
 <div data-layout-node={"n183"} className={"v2 captured-style"}>
 <div data-layout-node={"n184"} className={"v3 text-widget captured-style"}>
 <div data-layout-node={"n185"} className={"v4 text-widget captured-style"}>
-<p data-layout-node={"n186"} className={"v8 captured-style"}>
+<p data-layout-node={"n186"} className={"v8 accessible-accent-dark captured-style"}>
 {"CCTV TYPES"}
 </p>
 </div>
@@ -358,7 +358,7 @@ export default function Page2317(){return <div className="page-2317 captured-pag
 <div data-layout-node={"n197"} className={"v61 captured-style"}>
 <div data-layout-node={"n198"} className={"v61 captured-style"}>
 <div data-layout-node={"n199"} className={"v104 captured-style"}>
-<div className={"table-scroll"} role={"region"} aria-label={"ตารางเปรียบเทียบ เลื่อนเพื่อดูข้อมูลเพิ่มเติม"} tabIndex={0}>
+<div className={"table-scroll"} role={"region"} aria-label={"ตารางเปรียบเทียบ 1 เลื่อนเพื่อดูข้อมูลเพิ่มเติม"} tabIndex={0}>
 <table data-layout-node={"n200"} className={"v105 captured-style"}>
 <thead data-layout-node={"n201"} className={"v106 captured-style"}>
 <tr data-layout-node={"n202"} className={"v107 captured-style"}>
@@ -597,7 +597,7 @@ export default function Page2317(){return <div className="page-2317 captured-pag
 <div data-layout-node={"n281"} className={"v119 captured-style"}>
 <div data-layout-node={"n282"} className={"v120 text-widget captured-style"}>
 <div data-layout-node={"n283"} className={"v121 text-widget captured-style"}>
-<h3 data-layout-node={"n284"} className={"v122 captured-style"}>
+<h3 data-layout-node={"n284"} className={"v122 accessible-accent-dark captured-style"}>
 {"กล้องวงจรปิดไร้สายดูผ่านโทรศัพท์"}
 </h3>
 </div>
@@ -615,7 +615,7 @@ export default function Page2317(){return <div className="page-2317 captured-pag
 <div data-layout-node={"n289"} className={"v119 captured-style"}>
 <div data-layout-node={"n290"} className={"v123 text-widget captured-style"}>
 <div data-layout-node={"n291"} className={"v124 text-widget captured-style"}>
-<h3 data-layout-node={"n292"} className={"v125 captured-style"}>
+<h3 data-layout-node={"n292"} className={"v125 accessible-accent-dark captured-style"}>
 {"กล้องวงจรปิดไร้สาย ไวไฟ"}
 </h3>
 </div>
@@ -633,7 +633,7 @@ export default function Page2317(){return <div className="page-2317 captured-pag
 <div data-layout-node={"n297"} className={"v119 captured-style"}>
 <div data-layout-node={"n298"} className={"v126 text-widget captured-style"}>
 <div data-layout-node={"n299"} className={"v96 text-widget captured-style"}>
-<h3 data-layout-node={"n300"} className={"v97 captured-style"}>
+<h3 data-layout-node={"n300"} className={"v97 accessible-accent-dark captured-style"}>
 {"กล้องวงจรปิดใส่ซิม"}
 </h3>
 </div>
@@ -651,7 +651,7 @@ export default function Page2317(){return <div className="page-2317 captured-pag
 <div data-layout-node={"n305"} className={"v119 captured-style"}>
 <div data-layout-node={"n306"} className={"v127 text-widget captured-style"}>
 <div data-layout-node={"n307"} className={"v96 text-widget captured-style"}>
-<h3 data-layout-node={"n308"} className={"v97 captured-style"}>
+<h3 data-layout-node={"n308"} className={"v97 accessible-accent-dark captured-style"}>
 {"กล้องวงจรปิดโซล่าเซลล์"}
 </h3>
 </div>
@@ -671,7 +671,7 @@ export default function Page2317(){return <div className="page-2317 captured-pag
 <div data-layout-node={"n313"} className={"v80 captured-style"}>
 <div data-layout-node={"n314"} className={"v3 text-widget captured-style"}>
 <div data-layout-node={"n315"} className={"v4 text-widget captured-style"}>
-<p data-layout-node={"n316"} className={"v8 captured-style"}>
+<p data-layout-node={"n316"} className={"v8 accessible-accent-dark captured-style"}>
 {"CCTV SYSTEM"}
 </p>
 </div>
@@ -745,7 +745,7 @@ export default function Page2317(){return <div className="page-2317 captured-pag
 <div data-layout-node={"n438"} className={"v80 captured-style"}>
 <div data-layout-node={"n439"} className={"v3 text-widget captured-style"}>
 <div data-layout-node={"n440"} className={"v4 text-widget captured-style"}>
-<p data-layout-node={"n441"} className={"v5 captured-style"}>
+<p data-layout-node={"n441"} className={"v5 accessible-accent-dark captured-style"}>
 {"Recommend Brand"}
 </p>
 </div>
@@ -781,38 +781,38 @@ export default function Page2317(){return <div className="page-2317 captured-pag
 <div data-layout-node={"n455"} className={"v28 captured-style"}>
 <div data-layout-node={"n456"} className={"v61 captured-style"}>
 <div data-layout-node={"n457"} className={"v189 captured-style"}>
-<SiteLink data-layout-node={"n458"} className={"v190 design-overlay captured-style"} href={"https://aitscctv.com/wp-content/uploads/2023/04/uni-logo.png"}>
+<div data-layout-node={"n458"} className={"v190 design-overlay captured-style"}>
 <div data-layout-node={"n459"} className={"v191 captured-style"}>
 
 </div>
 <div data-layout-node={"n460"} className={"v192 design-overlay captured-style"}>
 
 </div>
-</SiteLink>
-<SiteLink data-layout-node={"n461"} className={"v193 design-overlay captured-style"} href={"https://aitscctv.com/wp-content/uploads/2023/04/ajhua-logo.png"}>
+</div>
+<div data-layout-node={"n461"} className={"v193 design-overlay captured-style"}>
 <div data-layout-node={"n462"} className={"v191 captured-style"}>
 
 </div>
 <div data-layout-node={"n463"} className={"v192 design-overlay captured-style"}>
 
 </div>
-</SiteLink>
-<SiteLink data-layout-node={"n464"} className={"v194 design-overlay captured-style"} href={"https://aitscctv.com/wp-content/uploads/2023/04/hik-logo.png"}>
+</div>
+<div data-layout-node={"n464"} className={"v194 design-overlay captured-style"}>
 <div data-layout-node={"n465"} className={"v191 captured-style"}>
 
 </div>
 <div data-layout-node={"n466"} className={"v192 design-overlay captured-style"}>
 
 </div>
-</SiteLink>
-<SiteLink data-layout-node={"n467"} className={"v195 design-overlay captured-style"} href={"https://aitscctv.com/wp-content/uploads/2023/04/tiandy-logo.png"}>
+</div>
+<div data-layout-node={"n467"} className={"v195 design-overlay captured-style"}>
 <div data-layout-node={"n468"} className={"v191 captured-style"}>
 
 </div>
 <div data-layout-node={"n469"} className={"v192 design-overlay captured-style"}>
 
 </div>
-</SiteLink>
+</div>
 </div>
 </div>
 </div>
@@ -830,46 +830,46 @@ export default function Page2317(){return <div className="page-2317 captured-pag
 <div data-layout-node={"n475"} className={"v28 captured-style"}>
 <div data-layout-node={"n476"} className={"v61 captured-style"}>
 <div data-layout-node={"n477"} className={"v198 captured-style"}>
-<SiteLink data-layout-node={"n478"} className={"v199 design-overlay captured-style"} href={"https://aitscctv.com/wp-content/uploads/2023/04/rcycc-logo.png"}>
+<div data-layout-node={"n478"} className={"v199 design-overlay captured-style"}>
 <div data-layout-node={"n479"} className={"v200 captured-style"}>
 
 </div>
 <div data-layout-node={"n480"} className={"v201 design-overlay captured-style"}>
 
 </div>
-</SiteLink>
-<SiteLink data-layout-node={"n481"} className={"v202 design-overlay captured-style"} href={"https://aitscctv.com/wp-content/uploads/2023/04/ruijie-logo.png"}>
+</div>
+<div data-layout-node={"n481"} className={"v202 design-overlay captured-style"}>
 <div data-layout-node={"n482"} className={"v200 captured-style"}>
 
 </div>
 <div data-layout-node={"n483"} className={"v201 design-overlay captured-style"}>
 
 </div>
-</SiteLink>
-<SiteLink data-layout-node={"n484"} className={"v203 design-overlay captured-style"} href={"https://aitscctv.com/wp-content/uploads/2023/04/link-logo.png"}>
+</div>
+<div data-layout-node={"n484"} className={"v203 design-overlay captured-style"}>
 <div data-layout-node={"n485"} className={"v200 captured-style"}>
 
 </div>
 <div data-layout-node={"n486"} className={"v201 design-overlay captured-style"}>
 
 </div>
-</SiteLink>
-<SiteLink data-layout-node={"n487"} className={"v204 design-overlay captured-style"} href={"https://aitscctv.com/wp-content/uploads/2023/04/ajhua-logo.png"}>
+</div>
+<div data-layout-node={"n487"} className={"v204 design-overlay captured-style"}>
 <div data-layout-node={"n488"} className={"v200 captured-style"}>
 
 </div>
 <div data-layout-node={"n489"} className={"v201 design-overlay captured-style"}>
 
 </div>
-</SiteLink>
-<SiteLink data-layout-node={"n490"} className={"v205 design-overlay captured-style"} href={"https://aitscctv.com/wp-content/uploads/2023/04/aruba.png"}>
+</div>
+<div data-layout-node={"n490"} className={"v205 design-overlay captured-style"}>
 <div data-layout-node={"n491"} className={"v200 captured-style"}>
 
 </div>
 <div data-layout-node={"n492"} className={"v201 design-overlay captured-style"}>
 
 </div>
-</SiteLink>
+</div>
 </div>
 </div>
 </div>
@@ -887,14 +887,14 @@ export default function Page2317(){return <div className="page-2317 captured-pag
 <div data-layout-node={"n498"} className={"v28 captured-style"}>
 <div data-layout-node={"n499"} className={"v61 captured-style"}>
 <div data-layout-node={"n500"} className={"v198 captured-style"}>
-<SiteLink data-layout-node={"n501"} className={"v209 design-overlay captured-style"} href={"https://aitscctv.com/wp-content/uploads/2023/04/yazaki-logo.png"}>
+<div data-layout-node={"n501"} className={"v209 design-overlay captured-style"}>
 <div data-layout-node={"n502"} className={"v200 captured-style"}>
 
 </div>
 <div data-layout-node={"n503"} className={"v201 design-overlay captured-style"}>
 
 </div>
-</SiteLink>
+</div>
 </div>
 </div>
 </div>
@@ -906,7 +906,7 @@ export default function Page2317(){return <div className="page-2317 captured-pag
 <div data-layout-node={"n505"} className={"v210 captured-style"}>
 <div data-layout-node={"n506"} className={"v211 text-widget captured-style"}>
 <div data-layout-node={"n507"} className={"v212 text-widget captured-style"}>
-<p data-layout-node={"n508"} className={"v213 captured-style"}>
+<p data-layout-node={"n508"} className={"v213 accessible-accent-dark captured-style"}>
 {"Best Practice"}
 </p>
 </div>
@@ -937,7 +937,7 @@ export default function Page2317(){return <div className="page-2317 captured-pag
 <ul data-layout-node={"n520"} className={"v223 captured-style"}>
 <li data-layout-node={"n521"} className={"v224 captured-style"}>
 <span data-layout-node={"n522"} className={"v225 captured-style"}>
-<i data-layout-node={"n523"} className={"v226 captured-style"}>
+<i data-layout-node={"n523"} className={"v226 accessible-accent-dark captured-style"}>
 
 </i>
 </span>
@@ -947,7 +947,7 @@ export default function Page2317(){return <div className="page-2317 captured-pag
 </li>
 <li data-layout-node={"n525"} className={"v228 captured-style"}>
 <span data-layout-node={"n526"} className={"v225 captured-style"}>
-<i data-layout-node={"n527"} className={"v226 captured-style"}>
+<i data-layout-node={"n527"} className={"v226 accessible-accent-dark captured-style"}>
 
 </i>
 </span>
@@ -957,7 +957,7 @@ export default function Page2317(){return <div className="page-2317 captured-pag
 </li>
 <li data-layout-node={"n529"} className={"v228 captured-style"}>
 <span data-layout-node={"n530"} className={"v225 captured-style"}>
-<i data-layout-node={"n531"} className={"v226 captured-style"}>
+<i data-layout-node={"n531"} className={"v226 accessible-accent-dark captured-style"}>
 
 </i>
 </span>
@@ -967,7 +967,7 @@ export default function Page2317(){return <div className="page-2317 captured-pag
 </li>
 <li data-layout-node={"n533"} className={"v228 captured-style"}>
 <span data-layout-node={"n534"} className={"v225 captured-style"}>
-<i data-layout-node={"n535"} className={"v226 captured-style"}>
+<i data-layout-node={"n535"} className={"v226 accessible-accent-dark captured-style"}>
 
 </i>
 </span>
@@ -977,7 +977,7 @@ export default function Page2317(){return <div className="page-2317 captured-pag
 </li>
 <li data-layout-node={"n537"} className={"v232 captured-style"}>
 <span data-layout-node={"n538"} className={"v225 captured-style"}>
-<i data-layout-node={"n539"} className={"v226 captured-style"}>
+<i data-layout-node={"n539"} className={"v226 accessible-accent-dark captured-style"}>
 
 </i>
 </span>
@@ -994,7 +994,7 @@ export default function Page2317(){return <div className="page-2317 captured-pag
 <div data-layout-node={"n542"} className={"v210 captured-style"}>
 <div data-layout-node={"n543"} className={"v234 text-widget captured-style"}>
 <div data-layout-node={"n544"} className={"v235 text-widget captured-style"}>
-<p data-layout-node={"n545"} className={"v236 captured-style"}>
+<p data-layout-node={"n545"} className={"v236 accessible-accent-dark captured-style"}>
 {"CCTV INSTALLATION STEP"}
 </p>
 </div>

@@ -11,7 +11,7 @@ export default function Page4741(){return <div className="page-4741 captured-pag
 <div data-layout-node={"n2"} className={"v2 captured-style"}>
 <div data-layout-node={"n3"} className={"v3 text-widget captured-style"}>
 <div data-layout-node={"n4"} className={"v4 text-widget captured-style"}>
-<p data-layout-node={"n5"} className={"v5 captured-style"}>
+<p data-layout-node={"n5"} className={"v5 accessible-accent-dark captured-style"}>
 {"CARD SCANNER  "}
 </p>
 </div>
@@ -31,7 +31,7 @@ export default function Page4741(){return <div className="page-4741 captured-pag
 <div data-layout-node={"n11"} className={"v2 captured-style"}>
 <div data-layout-node={"n12"} className={"v3 text-widget captured-style"}>
 <div data-layout-node={"n13"} className={"v4 text-widget captured-style"}>
-<p data-layout-node={"n14"} className={"v9 captured-style"}>
+<p data-layout-node={"n14"} className={"v9 accessible-accent-dark captured-style"}>
 {"CARD SCANNER  SYSTEM"}
 </p>
 </div>
@@ -47,8 +47,8 @@ export default function Page4741(){return <div className="page-4741 captured-pag
 <div data-layout-node={"n19"} className={"v12 text-widget captured-style"}>
 <p data-layout-node={"n20"} className={"v13 captured-style"}>
 {"เรามีบริการรับติดตั้ง เครื่องสแกนบัตร เครื่องทาบบัตร ติดตั้งระบบรักษาความปลอดภัยทั้งในบ้าน ออฟฟิศ และสำนักงานแบบครบวงจร ติดตั้งประตูคีย์การ์ด สำหรับสแกนบัตร ด้วยทีมช่างผู้มีประสบการณ์มากกว่า 20 ปี พร้อมให้คำแนะนำทั้งการออกแบบระบบคีย์การ์ดประตู และติดตามระบบอย่างใกล้ชิด เพื่อให้ลูกค้าปลอดภัยและพึงพอใจมากที่สุด ด้วยมาตรฐานระดับสากล "}
-<span data-layout-node={"n21"} className={"v14 captured-style"}>
-<SiteLink data-layout-node={"n22"} className={"v14 captured-style"} href={"/"}>
+<span data-layout-node={"n21"} className={"v14 accessible-accent-dark captured-style"}>
+<SiteLink data-layout-node={"n22"} className={"v14 accessible-accent-dark captured-style"} href={"/"}>
 {"AITSCCTV"}
 </SiteLink>
 </span>
@@ -97,7 +97,7 @@ export default function Page4741(){return <div className="page-4741 captured-pag
 <div data-layout-node={"n44"} className={"v31 captured-style"}>
 <h3 data-layout-node={"n45"} className={"v32 captured-style"}>
 {"ความปลอดภัย ด้วยระบบ "}
-<SiteLink data-layout-node={"n46"} className={"v33 captured-style"} href={"https://aitscctv.com/access-control-automatic-door-system/"}>
+<SiteLink data-layout-node={"n46"} className={"v33 accessible-accent-dark captured-style"} href={"https://aitscctv.com/access-control-automatic-door-system/"}>
 {"Access Control ประตู"}
 </SiteLink>
 </h3>
@@ -198,7 +198,7 @@ export default function Page4741(){return <div className="page-4741 captured-pag
 <div data-layout-node={"n92"} className={"v47 captured-style"}>
 <div data-layout-node={"n93"} className={"v3 text-widget captured-style"}>
 <div data-layout-node={"n94"} className={"v4 text-widget captured-style"}>
-<p data-layout-node={"n95"} className={"v5 captured-style"}>
+<p data-layout-node={"n95"} className={"v5 accessible-accent-dark captured-style"}>
 {"DESIGN AND SET UP CARD SCANNER  SYSTEM"}
 </p>
 </div>
@@ -213,8 +213,8 @@ export default function Page4741(){return <div className="page-4741 captured-pag
 <div data-layout-node={"n99"} className={"v11 text-widget captured-style"}>
 <div data-layout-node={"n100"} className={"v12 text-widget captured-style"}>
 <p data-layout-node={"n101"} className={"v13 captured-style"}>
-<span data-layout-node={"n102"} className={"v14 captured-style"}>
-<SiteLink data-layout-node={"n103"} className={"v14 captured-style"} href={"https://aitscctv.com/access-control-system-1/"}>
+<span data-layout-node={"n102"} className={"v14 accessible-accent-dark captured-style"}>
+<SiteLink data-layout-node={"n103"} className={"v14 accessible-accent-dark captured-style"} href={"https://aitscctv.com/access-control-system-1/"}>
 {"การติดตั้งเครื่องสแกนบัตร นั้นมีข้อดีมากมาย"}
 </SiteLink>
 </span>
@@ -227,7 +227,7 @@ export default function Page4741(){return <div className="page-4741 captured-pag
 <div data-layout-node={"n106"} className={"v50 captured-style"}>
 <div data-layout-node={"n107"} className={"v51 captured-style"}>
 <figure data-layout-node={"n108"} className={"v52 media-widget captured-style"}>
-<img data-layout-node={"n109"} className={"v53 captured-style"} src={"/assets/remote-7002549a70d05766-responsive-640.webp"} alt={"Luxury hotel reception hall lounge restaurant with high ceiling"} loading={"lazy"} decoding={"async"} width={"1536"} height={"1023"} srcSet={"/assets/remote-7002549a70d05766-responsive-160.webp 160w, /assets/remote-7002549a70d05766-responsive-320.webp 320w, /assets/remote-7002549a70d05766-responsive-640.webp 640w, /assets/remote-7002549a70d05766-responsive-1280.webp 1280w"} sizes={"(max-width: 640px) calc(100vw - 40px), (max-width: 1024px) 50vw, 333px"} />
+<img data-layout-node={"n109"} className={"v53 captured-style"} src={"/assets/remote-7002549a70d05766-responsive-640.webp"} alt={"Luxury hotel reception hall lounge restaurant with high ceiling"} loading={"lazy"} decoding={"async"} width={"2048"} height={"1365"} srcSet={"/assets/remote-7002549a70d05766-responsive-160.webp 160w, /assets/remote-7002549a70d05766-responsive-320.webp 320w, /assets/remote-7002549a70d05766-responsive-640.webp 640w, /assets/remote-7002549a70d05766-responsive-1280.webp 1280w"} sizes={"(max-width: 640px) calc(100vw - 40px), (max-width: 1024px) 50vw, 333px"} />
 </figure>
 <div data-layout-node={"n110"} className={"v54 text-widget captured-style"}>
 <h3 data-layout-node={"n111"} className={"v55 captured-style"}>
@@ -241,7 +241,7 @@ export default function Page4741(){return <div className="page-4741 captured-pag
 <div data-layout-node={"n113"} className={"v50 captured-style"}>
 <div data-layout-node={"n114"} className={"v51 captured-style"}>
 <figure data-layout-node={"n115"} className={"v52 media-widget captured-style"}>
-<img data-layout-node={"n116"} className={"v56 captured-style"} src={"/assets/remote-1140d4a44409f76e-responsive-640.webp"} alt={"New buildings with green areas"} loading={"lazy"} decoding={"async"} width={"1536"} height={"1024"} srcSet={"/assets/remote-1140d4a44409f76e-responsive-160.webp 160w, /assets/remote-1140d4a44409f76e-responsive-320.webp 320w, /assets/remote-1140d4a44409f76e-responsive-640.webp 640w, /assets/remote-1140d4a44409f76e-responsive-1280.webp 1280w"} sizes={"(max-width: 640px) calc(100vw - 40px), (max-width: 1024px) 50vw, 333px"} />
+<img data-layout-node={"n116"} className={"v56 captured-style"} src={"/assets/remote-1140d4a44409f76e-responsive-640.webp"} alt={"New buildings with green areas"} loading={"lazy"} decoding={"async"} width={"2560"} height={"1707"} srcSet={"/assets/remote-1140d4a44409f76e-responsive-160.webp 160w, /assets/remote-1140d4a44409f76e-responsive-320.webp 320w, /assets/remote-1140d4a44409f76e-responsive-640.webp 640w, /assets/remote-1140d4a44409f76e-responsive-1280.webp 1280w"} sizes={"(max-width: 640px) calc(100vw - 40px), (max-width: 1024px) 50vw, 333px"} />
 </figure>
 <div data-layout-node={"n117"} className={"v54 text-widget captured-style"}>
 <h3 data-layout-node={"n118"} className={"v55 captured-style"}>
@@ -255,7 +255,7 @@ export default function Page4741(){return <div className="page-4741 captured-pag
 <div data-layout-node={"n120"} className={"v50 captured-style"}>
 <div data-layout-node={"n121"} className={"v51 captured-style"}>
 <figure data-layout-node={"n122"} className={"v52 media-widget captured-style"}>
-<img data-layout-node={"n123"} className={"v56 captured-style"} src={"/assets/remote-efbfd2c4de59e35a-responsive-640.webp"} alt={"Empty classroom due to coronavirus pandemic."} loading={"lazy"} decoding={"async"} width={"1536"} height={"1024"} srcSet={"/assets/remote-efbfd2c4de59e35a-responsive-160.webp 160w, /assets/remote-efbfd2c4de59e35a-responsive-320.webp 320w, /assets/remote-efbfd2c4de59e35a-responsive-640.webp 640w, /assets/remote-efbfd2c4de59e35a-responsive-1280.webp 1280w"} sizes={"(max-width: 640px) calc(100vw - 40px), (max-width: 1024px) 50vw, 333px"} />
+<img data-layout-node={"n123"} className={"v56 captured-style"} src={"/assets/remote-efbfd2c4de59e35a-responsive-640.webp"} alt={"Empty classroom due to coronavirus pandemic."} loading={"lazy"} decoding={"async"} width={"2560"} height={"1707"} srcSet={"/assets/remote-efbfd2c4de59e35a-responsive-160.webp 160w, /assets/remote-efbfd2c4de59e35a-responsive-320.webp 320w, /assets/remote-efbfd2c4de59e35a-responsive-640.webp 640w, /assets/remote-efbfd2c4de59e35a-responsive-1280.webp 1280w"} sizes={"(max-width: 640px) calc(100vw - 40px), (max-width: 1024px) 50vw, 333px"} />
 </figure>
 <div data-layout-node={"n124"} className={"v54 text-widget captured-style"}>
 <h3 data-layout-node={"n125"} className={"v55 captured-style"}>
@@ -319,8 +319,8 @@ export default function Page4741(){return <div className="page-4741 captured-pag
 <div data-layout-node={"n146"} className={"v12 captured-style"}>
 <p data-layout-node={"n147"} className={"v13 captured-style"}>
 {"AITSCCTV เรามีเครื่องสแกนบัตร hip รุ่นยอดนิยม และ"}
-<span data-layout-node={"n148"} className={"v14 captured-style"}>
-<SiteLink data-layout-node={"n149"} className={"v14 captured-style"} href={"https://www.tpa.or.th/writer/read_this_book_topic.php?bookID=6066&pageid=14&read=true&count=true"}>
+<span data-layout-node={"n148"} className={"v14 accessible-accent-dark captured-style"}>
+<SiteLink data-layout-node={"n149"} className={"v14 accessible-accent-dark captured-style"} href={"https://www.tpa.or.th/writer/read_this_book_topic.php?bookID=6066&pageid=14&read=true&count=true"}>
 {"เครื่องอ่านคียการ์ด"}
 </SiteLink>
 </span>
@@ -399,22 +399,22 @@ export default function Page4741(){return <div className="page-4741 captured-pag
 <div data-layout-node={"n180"} className={"v72 layout-row captured-style"}>
 <div data-layout-node={"n181"} className={"v73 captured-style"}>
 <div data-layout-node={"n182"} className={"v4 captured-style"}>
-<img data-layout-node={"n183"} className={"v74 captured-style"} src={"/assets/remote-42ccadcf8024f905-responsive-300.webp"} alt={"Ajhua logo"} loading={"lazy"} decoding={"async"} width={"150"} height={"150"} srcSet={"/assets/remote-42ccadcf8024f905-responsive-160.webp 160w, /assets/remote-42ccadcf8024f905-responsive-300.webp 300w"} sizes={"150px"} />
+<img data-layout-node={"n183"} className={"v74 captured-style"} src={"/assets/remote-42ccadcf8024f905-responsive-300.webp"} alt={"Ajhua logo"} loading={"lazy"} decoding={"async"} width={"300"} height={"300"} srcSet={"/assets/remote-42ccadcf8024f905-responsive-160.webp 160w, /assets/remote-42ccadcf8024f905-responsive-300.webp 300w"} sizes={"150px"} />
 </div>
 </div>
 <div data-layout-node={"n184"} className={"v73 captured-style"}>
 <div data-layout-node={"n185"} className={"v4 captured-style"}>
-<img data-layout-node={"n186"} className={"v74 captured-style"} src={"/assets/remote-92b4a15c56092b02-responsive-300.webp"} alt={"Zkt"} loading={"lazy"} decoding={"async"} width={"150"} height={"150"} srcSet={"/assets/remote-92b4a15c56092b02-responsive-160.webp 160w, /assets/remote-92b4a15c56092b02-responsive-300.webp 300w"} sizes={"150px"} />
+<img data-layout-node={"n186"} className={"v74 captured-style"} src={"/assets/remote-92b4a15c56092b02-responsive-300.webp"} alt={"Zkt"} loading={"lazy"} decoding={"async"} width={"300"} height={"300"} srcSet={"/assets/remote-92b4a15c56092b02-responsive-160.webp 160w, /assets/remote-92b4a15c56092b02-responsive-300.webp 300w"} sizes={"150px"} />
 </div>
 </div>
 <div data-layout-node={"n187"} className={"v73 captured-style"}>
 <div data-layout-node={"n188"} className={"v4 captured-style"}>
-<img data-layout-node={"n189"} className={"v74 captured-style"} src={"/assets/remote-64107f3c4ba3d23b-responsive-300.webp"} alt={"Hik logo"} loading={"lazy"} decoding={"async"} width={"150"} height={"150"} srcSet={"/assets/remote-64107f3c4ba3d23b-responsive-160.webp 160w, /assets/remote-64107f3c4ba3d23b-responsive-300.webp 300w"} sizes={"150px"} />
+<img data-layout-node={"n189"} className={"v74 captured-style"} src={"/assets/remote-64107f3c4ba3d23b-responsive-300.webp"} alt={"Hik logo"} loading={"lazy"} decoding={"async"} width={"300"} height={"300"} srcSet={"/assets/remote-64107f3c4ba3d23b-responsive-160.webp 160w, /assets/remote-64107f3c4ba3d23b-responsive-300.webp 300w"} sizes={"150px"} />
 </div>
 </div>
 <div data-layout-node={"n190"} className={"v73 captured-style"}>
 <div data-layout-node={"n191"} className={"v4 captured-style"}>
-<img data-layout-node={"n192"} className={"v74 captured-style"} src={"/assets/remote-d6cba1a69cbeac01-responsive-300.webp"} alt={"Hip"} loading={"lazy"} decoding={"async"} width={"150"} height={"150"} srcSet={"/assets/remote-d6cba1a69cbeac01-responsive-160.webp 160w, /assets/remote-d6cba1a69cbeac01-responsive-300.webp 300w"} sizes={"150px"} />
+<img data-layout-node={"n192"} className={"v74 captured-style"} src={"/assets/remote-d6cba1a69cbeac01-responsive-300.webp"} alt={"Hip"} loading={"lazy"} decoding={"async"} width={"300"} height={"300"} srcSet={"/assets/remote-d6cba1a69cbeac01-responsive-160.webp 160w, /assets/remote-d6cba1a69cbeac01-responsive-300.webp 300w"} sizes={"150px"} />
 </div>
 </div>
 </div>
@@ -430,27 +430,27 @@ export default function Page4741(){return <div className="page-4741 captured-pag
 <div data-layout-node={"n197"} className={"v72 layout-row captured-style"}>
 <div data-layout-node={"n198"} className={"v73 captured-style"}>
 <div data-layout-node={"n199"} className={"v4 captured-style"}>
-<img data-layout-node={"n200"} className={"v74 captured-style"} src={"/assets/remote-68254fe22cde4ee8-responsive-300.webp"} alt={"Rcycc logo"} loading={"lazy"} decoding={"async"} width={"150"} height={"150"} srcSet={"/assets/remote-68254fe22cde4ee8-responsive-160.webp 160w, /assets/remote-68254fe22cde4ee8-responsive-300.webp 300w"} sizes={"150px"} />
+<img data-layout-node={"n200"} className={"v74 captured-style"} src={"/assets/remote-68254fe22cde4ee8-responsive-300.webp"} alt={"Rcycc logo"} loading={"lazy"} decoding={"async"} width={"300"} height={"300"} srcSet={"/assets/remote-68254fe22cde4ee8-responsive-160.webp 160w, /assets/remote-68254fe22cde4ee8-responsive-300.webp 300w"} sizes={"150px"} />
 </div>
 </div>
 <div data-layout-node={"n201"} className={"v73 captured-style"}>
 <div data-layout-node={"n202"} className={"v4 captured-style"}>
-<img data-layout-node={"n203"} className={"v74 captured-style"} src={"/assets/remote-751d8ca1e57fe3a1-responsive-300.webp"} alt={"Ruijie logo"} loading={"lazy"} decoding={"async"} width={"150"} height={"150"} srcSet={"/assets/remote-751d8ca1e57fe3a1-responsive-160.webp 160w, /assets/remote-751d8ca1e57fe3a1-responsive-300.webp 300w"} sizes={"150px"} />
+<img data-layout-node={"n203"} className={"v74 captured-style"} src={"/assets/remote-751d8ca1e57fe3a1-responsive-300.webp"} alt={"Ruijie logo"} loading={"lazy"} decoding={"async"} width={"300"} height={"300"} srcSet={"/assets/remote-751d8ca1e57fe3a1-responsive-160.webp 160w, /assets/remote-751d8ca1e57fe3a1-responsive-300.webp 300w"} sizes={"150px"} />
 </div>
 </div>
 <div data-layout-node={"n204"} className={"v73 captured-style"}>
 <div data-layout-node={"n205"} className={"v4 captured-style"}>
-<img data-layout-node={"n206"} className={"v74 captured-style"} src={"/assets/remote-1372ea897ae5931b-responsive-300.webp"} alt={"Link logo"} loading={"lazy"} decoding={"async"} width={"150"} height={"150"} srcSet={"/assets/remote-1372ea897ae5931b-responsive-160.webp 160w, /assets/remote-1372ea897ae5931b-responsive-300.webp 300w"} sizes={"150px"} />
+<img data-layout-node={"n206"} className={"v74 captured-style"} src={"/assets/remote-1372ea897ae5931b-responsive-300.webp"} alt={"Link logo"} loading={"lazy"} decoding={"async"} width={"300"} height={"300"} srcSet={"/assets/remote-1372ea897ae5931b-responsive-160.webp 160w, /assets/remote-1372ea897ae5931b-responsive-300.webp 300w"} sizes={"150px"} />
 </div>
 </div>
 <div data-layout-node={"n207"} className={"v73 captured-style"}>
 <div data-layout-node={"n208"} className={"v4 captured-style"}>
-<img data-layout-node={"n209"} className={"v74 captured-style"} src={"/assets/remote-42ccadcf8024f905-responsive-300.webp"} alt={"Ajhua logo"} loading={"lazy"} decoding={"async"} width={"150"} height={"150"} srcSet={"/assets/remote-42ccadcf8024f905-responsive-160.webp 160w, /assets/remote-42ccadcf8024f905-responsive-300.webp 300w"} sizes={"150px"} />
+<img data-layout-node={"n209"} className={"v74 captured-style"} src={"/assets/remote-42ccadcf8024f905-responsive-300.webp"} alt={"Ajhua logo"} loading={"lazy"} decoding={"async"} width={"300"} height={"300"} srcSet={"/assets/remote-42ccadcf8024f905-responsive-160.webp 160w, /assets/remote-42ccadcf8024f905-responsive-300.webp 300w"} sizes={"150px"} />
 </div>
 </div>
 <div data-layout-node={"n210"} className={"v73 captured-style"}>
 <div data-layout-node={"n211"} className={"v4 captured-style"}>
-<img data-layout-node={"n212"} className={"v74 captured-style"} src={"/assets/remote-090e0fb218b44e59-responsive-300.webp"} alt={"Aruba"} loading={"lazy"} decoding={"async"} width={"150"} height={"150"} srcSet={"/assets/remote-090e0fb218b44e59-responsive-160.webp 160w, /assets/remote-090e0fb218b44e59-responsive-300.webp 300w"} sizes={"150px"} />
+<img data-layout-node={"n212"} className={"v74 captured-style"} src={"/assets/remote-090e0fb218b44e59-responsive-300.webp"} alt={"Aruba"} loading={"lazy"} decoding={"async"} width={"300"} height={"300"} srcSet={"/assets/remote-090e0fb218b44e59-responsive-160.webp 160w, /assets/remote-090e0fb218b44e59-responsive-300.webp 300w"} sizes={"150px"} />
 </div>
 </div>
 </div>
@@ -466,7 +466,7 @@ export default function Page4741(){return <div className="page-4741 captured-pag
 <div data-layout-node={"n217"} className={"v72 media-widget layout-row captured-style"}>
 <div data-layout-node={"n218"} className={"v75 media-widget captured-style"}>
 <div data-layout-node={"n219"} className={"v4 media-widget captured-style"}>
-<img data-layout-node={"n220"} className={"v76 captured-style"} src={"/assets/remote-a6b445d92518448a-responsive-500.webp"} alt={"Yazaki logo"} loading={"lazy"} decoding={"async"} width={"300"} height={"300"} srcSet={"/assets/remote-a6b445d92518448a-responsive-160.webp 160w, /assets/remote-a6b445d92518448a-responsive-320.webp 320w, /assets/remote-a6b445d92518448a-responsive-500.webp 500w"} sizes={"(max-width: 640px) calc(100vw - 40px), (max-width: 1024px) 50vw, 300px"} />
+<img data-layout-node={"n220"} className={"v76 captured-style"} src={"/assets/remote-a6b445d92518448a-responsive-500.webp"} alt={"Yazaki logo"} loading={"lazy"} decoding={"async"} width={"500"} height={"500"} srcSet={"/assets/remote-a6b445d92518448a-responsive-160.webp 160w, /assets/remote-a6b445d92518448a-responsive-320.webp 320w, /assets/remote-a6b445d92518448a-responsive-500.webp 500w"} sizes={"(max-width: 640px) calc(100vw - 40px), (max-width: 1024px) 50vw, 300px"} />
 </div>
 </div>
 </div>

@@ -11,7 +11,7 @@ export default function Page4821(){return <div className="page-4821 captured-pag
 <div data-layout-node={"n2"} className={"v2 captured-style"}>
 <div data-layout-node={"n3"} className={"v3 text-widget captured-style"}>
 <div data-layout-node={"n4"} className={"v4 text-widget captured-style"}>
-<p data-layout-node={"n5"} className={"v5 captured-style"}>
+<p data-layout-node={"n5"} className={"v5 accessible-accent-dark captured-style"}>
 {"WINDOW FILM "}
 </p>
 </div>
@@ -92,7 +92,7 @@ export default function Page4821(){return <div className="page-4821 captured-pag
 <div data-layout-node={"n483"} className={"v74 captured-style"}>
 <div data-layout-node={"n484"} className={"v3 text-widget captured-style"}>
 <div data-layout-node={"n485"} className={"v4 text-widget captured-style"}>
-<p data-layout-node={"n486"} className={"v115 captured-style"}>
+<p data-layout-node={"n486"} className={"v115 accessible-accent-dark captured-style"}>
 {"WHY AITSCCTV"}
 </p>
 </div>
@@ -196,7 +196,7 @@ export default function Page4821(){return <div className="page-4821 captured-pag
 <div data-layout-node={"n33"} className={"v22 captured-style"}>
 <div data-layout-node={"n34"} className={"v3 text-widget captured-style"}>
 <div data-layout-node={"n35"} className={"v4 text-widget captured-style"}>
-<p data-layout-node={"n36"} className={"v5 captured-style"}>
+<p data-layout-node={"n36"} className={"v5 accessible-accent-dark captured-style"}>
 {"DESIGN AND SET UP WINDOW FILM "}
 </p>
 </div>
@@ -217,7 +217,7 @@ export default function Page4821(){return <div className="page-4821 captured-pag
 </div>
 <div data-layout-node={"n46"} className={"v3 media-widget captured-style"}>
 <div data-layout-node={"n47"} className={"v4 media-widget captured-style"}>
-<img data-layout-node={"n48"} className={"v30 captured-style"} src={"/assets/remote-117f46eb0d4497c7-responsive-640.webp"} alt={"Window film single house"} loading={"lazy"} decoding={"async"} width={"1024"} height={"537"} srcSet={"/assets/remote-117f46eb0d4497c7-responsive-160.webp 160w, /assets/remote-117f46eb0d4497c7-responsive-320.webp 320w, /assets/remote-117f46eb0d4497c7-responsive-640.webp 640w, /assets/remote-117f46eb0d4497c7-responsive-1200.webp 1200w"} sizes={"(max-width: 640px) calc(100vw - 40px), (max-width: 1024px) 50vw, 340px"} />
+<img data-layout-node={"n48"} className={"v30 captured-style"} src={"/assets/remote-117f46eb0d4497c7-responsive-640.webp"} alt={"Window film single house"} loading={"lazy"} decoding={"async"} width={"1200"} height={"630"} srcSet={"/assets/remote-117f46eb0d4497c7-responsive-160.webp 160w, /assets/remote-117f46eb0d4497c7-responsive-320.webp 320w, /assets/remote-117f46eb0d4497c7-responsive-640.webp 640w, /assets/remote-117f46eb0d4497c7-responsive-1200.webp 1200w"} sizes={"(max-width: 640px) calc(100vw - 40px), (max-width: 1024px) 50vw, 340px"} />
 </div>
 </div>
 <div data-layout-node={"n49"} className={"v17 captured-style"}>
@@ -253,7 +253,7 @@ export default function Page4821(){return <div className="page-4821 captured-pag
 </div>
 <div data-layout-node={"n63"} className={"v3 media-widget captured-style"}>
 <div data-layout-node={"n64"} className={"v4 media-widget captured-style"}>
-<img data-layout-node={"n65"} className={"v30 captured-style"} src={"/assets/remote-64cc44741848e8db-responsive-640.webp"} alt={"Window film building"} loading={"lazy"} decoding={"async"} width={"1024"} height={"537"} srcSet={"/assets/remote-64cc44741848e8db-responsive-160.webp 160w, /assets/remote-64cc44741848e8db-responsive-320.webp 320w, /assets/remote-64cc44741848e8db-responsive-640.webp 640w, /assets/remote-64cc44741848e8db-responsive-1200.webp 1200w"} sizes={"(max-width: 640px) calc(100vw - 40px), (max-width: 1024px) 50vw, 340px"} />
+<img data-layout-node={"n65"} className={"v30 captured-style"} src={"/assets/remote-64cc44741848e8db-responsive-640.webp"} alt={"Window film building"} loading={"lazy"} decoding={"async"} width={"1200"} height={"630"} srcSet={"/assets/remote-64cc44741848e8db-responsive-160.webp 160w, /assets/remote-64cc44741848e8db-responsive-320.webp 320w, /assets/remote-64cc44741848e8db-responsive-640.webp 640w, /assets/remote-64cc44741848e8db-responsive-1200.webp 1200w"} sizes={"(max-width: 640px) calc(100vw - 40px), (max-width: 1024px) 50vw, 340px"} />
 </div>
 </div>
 <div data-layout-node={"n66"} className={"v17 captured-style"}>
@@ -289,7 +289,7 @@ export default function Page4821(){return <div className="page-4821 captured-pag
 </div>
 <div data-layout-node={"n80"} className={"v3 media-widget captured-style"}>
 <div data-layout-node={"n81"} className={"v4 media-widget captured-style"}>
-<img data-layout-node={"n82"} className={"v30 captured-style"} src={"/assets/remote-ba4060cc6a1bc47b-responsive-640.webp"} alt={"Window film home"} loading={"lazy"} decoding={"async"} width={"1024"} height={"537"} srcSet={"/assets/remote-ba4060cc6a1bc47b-responsive-160.webp 160w, /assets/remote-ba4060cc6a1bc47b-responsive-320.webp 320w, /assets/remote-ba4060cc6a1bc47b-responsive-640.webp 640w, /assets/remote-ba4060cc6a1bc47b-responsive-1200.webp 1200w"} sizes={"(max-width: 640px) calc(100vw - 40px), (max-width: 1024px) 50vw, 340px"} />
+<img data-layout-node={"n82"} className={"v30 captured-style"} src={"/assets/remote-ba4060cc6a1bc47b-responsive-640.webp"} alt={"Window film home"} loading={"lazy"} decoding={"async"} width={"1200"} height={"630"} srcSet={"/assets/remote-ba4060cc6a1bc47b-responsive-160.webp 160w, /assets/remote-ba4060cc6a1bc47b-responsive-320.webp 320w, /assets/remote-ba4060cc6a1bc47b-responsive-640.webp 640w, /assets/remote-ba4060cc6a1bc47b-responsive-1200.webp 1200w"} sizes={"(max-width: 640px) calc(100vw - 40px), (max-width: 1024px) 50vw, 340px"} />
 </div>
 </div>
 <div data-layout-node={"n83"} className={"v17 captured-style"}>
@@ -334,9 +334,9 @@ export default function Page4821(){return <div className="page-4821 captured-pag
 <div data-layout-node={"n372"} className={"v18 text-widget captured-style"}>
 <p data-layout-node={"n373"} className={"v81 captured-style"}>
 {"ราคาติดฟิล์มอาคาร ติดฟิล์มบ้าน โดยทีมงานช่างจาก AITSCCTV เราจะคำนวณราคาติดตั้งเป็น ราคา/ตารางฟุต หรือ ราคา/ตารางเมตร ขึ้นอยู่กับความเหมาะสมของประเภทงานนั้น ๆ โดยราคาเริ่มต้นตั้งแต่ ตารางฟุตละ 50 – 450 บาท ขึ้นอยู่กับประเภทของฟิล์ม และยี่ห้อของฟิล์มกรองแสงติดบ้านที่เลือกใช้งาน หากต้องการประเมินราคาเบื้องต้น สามารถติดต่อได้ที่นี่ "}
-<span data-layout-node={"n374"} className={"v82 captured-style"}>
+<span data-layout-node={"n374"} className={"v82 accessible-accent-dark captured-style"}>
 {"“"}
-<SiteLink data-layout-node={"n375"} className={"v82 captured-style"} href={"https://page.line.me/852uanad?openQrModal=true"}>
+<SiteLink data-layout-node={"n375"} className={"v82 accessible-accent-dark captured-style"} href={"https://page.line.me/852uanad?openQrModal=true"}>
 {"ประเมินราคาติดฟิล์มบ้าน"}
 </SiteLink>
 {"”"}
@@ -395,7 +395,7 @@ export default function Page4821(){return <div className="page-4821 captured-pag
 <div data-layout-node={"n534"} className={"v83 captured-style"}>
 <div data-layout-node={"n535"} className={"v84 captured-style"}>
 <div data-layout-node={"n536"} className={"v128 captured-style"}>
-<div className={"table-scroll"} role={"region"} aria-label={"ตารางเปรียบเทียบ เลื่อนเพื่อดูข้อมูลเพิ่มเติม"} tabIndex={0}>
+<div className={"table-scroll"} role={"region"} aria-label={"ตารางเปรียบเทียบ 1 เลื่อนเพื่อดูข้อมูลเพิ่มเติม"} tabIndex={0}>
 <table data-layout-node={"n537"} className={"v129 captured-style"}>
 <tbody data-layout-node={"n538"} className={"v130 captured-style"}>
 <tr data-layout-node={"n539"} className={"v131 captured-style"}>
@@ -462,7 +462,7 @@ export default function Page4821(){return <div className="page-4821 captured-pag
 <div data-layout-node={"n559"} className={"v138 text-widget captured-style"}>
 <div data-layout-node={"n560"} className={"v139 text-widget captured-style"}>
 <p data-layout-node={"n561"} className={"v140 captured-style"}>
-<span data-layout-node={"n562"} className={"v141 captured-style"}>
+<span data-layout-node={"n562"} className={"v141 accessible-accent-dark captured-style"}>
 {"** ราคาขึ้นอยู่กับยี่ห้อของแบรนด์ ประเภทฟิล์ม และความเข้มของฟิล์ม"}
 </span>
 </p>
@@ -573,7 +573,7 @@ export default function Page4821(){return <div className="page-4821 captured-pag
 </li>
 </ul>
 <p data-layout-node={"n168"} className={"v81 captured-style"}>
-<span data-layout-node={"n169"} className={"v82 captured-style"}>
+<span data-layout-node={"n169"} className={"v82 accessible-accent-dark captured-style"}>
 {"** ติดต่อเราทีมงาน AITSCCTV เพื่อปรึกษายี่ห้อฟิล์ม ขนาดความเข้มของฟิล์ม หรือใช้บริการติดตั้งฟิล์มกระจกบ้าน **"}
 </span>
 </p>
@@ -977,7 +977,7 @@ export default function Page4821(){return <div className="page-4821 captured-pag
 </div>
 <div data-layout-node={"n439"} className={"v103 captured-style"}>
 <div data-layout-node={"n440"} className={"v104 captured-style"}>
-<img data-layout-node={"n441"} className={"v108 captured-style"} src={"/assets/remote-19bfd867655077ec-responsive-300.webp"} alt={"3m"} loading={"lazy"} decoding={"async"} width={"150"} height={"150"} srcSet={"/assets/remote-19bfd867655077ec-responsive-160.webp 160w, /assets/remote-19bfd867655077ec-responsive-300.webp 300w"} sizes={"150px"} />
+<img data-layout-node={"n441"} className={"v108 captured-style"} src={"/assets/remote-19bfd867655077ec-responsive-300.webp"} alt={"3m"} loading={"lazy"} decoding={"async"} width={"300"} height={"300"} srcSet={"/assets/remote-19bfd867655077ec-responsive-160.webp 160w, /assets/remote-19bfd867655077ec-responsive-300.webp 300w"} sizes={"150px"} />
 </div>
 </div>
 </div>
@@ -998,7 +998,7 @@ export default function Page4821(){return <div className="page-4821 captured-pag
 </div>
 <div data-layout-node={"n449"} className={"v103 captured-style"}>
 <div data-layout-node={"n450"} className={"v104 captured-style"}>
-<img data-layout-node={"n451"} className={"v108 captured-style"} src={"/assets/remote-d69bb792638564e2-responsive-300.webp"} alt={"Hk"} loading={"lazy"} decoding={"async"} width={"150"} height={"150"} srcSet={"/assets/remote-d69bb792638564e2-responsive-160.webp 160w, /assets/remote-d69bb792638564e2-responsive-300.webp 300w"} sizes={"150px"} />
+<img data-layout-node={"n451"} className={"v108 captured-style"} src={"/assets/remote-d69bb792638564e2-responsive-300.webp"} alt={"Hk"} loading={"lazy"} decoding={"async"} width={"300"} height={"300"} srcSet={"/assets/remote-d69bb792638564e2-responsive-160.webp 160w, /assets/remote-d69bb792638564e2-responsive-300.webp 300w"} sizes={"150px"} />
 </div>
 </div>
 </div>
@@ -1019,7 +1019,7 @@ export default function Page4821(){return <div className="page-4821 captured-pag
 </div>
 <div data-layout-node={"n459"} className={"v103 captured-style"}>
 <div data-layout-node={"n460"} className={"v104 captured-style"}>
-<img data-layout-node={"n461"} className={"v108 captured-style"} src={"/assets/remote-232a1e59df717e97-responsive-300.webp"} alt={"Lm"} loading={"lazy"} decoding={"async"} width={"150"} height={"150"} srcSet={"/assets/remote-232a1e59df717e97-responsive-160.webp 160w, /assets/remote-232a1e59df717e97-responsive-300.webp 300w"} sizes={"150px"} />
+<img data-layout-node={"n461"} className={"v108 captured-style"} src={"/assets/remote-232a1e59df717e97-responsive-300.webp"} alt={"Lm"} loading={"lazy"} decoding={"async"} width={"300"} height={"300"} srcSet={"/assets/remote-232a1e59df717e97-responsive-160.webp 160w, /assets/remote-232a1e59df717e97-responsive-300.webp 300w"} sizes={"150px"} />
 </div>
 </div>
 </div>
@@ -1043,7 +1043,7 @@ export default function Page4821(){return <div className="page-4821 captured-pag
 </div>
 <div data-layout-node={"n470"} className={"v111 captured-style"}>
 <div data-layout-node={"n471"} className={"v4 captured-style"}>
-<img data-layout-node={"n472"} className={"v108 captured-style"} src={"/assets/remote-50d9d0fcdb49890c-responsive-300.webp"} alt={"Hg"} loading={"lazy"} decoding={"async"} width={"150"} height={"150"} srcSet={"/assets/remote-50d9d0fcdb49890c-responsive-160.webp 160w, /assets/remote-50d9d0fcdb49890c-responsive-300.webp 300w"} sizes={"150px"} />
+<img data-layout-node={"n472"} className={"v108 captured-style"} src={"/assets/remote-50d9d0fcdb49890c-responsive-300.webp"} alt={"Hg"} loading={"lazy"} decoding={"async"} width={"300"} height={"300"} srcSet={"/assets/remote-50d9d0fcdb49890c-responsive-160.webp 160w, /assets/remote-50d9d0fcdb49890c-responsive-300.webp 300w"} sizes={"150px"} />
 </div>
 </div>
 </div>
@@ -1062,7 +1062,7 @@ export default function Page4821(){return <div className="page-4821 captured-pag
 </div>
 <div data-layout-node={"n479"} className={"v111 captured-style"}>
 <div data-layout-node={"n480"} className={"v4 captured-style"}>
-<img data-layout-node={"n481"} className={"v108 captured-style"} src={"/assets/remote-206e0b26af266f72-responsive-300.webp"} alt={"Sfx"} loading={"lazy"} decoding={"async"} width={"150"} height={"150"} srcSet={"/assets/remote-206e0b26af266f72-responsive-160.webp 160w, /assets/remote-206e0b26af266f72-responsive-300.webp 300w"} sizes={"150px"} />
+<img data-layout-node={"n481"} className={"v108 captured-style"} src={"/assets/remote-206e0b26af266f72-responsive-300.webp"} alt={"Sfx"} loading={"lazy"} decoding={"async"} width={"300"} height={"300"} srcSet={"/assets/remote-206e0b26af266f72-responsive-160.webp 160w, /assets/remote-206e0b26af266f72-responsive-300.webp 300w"} sizes={"150px"} />
 </div>
 </div>
 </div>

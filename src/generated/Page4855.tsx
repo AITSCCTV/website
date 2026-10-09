@@ -11,7 +11,7 @@ export default function Page4855(){return <div className="page-4855 captured-pag
 <div data-layout-node={"n2"} className={"v2 captured-style"}>
 <div data-layout-node={"n3"} className={"v3 text-widget captured-style"}>
 <div data-layout-node={"n4"} className={"v4 text-widget captured-style"}>
-<p data-layout-node={"n5"} className={"v5 captured-style"}>
+<p data-layout-node={"n5"} className={"v5 accessible-accent-dark captured-style"}>
 {"HOME RENOVATION"}
 </p>
 </div>
@@ -62,7 +62,7 @@ export default function Page4855(){return <div className="page-4855 captured-pag
 <div data-layout-node={"n27"} className={"v18 media-widget captured-style"}>
 <div data-layout-node={"n28"} className={"v3 media-widget captured-style"}>
 <div data-layout-node={"n29"} className={"v4 media-widget captured-style"}>
-<img data-layout-node={"n30"} className={"v19 captured-style"} src={"/assets/remote-65ed6b9c5ade2364-responsive-640.webp"} alt={"House isolated in the field"} loading={"lazy"} decoding={"async"} width={"1536"} height={"1023"} srcSet={"/assets/remote-65ed6b9c5ade2364-responsive-160.webp 160w, /assets/remote-65ed6b9c5ade2364-responsive-320.webp 320w, /assets/remote-65ed6b9c5ade2364-responsive-640.webp 640w, /assets/remote-65ed6b9c5ade2364-responsive-1280.webp 1280w"} sizes={"(max-width: 640px) calc(100vw - 40px), (max-width: 1024px) 50vw, 1120px"} />
+<img data-layout-node={"n30"} className={"v19 captured-style"} src={"/assets/remote-65ed6b9c5ade2364-responsive-640.webp"} alt={"House isolated in the field"} loading={"lazy"} decoding={"async"} width={"2048"} height={"1365"} srcSet={"/assets/remote-65ed6b9c5ade2364-responsive-160.webp 160w, /assets/remote-65ed6b9c5ade2364-responsive-320.webp 320w, /assets/remote-65ed6b9c5ade2364-responsive-640.webp 640w, /assets/remote-65ed6b9c5ade2364-responsive-1280.webp 1280w"} sizes={"(max-width: 640px) calc(100vw - 40px), (max-width: 1024px) 50vw, 1120px"} />
 </div>
 </div>
 </div>
@@ -90,7 +90,7 @@ export default function Page4855(){return <div className="page-4855 captured-pag
 <div data-layout-node={"n301"} className={"v78 captured-style"}>
 <div data-layout-node={"n302"} className={"v3 text-widget captured-style"}>
 <div data-layout-node={"n303"} className={"v4 text-widget captured-style"}>
-<p data-layout-node={"n304"} className={"v94 captured-style"}>
+<p data-layout-node={"n304"} className={"v94 accessible-accent-dark captured-style"}>
 {"WHY AITSCCTV"}
 </p>
 </div>
@@ -106,7 +106,7 @@ export default function Page4855(){return <div className="page-4855 captured-pag
 </div>
 <div data-layout-node={"n309"} className={"v3 media-widget captured-style"}>
 <div data-layout-node={"n310"} className={"v4 media-widget captured-style"}>
-<img data-layout-node={"n311"} className={"v95 captured-style"} src={"/assets/remote-31285d57864ba434-responsive-640.webp"} alt={"Renovate house3"} loading={"lazy"} decoding={"async"} width={"768"} height={"512"} srcSet={"/assets/remote-31285d57864ba434-responsive-160.webp 160w, /assets/remote-31285d57864ba434-responsive-320.webp 320w, /assets/remote-31285d57864ba434-responsive-640.webp 640w, /assets/remote-31285d57864ba434-responsive-900.webp 900w"} sizes={"(max-width: 640px) calc(100vw - 40px), (max-width: 1024px) 50vw, 912px"} />
+<img data-layout-node={"n311"} className={"v95 captured-style"} src={"/assets/remote-31285d57864ba434-responsive-640.webp"} alt={"Renovate house3"} loading={"lazy"} decoding={"async"} width={"900"} height={"600"} srcSet={"/assets/remote-31285d57864ba434-responsive-160.webp 160w, /assets/remote-31285d57864ba434-responsive-320.webp 320w, /assets/remote-31285d57864ba434-responsive-640.webp 640w, /assets/remote-31285d57864ba434-responsive-900.webp 900w"} sizes={"(max-width: 640px) calc(100vw - 40px), (max-width: 1024px) 50vw, 912px"} />
 </div>
 </div>
 <div data-layout-node={"n312"} className={"v96 section layout-row captured-style"}>
@@ -205,7 +205,7 @@ export default function Page4855(){return <div className="page-4855 captured-pag
 <div data-layout-node={"n32"} className={"v21 captured-style"}>
 <div data-layout-node={"n33"} className={"v3 text-widget captured-style"}>
 <div data-layout-node={"n34"} className={"v4 text-widget captured-style"}>
-<p data-layout-node={"n35"} className={"v5 captured-style"}>
+<p data-layout-node={"n35"} className={"v5 accessible-accent-dark captured-style"}>
 {"HOME RENOVATION SERVICE"}
 </p>
 </div>
@@ -224,7 +224,7 @@ export default function Page4855(){return <div className="page-4855 captured-pag
 </div>
 <div data-layout-node={"n44"} className={"v3 media-widget captured-style"}>
 <div data-layout-node={"n45"} className={"v4 media-widget captured-style"}>
-<img data-layout-node={"n46"} className={"v28 captured-style"} src={"/assets/remote-43237595366ecd76-responsive-640.webp"} alt={"Renovate wooden house"} loading={"lazy"} decoding={"async"} width={"1024"} height={"682"} srcSet={"/assets/remote-43237595366ecd76-responsive-160.webp 160w, /assets/remote-43237595366ecd76-responsive-320.webp 320w, /assets/remote-43237595366ecd76-responsive-640.webp 640w, /assets/remote-43237595366ecd76-responsive-1280.webp 1280w"} sizes={"(max-width: 640px) calc(100vw - 40px), (max-width: 1024px) 50vw, 340px"} />
+<img data-layout-node={"n46"} className={"v28 captured-style"} src={"/assets/remote-43237595366ecd76-responsive-640.webp"} alt={"Renovate wooden house"} loading={"lazy"} decoding={"async"} width={"1536"} height={"1024"} srcSet={"/assets/remote-43237595366ecd76-responsive-160.webp 160w, /assets/remote-43237595366ecd76-responsive-320.webp 320w, /assets/remote-43237595366ecd76-responsive-640.webp 640w, /assets/remote-43237595366ecd76-responsive-1280.webp 1280w"} sizes={"(max-width: 640px) calc(100vw - 40px), (max-width: 1024px) 50vw, 340px"} />
 </div>
 </div>
 <div data-layout-node={"n47"} className={"v16 captured-style"}>
@@ -260,7 +260,7 @@ export default function Page4855(){return <div className="page-4855 captured-pag
 </div>
 <div data-layout-node={"n61"} className={"v3 media-widget captured-style"}>
 <div data-layout-node={"n62"} className={"v4 media-widget captured-style"}>
-<img data-layout-node={"n63"} className={"v28 captured-style"} src={"/assets/remote-6bdc5c3b338c97ff-responsive-640.webp"} alt={"Old white house and garden"} loading={"lazy"} decoding={"async"} width={"1024"} height={"682"} srcSet={"/assets/remote-6bdc5c3b338c97ff-responsive-160.webp 160w, /assets/remote-6bdc5c3b338c97ff-responsive-320.webp 320w, /assets/remote-6bdc5c3b338c97ff-responsive-640.webp 640w, /assets/remote-6bdc5c3b338c97ff-responsive-1280.webp 1280w"} sizes={"(max-width: 640px) calc(100vw - 40px), (max-width: 1024px) 50vw, 340px"} />
+<img data-layout-node={"n63"} className={"v28 captured-style"} src={"/assets/remote-6bdc5c3b338c97ff-responsive-640.webp"} alt={"Old white house and garden"} loading={"lazy"} decoding={"async"} width={"1536"} height={"1024"} srcSet={"/assets/remote-6bdc5c3b338c97ff-responsive-160.webp 160w, /assets/remote-6bdc5c3b338c97ff-responsive-320.webp 320w, /assets/remote-6bdc5c3b338c97ff-responsive-640.webp 640w, /assets/remote-6bdc5c3b338c97ff-responsive-1280.webp 1280w"} sizes={"(max-width: 640px) calc(100vw - 40px), (max-width: 1024px) 50vw, 340px"} />
 </div>
 </div>
 <div data-layout-node={"n64"} className={"v16 captured-style"}>
@@ -296,7 +296,7 @@ export default function Page4855(){return <div className="page-4855 captured-pag
 </div>
 <div data-layout-node={"n78"} className={"v3 media-widget captured-style"}>
 <div data-layout-node={"n79"} className={"v4 media-widget captured-style"}>
-<img data-layout-node={"n80"} className={"v36 captured-style"} src={"/assets/remote-9d52baa290095101-responsive-640.webp"} alt={"Front view of a residential apartment"} loading={"lazy"} decoding={"async"} width={"1024"} height={"790"} srcSet={"/assets/remote-9d52baa290095101-responsive-160.webp 160w, /assets/remote-9d52baa290095101-responsive-320.webp 320w, /assets/remote-9d52baa290095101-responsive-640.webp 640w, /assets/remote-9d52baa290095101-responsive-1280.webp 1280w"} sizes={"(max-width: 640px) calc(100vw - 40px), (max-width: 1024px) 50vw, 340px"} />
+<img data-layout-node={"n80"} className={"v36 captured-style"} src={"/assets/remote-9d52baa290095101-responsive-640.webp"} alt={"Front view of a residential apartment"} loading={"lazy"} decoding={"async"} width={"1536"} height={"1185"} srcSet={"/assets/remote-9d52baa290095101-responsive-160.webp 160w, /assets/remote-9d52baa290095101-responsive-320.webp 320w, /assets/remote-9d52baa290095101-responsive-640.webp 640w, /assets/remote-9d52baa290095101-responsive-1280.webp 1280w"} sizes={"(max-width: 640px) calc(100vw - 40px), (max-width: 1024px) 50vw, 340px"} />
 </div>
 </div>
 <div data-layout-node={"n81"} className={"v16 captured-style"}>
@@ -355,7 +355,7 @@ export default function Page4855(){return <div className="page-4855 captured-pag
 </div>
 <div data-layout-node={"n232"} className={"v85 media-widget captured-style"}>
 <div data-layout-node={"n233"} className={"v86 media-widget captured-style"}>
-<img data-layout-node={"n234"} className={"v90 captured-style"} src={"/assets/remote-8e19f866f9136964-responsive-640.webp"} alt={"Minimal house"} loading={"lazy"} decoding={"async"} width={"768"} height={"513"} srcSet={"/assets/remote-8e19f866f9136964-responsive-160.webp 160w, /assets/remote-8e19f866f9136964-responsive-320.webp 320w, /assets/remote-8e19f866f9136964-responsive-640.webp 640w, /assets/remote-8e19f866f9136964-responsive-1024.webp 1024w"} sizes={"(max-width: 640px) calc(100vw - 40px), (max-width: 1024px) 50vw, 508px"} />
+<img data-layout-node={"n234"} className={"v90 captured-style"} src={"/assets/remote-8e19f866f9136964-responsive-640.webp"} alt={"Minimal house"} loading={"lazy"} decoding={"async"} width={"1024"} height={"684"} srcSet={"/assets/remote-8e19f866f9136964-responsive-160.webp 160w, /assets/remote-8e19f866f9136964-responsive-320.webp 320w, /assets/remote-8e19f866f9136964-responsive-640.webp 640w, /assets/remote-8e19f866f9136964-responsive-1024.webp 1024w"} sizes={"(max-width: 640px) calc(100vw - 40px), (max-width: 1024px) 50vw, 508px"} />
 </div>
 </div>
 </div>
@@ -376,7 +376,7 @@ export default function Page4855(){return <div className="page-4855 captured-pag
 </div>
 <div data-layout-node={"n242"} className={"v85 media-widget captured-style"}>
 <div data-layout-node={"n243"} className={"v86 media-widget captured-style"}>
-<img data-layout-node={"n244"} className={"v91 captured-style"} src={"/assets/remote-061909ebe2caa35f-responsive-640.webp"} alt={"Japanese house"} loading={"lazy"} decoding={"async"} width={"768"} height={"513"} srcSet={"/assets/remote-061909ebe2caa35f-responsive-160.webp 160w, /assets/remote-061909ebe2caa35f-responsive-320.webp 320w, /assets/remote-061909ebe2caa35f-responsive-640.webp 640w, /assets/remote-061909ebe2caa35f-responsive-1024.webp 1024w"} sizes={"(max-width: 640px) calc(100vw - 40px), (max-width: 1024px) 50vw, 508px"} />
+<img data-layout-node={"n244"} className={"v91 captured-style"} src={"/assets/remote-061909ebe2caa35f-responsive-640.webp"} alt={"Japanese house"} loading={"lazy"} decoding={"async"} width={"1024"} height={"685"} srcSet={"/assets/remote-061909ebe2caa35f-responsive-160.webp 160w, /assets/remote-061909ebe2caa35f-responsive-320.webp 320w, /assets/remote-061909ebe2caa35f-responsive-640.webp 640w, /assets/remote-061909ebe2caa35f-responsive-1024.webp 1024w"} sizes={"(max-width: 640px) calc(100vw - 40px), (max-width: 1024px) 50vw, 508px"} />
 </div>
 </div>
 </div>
@@ -401,7 +401,7 @@ export default function Page4855(){return <div className="page-4855 captured-pag
 </div>
 <div data-layout-node={"n254"} className={"v85 media-widget captured-style"}>
 <div data-layout-node={"n255"} className={"v86 media-widget captured-style"}>
-<img data-layout-node={"n256"} className={"v92 captured-style"} src={"/assets/remote-047a5abf5a225343-responsive-640.webp"} alt={"Modern house"} loading={"lazy"} decoding={"async"} width={"768"} height={"512"} srcSet={"/assets/remote-047a5abf5a225343-responsive-160.webp 160w, /assets/remote-047a5abf5a225343-responsive-320.webp 320w, /assets/remote-047a5abf5a225343-responsive-640.webp 640w, /assets/remote-047a5abf5a225343-responsive-1024.webp 1024w"} sizes={"(max-width: 640px) calc(100vw - 40px), (max-width: 1024px) 50vw, 508px"} />
+<img data-layout-node={"n256"} className={"v92 captured-style"} src={"/assets/remote-047a5abf5a225343-responsive-640.webp"} alt={"Modern house"} loading={"lazy"} decoding={"async"} width={"1024"} height={"683"} srcSet={"/assets/remote-047a5abf5a225343-responsive-160.webp 160w, /assets/remote-047a5abf5a225343-responsive-320.webp 320w, /assets/remote-047a5abf5a225343-responsive-640.webp 640w, /assets/remote-047a5abf5a225343-responsive-1024.webp 1024w"} sizes={"(max-width: 640px) calc(100vw - 40px), (max-width: 1024px) 50vw, 508px"} />
 </div>
 </div>
 </div>
@@ -422,7 +422,7 @@ export default function Page4855(){return <div className="page-4855 captured-pag
 </div>
 <div data-layout-node={"n264"} className={"v85 media-widget captured-style"}>
 <div data-layout-node={"n265"} className={"v86 media-widget captured-style"}>
-<img data-layout-node={"n266"} className={"v92 captured-style"} src={"/assets/remote-7d4f62a23689f13c-responsive-640.webp"} alt={"Cafe and living room loft style"} loading={"lazy"} decoding={"async"} width={"768"} height={"512"} srcSet={"/assets/remote-7d4f62a23689f13c-responsive-160.webp 160w, /assets/remote-7d4f62a23689f13c-responsive-320.webp 320w, /assets/remote-7d4f62a23689f13c-responsive-640.webp 640w, /assets/remote-7d4f62a23689f13c-responsive-1024.webp 1024w"} sizes={"(max-width: 640px) calc(100vw - 40px), (max-width: 1024px) 50vw, 508px"} />
+<img data-layout-node={"n266"} className={"v92 captured-style"} src={"/assets/remote-7d4f62a23689f13c-responsive-640.webp"} alt={"Cafe and living room loft style"} loading={"lazy"} decoding={"async"} width={"1024"} height={"683"} srcSet={"/assets/remote-7d4f62a23689f13c-responsive-160.webp 160w, /assets/remote-7d4f62a23689f13c-responsive-320.webp 320w, /assets/remote-7d4f62a23689f13c-responsive-640.webp 640w, /assets/remote-7d4f62a23689f13c-responsive-1024.webp 1024w"} sizes={"(max-width: 640px) calc(100vw - 40px), (max-width: 1024px) 50vw, 508px"} />
 </div>
 </div>
 </div>
@@ -590,8 +590,8 @@ export default function Page4855(){return <div className="page-4855 captured-pag
 <div data-layout-node={"n158"} className={"v17 text-widget captured-style"}>
 <p data-layout-node={"n159"} className={"v47 captured-style"}>
 {"สำหรับใครที่ไม่ต้องการ รีโนเวทบ้านด้วยตนเอง หรือมองหาช่างที่มีประสบการณ์ในการรีโนเวทบ้าน สามารถปรึกษาและใช้บริการจากทีมช่างมืออาชีพด้านการ"}
-<span data-layout-node={"n160"} className={"v48 captured-style"}>
-<SiteLink data-layout-node={"n161"} className={"v48 captured-style"} href={"https://page.line.me/852uanad?openQrModal=true"}>
+<span data-layout-node={"n160"} className={"v48 accessible-accent-dark captured-style"}>
+<SiteLink data-layout-node={"n161"} className={"v48 accessible-accent-dark captured-style"} href={"https://page.line.me/852uanad?openQrModal=true"}>
 {"รีโนเวทบ้าน"}
 </SiteLink>
 </span>

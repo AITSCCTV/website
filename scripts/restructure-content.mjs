@@ -20,8 +20,9 @@ const slug=href=>decodeURIComponent(new URL(href,'https://aitscctv.com').pathnam
 function adopt(parent,children){parent.children=children;for(const child of children)child.parent=parent;return parent}
 function element(html,children){const node=parseDocument(html).children[0];return children?adopt(node,children):node}
 
-export function createEditorialContent(routes,source,images,translations){
+export function createEditorialContent(routes,source,images,translations,thumbnails={}){
  const descriptors=src=>{
+  if(thumbnails[src])return thumbnails[src];
   const image=images[src];if(!image)return {image:src};
   const candidate=image.variants.find(v=>v.width>=640)||image.variants.at(-1);
   return {image:candidate.src,srcSet:image.variants.map(v=>v.src+' '+v.width+'w').join(', '),width:image.width,height:image.height};

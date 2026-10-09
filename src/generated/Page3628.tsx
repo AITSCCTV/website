@@ -11,7 +11,7 @@ export default function Page3628(){return <div className="page-3628 captured-pag
 <div data-layout-node={"n2"} className={"v2 captured-style"}>
 <div data-layout-node={"n3"} className={"v3 text-widget captured-style"}>
 <div data-layout-node={"n4"} className={"v4 text-widget captured-style"}>
-<p data-layout-node={"n5"} className={"v5 captured-style"}>
+<p data-layout-node={"n5"} className={"v5 accessible-accent-dark captured-style"}>
 {"HOME AUTOMATION SERVICE"}
 </p>
 </div>
@@ -29,12 +29,12 @@ export default function Page3628(){return <div className="page-3628 captured-pag
 <div data-layout-node={"n10"} className={"v2 captured-style"}>
 <div data-layout-node={"n11"} className={"v3 media-widget captured-style"}>
 <div data-layout-node={"n12"} className={"v4 media-widget captured-style"}>
-<img data-layout-node={"n13"} className={"v8 captured-style"} src={"/assets/remote-6cc7c96805885a1e-responsive-640.webp"} alt={"2"} loading={"lazy"} decoding={"async"} width={"1024"} height={"537"} srcSet={"/assets/remote-6cc7c96805885a1e-responsive-160.webp 160w, /assets/remote-6cc7c96805885a1e-responsive-320.webp 320w, /assets/remote-6cc7c96805885a1e-responsive-640.webp 640w, /assets/remote-6cc7c96805885a1e-responsive-1200.webp 1200w"} sizes={"(max-width: 640px) calc(100vw - 40px), (max-width: 1024px) 50vw, 1140px"} />
+<img data-layout-node={"n13"} className={"v8 captured-style"} src={"/assets/remote-6cc7c96805885a1e-responsive-640.webp"} alt={"2"} loading={"lazy"} decoding={"async"} width={"1200"} height={"630"} srcSet={"/assets/remote-6cc7c96805885a1e-responsive-160.webp 160w, /assets/remote-6cc7c96805885a1e-responsive-320.webp 320w, /assets/remote-6cc7c96805885a1e-responsive-640.webp 640w, /assets/remote-6cc7c96805885a1e-responsive-1200.webp 1200w"} sizes={"(max-width: 640px) calc(100vw - 40px), (max-width: 1024px) 50vw, 1140px"} />
 </div>
 </div>
 <div data-layout-node={"n14"} className={"v3 text-widget captured-style"}>
 <div data-layout-node={"n15"} className={"v4 text-widget captured-style"}>
-<p data-layout-node={"n16"} className={"v9 captured-style"}>
+<p data-layout-node={"n16"} className={"v9 accessible-accent-dark captured-style"}>
 {"HOME AUTOMATION SYSTEM"}
 </p>
 </div>
@@ -96,7 +96,7 @@ export default function Page3628(){return <div className="page-3628 captured-pag
 <div data-layout-node={"n267"} className={"v2 captured-style"}>
 <div data-layout-node={"n268"} className={"v3 text-widget captured-style"}>
 <div data-layout-node={"n269"} className={"v4 text-widget captured-style"}>
-<p data-layout-node={"n270"} className={"v5 captured-style"}>
+<p data-layout-node={"n270"} className={"v5 accessible-accent-dark captured-style"}>
 {"WHY SHOULD SMART HOME"}
 </p>
 </div>
@@ -178,7 +178,7 @@ export default function Page3628(){return <div className="page-3628 captured-pag
 <div data-layout-node={"n47"} className={"v24 section captured-style"}>
 <div data-layout-node={"n48"} className={"v3 text-widget captured-style"}>
 <div data-layout-node={"n49"} className={"v4 text-widget captured-style"}>
-<p data-layout-node={"n50"} className={"v5 captured-style"}>
+<p data-layout-node={"n50"} className={"v5 accessible-accent-dark captured-style"}>
 {"WHAT ARE HOME AUTOMATION SYSTEM\r\n"}
 </p>
 </div>
@@ -288,7 +288,7 @@ export default function Page3628(){return <div className="page-3628 captured-pag
 {"การติดตั้งและวางระบบ Home Automation มีกี่แบบ"}
 </h3>
 <div data-layout-node={"n100"} className={"v45 captured-style"}>
-<div className={"table-scroll"} role={"region"} aria-label={"ตารางเปรียบเทียบ เลื่อนเพื่อดูข้อมูลเพิ่มเติม"} tabIndex={0}>
+<div className={"table-scroll"} role={"region"} aria-label={"ตารางเปรียบเทียบ 1 เลื่อนเพื่อดูข้อมูลเพิ่มเติม"} tabIndex={0}>
 <table data-layout-node={"n101"} className={"v46 captured-style"}>
 <tbody data-layout-node={"n102"} className={"v47 captured-style"}>
 <tr data-layout-node={"n103"} className={"v48 captured-style"}>
@@ -424,7 +424,7 @@ export default function Page3628(){return <div className="page-3628 captured-pag
 </div>
 <div data-layout-node={"n250"} className={"v118 captured-style"}>
 <div data-layout-node={"n251"} className={"v4 captured-style"}>
-<img data-layout-node={"n252"} className={"v119 captured-style"} src={"/assets/remote-018b8b72f474ded9-responsive-300.webp"} alt={"Lumi"} loading={"lazy"} decoding={"async"} width={"150"} height={"150"} srcSet={"/assets/remote-018b8b72f474ded9-responsive-160.webp 160w, /assets/remote-018b8b72f474ded9-responsive-300.webp 300w"} sizes={"150px"} />
+<img data-layout-node={"n252"} className={"v119 captured-style"} src={"/assets/remote-018b8b72f474ded9-responsive-300.webp"} alt={"Lumi"} loading={"lazy"} decoding={"async"} width={"300"} height={"300"} srcSet={"/assets/remote-018b8b72f474ded9-responsive-160.webp 160w, /assets/remote-018b8b72f474ded9-responsive-300.webp 300w"} sizes={"150px"} />
 </div>
 </div>
 </div>
@@ -437,7 +437,7 @@ export default function Page3628(){return <div className="page-3628 captured-pag
 <div data-layout-node={"n254"} className={"v120 captured-style"}>
 <div data-layout-node={"n255"} className={"v3 text-widget captured-style"}>
 <div data-layout-node={"n256"} className={"v4 text-widget captured-style"}>
-<p data-layout-node={"n257"} className={"v5 captured-style"}>
+<p data-layout-node={"n257"} className={"v5 accessible-accent-dark captured-style"}>
 {"WHAT IS Smart Home Automation"}
 </p>
 </div>
@@ -451,7 +451,7 @@ export default function Page3628(){return <div className="page-3628 captured-pag
 </div>
 <div data-layout-node={"n261"} className={"v3 media-widget captured-style"}>
 <div data-layout-node={"n262"} className={"v4 media-widget captured-style"}>
-<img data-layout-node={"n263"} className={"v121 captured-style"} src={"/assets/remote-809fc0f0e36cbbb4-responsive-640.webp"} alt={"Smart Home4"} loading={"lazy"} decoding={"async"} width={"768"} height={"403"} srcSet={"/assets/remote-809fc0f0e36cbbb4-responsive-160.webp 160w, /assets/remote-809fc0f0e36cbbb4-responsive-320.webp 320w, /assets/remote-809fc0f0e36cbbb4-responsive-640.webp 640w, /assets/remote-809fc0f0e36cbbb4-responsive-1024.webp 1024w"} sizes={"(max-width: 640px) calc(100vw - 40px), (max-width: 1024px) 50vw, 768px"} />
+<img data-layout-node={"n263"} className={"v121 captured-style"} src={"/assets/remote-809fc0f0e36cbbb4-responsive-640.webp"} alt={"Smart Home4"} loading={"lazy"} decoding={"async"} width={"1024"} height={"538"} srcSet={"/assets/remote-809fc0f0e36cbbb4-responsive-160.webp 160w, /assets/remote-809fc0f0e36cbbb4-responsive-320.webp 320w, /assets/remote-809fc0f0e36cbbb4-responsive-640.webp 640w, /assets/remote-809fc0f0e36cbbb4-responsive-1024.webp 1024w"} sizes={"(max-width: 640px) calc(100vw - 40px), (max-width: 1024px) 50vw, 768px"} />
 </div>
 </div>
 <div data-layout-node={"n264"} className={"v122 captured-style"}>
@@ -465,7 +465,7 @@ export default function Page3628(){return <div className="page-3628 captured-pag
 <div data-layout-node={"n300"} className={"v132 captured-style"}>
 <div data-layout-node={"n301"} className={"v3 text-widget captured-style"}>
 <div data-layout-node={"n302"} className={"v4 text-widget captured-style"}>
-<p data-layout-node={"n303"} className={"v9 captured-style"}>
+<p data-layout-node={"n303"} className={"v9 accessible-accent-dark captured-style"}>
 {" SMART HOME SYSTEM"}
 </p>
 </div>

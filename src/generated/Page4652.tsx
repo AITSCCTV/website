@@ -11,7 +11,7 @@ export default function Page4652(){return <div className="page-4652 captured-pag
 <div data-layout-node={"n2"} className={"v2 captured-style"}>
 <div data-layout-node={"n3"} className={"v3 text-widget captured-style"}>
 <div data-layout-node={"n4"} className={"v4 text-widget captured-style"}>
-<p data-layout-node={"n5"} className={"v5 captured-style"}>
+<p data-layout-node={"n5"} className={"v5 accessible-accent-dark captured-style"}>
 {"SIXTEEN CCTV CAMERA  SERVICE"}
 </p>
 </div>
@@ -29,7 +29,7 @@ export default function Page4652(){return <div className="page-4652 captured-pag
 <div data-layout-node={"n10"} className={"v2 captured-style"}>
 <div data-layout-node={"n11"} className={"v3 text-widget captured-style"}>
 <div data-layout-node={"n12"} className={"v4 text-widget captured-style"}>
-<p data-layout-node={"n13"} className={"v8 captured-style"}>
+<p data-layout-node={"n13"} className={"v8 accessible-accent-dark captured-style"}>
 {"SIXTEEN CCTV CAMERA"}
 </p>
 </div>
@@ -58,8 +58,8 @@ export default function Page4652(){return <div className="page-4652 captured-pag
 <div data-layout-node={"n27"} className={"v17 text-widget captured-style"}>
 <p data-layout-node={"n28"} className={"v18 captured-style"}>
 {"ติดตั้งกล้องวงจรปิด 16 ตัวถือว่าเป็นจำนวนที่สามารถวางแผน"}
-<span data-layout-node={"n29"} className={"v19 captured-style"}>
-<SiteLink data-layout-node={"n30"} className={"v19 captured-style"} href={"https://aitscctv.com/cctv-access-point-beach-bar-club/"}>
+<span data-layout-node={"n29"} className={"v19 accessible-accent-dark captured-style"}>
+<SiteLink data-layout-node={"n30"} className={"v19 accessible-accent-dark captured-style"} href={"https://aitscctv.com/cctv-access-point-beach-bar-club/"}>
 {"กระจายไปยังจุดต่าง ๆ ได้อย่างครอบคลุม"}
 </SiteLink>
 </span>
@@ -92,7 +92,7 @@ export default function Page4652(){return <div className="page-4652 captured-pag
 <div data-layout-node={"n123"} className={"v2 captured-style"}>
 <div data-layout-node={"n124"} className={"v3 text-widget captured-style"}>
 <div data-layout-node={"n125"} className={"v4 text-widget captured-style"}>
-<p data-layout-node={"n126"} className={"v5 captured-style"}>
+<p data-layout-node={"n126"} className={"v5 accessible-accent-dark captured-style"}>
 {"WHY AITSCCTV"}
 </p>
 </div>
@@ -113,14 +113,14 @@ export default function Page4652(){return <div className="page-4652 captured-pag
 <div data-layout-node={"n134"} className={"v17 text-widget captured-style"}>
 <p data-layout-node={"n135"} className={"v18 captured-style"}>
 {"การเลือกติดตั้งกล้องวงจรปิด 16 ตัวนั้นเหมาะกับพื้นที่ที่ใหญ่ รวมทั้งมีมุมที่ต้องการตรวจสอบหลากหลาย การเลือกช่างผู้เชี่ยวชาญเข้ามาช่วยติดตั้งนั้นจะทำให้คุณเจอกับมุมที่เหมาะกับการใช้งานง่ายมากขึ้น เพราะในปัจจุบัน"}
-<span data-layout-node={"n136"} className={"v19 captured-style"}>
-<SiteLink data-layout-node={"n137"} className={"v19 captured-style"} href={"https://srisunglaw.com/camtocase/"}>
+<span data-layout-node={"n136"} className={"v19 accessible-accent-dark captured-style"}>
+<SiteLink data-layout-node={"n137"} className={"v19 accessible-accent-dark captured-style"} href={"https://srisunglaw.com/camtocase/"}>
 {"กล้องวงจรปิดถือว่ามีความสำคัญกับเรื่องของความปลอดภัย"}
 </SiteLink>
 </span>
 {"เป็นอย่างมาก ซึ่งวันนี้เราหยิบเอาตัวอย่างของ"}
-<span data-layout-node={"n138"} className={"v19 captured-style"}>
-<SiteLink data-layout-node={"n139"} className={"v19 captured-style"} href={"https://aitscctv.com/line-garden-ho/"}>
+<span data-layout-node={"n138"} className={"v19 accessible-accent-dark captured-style"}>
+<SiteLink data-layout-node={"n139"} className={"v19 accessible-accent-dark captured-style"} href={"https://aitscctv.com/line-garden-ho/"}>
 {"มุมที่เหมาะจะติดกล้องวงจรปิด"}
 </SiteLink>
 </span>
@@ -153,8 +153,8 @@ export default function Page4652(){return <div className="page-4652 captured-pag
 <div data-layout-node={"n154"} className={"v17 text-widget captured-style"}>
 <p data-layout-node={"n155"} className={"v18 captured-style"}>
 {"ต่อให้เป็นพื้นที่ไหนหน้าบ้าน หน้าร้าน หน้าบริษัท และจุดประตูทางเข้านั้นคือส่วนที่ขาดไม่ได้เลยในการติดตั้งกล้องวงจรปิด เพราะจะทำให้"}
-<span data-layout-node={"n156"} className={"v19 captured-style"}>
-<SiteLink data-layout-node={"n157"} className={"v19 captured-style"} href={"https://easypdpa.com/article/pdpa-5-things-cctv-privacy-policy"}>
+<span data-layout-node={"n156"} className={"v19 accessible-accent-dark captured-style"}>
+<SiteLink data-layout-node={"n157"} className={"v19 accessible-accent-dark captured-style"} href={"https://easypdpa.com/article/pdpa-5-things-cctv-privacy-policy"}>
 {"เห็นคนเข้าออก ความเคลื่อนไหวโดยรอบ"}
 </SiteLink>
 </span>
@@ -232,8 +232,8 @@ export default function Page4652(){return <div className="page-4652 captured-pag
 <div data-layout-node={"n191"} className={"v17 text-widget captured-style"}>
 <p data-layout-node={"n192"} className={"v18 captured-style"}>
 {"แน่นอนว่าอาจเป็นมุมที่คนไม่ค่อยสัญจร นั่นทำให้เป็นช่องว่างที่อาจเกิดอันตรายทั้งเรื่อง"}
-<span data-layout-node={"n193"} className={"v19 captured-style"}>
-<SiteLink data-layout-node={"n194"} className={"v19 captured-style"} href={"https://www.thairath.co.th/news/local/bangkok/2709493"}>
+<span data-layout-node={"n193"} className={"v19 accessible-accent-dark captured-style"}>
+<SiteLink data-layout-node={"n194"} className={"v19 accessible-accent-dark captured-style"} href={"https://www.thairath.co.th/news/local/bangkok/2709493"}>
 {"อุบัติเหตุ พร้อมทั้งการบุกรุก ปล้น ทำร้าย"}
 </SiteLink>
 </span>
@@ -270,7 +270,7 @@ export default function Page4652(){return <div className="page-4652 captured-pag
 <div data-layout-node={"n77"} className={"v45 section captured-style"}>
 <div data-layout-node={"n78"} className={"v3 text-widget captured-style"}>
 <div data-layout-node={"n79"} className={"v4 text-widget captured-style"}>
-<p data-layout-node={"n80"} className={"v5 captured-style"}>
+<p data-layout-node={"n80"} className={"v5 accessible-accent-dark captured-style"}>
 {"SIXTEEN CCTV CAMERA PACKAGE"}
 </p>
 </div>
@@ -359,8 +359,8 @@ export default function Page4652(){return <div className="page-4652 captured-pag
 </div>
 </div>
 </div>
-<div data-layout-node={"n120"} className={"v76 captured-style"}>
-<div data-layout-node={"n121"} className={"v77 captured-style"}>
+<div data-layout-node={"n120"} className={"v76 accessible-accent-dark captured-style"}>
+<div data-layout-node={"n121"} className={"v77 accessible-accent-dark captured-style"}>
 {"\r\n\t\t\t\t\t\t\tหมายเหตุ : พร้อมแถมฟรีฮาร์สดิสก์ 1 TB และราคานี้รวมค่าเดินสายแล้วเรียบร้อยไม่ระยะต่อจุดไม่เกิน 25 เมตร หมายเหตุ: ราคานี้ยังไม่รวมภาษีมูลค่าเพิ่ม\t\t\t\t\t\t"}
 </div>
 </div>

@@ -11,7 +11,7 @@ export default function Page19702(){return <div className="page-19702 captured-p
 <div data-layout-node={"n2"} className={"v2 captured-style"}>
 <div data-layout-node={"n3"} className={"v3 text-widget captured-style"}>
 <div data-layout-node={"n4"} className={"v4 text-widget captured-style"}>
-<p data-layout-node={"n5"} className={"v5 captured-style"}>
+<p data-layout-node={"n5"} className={"v5 accessible-accent-dark captured-style"}>
 {"SMART MEETING ROOM"}
 </p>
 </div>
@@ -70,7 +70,7 @@ export default function Page19702(){return <div className="page-19702 captured-p
 <div data-layout-node={"n30"} className={"v19 media-widget captured-style"}>
 <div data-layout-node={"n31"} className={"v3 media-widget captured-style"}>
 <div data-layout-node={"n32"} className={"v4 media-widget captured-style"}>
-<img data-layout-node={"n33"} className={"v20 captured-style"} src={"/assets/remote-59f5d55dbb1e735f-responsive-640.webp"} alt={"ระบบห้องประชุมอัจฉริยะ Audio Video พร้อมจอและไมโครโฟน โดย AITS"} loading={"lazy"} decoding={"async"} width={"1536"} height={"2303"} srcSet={"/assets/remote-59f5d55dbb1e735f-responsive-160.webp 160w, /assets/remote-59f5d55dbb1e735f-responsive-320.webp 320w, /assets/remote-59f5d55dbb1e735f-responsive-640.webp 640w, /assets/remote-59f5d55dbb1e735f-responsive-1280.webp 1280w"} sizes={"(max-width: 640px) calc(100vw - 40px), (max-width: 1024px) 50vw, 1120px"} />
+<img data-layout-node={"n33"} className={"v20 captured-style"} src={"/assets/remote-59f5d55dbb1e735f-responsive-640.webp"} alt={"ระบบห้องประชุมอัจฉริยะ Audio Video พร้อมจอและไมโครโฟน โดย AITS"} loading={"lazy"} decoding={"async"} width={"1707"} height={"2560"} srcSet={"/assets/remote-59f5d55dbb1e735f-responsive-160.webp 160w, /assets/remote-59f5d55dbb1e735f-responsive-320.webp 320w, /assets/remote-59f5d55dbb1e735f-responsive-640.webp 640w, /assets/remote-59f5d55dbb1e735f-responsive-1280.webp 1280w"} sizes={"(max-width: 640px) calc(100vw - 40px), (max-width: 1024px) 50vw, 1120px"} />
 </div>
 </div>
 </div>
@@ -289,7 +289,7 @@ export default function Page19702(){return <div className="page-19702 captured-p
 <div data-layout-node={"n338"} className={"v78 captured-style"}>
 <div data-layout-node={"n339"} className={"v3 text-widget captured-style"}>
 <div data-layout-node={"n340"} className={"v4 text-widget captured-style"}>
-<p data-layout-node={"n341"} className={"v95 captured-style"}>
+<p data-layout-node={"n341"} className={"v95 accessible-accent-dark captured-style"}>
 {"WHY AITSCCTV"}
 </p>
 </div>
@@ -303,7 +303,7 @@ export default function Page19702(){return <div className="page-19702 captured-p
 </div>
 <div data-layout-node={"n345"} className={"v3 media-widget captured-style"}>
 <div data-layout-node={"n346"} className={"v4 media-widget captured-style"}>
-<img data-layout-node={"n347"} className={"v96 captured-style"} src={"/assets/remote-880e36aca3e0ccee-responsive-640.webp"} alt={"IMG"} loading={"lazy"} decoding={"async"} width={"768"} height={"511"} srcSet={"/assets/remote-880e36aca3e0ccee-responsive-160.webp 160w, /assets/remote-880e36aca3e0ccee-responsive-320.webp 320w, /assets/remote-880e36aca3e0ccee-responsive-640.webp 640w, /assets/remote-880e36aca3e0ccee-responsive-1024.webp 1024w"} sizes={"(max-width: 640px) calc(100vw - 40px), (max-width: 1024px) 50vw, 912px"} />
+<img data-layout-node={"n347"} className={"v96 captured-style"} src={"/assets/remote-880e36aca3e0ccee-responsive-640.webp"} alt={"IMG"} loading={"lazy"} decoding={"async"} width={"1024"} height={"682"} srcSet={"/assets/remote-880e36aca3e0ccee-responsive-160.webp 160w, /assets/remote-880e36aca3e0ccee-responsive-320.webp 320w, /assets/remote-880e36aca3e0ccee-responsive-640.webp 640w, /assets/remote-880e36aca3e0ccee-responsive-1024.webp 1024w"} sizes={"(max-width: 640px) calc(100vw - 40px), (max-width: 1024px) 50vw, 912px"} />
 </div>
 </div>
 <div data-layout-node={"n348"} className={"v97 section layout-row captured-style"}>
@@ -402,7 +402,7 @@ export default function Page19702(){return <div className="page-19702 captured-p
 <div data-layout-node={"n35"} className={"v22 captured-style"}>
 <div data-layout-node={"n36"} className={"v3 text-widget captured-style"}>
 <div data-layout-node={"n37"} className={"v4 text-widget captured-style"}>
-<p data-layout-node={"n38"} className={"v5 captured-style"}>
+<p data-layout-node={"n38"} className={"v5 accessible-accent-dark captured-style"}>
 {"SMART MEETING ROOM SOLUTIONS"}
 </p>
 </div>
@@ -428,7 +428,7 @@ export default function Page19702(){return <div className="page-19702 captured-p
 </div>
 <div data-layout-node={"n50"} className={"v3 media-widget captured-style"}>
 <div data-layout-node={"n51"} className={"v4 media-widget captured-style"}>
-<img data-layout-node={"n52"} className={"v30 captured-style"} src={"/assets/remote-565cdfeb166e0fcc-responsive-640.webp"} alt={"ระบบไมโครโฟนและเสียงสำหรับห้องประชุมอัจฉริยะ"} loading={"lazy"} decoding={"async"} width={"1024"} height={"682"} srcSet={"/assets/remote-565cdfeb166e0fcc-responsive-160.webp 160w, /assets/remote-565cdfeb166e0fcc-responsive-320.webp 320w, /assets/remote-565cdfeb166e0fcc-responsive-640.webp 640w, /assets/remote-565cdfeb166e0fcc-responsive-1280.webp 1280w"} sizes={"(max-width: 640px) calc(100vw - 40px), (max-width: 1024px) 50vw, 340px"} />
+<img data-layout-node={"n52"} className={"v30 captured-style"} src={"/assets/remote-565cdfeb166e0fcc-responsive-640.webp"} alt={"ระบบไมโครโฟนและเสียงสำหรับห้องประชุมอัจฉริยะ"} loading={"lazy"} decoding={"async"} width={"1536"} height={"1024"} srcSet={"/assets/remote-565cdfeb166e0fcc-responsive-160.webp 160w, /assets/remote-565cdfeb166e0fcc-responsive-320.webp 320w, /assets/remote-565cdfeb166e0fcc-responsive-640.webp 640w, /assets/remote-565cdfeb166e0fcc-responsive-1280.webp 1280w"} sizes={"(max-width: 640px) calc(100vw - 40px), (max-width: 1024px) 50vw, 340px"} />
 </div>
 </div>
 <div data-layout-node={"n53"} className={"v16 captured-style"}>
@@ -469,7 +469,7 @@ export default function Page19702(){return <div className="page-19702 captured-p
 </div>
 <div data-layout-node={"n69"} className={"v3 media-widget captured-style"}>
 <div data-layout-node={"n70"} className={"v4 media-widget captured-style"}>
-<img data-layout-node={"n71"} className={"v36 captured-style"} src={"/assets/remote-553133461f382209-responsive-640.webp"} alt={"จอ Interactive Display สำหรับเขียนและนำเสนอในห้องประชุม"} loading={"lazy"} decoding={"async"} width={"1024"} height={"683"} srcSet={"/assets/remote-553133461f382209-responsive-160.webp 160w, /assets/remote-553133461f382209-responsive-320.webp 320w, /assets/remote-553133461f382209-responsive-640.webp 640w, /assets/remote-553133461f382209-responsive-1280.webp 1280w"} sizes={"(max-width: 640px) calc(100vw - 40px), (max-width: 1024px) 50vw, 340px"} />
+<img data-layout-node={"n71"} className={"v36 captured-style"} src={"/assets/remote-553133461f382209-responsive-640.webp"} alt={"จอ Interactive Display สำหรับเขียนและนำเสนอในห้องประชุม"} loading={"lazy"} decoding={"async"} width={"1536"} height={"1025"} srcSet={"/assets/remote-553133461f382209-responsive-160.webp 160w, /assets/remote-553133461f382209-responsive-320.webp 320w, /assets/remote-553133461f382209-responsive-640.webp 640w, /assets/remote-553133461f382209-responsive-1280.webp 1280w"} sizes={"(max-width: 640px) calc(100vw - 40px), (max-width: 1024px) 50vw, 340px"} />
 </div>
 </div>
 <div data-layout-node={"n72"} className={"v16 captured-style"}>
@@ -510,7 +510,7 @@ export default function Page19702(){return <div className="page-19702 captured-p
 </div>
 <div data-layout-node={"n88"} className={"v3 media-widget captured-style"}>
 <div data-layout-node={"n89"} className={"v4 media-widget captured-style"}>
-<img data-layout-node={"n90"} className={"v39 captured-style"} src={"/assets/remote-5ae472156c07fa32-responsive-640.webp"} alt={"ระบบ Video Conference สำหรับประชุมออนไลน์และ Hybrid Meeting"} loading={"lazy"} decoding={"async"} width={"1024"} height={"540"} srcSet={"/assets/remote-5ae472156c07fa32-responsive-160.webp 160w, /assets/remote-5ae472156c07fa32-responsive-320.webp 320w, /assets/remote-5ae472156c07fa32-responsive-640.webp 640w, /assets/remote-5ae472156c07fa32-responsive-1280.webp 1280w"} sizes={"(max-width: 640px) calc(100vw - 40px), (max-width: 1024px) 50vw, 340px"} />
+<img data-layout-node={"n90"} className={"v39 captured-style"} src={"/assets/remote-5ae472156c07fa32-responsive-640.webp"} alt={"ระบบ Video Conference สำหรับประชุมออนไลน์และ Hybrid Meeting"} loading={"lazy"} decoding={"async"} width={"1536"} height={"810"} srcSet={"/assets/remote-5ae472156c07fa32-responsive-160.webp 160w, /assets/remote-5ae472156c07fa32-responsive-320.webp 320w, /assets/remote-5ae472156c07fa32-responsive-640.webp 640w, /assets/remote-5ae472156c07fa32-responsive-1280.webp 1280w"} sizes={"(max-width: 640px) calc(100vw - 40px), (max-width: 1024px) 50vw, 340px"} />
 </div>
 </div>
 <div data-layout-node={"n91"} className={"v16 captured-style"}>
@@ -637,7 +637,7 @@ export default function Page19702(){return <div className="page-19702 captured-p
 </div>
 <div data-layout-node={"n263"} className={"v85 media-widget captured-style"}>
 <div data-layout-node={"n264"} className={"v86 media-widget captured-style"}>
-<img data-layout-node={"n265"} className={"v91 captured-style"} src={"/assets/remote-9d724915bb318450-responsive-640.webp"} alt={"IMG"} loading={"lazy"} decoding={"async"} width={"768"} height={"512"} srcSet={"/assets/remote-9d724915bb318450-responsive-160.webp 160w, /assets/remote-9d724915bb318450-responsive-320.webp 320w, /assets/remote-9d724915bb318450-responsive-640.webp 640w, /assets/remote-9d724915bb318450-responsive-1024.webp 1024w"} sizes={"(max-width: 640px) calc(100vw - 40px), (max-width: 1024px) 50vw, 508px"} />
+<img data-layout-node={"n265"} className={"v91 captured-style"} src={"/assets/remote-9d724915bb318450-responsive-640.webp"} alt={"IMG"} loading={"lazy"} decoding={"async"} width={"1024"} height={"683"} srcSet={"/assets/remote-9d724915bb318450-responsive-160.webp 160w, /assets/remote-9d724915bb318450-responsive-320.webp 320w, /assets/remote-9d724915bb318450-responsive-640.webp 640w, /assets/remote-9d724915bb318450-responsive-1024.webp 1024w"} sizes={"(max-width: 640px) calc(100vw - 40px), (max-width: 1024px) 50vw, 508px"} />
 </div>
 </div>
 </div>
@@ -663,7 +663,7 @@ export default function Page19702(){return <div className="page-19702 captured-p
 </div>
 <div data-layout-node={"n275"} className={"v85 media-widget captured-style"}>
 <div data-layout-node={"n276"} className={"v86 media-widget captured-style"}>
-<img data-layout-node={"n277"} className={"v92 captured-style"} src={"/assets/remote-fe2ce5206a2d5f72-responsive-640.webp"} alt={"IMG"} loading={"lazy"} decoding={"async"} width={"768"} height={"525"} srcSet={"/assets/remote-fe2ce5206a2d5f72-responsive-160.webp 160w, /assets/remote-fe2ce5206a2d5f72-responsive-320.webp 320w, /assets/remote-fe2ce5206a2d5f72-responsive-640.webp 640w, /assets/remote-fe2ce5206a2d5f72-responsive-1024.webp 1024w"} sizes={"(max-width: 640px) calc(100vw - 40px), (max-width: 1024px) 50vw, 508px"} />
+<img data-layout-node={"n277"} className={"v92 captured-style"} src={"/assets/remote-fe2ce5206a2d5f72-responsive-640.webp"} alt={"IMG"} loading={"lazy"} decoding={"async"} width={"1024"} height={"701"} srcSet={"/assets/remote-fe2ce5206a2d5f72-responsive-160.webp 160w, /assets/remote-fe2ce5206a2d5f72-responsive-320.webp 320w, /assets/remote-fe2ce5206a2d5f72-responsive-640.webp 640w, /assets/remote-fe2ce5206a2d5f72-responsive-1024.webp 1024w"} sizes={"(max-width: 640px) calc(100vw - 40px), (max-width: 1024px) 50vw, 508px"} />
 </div>
 </div>
 </div>
@@ -693,7 +693,7 @@ export default function Page19702(){return <div className="page-19702 captured-p
 </div>
 <div data-layout-node={"n289"} className={"v85 media-widget captured-style"}>
 <div data-layout-node={"n290"} className={"v86 media-widget captured-style"}>
-<img data-layout-node={"n291"} className={"v93 captured-style"} src={"/assets/remote-cdfe1bee373eca4a-responsive-640.webp"} alt={"IMG"} loading={"lazy"} decoding={"async"} width={"768"} height={"511"} srcSet={"/assets/remote-cdfe1bee373eca4a-responsive-160.webp 160w, /assets/remote-cdfe1bee373eca4a-responsive-320.webp 320w, /assets/remote-cdfe1bee373eca4a-responsive-640.webp 640w, /assets/remote-cdfe1bee373eca4a-responsive-1024.webp 1024w"} sizes={"(max-width: 640px) calc(100vw - 40px), (max-width: 1024px) 50vw, 508px"} />
+<img data-layout-node={"n291"} className={"v93 captured-style"} src={"/assets/remote-cdfe1bee373eca4a-responsive-640.webp"} alt={"IMG"} loading={"lazy"} decoding={"async"} width={"1024"} height={"682"} srcSet={"/assets/remote-cdfe1bee373eca4a-responsive-160.webp 160w, /assets/remote-cdfe1bee373eca4a-responsive-320.webp 320w, /assets/remote-cdfe1bee373eca4a-responsive-640.webp 640w, /assets/remote-cdfe1bee373eca4a-responsive-1024.webp 1024w"} sizes={"(max-width: 640px) calc(100vw - 40px), (max-width: 1024px) 50vw, 508px"} />
 </div>
 </div>
 </div>
@@ -719,7 +719,7 @@ export default function Page19702(){return <div className="page-19702 captured-p
 </div>
 <div data-layout-node={"n301"} className={"v85 media-widget captured-style"}>
 <div data-layout-node={"n302"} className={"v86 media-widget captured-style"}>
-<img data-layout-node={"n303"} className={"v91 captured-style"} src={"/assets/remote-d8f238a5c5c886eb-responsive-640.webp"} alt={"IMG"} loading={"lazy"} decoding={"async"} width={"768"} height={"512"} srcSet={"/assets/remote-d8f238a5c5c886eb-responsive-160.webp 160w, /assets/remote-d8f238a5c5c886eb-responsive-320.webp 320w, /assets/remote-d8f238a5c5c886eb-responsive-640.webp 640w, /assets/remote-d8f238a5c5c886eb-responsive-1024.webp 1024w"} sizes={"(max-width: 640px) calc(100vw - 40px), (max-width: 1024px) 50vw, 508px"} />
+<img data-layout-node={"n303"} className={"v91 captured-style"} src={"/assets/remote-d8f238a5c5c886eb-responsive-640.webp"} alt={"IMG"} loading={"lazy"} decoding={"async"} width={"1024"} height={"683"} srcSet={"/assets/remote-d8f238a5c5c886eb-responsive-160.webp 160w, /assets/remote-d8f238a5c5c886eb-responsive-320.webp 320w, /assets/remote-d8f238a5c5c886eb-responsive-640.webp 640w, /assets/remote-d8f238a5c5c886eb-responsive-1024.webp 1024w"} sizes={"(max-width: 640px) calc(100vw - 40px), (max-width: 1024px) 50vw, 508px"} />
 </div>
 </div>
 </div>

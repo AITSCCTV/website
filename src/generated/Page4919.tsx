@@ -11,7 +11,7 @@ export default function Page4919(){return <div className="page-4919 captured-pag
 <div data-layout-node={"n2"} className={"v2 captured-style"}>
 <div data-layout-node={"n3"} className={"v3 text-widget captured-style"}>
 <div data-layout-node={"n4"} className={"v4 text-widget captured-style"}>
-<p data-layout-node={"n5"} className={"v5 captured-style"}>
+<p data-layout-node={"n5"} className={"v5 accessible-accent-dark captured-style"}>
 {"LOCAL AREA NETWORK (LAN) "}
 </p>
 </div>
@@ -29,7 +29,7 @@ export default function Page4919(){return <div className="page-4919 captured-pag
 <div data-layout-node={"n10"} className={"v8 captured-style"}>
 <div data-layout-node={"n11"} className={"v3 text-widget captured-style"}>
 <div data-layout-node={"n12"} className={"v4 text-widget captured-style"}>
-<p data-layout-node={"n13"} className={"v9 captured-style"}>
+<p data-layout-node={"n13"} className={"v9 accessible-accent-dark captured-style"}>
 {" LAN SYSTEM"}
 </p>
 </div>
@@ -52,14 +52,14 @@ export default function Page4919(){return <div className="page-4919 captured-pag
 <div data-layout-node={"n23"} className={"v15 text-widget captured-style"}>
 <p data-layout-node={"n24"} className={"v16 captured-style"}>
 {"บริการรับ"}
-<span data-layout-node={"n25"} className={"v17 captured-style"}>
-<SiteLink data-layout-node={"n26"} className={"v17 captured-style"} href={"/network-service/"}>
+<span data-layout-node={"n25"} className={"v17 accessible-accent-dark captured-style"}>
+<SiteLink data-layout-node={"n26"} className={"v17 accessible-accent-dark captured-style"} href={"/network-service/"}>
 {"ติดตั้งวางระบบ Network"}
 </SiteLink>
 </span>
 {" และเดินสายแลน ต่อสายแลน สายแลน CAT6 เชื่อมหัวสาย จัดวางระบบสายแลนในอาคารและ สายแลนนอกอาคาร รับเดินสายแลนในบ้าน "}
-<span data-layout-node={"n27"} className={"v17 captured-style"}>
-<SiteLink data-layout-node={"n28"} className={"v17 captured-style"} href={"/"}>
+<span data-layout-node={"n27"} className={"v17 accessible-accent-dark captured-style"}>
+<SiteLink data-layout-node={"n28"} className={"v17 accessible-accent-dark captured-style"} href={"/"}>
 {"AITSCCTV"}
 </SiteLink>
 </span>
@@ -246,8 +246,8 @@ export default function Page4919(){return <div className="page-4919 captured-pag
 <div data-layout-node={"n277"} className={"v14 text-widget captured-style"}>
 <div data-layout-node={"n278"} className={"v15 text-widget captured-style"}>
 <p data-layout-node={"n279"} className={"v16 captured-style"}>
-<span data-layout-node={"n280"} className={"v17 captured-style"}>
-<SiteLink data-layout-node={"n281"} className={"v17 captured-style"} href={"https://race.nstru.ac.th/home_ex/blog/topic/show/7400"}>
+<span data-layout-node={"n280"} className={"v17 accessible-accent-dark captured-style"}>
+<SiteLink data-layout-node={"n281"} className={"v17 accessible-accent-dark captured-style"} href={"https://race.nstru.ac.th/home_ex/blog/topic/show/7400"}>
 {"สายแลน"}
 </SiteLink>
 </span>
@@ -339,20 +339,20 @@ export default function Page4919(){return <div className="page-4919 captured-pag
 </div>
 <div data-layout-node={"n231"} className={"v3 media-widget captured-style"}>
 <div data-layout-node={"n232"} className={"v4 media-widget captured-style"}>
-<img data-layout-node={"n233"} className={"v96 captured-style"} src={"/assets/remote-16ef24e1c1e43e59-responsive-640.webp"} alt={"Blue optic fiber with ethernet cable"} loading={"lazy"} decoding={"async"} width={"1536"} height={"1024"} srcSet={"/assets/remote-16ef24e1c1e43e59-responsive-160.webp 160w, /assets/remote-16ef24e1c1e43e59-responsive-320.webp 320w, /assets/remote-16ef24e1c1e43e59-responsive-640.webp 640w, /assets/remote-16ef24e1c1e43e59-responsive-1280.webp 1280w"} sizes={"(max-width: 640px) calc(100vw - 40px), (max-width: 1024px) 50vw, 1140px"} />
+<img data-layout-node={"n233"} className={"v96 captured-style"} src={"/assets/remote-16ef24e1c1e43e59-responsive-640.webp"} alt={"Blue optic fiber with ethernet cable"} loading={"lazy"} decoding={"async"} width={"2560"} height={"1707"} srcSet={"/assets/remote-16ef24e1c1e43e59-responsive-160.webp 160w, /assets/remote-16ef24e1c1e43e59-responsive-320.webp 320w, /assets/remote-16ef24e1c1e43e59-responsive-640.webp 640w, /assets/remote-16ef24e1c1e43e59-responsive-1280.webp 1280w"} sizes={"(max-width: 640px) calc(100vw - 40px), (max-width: 1024px) 50vw, 1140px"} />
 </div>
 </div>
 <div data-layout-node={"n234"} className={"v14 text-widget captured-style"}>
 <div data-layout-node={"n235"} className={"v15 text-widget captured-style"}>
 <p data-layout-node={"n236"} className={"v16 captured-style"}>
-<span data-layout-node={"n237"} className={"v17 captured-style"}>
-<SiteLink data-layout-node={"n238"} className={"v17 captured-style"} href={"https://aitscctv.com/lan-cable/"}>
+<span data-layout-node={"n237"} className={"v17 accessible-accent-dark captured-style"}>
+<SiteLink data-layout-node={"n238"} className={"v17 accessible-accent-dark captured-style"} href={"https://aitscctv.com/lan-cable/"}>
 {"สายแลน คือ"}
 </SiteLink>
 </span>
 {" สายสื่อสารที่ใช้ในการเชื่อมต่ออุปกรณ์เครือข่ายคอมพิวเตอร์เพื่อส่งข้อมูลระหว่างกัน โดยสายแลนสามารถส่งข้อมูลดิจิทัลในรูปแบบข้อมูลบิต (bits) ผ่านสายไฟฟ้าที่มีการติดตั้งไว้ภายในสาย "}
-<span data-layout-node={"n239"} className={"v17 captured-style"}>
-<SiteLink data-layout-node={"n240"} className={"v17 captured-style"} href={"https://aitscctv.com/lan-cable-color/"}>
+<span data-layout-node={"n239"} className={"v17 accessible-accent-dark captured-style"}>
+<SiteLink data-layout-node={"n240"} className={"v17 accessible-accent-dark captured-style"} href={"https://aitscctv.com/lan-cable-color/"}>
 {"ใช้สายแลนในการรับส่งข้อมูลระหว่างอุปกรณ์เครือข่าย"}
 </SiteLink>
 </span>

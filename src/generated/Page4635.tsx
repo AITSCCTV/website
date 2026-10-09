@@ -11,7 +11,7 @@ export default function Page4635(){return <div className="page-4635 captured-pag
 <div data-layout-node={"n2"} className={"v2 captured-style"}>
 <div data-layout-node={"n3"} className={"v3 text-widget captured-style"}>
 <div data-layout-node={"n4"} className={"v4 text-widget captured-style"}>
-<p data-layout-node={"n5"} className={"v5 captured-style"}>
+<p data-layout-node={"n5"} className={"v5 accessible-accent-dark captured-style"}>
 {"EIGHT CCTV CAMERA  SERVICE"}
 </p>
 </div>
@@ -29,7 +29,7 @@ export default function Page4635(){return <div className="page-4635 captured-pag
 <div data-layout-node={"n10"} className={"v2 captured-style"}>
 <div data-layout-node={"n11"} className={"v3 text-widget captured-style"}>
 <div data-layout-node={"n12"} className={"v4 text-widget captured-style"}>
-<p data-layout-node={"n13"} className={"v8 captured-style"}>
+<p data-layout-node={"n13"} className={"v8 accessible-accent-dark captured-style"}>
 {"EIGHT CCTV CAMERA"}
 </p>
 </div>
@@ -58,8 +58,8 @@ export default function Page4635(){return <div className="page-4635 captured-pag
 <div data-layout-node={"n27"} className={"v17 text-widget captured-style"}>
 <p data-layout-node={"n28"} className={"v18 captured-style"}>
 {"มองหาการติดตั้งกล้องวงจรปิด 8 ตัว AITSCCTV เชี่ยวชาญช่วยทำให้ระบบของคุณมีประสิทธิภาพเพิ่มมากขึ้นอย่างแน่นอน ทั้งการเชื่อมต่อ การบันทึก การส่งสัญญาณ รวมทั้ง"}
-<span data-layout-node={"n29"} className={"v19 captured-style"}>
-<SiteLink data-layout-node={"n30"} className={"v19 captured-style"} href={"https://th.wikipedia.org/wiki/%E0%B9%82%E0%B8%97%E0%B8%A3%E0%B8%97%E0%B8%B1%E0%B8%A8%E0%B8%99%E0%B9%8C%E0%B8%A7%E0%B8%87%E0%B8%88%E0%B8%A3%E0%B8%9B%E0%B8%B4%E0%B8%94"}>
+<span data-layout-node={"n29"} className={"v19 accessible-accent-dark captured-style"}>
+<SiteLink data-layout-node={"n30"} className={"v19 accessible-accent-dark captured-style"} href={"https://th.wikipedia.org/wiki/%E0%B9%82%E0%B8%97%E0%B8%A3%E0%B8%97%E0%B8%B1%E0%B8%A8%E0%B8%99%E0%B9%8C%E0%B8%A7%E0%B8%87%E0%B8%88%E0%B8%A3%E0%B8%9B%E0%B8%B4%E0%B8%94"}>
 {"ระบบความปลอดภัยของวงจร"}
 </SiteLink>
 </span>
@@ -92,7 +92,7 @@ export default function Page4635(){return <div className="page-4635 captured-pag
 <div data-layout-node={"n120"} className={"v2 captured-style"}>
 <div data-layout-node={"n121"} className={"v3 text-widget captured-style"}>
 <div data-layout-node={"n122"} className={"v4 text-widget captured-style"}>
-<p data-layout-node={"n123"} className={"v5 captured-style"}>
+<p data-layout-node={"n123"} className={"v5 accessible-accent-dark captured-style"}>
 {"WHY AITSCCTV"}
 </p>
 </div>
@@ -113,8 +113,8 @@ export default function Page4635(){return <div className="page-4635 captured-pag
 <div data-layout-node={"n131"} className={"v17 text-widget captured-style"}>
 <p data-layout-node={"n132"} className={"v18 captured-style"}>
 {"การติดตั้งกล้องวงจรปิด 8 ตัวนั้นเหมาะสำหรับพื้นที่ใหญ่ หรือถ้าเป็นที่พักอาศัยก็จะมีบริเวณกว้างขวาง มีหลายชั้น หรือคุณอาจมีหลายมุมที่ต้องการบันทึกเอาไว้เพื่อความปลอดภัย แน่นอนว่าการเดินสายเพื่อติดตั้งนั้นสามารถส่งสัญญาณได้ดีกว่าชุดกล้องวงจรปิด 8 ตัว wifi อย่างแน่นอน ดังนั้นการติดตั้งแบบนี้เหมาะกับพื้นที่ที่ไม่อยากพลาด หรือไม่ควรพลาดการจับตามอง เช่น หน้าบ้าน ห้องพักผู้ป่วย ธุรกิจร้านค้า เป็นต้น โดย"}
-<span data-layout-node={"n133"} className={"v19 captured-style"}>
-<SiteLink data-layout-node={"n134"} className={"v19 captured-style"} href={"https://aitscctv.com/installation-of-cctv/"}>
+<span data-layout-node={"n133"} className={"v19 accessible-accent-dark captured-style"}>
+<SiteLink data-layout-node={"n134"} className={"v19 accessible-accent-dark captured-style"} href={"https://aitscctv.com/installation-of-cctv/"}>
 {"มีจุดไหนที่แนะนำให้ติดบ้างมาดูกัน"}
 </SiteLink>
 </span>
@@ -145,8 +145,8 @@ export default function Page4635(){return <div className="page-4635 captured-pag
 <div data-layout-node={"n148"} className={"v17 text-widget captured-style"}>
 <p data-layout-node={"n149"} className={"v18 captured-style"}>
 {"ช่วยให้คุณ"}
-<span data-layout-node={"n150"} className={"v19 captured-style"}>
-<SiteLink data-layout-node={"n151"} className={"v19 captured-style"} href={"https://www.ananda.co.th/blog/thegenc/cctv-camera/"}>
+<span data-layout-node={"n150"} className={"v19 accessible-accent-dark captured-style"}>
+<SiteLink data-layout-node={"n151"} className={"v19 accessible-accent-dark captured-style"} href={"https://www.ananda.co.th/blog/thegenc/cctv-camera/"}>
 {"ตรวจสอบความเรียบร้อย"}
 </SiteLink>
 </span>
@@ -201,8 +201,8 @@ export default function Page4635(){return <div className="page-4635 captured-pag
 <div data-layout-node={"n174"} className={"v17 text-widget captured-style"}>
 <p data-layout-node={"n175"} className={"v18 captured-style"}>
 {"นอกจากมุมหน้าบ้านแล้ว "}
-<span data-layout-node={"n176"} className={"v19 captured-style"}>
-<SiteLink data-layout-node={"n177"} className={"v19 captured-style"} href={"https://www.apthai.com/th/blog/know-how/best-locations-for-home-cctv"}>
+<span data-layout-node={"n176"} className={"v19 accessible-accent-dark captured-style"}>
+<SiteLink data-layout-node={"n177"} className={"v19 accessible-accent-dark captured-style"} href={"https://www.apthai.com/th/blog/know-how/best-locations-for-home-cctv"}>
 {"หลังบ้านหรือหลังร้านค้าก็เป็นจุดอับที่อาจเกิดอันตรายขึ้นได้"}
 </SiteLink>
 </span>
@@ -232,8 +232,8 @@ export default function Page4635(){return <div className="page-4635 captured-pag
 <div data-layout-node={"n188"} className={"v17 text-widget captured-style"}>
 <p data-layout-node={"n189"} className={"v18 captured-style"}>
 {"สำหรับร้านค้านั้นไม่ควรพลาดที่จะติดเอาไว้"}
-<span data-layout-node={"n190"} className={"v19 captured-style"}>
-<SiteLink data-layout-node={"n191"} className={"v19 captured-style"} href={"https://aitscctv.com/cctv-law/"}>
+<span data-layout-node={"n190"} className={"v19 accessible-accent-dark captured-style"}>
+<SiteLink data-layout-node={"n191"} className={"v19 accessible-accent-dark captured-style"} href={"https://aitscctv.com/cctv-law/"}>
 {"ดูความเคลื่อนไหวของทั้งพนักงาน และคนเข้าออก"}
 </SiteLink>
 </span>
@@ -269,7 +269,7 @@ export default function Page4635(){return <div className="page-4635 captured-pag
 <div data-layout-node={"n74"} className={"v44 section captured-style"}>
 <div data-layout-node={"n75"} className={"v3 text-widget captured-style"}>
 <div data-layout-node={"n76"} className={"v4 text-widget captured-style"}>
-<p data-layout-node={"n77"} className={"v5 captured-style"}>
+<p data-layout-node={"n77"} className={"v5 accessible-accent-dark captured-style"}>
 {"EIGHT CCTV CAMERA PACKAGE"}
 </p>
 </div>
@@ -358,8 +358,8 @@ export default function Page4635(){return <div className="page-4635 captured-pag
 </div>
 </div>
 </div>
-<div data-layout-node={"n117"} className={"v75 captured-style"}>
-<div data-layout-node={"n118"} className={"v76 captured-style"}>
+<div data-layout-node={"n117"} className={"v75 accessible-accent-dark captured-style"}>
+<div data-layout-node={"n118"} className={"v76 accessible-accent-dark captured-style"}>
 {"\r\n\t\t\t\t\t\t\tหมายเหตุ : พร้อมแถมฟรีฮาร์สดิสก์ 1 TB และราคานี้รวมค่าเดินสายแล้วเรียบร้อยไม่ระยะต่อจุดไม่เกิน 25 เมตร หมายเหตุ: ราคานี้ยังไม่รวมภาษีมูลค่าเพิ่ม\t\t\t\t\t\t"}
 </div>
 </div>

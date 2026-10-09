@@ -11,7 +11,7 @@ export default function Page4607(){return <div className="page-4607 captured-pag
 <div data-layout-node={"n2"} className={"v2 captured-style"}>
 <div data-layout-node={"n3"} className={"v3 text-widget captured-style"}>
 <div data-layout-node={"n4"} className={"v4 text-widget captured-style"}>
-<p data-layout-node={"n5"} className={"v5 captured-style"}>
+<p data-layout-node={"n5"} className={"v5 accessible-accent-dark captured-style"}>
 {"FOUR CCTV CAMERA  SERVICE"}
 </p>
 </div>
@@ -29,7 +29,7 @@ export default function Page4607(){return <div className="page-4607 captured-pag
 <div data-layout-node={"n10"} className={"v2 captured-style"}>
 <div data-layout-node={"n11"} className={"v3 text-widget captured-style"}>
 <div data-layout-node={"n12"} className={"v4 text-widget captured-style"}>
-<p data-layout-node={"n13"} className={"v8 captured-style"}>
+<p data-layout-node={"n13"} className={"v8 accessible-accent-dark captured-style"}>
 {"FOUR CCTV CAMERA"}
 </p>
 </div>
@@ -65,8 +65,8 @@ export default function Page4607(){return <div className="page-4607 captured-pag
 <div data-layout-node={"n30"} className={"v20 text-widget captured-style"}>
 <p data-layout-node={"n31"} className={"v21 captured-style"}>
 {"ติดตั้งกล้องวงจรปิด 4 ตัวนั้นถือว่าเป็นจำนวนที่กำลังเหมาะสมกับพื้นที่ทั่วไป อย่างเช่น บ้านเดี่ยว ทาวน์เฮ้าส์ ที่มีขนาดพื้นที่ไม่ใหญ่มาก "}
-<span data-layout-node={"n32"} className={"v22 captured-style"}>
-<SiteLink data-layout-node={"n33"} className={"v22 captured-style"} href={"https://www.baania.com/article/%E0%B8%A7%E0%B8%B4%E0%B8%98%E0%B8%B5%E0%B8%95%E0%B8%B4%E0%B8%94%E0%B8%81%E0%B8%A5%E0%B9%89%E0%B8%AD%E0%B8%87%E0%B8%A7%E0%B8%87%E0%B8%88%E0%B8%A3%E0%B8%9B%E0%B8%B4%E0%B8%94-5f323004fdc961c455b8f755"}>
+<span data-layout-node={"n32"} className={"v22 accessible-accent-dark captured-style"}>
+<SiteLink data-layout-node={"n33"} className={"v22 accessible-accent-dark captured-style"} href={"https://www.baania.com/article/%E0%B8%A7%E0%B8%B4%E0%B8%98%E0%B8%B5%E0%B8%95%E0%B8%B4%E0%B8%94%E0%B8%81%E0%B8%A5%E0%B9%89%E0%B8%AD%E0%B8%87%E0%B8%A7%E0%B8%87%E0%B8%88%E0%B8%A3%E0%B8%9B%E0%B8%B4%E0%B8%94-5f323004fdc961c455b8f755"}>
 {"ติดตามจุดต่าง ๆ เพื่อตรวจสอบความเคลื่อนไหว"}
 </SiteLink>
 </span>
@@ -99,7 +99,7 @@ export default function Page4607(){return <div className="page-4607 captured-pag
 <div data-layout-node={"n132"} className={"v2 captured-style"}>
 <div data-layout-node={"n133"} className={"v3 text-widget captured-style"}>
 <div data-layout-node={"n134"} className={"v4 text-widget captured-style"}>
-<p data-layout-node={"n135"} className={"v5 captured-style"}>
+<p data-layout-node={"n135"} className={"v5 accessible-accent-dark captured-style"}>
 {"WHY AITSCCTV"}
 </p>
 </div>
@@ -120,14 +120,14 @@ export default function Page4607(){return <div className="page-4607 captured-pag
 <div data-layout-node={"n143"} className={"v20 captured-style"}>
 <p data-layout-node={"n144"} className={"v21 captured-style"}>
 {"ติดตั้งกล้องวงจรปิด 4 ตัวนั้นมีประโยชน์กับคุณอย่างไร และ"}
-<span data-layout-node={"n145"} className={"v22 captured-style"}>
-<SiteLink data-layout-node={"n146"} className={"v22 captured-style"} href={"https://aitscctv.com/install-cctv/"}>
+<span data-layout-node={"n145"} className={"v22 accessible-accent-dark captured-style"}>
+<SiteLink data-layout-node={"n146"} className={"v22 accessible-accent-dark captured-style"} href={"https://aitscctv.com/install-cctv/"}>
 {"ควรเน้นติดที่จุดไหนบ้าง"}
 </SiteLink>
 </span>
 {" เรามี"}
 <SiteLink data-layout-node={"n147"} className={"v89 captured-style"} href={"https://www.ddproperty.com/%E0%B8%84%E0%B8%B9%E0%B9%88%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%8B%E0%B8%B7%E0%B9%89%E0%B8%AD%E0%B8%82%E0%B8%B2%E0%B8%A2/%E0%B9%81%E0%B8%99%E0%B8%B0%E0%B8%99%E0%B8%B3%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%80%E0%B8%A5%E0%B8%B7%E0%B8%AD%E0%B8%81%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B8%A7%E0%B8%B4%E0%B8%98%E0%B8%B5%E0%B8%95%E0%B8%B4%E0%B8%94%E0%B8%95%E0%B8%B1%E0%B9%89%E0%B8%87%E0%B8%81%E0%B8%A5%E0%B9%89%E0%B8%AD%E0%B8%87%E0%B8%A7%E0%B8%87%E0%B8%88%E0%B8%A3%E0%B8%9B%E0%B8%B4%E0%B8%94-%E0%B9%83%E0%B8%AB%E0%B9%89%E0%B9%80%E0%B8%AB%E0%B8%A1%E0%B8%B2%E0%B8%B0%E0%B8%81%E0%B8%B1%E0%B8%9A%E0%B8%9A%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B8%84%E0%B8%B8%E0%B8%93-30369"}>
-<span data-layout-node={"n148"} className={"v22 captured-style"}>
+<span data-layout-node={"n148"} className={"v22 accessible-accent-dark captured-style"}>
 {"ไอเดียการติดตามจุดสำคัญ"}
 </span>
 </SiteLink>
@@ -141,8 +141,8 @@ export default function Page4607(){return <div className="page-4607 captured-pag
 </p>
 <ul data-layout-node={"n152"} className={"v92 captured-style"}>
 <li data-layout-node={"n153"} className={"v93 captured-style"}>
-<span data-layout-node={"n154"} className={"v22 captured-style"}>
-<SiteLink data-layout-node={"n155"} className={"v22 captured-style"} href={"https://www.apthai.com/th/blog/know-how/best-locations-for-home-cctv"}>
+<span data-layout-node={"n154"} className={"v22 accessible-accent-dark captured-style"}>
+<SiteLink data-layout-node={"n155"} className={"v22 accessible-accent-dark captured-style"} href={"https://www.apthai.com/th/blog/know-how/best-locations-for-home-cctv"}>
 {"ช่วยป้องกันเหตุร้ายในเบื้องต้น"}
 </SiteLink>
 </span>
@@ -271,7 +271,7 @@ export default function Page4607(){return <div className="page-4607 captured-pag
 <div data-layout-node={"n85"} className={"v53 section captured-style"}>
 <div data-layout-node={"n86"} className={"v3 text-widget captured-style"}>
 <div data-layout-node={"n87"} className={"v4 text-widget captured-style"}>
-<p data-layout-node={"n88"} className={"v5 captured-style"}>
+<p data-layout-node={"n88"} className={"v5 accessible-accent-dark captured-style"}>
 {"FOUR CCTV CAMERA PACKAGE"}
 </p>
 </div>
@@ -360,9 +360,9 @@ export default function Page4607(){return <div className="page-4607 captured-pag
 </div>
 </div>
 </div>
-<div data-layout-node={"n128"} className={"v84 text-widget captured-style"}>
-<div data-layout-node={"n129"} className={"v85 text-widget captured-style"}>
-<p data-layout-node={"n130"} className={"v86 captured-style"}>
+<div data-layout-node={"n128"} className={"v84 text-widget accessible-accent-dark captured-style"}>
+<div data-layout-node={"n129"} className={"v85 text-widget accessible-accent-dark captured-style"}>
+<p data-layout-node={"n130"} className={"v86 accessible-accent-dark captured-style"}>
 {"หมายเหตุ : พร้อมแถมฟรีฮาร์สดิสก์ 1 TB และราคานี้รวมค่าเดินสายแล้วเรียบร้อยไม่ระยะต่อจุดไม่เกิน 25 เมตร หมายเหตุ: ราคานี้ยังไม่รวมภาษีมูลค่าเพิ่ม"}
 </p>
 </div>

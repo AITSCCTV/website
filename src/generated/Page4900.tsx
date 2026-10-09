@@ -11,7 +11,7 @@ export default function Page4900(){return <div className="page-4900 captured-pag
 <div data-layout-node={"n2"} className={"v2 captured-style"}>
 <div data-layout-node={"n3"} className={"v3 text-widget captured-style"}>
 <div data-layout-node={"n4"} className={"v4 text-widget captured-style"}>
-<p data-layout-node={"n5"} className={"v5 captured-style"}>
+<p data-layout-node={"n5"} className={"v5 accessible-accent-dark captured-style"}>
 {"FIBER OPTIC"}
 </p>
 </div>
@@ -29,7 +29,7 @@ export default function Page4900(){return <div className="page-4900 captured-pag
 <div data-layout-node={"n10"} className={"v2 captured-style"}>
 <div data-layout-node={"n11"} className={"v3 text-widget captured-style"}>
 <div data-layout-node={"n12"} className={"v4 text-widget captured-style"}>
-<p data-layout-node={"n13"} className={"v8 captured-style"}>
+<p data-layout-node={"n13"} className={"v8 accessible-accent-dark captured-style"}>
 {"FIBER OPTIC SYSTEM"}
 </p>
 </div>
@@ -56,14 +56,14 @@ export default function Page4900(){return <div className="page-4900 captured-pag
 <div data-layout-node={"n25"} className={"v15 text-widget captured-style"}>
 <p data-layout-node={"n26"} className={"v16 captured-style"}>
 {"บริการรับติดตั้งเดินสายสัญญาณสื่อสาร สายไฟเบอร์ออฟติก สาย Fiber Optic "}
-<span data-layout-node={"n27"} className={"v17 captured-style"}>
-<SiteLink data-layout-node={"n28"} className={"v17 captured-style"} href={"/network-service/"}>
+<span data-layout-node={"n27"} className={"v17 accessible-accent-dark captured-style"}>
+<SiteLink data-layout-node={"n28"} className={"v17 accessible-accent-dark captured-style"} href={"/network-service/"}>
 {"สำหรับระบบ Network ทุกรูปแบบ"}
 </SiteLink>
 </span>
 {" ทั้งระยะห่างไกล และระยะใกล้ รับเดินสายไฟเบอร์ออฟติก ราคา ย่อมเยา มาพร้อมกับการออกแบบวงจรติดตั้งทั้งภายในและภายนอกอาคาร สำหรับสำนักงาน สถานประกอบการต่าง ๆ "}
-<span data-layout-node={"n29"} className={"v17 captured-style"}>
-<SiteLink data-layout-node={"n30"} className={"v17 captured-style"} href={"/"}>
+<span data-layout-node={"n29"} className={"v17 accessible-accent-dark captured-style"}>
+<SiteLink data-layout-node={"n30"} className={"v17 accessible-accent-dark captured-style"} href={"/"}>
 {"AITSCCTV"}
 </SiteLink>
 </span>
@@ -449,7 +449,7 @@ export default function Page4900(){return <div className="page-4900 captured-pag
 <div data-layout-node={"n231"} className={"v45 section captured-style"}>
 <div data-layout-node={"n232"} className={"v3 text-widget captured-style"}>
 <div data-layout-node={"n233"} className={"v4 text-widget captured-style"}>
-<p data-layout-node={"n234"} className={"v5 captured-style"}>
+<p data-layout-node={"n234"} className={"v5 accessible-accent-dark captured-style"}>
 {"DESIGN AND SET UP FIBER OPTIC SYSTEM"}
 </p>
 </div>
@@ -469,8 +469,8 @@ export default function Page4900(){return <div className="page-4900 captured-pag
 <div data-layout-node={"n240"} className={"v99 captured-style"}>
 <div data-layout-node={"n241"} className={"v100 captured-style"}>
 <p data-layout-node={"n242"} className={"v101 captured-style"}>
-<span data-layout-node={"n243"} className={"v102 captured-style"}>
-<SiteLink data-layout-node={"n244"} className={"v102 captured-style"} href={"https://aitscctv.com/fiber-optic-cable/"}>
+<span data-layout-node={"n243"} className={"v102 accessible-accent-dark captured-style"}>
+<SiteLink data-layout-node={"n244"} className={"v102 accessible-accent-dark captured-style"} href={"https://aitscctv.com/fiber-optic-cable/"}>
 {"สาย Fiber Optic"}
 </SiteLink>
 </span>
@@ -798,9 +798,9 @@ export default function Page4900(){return <div className="page-4900 captured-pag
 <div data-layout-node={"n491"} className={"v136 text-widget captured-style"}>
 <div data-layout-node={"n492"} className={"v137 text-widget captured-style"}>
 <h4 data-layout-node={"n493"} className={"v138 captured-style"}>
-<li data-layout-node={"n494"} className={"v139 captured-style"}>
+<p data-layout-node={"n494"} className={"v139 captured-style"}>
 {"ความเร็วในการส่งสัญญาณ "}
-</li>
+</p>
 </h4>
 </div>
 </div>
@@ -816,9 +816,9 @@ export default function Page4900(){return <div className="page-4900 captured-pag
 <div data-layout-node={"n499"} className={"v136 text-widget captured-style"}>
 <div data-layout-node={"n500"} className={"v137 text-widget captured-style"}>
 <h4 data-layout-node={"n501"} className={"v138 captured-style"}>
-<li data-layout-node={"n502"} className={"v139 captured-style"}>
+<p data-layout-node={"n502"} className={"v139 captured-style"}>
 {"มีความเสถียรภาพสูง"}
-</li>
+</p>
 </h4>
 </div>
 </div>
@@ -834,9 +834,9 @@ export default function Page4900(){return <div className="page-4900 captured-pag
 <div data-layout-node={"n507"} className={"v136 text-widget captured-style"}>
 <div data-layout-node={"n508"} className={"v137 text-widget captured-style"}>
 <h4 data-layout-node={"n509"} className={"v138 captured-style"}>
-<li data-layout-node={"n510"} className={"v139 captured-style"}>
+<p data-layout-node={"n510"} className={"v139 captured-style"}>
 {"ส่งสัญญาณในระยะทางไกลได้"}
-</li>
+</p>
 </h4>
 </div>
 </div>
@@ -872,9 +872,9 @@ export default function Page4900(){return <div className="page-4900 captured-pag
 <div data-layout-node={"n524"} className={"v136 text-widget captured-style"}>
 <div data-layout-node={"n525"} className={"v137 text-widget captured-style"}>
 <h4 data-layout-node={"n526"} className={"v138 captured-style"}>
-<li data-layout-node={"n527"} className={"v139 captured-style"}>
+<p data-layout-node={"n527"} className={"v139 captured-style"}>
 {"มีราคาค่อนข้างสูง"}
-</li>
+</p>
 </h4>
 </div>
 </div>
@@ -890,9 +890,9 @@ export default function Page4900(){return <div className="page-4900 captured-pag
 <div data-layout-node={"n532"} className={"v136 text-widget captured-style"}>
 <div data-layout-node={"n533"} className={"v137 text-widget captured-style"}>
 <h4 data-layout-node={"n534"} className={"v138 captured-style"}>
-<li data-layout-node={"n535"} className={"v139 captured-style"}>
+<p data-layout-node={"n535"} className={"v139 captured-style"}>
 {"ความยากในการติดตั้ง"}
-</li>
+</p>
 </h4>
 </div>
 </div>

@@ -9,6 +9,7 @@
     "typecheck": "tsc --noEmit",
     "generate": "node scripts/generate.mjs",
     "optimize:images": "node scripts/optimize-images.mjs",
+    "optimize:thumbnails": "node scripts/optimize-thumbnails.mjs",
     "test:performance": "node scripts/performance-regression.mjs",
     "verify": "node scripts/verify.mjs",
     "test:browser": "node scripts/regression.mjs"

@@ -99,15 +99,15 @@ export default function HomeEnglish(){return <div lang="en" className="page-1751
 <div data-layout-node={"n56"} className={"v45 captured-style"}>
 <figure data-layout-node={"n57"} className={"v46 media-widget captured-style"}>
 <SiteLink data-layout-node={"n58"} className={"v47 media-widget captured-style"} href={"/cctv-camera-service/"}>
-<img data-layout-node={"n59"} className={"v48 captured-style"} src={"/assets/17390b496320155f-responsive-640.webp"} alt={"Smart home"} loading={"lazy"} decoding={"async"} width={"1536"} height={"2305"} srcSet={"/assets/17390b496320155f-responsive-160.webp 160w, /assets/17390b496320155f-responsive-320.webp 320w, /assets/17390b496320155f-responsive-640.webp 640w, /assets/17390b496320155f-responsive-1066.webp 1066w"} sizes={"(max-width: 1024px) 96px, 23vw"} />
+<img data-layout-node={"n59"} className={"v48 captured-style"} src={"/assets/17390b496320155f-responsive-640.webp"} alt={"Smart home"} loading={"lazy"} decoding={"async"} width={"1066"} height={"1600"} srcSet={"/assets/17390b496320155f-responsive-160.webp 160w, /assets/17390b496320155f-responsive-192.webp 192w, /assets/17390b496320155f-responsive-320.webp 320w, /assets/17390b496320155f-responsive-640.webp 640w, /assets/17390b496320155f-responsive-1066.webp 1066w"} sizes={"(max-width: 1024px) 96px, 23vw"} />
 </SiteLink>
 </figure>
 <div data-layout-node={"n60"} className={"v49 captured-style"}>
-<h3 data-layout-node={"n61"} className={"v50 captured-style"}>
+<h2 data-layout-node={"n61"} className={"v50 captured-style"}>
 <SiteLink data-layout-node={"n62"} className={"v51 captured-style"} href={"/cctv-camera-service/"}>
 {"Smart Home"}
 </SiteLink>
-</h3>
+</h2>
 <p data-layout-node={"n63"} className={"v52 captured-style"}>
 {"Smart home design and installation for everyday convenience and security for your family, around the clock."}
 </p>
@@ -120,15 +120,15 @@ export default function HomeEnglish(){return <div lang="en" className="page-1751
 <div data-layout-node={"n66"} className={"v45 captured-style"}>
 <figure data-layout-node={"n67"} className={"v54 media-widget captured-style"}>
 <SiteLink data-layout-node={"n68"} className={"v47 media-widget captured-style"} href={"/security-system/"}>
-<img data-layout-node={"n69"} className={"v55 captured-style"} src={"/assets/e83d735bb084122f-responsive-640.webp"} alt={"Smart office"} loading={"lazy"} decoding={"async"} width={"1536"} height={"2303"} srcSet={"/assets/e83d735bb084122f-responsive-160.webp 160w, /assets/e83d735bb084122f-responsive-320.webp 320w, /assets/e83d735bb084122f-responsive-640.webp 640w, /assets/e83d735bb084122f-responsive-1067.webp 1067w"} sizes={"(max-width: 1024px) 96px, 23vw"} />
+<img data-layout-node={"n69"} className={"v55 captured-style"} src={"/assets/e83d735bb084122f-responsive-640.webp"} alt={"Smart office"} loading={"lazy"} decoding={"async"} width={"1067"} height={"1600"} srcSet={"/assets/e83d735bb084122f-responsive-160.webp 160w, /assets/e83d735bb084122f-responsive-192.webp 192w, /assets/e83d735bb084122f-responsive-320.webp 320w, /assets/e83d735bb084122f-responsive-640.webp 640w, /assets/e83d735bb084122f-responsive-1067.webp 1067w"} sizes={"(max-width: 1024px) 96px, 23vw"} />
 </SiteLink>
 </figure>
 <div data-layout-node={"n70"} className={"v49 captured-style"}>
-<h3 data-layout-node={"n71"} className={"v50 captured-style"}>
+<h2 data-layout-node={"n71"} className={"v50 captured-style"}>
 <SiteLink data-layout-node={"n72"} className={"v51 captured-style"} href={"/security-system/"}>
 {"Smart Office"}
 </SiteLink>
-</h3>
+</h2>
 <p data-layout-node={"n73"} className={"v52 captured-style"}>
 {"Upgrade your office with access control, smart scanning devices and a reliable network."}
 </p>
@@ -141,15 +141,15 @@ export default function HomeEnglish(){return <div lang="en" className="page-1751
 <div data-layout-node={"n76"} className={"v45 captured-style"}>
 <figure data-layout-node={"n77"} className={"v54 media-widget captured-style"}>
 <SiteLink data-layout-node={"n78"} className={"v47 media-widget captured-style"} href={"/internet-system/"}>
-<img data-layout-node={"n79"} className={"v56 captured-style"} src={"/assets/86acf4265a5bc69d-responsive-640.webp"} alt={"Smart building"} loading={"lazy"} decoding={"async"} width={"1728"} height={"2420"} srcSet={"/assets/86acf4265a5bc69d-responsive-160.webp 160w, /assets/86acf4265a5bc69d-responsive-320.webp 320w, /assets/86acf4265a5bc69d-responsive-640.webp 640w, /assets/86acf4265a5bc69d-responsive-1142.webp 1142w"} sizes={"(max-width: 1024px) 96px, 23vw"} />
+<img data-layout-node={"n79"} className={"v56 captured-style"} src={"/assets/86acf4265a5bc69d-responsive-640.webp"} alt={"Smart building"} loading={"lazy"} decoding={"async"} width={"1142"} height={"1600"} srcSet={"/assets/86acf4265a5bc69d-responsive-160.webp 160w, /assets/86acf4265a5bc69d-responsive-192.webp 192w, /assets/86acf4265a5bc69d-responsive-320.webp 320w, /assets/86acf4265a5bc69d-responsive-640.webp 640w, /assets/86acf4265a5bc69d-responsive-1142.webp 1142w"} sizes={"(max-width: 1024px) 96px, 23vw"} />
 </SiteLink>
 </figure>
 <div data-layout-node={"n80"} className={"v49 captured-style"}>
-<h3 data-layout-node={"n81"} className={"v50 captured-style"}>
+<h2 data-layout-node={"n81"} className={"v50 captured-style"}>
 <SiteLink data-layout-node={"n82"} className={"v51 captured-style"} href={"/internet-system/"}>
 {"Smart Building"}
 </SiteLink>
-</h3>
+</h2>
 <p data-layout-node={"n83"} className={"v52 captured-style"}>
 {"Solutions for condominiums, apartments, high-rise buildings, hotels and commercial properties."}
 </p>
@@ -162,15 +162,15 @@ export default function HomeEnglish(){return <div lang="en" className="page-1751
 <div data-layout-node={"n86"} className={"v45 captured-style"}>
 <figure data-layout-node={"n87"} className={"v54 media-widget captured-style"}>
 <SiteLink data-layout-node={"n88"} className={"v47 media-widget captured-style"} href={"/telephone-system/"}>
-<img data-layout-node={"n89"} className={"v48 captured-style"} src={"/assets/c8c69f4efe99ce8b-responsive-640.webp"} alt={"Smart industrial"} loading={"lazy"} decoding={"async"} width={"1536"} height={"2305"} srcSet={"/assets/c8c69f4efe99ce8b-responsive-160.webp 160w, /assets/c8c69f4efe99ce8b-responsive-320.webp 320w, /assets/c8c69f4efe99ce8b-responsive-640.webp 640w, /assets/c8c69f4efe99ce8b-responsive-1066.webp 1066w"} sizes={"(max-width: 1024px) 96px, 23vw"} />
+<img data-layout-node={"n89"} className={"v48 captured-style"} src={"/assets/c8c69f4efe99ce8b-responsive-640.webp"} alt={"Smart industrial"} loading={"lazy"} decoding={"async"} width={"1066"} height={"1600"} srcSet={"/assets/c8c69f4efe99ce8b-responsive-160.webp 160w, /assets/c8c69f4efe99ce8b-responsive-192.webp 192w, /assets/c8c69f4efe99ce8b-responsive-320.webp 320w, /assets/c8c69f4efe99ce8b-responsive-640.webp 640w, /assets/c8c69f4efe99ce8b-responsive-1066.webp 1066w"} sizes={"(max-width: 1024px) 96px, 23vw"} />
 </SiteLink>
 </figure>
 <div data-layout-node={"n90"} className={"v49 captured-style"}>
-<h3 data-layout-node={"n91"} className={"v50 captured-style"}>
+<h2 data-layout-node={"n91"} className={"v50 captured-style"}>
 <SiteLink data-layout-node={"n92"} className={"v51 captured-style"} href={"/telephone-system/"}>
 {"Smart Industrial"}
 </SiteLink>
-</h3>
+</h2>
 <p data-layout-node={"n93"} className={"v52 captured-style"}>
 {"Smart factory security and monitoring, proactive anomaly detection and safety management."}
 </p>
@@ -184,7 +184,7 @@ export default function HomeEnglish(){return <div lang="en" className="page-1751
 <div data-layout-node={"n95"} className={"v58 captured-style"}>
 <div data-layout-node={"n96"} className={"v59 text-widget captured-style"}>
 <div data-layout-node={"n97"} className={"v60 text-widget captured-style"}>
-<p data-layout-node={"n98"} className={"v61 captured-style"}>
+<p data-layout-node={"n98"} className={"v61 accessible-accent-dark captured-style"}>
 {"OUR SERVICES"}
 </p>
 </div>
@@ -385,7 +385,7 @@ export default function HomeEnglish(){return <div lang="en" className="page-1751
 <div data-layout-node={"n193"} className={"v85 layout-row captured-style layout-row"}>
 <div data-layout-node={"n194"} className={"v86 text-widget captured-style"}>
 <div data-layout-node={"n195"} className={"v87 text-widget captured-style"}>
-<p data-layout-node={"n196"} className={"v88 captured-style"}>
+<p data-layout-node={"n196"} className={"v88 accessible-accent-dark captured-style"}>
 {"A.I.T.S. COMPANY LIMITED"}
 </p>
 </div>
@@ -447,7 +447,7 @@ export default function HomeEnglish(){return <div lang="en" className="page-1751
 <div data-layout-node={"n1702"} className={"v173 captured-style"}>
 <div data-layout-node={"n1703"} className={"v174 text-widget captured-style"}>
 <div data-layout-node={"n1704"} className={"v11 text-widget captured-style"}>
-<p data-layout-node={"n1705"} className={"v106 captured-style"}>
+<p data-layout-node={"n1705"} className={"v106 accessible-accent-dark captured-style"}>
 {"OUR CLIENTS"}
 </p>
 </div>
@@ -551,7 +551,7 @@ export default function HomeEnglish(){return <div lang="en" className="page-1751
 <div data-layout-node={"n1765"} className={"v105 layout-row captured-style layout-row"}>
 <div data-layout-node={"n1766"} className={"v7 text-widget captured-style"}>
 <div data-layout-node={"n1767"} className={"v11 text-widget captured-style"}>
-<p data-layout-node={"n1768"} className={"v106 captured-style"}>
+<p data-layout-node={"n1768"} className={"v106 accessible-accent-dark captured-style"}>
 {"OUR PORTFOLIO"}
 </p>
 </div>
@@ -617,7 +617,7 @@ export default function HomeEnglish(){return <div lang="en" className="page-1751
 <div data-layout-node={"n1810"} className={"v218 layout-row captured-style layout-row"}>
 <div data-layout-node={"n1811"} className={"v219 text-widget captured-style"}>
 <div data-layout-node={"n1812"} className={"v220 text-widget captured-style"}>
-<p data-layout-node={"n1813"} className={"v221 captured-style"}>
+<p data-layout-node={"n1813"} className={"v221 accessible-accent-dark captured-style"}>
 {"WHY AITSCCTV"}
 </p>
 </div>
@@ -771,7 +771,7 @@ export default function HomeEnglish(){return <div lang="en" className="page-1751
 <div data-layout-node={"n1878"} className={"v241 section captured-style"}>
 <div data-layout-node={"n1879"} className={"v242 text-widget captured-style"}>
 <div data-layout-node={"n1880"} className={"v243 text-widget captured-style"}>
-<p data-layout-node={"n1881"} className={"v244 captured-style"}>
+<p data-layout-node={"n1881"} className={"v244 accessible-accent-dark captured-style"}>
 {"REASONS FOR INSTALLING CCTV\r\n"}
 </p>
 </div>
@@ -895,7 +895,7 @@ export default function HomeEnglish(){return <div lang="en" className="page-1751
 <div data-layout-node={"n1936"} className={"v3 column layout-row captured-style layout-row"}>
 <div className="promotion-layout"><div className="promotion-intro"><div data-layout-node={"n1938"} className={"v7 text-widget captured-style"}>
 <div data-layout-node={"n1939"} className={"v11 text-widget captured-style"}>
-<p data-layout-node={"n1940"} className={"v106 captured-style"}>
+<p data-layout-node={"n1940"} className={"v106 accessible-accent-dark captured-style"}>
 {"OUR PRODUCTS"}
 </p>
 </div>
@@ -913,15 +913,15 @@ export default function HomeEnglish(){return <div lang="en" className="page-1751
 </div>
 </div></div><div className="promotion-comparison"><a className="promotion-poster" href={"/assets/09a0e6409234d43c.webp"} target="_blank" rel="noopener" aria-label={"Open full-size promotion image"}><div data-layout-node={"n1947"} className={"v7 media-widget captured-style"}>
 <div data-layout-node={"n1948"} className={"v11 media-widget captured-style"}>
-<img data-layout-node={"n1949"} className={"v260 captured-style"} src={"/assets/09a0e6409234d43c-responsive-640.webp"} alt={"2024 Promotion"} loading={"lazy"} decoding={"async"} width={"576"} height={"1023"} srcSet={"/assets/09a0e6409234d43c-responsive-160.webp 160w, /assets/09a0e6409234d43c-responsive-320.webp 320w, /assets/09a0e6409234d43c-responsive-640.webp 640w, /assets/09a0e6409234d43c-responsive-768.webp 768w"} sizes={"30vw"} />
+<img data-layout-node={"n1949"} className={"v260 captured-style"} src={"/assets/09a0e6409234d43c-responsive-640.webp"} alt={"2024 Promotion"} loading={"lazy"} decoding={"async"} width={"768"} height={"1365"} srcSet={"/assets/09a0e6409234d43c-responsive-160.webp 160w, /assets/09a0e6409234d43c-responsive-320.webp 320w, /assets/09a0e6409234d43c-responsive-640.webp 640w, /assets/09a0e6409234d43c-responsive-768.webp 768w"} sizes={"30vw"} />
 </div>
 </div></a><a className="promotion-poster" href={"/assets/a1da290eef61169f.webp"} target="_blank" rel="noopener" aria-label={"Open full-size promotion image"}><div data-layout-node={"n1950"} className={"v7 media-widget captured-style"}>
 <div data-layout-node={"n1951"} className={"v11 media-widget captured-style"}>
-<img data-layout-node={"n1952"} className={"v261 captured-style"} src={"/assets/a1da290eef61169f-responsive-640.webp"} alt={"20250119 VIGI Promotion Easy"} loading={"lazy"} decoding={"async"} width={"819"} height={"1024"} srcSet={"/assets/a1da290eef61169f-responsive-160.webp 160w, /assets/a1da290eef61169f-responsive-320.webp 320w, /assets/a1da290eef61169f-responsive-640.webp 640w, /assets/a1da290eef61169f-responsive-1228.webp 1228w"} sizes={"30vw"} />
+<img data-layout-node={"n1952"} className={"v261 captured-style"} src={"/assets/a1da290eef61169f-responsive-640.webp"} alt={"20250119 VIGI Promotion Easy"} loading={"lazy"} decoding={"async"} width={"1228"} height={"1536"} srcSet={"/assets/a1da290eef61169f-responsive-160.webp 160w, /assets/a1da290eef61169f-responsive-320.webp 320w, /assets/a1da290eef61169f-responsive-640.webp 640w, /assets/a1da290eef61169f-responsive-1228.webp 1228w"} sizes={"30vw"} />
 </div>
 </div></a><a className="promotion-poster" href={"/assets/2e4e2bc9948ee593.webp"} target="_blank" rel="noopener" aria-label={"Open full-size promotion image"}><div data-layout-node={"n1953"} className={"v16 media-widget captured-style"}>
 <div data-layout-node={"n1954"} className={"v11 media-widget captured-style"}>
-<img data-layout-node={"n1955"} className={"v261 captured-style"} src={"/assets/2e4e2bc9948ee593-responsive-640.webp"} alt={"20250119 Tiandy Promotion"} loading={"lazy"} decoding={"async"} width={"819"} height={"1024"} srcSet={"/assets/2e4e2bc9948ee593-responsive-160.webp 160w, /assets/2e4e2bc9948ee593-responsive-320.webp 320w, /assets/2e4e2bc9948ee593-responsive-640.webp 640w, /assets/2e4e2bc9948ee593-responsive-1228.webp 1228w"} sizes={"30vw"} />
+<img data-layout-node={"n1955"} className={"v261 captured-style"} src={"/assets/2e4e2bc9948ee593-responsive-640.webp"} alt={"20250119 Tiandy Promotion"} loading={"lazy"} decoding={"async"} width={"1228"} height={"1536"} srcSet={"/assets/2e4e2bc9948ee593-responsive-160.webp 160w, /assets/2e4e2bc9948ee593-responsive-320.webp 320w, /assets/2e4e2bc9948ee593-responsive-640.webp 640w, /assets/2e4e2bc9948ee593-responsive-1228.webp 1228w"} sizes={"30vw"} />
 </div>
 </div></a></div></div>
 </div>
@@ -933,7 +933,7 @@ export default function HomeEnglish(){return <div lang="en" className="page-1751
 <div data-layout-node={"n1959"} className={"v105 layout-row captured-style layout-row"}>
 <div data-layout-node={"n1960"} className={"v7 text-widget captured-style"}>
 <div data-layout-node={"n1961"} className={"v11 text-widget captured-style"}>
-<p data-layout-node={"n1962"} className={"v106 captured-style"}>
+<p data-layout-node={"n1962"} className={"v106 accessible-accent-dark captured-style"}>
 {"OUR  REVIEWS"}
 </p>
 </div>
@@ -1081,7 +1081,7 @@ export default function HomeEnglish(){return <div lang="en" className="page-1751
 <div data-layout-node={"n2026"} className={"v241 section captured-style"}>
 <div data-layout-node={"n2027"} className={"v278 text-widget captured-style"}>
 <div data-layout-node={"n2028"} className={"v279 text-widget captured-style"}>
-<p data-layout-node={"n2029"} className={"v280 captured-style"}>
+<p data-layout-node={"n2029"} className={"v280 accessible-accent-dark captured-style"}>
 {"WARRANTY BY AITSCCTV"}
 </p>
 </div>
@@ -1175,7 +1175,7 @@ export default function HomeEnglish(){return <div lang="en" className="page-1751
 <div data-layout-node={"n2069"} className={"v295 captured-style"}>
 <div data-layout-node={"n2070"} className={"v174 text-widget captured-style"}>
 <div data-layout-node={"n2071"} className={"v11 text-widget captured-style"}>
-<p data-layout-node={"n2072"} className={"v296 captured-style"}>
+<p data-layout-node={"n2072"} className={"v296 accessible-accent-dark captured-style"}>
 {"FAQ"}
 </p>
 </div>

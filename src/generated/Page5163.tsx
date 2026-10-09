@@ -11,7 +11,7 @@ export default function Page5163(){return <div className="page-5163 captured-pag
 <div data-layout-node={"n2"} className={"v2 captured-style"}>
 <div data-layout-node={"n3"} className={"v3 text-widget captured-style"}>
 <div data-layout-node={"n4"} className={"v4 text-widget captured-style"}>
-<p data-layout-node={"n5"} className={"v5 captured-style"}>
+<p data-layout-node={"n5"} className={"v5 accessible-accent-dark captured-style"}>
 {"WiFi SYSTEM"}
 </p>
 </div>
@@ -42,8 +42,8 @@ export default function Page5163(){return <div className="page-5163 captured-pag
 <div data-layout-node={"n19"} className={"v14 text-widget captured-style"}>
 <p data-layout-node={"n20"} className={"v15 captured-style"}>
 {"บริการรับติดตั้ง WiFi ติดตั้งไวไฟบ้าน ราคาย่อมเยาและติดตั้งไวไฟไร้สาย "}
-<span data-layout-node={"n21"} className={"v16 captured-style"}>
-<SiteLink data-layout-node={"n22"} className={"v16 captured-style"} href={"/network-service/"}>
+<span data-layout-node={"n21"} className={"v16 accessible-accent-dark captured-style"}>
+<SiteLink data-layout-node={"n22"} className={"v16 accessible-accent-dark captured-style"} href={"/network-service/"}>
 {"วางระบบ Network"}
 </SiteLink>
 </span>
@@ -70,7 +70,7 @@ export default function Page5163(){return <div className="page-5163 captured-pag
 <div data-layout-node={"n30"} className={"v20 media-widget captured-style"}>
 <div data-layout-node={"n31"} className={"v3 media-widget captured-style"}>
 <div data-layout-node={"n32"} className={"v4 media-widget captured-style"}>
-<img data-layout-node={"n33"} className={"v21 captured-style"} src={"/assets/remote-3be5c66af813506e-responsive-640.webp"} alt={"Cardano blockchain platform"} loading={"lazy"} decoding={"async"} width={"1536"} height={"864"} srcSet={"/assets/remote-3be5c66af813506e-responsive-160.webp 160w, /assets/remote-3be5c66af813506e-responsive-320.webp 320w, /assets/remote-3be5c66af813506e-responsive-640.webp 640w, /assets/remote-3be5c66af813506e-responsive-1280.webp 1280w"} sizes={"(max-width: 640px) calc(100vw - 40px), (max-width: 1024px) 50vw, 672px"} />
+<img data-layout-node={"n33"} className={"v21 captured-style"} src={"/assets/remote-3be5c66af813506e-responsive-640.webp"} alt={"Cardano blockchain platform"} loading={"lazy"} decoding={"async"} width={"1920"} height={"1080"} srcSet={"/assets/remote-3be5c66af813506e-responsive-160.webp 160w, /assets/remote-3be5c66af813506e-responsive-320.webp 320w, /assets/remote-3be5c66af813506e-responsive-640.webp 640w, /assets/remote-3be5c66af813506e-responsive-1280.webp 1280w"} sizes={"(max-width: 640px) calc(100vw - 40px), (max-width: 1024px) 50vw, 672px"} />
 </div>
 </div>
 </div>
@@ -270,7 +270,7 @@ export default function Page5163(){return <div className="page-5163 captured-pag
 <div data-layout-node={"n35"} className={"v23 captured-style"}>
 <div data-layout-node={"n36"} className={"v3 text-widget captured-style"}>
 <div data-layout-node={"n37"} className={"v4 text-widget captured-style"}>
-<p data-layout-node={"n38"} className={"v5 captured-style"}>
+<p data-layout-node={"n38"} className={"v5 accessible-accent-dark captured-style"}>
 {"DESIGN AND SET UP WiFi SYTEM"}
 </p>
 </div>
@@ -296,15 +296,15 @@ export default function Page5163(){return <div className="page-5163 captured-pag
 </div>
 <div data-layout-node={"n50"} className={"v3 media-widget captured-style"}>
 <div data-layout-node={"n51"} className={"v4 media-widget captured-style"}>
-<img data-layout-node={"n52"} className={"v30 captured-style"} src={"/assets/remote-2229eb81e1b0f53e-responsive-640.webp"} alt={"Sofa living room with copy space"} loading={"lazy"} decoding={"async"} width={"1024"} height={"716"} srcSet={"/assets/remote-2229eb81e1b0f53e-responsive-160.webp 160w, /assets/remote-2229eb81e1b0f53e-responsive-320.webp 320w, /assets/remote-2229eb81e1b0f53e-responsive-640.webp 640w, /assets/remote-2229eb81e1b0f53e-responsive-1280.webp 1280w"} sizes={"(max-width: 640px) calc(100vw - 40px), (max-width: 1024px) 50vw, 340px"} />
+<img data-layout-node={"n52"} className={"v30 captured-style"} src={"/assets/remote-2229eb81e1b0f53e-responsive-640.webp"} alt={"Sofa living room with copy space"} loading={"lazy"} decoding={"async"} width={"1536"} height={"1075"} srcSet={"/assets/remote-2229eb81e1b0f53e-responsive-160.webp 160w, /assets/remote-2229eb81e1b0f53e-responsive-320.webp 320w, /assets/remote-2229eb81e1b0f53e-responsive-640.webp 640w, /assets/remote-2229eb81e1b0f53e-responsive-1280.webp 1280w"} sizes={"(max-width: 640px) calc(100vw - 40px), (max-width: 1024px) 50vw, 340px"} />
 </div>
 </div>
 <div data-layout-node={"n53"} className={"v13 text-widget captured-style"}>
 <div data-layout-node={"n54"} className={"v14 text-widget captured-style"}>
 <p data-layout-node={"n55"} className={"v15 captured-style"}>
 {"บริการติดตั้งไวไฟ "}
-<span data-layout-node={"n56"} className={"v16 captured-style"}>
-<SiteLink data-layout-node={"n57"} className={"v16 captured-style"} href={"https://aitscctv.com/network-wifi/"}>
+<span data-layout-node={"n56"} className={"v16 accessible-accent-dark captured-style"}>
+<SiteLink data-layout-node={"n57"} className={"v16 accessible-accent-dark captured-style"} href={"https://aitscctv.com/network-wifi/"}>
 {"วางระบบ Network ในบ้าน"}
 </SiteLink>
 </span>
@@ -340,7 +340,7 @@ export default function Page5163(){return <div className="page-5163 captured-pag
 </div>
 <div data-layout-node={"n70"} className={"v3 media-widget captured-style"}>
 <div data-layout-node={"n71"} className={"v4 media-widget captured-style"}>
-<img data-layout-node={"n72"} className={"v37 captured-style"} src={"/assets/remote-3d8c8a4d4b31d1fd-responsive-640.webp"} alt={"New buildings with green areas (2)"} loading={"lazy"} decoding={"async"} width={"1024"} height={"682"} srcSet={"/assets/remote-3d8c8a4d4b31d1fd-responsive-160.webp 160w, /assets/remote-3d8c8a4d4b31d1fd-responsive-320.webp 320w, /assets/remote-3d8c8a4d4b31d1fd-responsive-640.webp 640w, /assets/remote-3d8c8a4d4b31d1fd-responsive-1280.webp 1280w"} sizes={"(max-width: 640px) calc(100vw - 40px), (max-width: 1024px) 50vw, 340px"} />
+<img data-layout-node={"n72"} className={"v37 captured-style"} src={"/assets/remote-3d8c8a4d4b31d1fd-responsive-640.webp"} alt={"New buildings with green areas (2)"} loading={"lazy"} decoding={"async"} width={"1536"} height={"1024"} srcSet={"/assets/remote-3d8c8a4d4b31d1fd-responsive-160.webp 160w, /assets/remote-3d8c8a4d4b31d1fd-responsive-320.webp 320w, /assets/remote-3d8c8a4d4b31d1fd-responsive-640.webp 640w, /assets/remote-3d8c8a4d4b31d1fd-responsive-1280.webp 1280w"} sizes={"(max-width: 640px) calc(100vw - 40px), (max-width: 1024px) 50vw, 340px"} />
 </div>
 </div>
 <div data-layout-node={"n73"} className={"v13 captured-style"}>
@@ -376,7 +376,7 @@ export default function Page5163(){return <div className="page-5163 captured-pag
 </div>
 <div data-layout-node={"n87"} className={"v3 media-widget captured-style"}>
 <div data-layout-node={"n88"} className={"v4 media-widget captured-style"}>
-<img data-layout-node={"n89"} className={"v40 captured-style"} src={"/assets/remote-8676ed20e372fb37-responsive-640.webp"} alt={"Large office buildings"} loading={"lazy"} decoding={"async"} width={"1024"} height={"702"} srcSet={"/assets/remote-8676ed20e372fb37-responsive-160.webp 160w, /assets/remote-8676ed20e372fb37-responsive-320.webp 320w, /assets/remote-8676ed20e372fb37-responsive-640.webp 640w, /assets/remote-8676ed20e372fb37-responsive-1280.webp 1280w"} sizes={"(max-width: 640px) calc(100vw - 40px), (max-width: 1024px) 50vw, 340px"} />
+<img data-layout-node={"n89"} className={"v40 captured-style"} src={"/assets/remote-8676ed20e372fb37-responsive-640.webp"} alt={"Large office buildings"} loading={"lazy"} decoding={"async"} width={"1536"} height={"1054"} srcSet={"/assets/remote-8676ed20e372fb37-responsive-160.webp 160w, /assets/remote-8676ed20e372fb37-responsive-320.webp 320w, /assets/remote-8676ed20e372fb37-responsive-640.webp 640w, /assets/remote-8676ed20e372fb37-responsive-1280.webp 1280w"} sizes={"(max-width: 640px) calc(100vw - 40px), (max-width: 1024px) 50vw, 340px"} />
 </div>
 </div>
 <div data-layout-node={"n90"} className={"v13 captured-style"}>

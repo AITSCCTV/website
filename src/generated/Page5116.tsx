@@ -11,7 +11,7 @@ export default function Page5116(){return <div className="page-5116 captured-pag
 <div data-layout-node={"n2"} className={"v2 captured-style"}>
 <div data-layout-node={"n3"} className={"v3 text-widget captured-style"}>
 <div data-layout-node={"n4"} className={"v4 text-widget captured-style"}>
-<p data-layout-node={"n5"} className={"v5 captured-style"}>
+<p data-layout-node={"n5"} className={"v5 accessible-accent-dark captured-style"}>
 {"Access Point"}
 </p>
 </div>
@@ -42,8 +42,8 @@ export default function Page5116(){return <div className="page-5116 captured-pag
 <div data-layout-node={"n19"} className={"v14 text-widget captured-style"}>
 <p data-layout-node={"n20"} className={"v15 captured-style"}>
 {"เรารับบริการติดตั้ง Access Point อุปกรณ์กระจายสัญญาณ ตัวขยายสัญญาณ WiFi ให้"}
-<span data-layout-node={"n21"} className={"v16 captured-style"}>
-<SiteLink data-layout-node={"n22"} className={"v16 captured-style"} href={"/network-service/"}>
+<span data-layout-node={"n21"} className={"v16 accessible-accent-dark captured-style"}>
+<SiteLink data-layout-node={"n22"} className={"v16 accessible-accent-dark captured-style"} href={"/network-service/"}>
 {"ใช้งานระบบ Network"}
 </SiteLink>
 </span>
@@ -111,8 +111,8 @@ export default function Page5116(){return <div className="page-5116 captured-pag
 <div data-layout-node={"n152"} className={"v14 text-widget captured-style"}>
 <p data-layout-node={"n153"} className={"v15 captured-style"}>
 {"สำหรับใครที่ต้องการติดตั้ง "}
-<span data-layout-node={"n154"} className={"v16 captured-style"}>
-<SiteLink data-layout-node={"n155"} className={"v16 captured-style"} href={"https://th.wikipedia.org/wiki/%E0%B9%81%E0%B8%AD%E0%B8%84%E0%B9%80%E0%B8%8B%E0%B8%AA%E0%B8%9E%E0%B8%AD%E0%B8%A2%E0%B8%95%E0%B9%8C%E0%B9%84%E0%B8%A3%E0%B9%89%E0%B8%AA%E0%B8%B2%E0%B8%A2"}>
+<span data-layout-node={"n154"} className={"v16 accessible-accent-dark captured-style"}>
+<SiteLink data-layout-node={"n155"} className={"v16 accessible-accent-dark captured-style"} href={"https://th.wikipedia.org/wiki/%E0%B9%81%E0%B8%AD%E0%B8%84%E0%B9%80%E0%B8%8B%E0%B8%AA%E0%B8%9E%E0%B8%AD%E0%B8%A2%E0%B8%95%E0%B9%8C%E0%B9%84%E0%B8%A3%E0%B9%89%E0%B8%AA%E0%B8%B2%E0%B8%A2"}>
 {"Access Point"}
 </SiteLink>
 </span>
@@ -179,7 +179,7 @@ export default function Page5116(){return <div className="page-5116 captured-pag
 <div data-layout-node={"n36"} className={"v24 captured-style"}>
 <div data-layout-node={"n37"} className={"v3 text-widget captured-style"}>
 <div data-layout-node={"n38"} className={"v4 text-widget captured-style"}>
-<p data-layout-node={"n39"} className={"v5 captured-style"}>
+<p data-layout-node={"n39"} className={"v5 accessible-accent-dark captured-style"}>
 {"DESIGN AND SET UP Access Point "}
 </p>
 </div>
@@ -198,7 +198,7 @@ export default function Page5116(){return <div className="page-5116 captured-pag
 </div>
 <div data-layout-node={"n48"} className={"v3 media-widget captured-style"}>
 <div data-layout-node={"n49"} className={"v4 media-widget captured-style"}>
-<img data-layout-node={"n50"} className={"v31 captured-style"} src={"/assets/remote-1be802688d24041f-responsive-640.webp"} alt={"Top view wi fi router with house figurine wireless controlled devices"} loading={"lazy"} decoding={"async"} width={"1024"} height={"682"} srcSet={"/assets/remote-1be802688d24041f-responsive-160.webp 160w, /assets/remote-1be802688d24041f-responsive-320.webp 320w, /assets/remote-1be802688d24041f-responsive-640.webp 640w, /assets/remote-1be802688d24041f-responsive-1280.webp 1280w"} sizes={"(max-width: 640px) calc(100vw - 40px), (max-width: 1024px) 50vw, 530px"} />
+<img data-layout-node={"n50"} className={"v31 captured-style"} src={"/assets/remote-1be802688d24041f-responsive-640.webp"} alt={"Top view wi fi router with house figurine wireless controlled devices"} loading={"lazy"} decoding={"async"} width={"1536"} height={"1024"} srcSet={"/assets/remote-1be802688d24041f-responsive-160.webp 160w, /assets/remote-1be802688d24041f-responsive-320.webp 320w, /assets/remote-1be802688d24041f-responsive-640.webp 640w, /assets/remote-1be802688d24041f-responsive-1280.webp 1280w"} sizes={"(max-width: 640px) calc(100vw - 40px), (max-width: 1024px) 50vw, 530px"} />
 </div>
 </div>
 <div data-layout-node={"n51"} className={"v13 captured-style"}>
@@ -234,15 +234,15 @@ export default function Page5116(){return <div className="page-5116 captured-pag
 </div>
 <div data-layout-node={"n65"} className={"v3 media-widget captured-style"}>
 <div data-layout-node={"n66"} className={"v4 media-widget captured-style"}>
-<img data-layout-node={"n67"} className={"v37 captured-style"} src={"/assets/remote-5124344794c0faf3-responsive-640.webp"} alt={"Network switch with cables (2)"} loading={"lazy"} decoding={"async"} width={"1024"} height={"684"} srcSet={"/assets/remote-5124344794c0faf3-responsive-160.webp 160w, /assets/remote-5124344794c0faf3-responsive-320.webp 320w, /assets/remote-5124344794c0faf3-responsive-640.webp 640w, /assets/remote-5124344794c0faf3-responsive-1280.webp 1280w"} sizes={"(max-width: 640px) calc(100vw - 40px), (max-width: 1024px) 50vw, 530px"} />
+<img data-layout-node={"n67"} className={"v37 captured-style"} src={"/assets/remote-5124344794c0faf3-responsive-640.webp"} alt={"Network switch with cables (2)"} loading={"lazy"} decoding={"async"} width={"1536"} height={"1026"} srcSet={"/assets/remote-5124344794c0faf3-responsive-160.webp 160w, /assets/remote-5124344794c0faf3-responsive-320.webp 320w, /assets/remote-5124344794c0faf3-responsive-640.webp 640w, /assets/remote-5124344794c0faf3-responsive-1280.webp 1280w"} sizes={"(max-width: 640px) calc(100vw - 40px), (max-width: 1024px) 50vw, 530px"} />
 </div>
 </div>
 <div data-layout-node={"n68"} className={"v13 text-widget captured-style"}>
 <div data-layout-node={"n69"} className={"v14 text-widget captured-style"}>
 <p data-layout-node={"n70"} className={"v15 captured-style"}>
 {"ขยายสัญญาณ WiFi ภายนอกอาคาร ด้วยอุปกรณ์ตัวขยายสัญญาณ คุณภาพดี ติดตั้งโดยผู้เชี่ยวชาญ หมดปัญหาเรื่องเน็ตช้า หรือเน็ตกระตุก ด้วย"}
-<span data-layout-node={"n71"} className={"v16 captured-style"}>
-<SiteLink data-layout-node={"n72"} className={"v16 captured-style"} href={"https://aitscctv.com/cctv-access-point-beach-bar-club/"}>
+<span data-layout-node={"n71"} className={"v16 accessible-accent-dark captured-style"}>
+<SiteLink data-layout-node={"n72"} className={"v16 accessible-accent-dark captured-style"} href={"https://aitscctv.com/cctv-access-point-beach-bar-club/"}>
 {"ตัวขยายสัญญาณ WiFi ระยะไกล"}
 </SiteLink>
 </span>
@@ -291,7 +291,7 @@ export default function Page5116(){return <div className="page-5116 captured-pag
 <div data-layout-node={"n88"} className={"v41 captured-style"}>
 <div data-layout-node={"n89"} className={"v42 captured-style"}>
 <div data-layout-node={"n90"} className={"v43 captured-style"}>
-<div className={"table-scroll"} role={"region"} aria-label={"ตารางเปรียบเทียบ เลื่อนเพื่อดูข้อมูลเพิ่มเติม"} tabIndex={0}>
+<div className={"table-scroll"} role={"region"} aria-label={"ตารางเปรียบเทียบ 1 เลื่อนเพื่อดูข้อมูลเพิ่มเติม"} tabIndex={0}>
 <table data-layout-node={"n91"} className={"v44 captured-style"}>
 <tbody data-layout-node={"n92"} className={"v45 captured-style"}>
 <tr data-layout-node={"n93"} className={"v46 captured-style"}>
@@ -344,8 +344,8 @@ export default function Page5116(){return <div className="page-5116 captured-pag
 <div data-layout-node={"n140"} className={"v13 text-widget captured-style"}>
 <div data-layout-node={"n141"} className={"v14 text-widget captured-style"}>
 <p data-layout-node={"n142"} className={"v15 captured-style"}>
-<span data-layout-node={"n143"} className={"v16 captured-style"}>
-<SiteLink data-layout-node={"n144"} className={"v16 captured-style"} href={"https://aitscctv.com/access-point-at-school/"}>
+<span data-layout-node={"n143"} className={"v16 accessible-accent-dark captured-style"}>
+<SiteLink data-layout-node={"n144"} className={"v16 accessible-accent-dark captured-style"} href={"https://aitscctv.com/access-point-at-school/"}>
 {"Access Point หรือการขยายสัญญาณ WiFi"}
 </SiteLink>
 </span>
@@ -368,8 +368,8 @@ export default function Page5116(){return <div className="page-5116 captured-pag
 <div data-layout-node={"n181"} className={"v14 text-widget captured-style"}>
 <p data-layout-node={"n182"} className={"v15 captured-style"}>
 {"สำหรับใครที่ต้องการติดตั้ง "}
-<span data-layout-node={"n183"} className={"v16 captured-style"}>
-<SiteLink data-layout-node={"n184"} className={"v16 captured-style"} href={"https://th.wikipedia.org/wiki/%E0%B9%81%E0%B8%AD%E0%B8%84%E0%B9%80%E0%B8%8B%E0%B8%AA%E0%B8%9E%E0%B8%AD%E0%B8%A2%E0%B8%95%E0%B9%8C%E0%B9%84%E0%B8%A3%E0%B9%89%E0%B8%AA%E0%B8%B2%E0%B8%A2"}>
+<span data-layout-node={"n183"} className={"v16 accessible-accent-dark captured-style"}>
+<SiteLink data-layout-node={"n184"} className={"v16 accessible-accent-dark captured-style"} href={"https://th.wikipedia.org/wiki/%E0%B9%81%E0%B8%AD%E0%B8%84%E0%B9%80%E0%B8%8B%E0%B8%AA%E0%B8%9E%E0%B8%AD%E0%B8%A2%E0%B8%95%E0%B9%8C%E0%B9%84%E0%B8%A3%E0%B9%89%E0%B8%AA%E0%B8%B2%E0%B8%A2"}>
 {"Access Point"}
 </SiteLink>
 </span>
@@ -411,7 +411,7 @@ export default function Page5116(){return <div className="page-5116 captured-pag
 </div>
 <div data-layout-node={"n202"} className={"v90 media-widget captured-style"}>
 <div data-layout-node={"n203"} className={"v91 media-widget captured-style"}>
-<img data-layout-node={"n204"} className={"v96 captured-style"} src={"/assets/remote-4622f570a93a14bb-responsive-640.webp"} alt={"TP LINK logo.svg"} loading={"lazy"} decoding={"async"} width={"1536"} height={"199"} srcSet={"/assets/remote-4622f570a93a14bb-responsive-160.webp 160w, /assets/remote-4622f570a93a14bb-responsive-320.webp 320w, /assets/remote-4622f570a93a14bb-responsive-640.webp 640w, /assets/remote-4622f570a93a14bb-responsive-1280.webp 1280w"} sizes={"(max-width: 640px) calc(100vw - 40px), (max-width: 1024px) 50vw, 318px"} />
+<img data-layout-node={"n204"} className={"v96 captured-style"} src={"/assets/remote-4622f570a93a14bb-responsive-640.webp"} alt={"TP LINK logo.svg"} loading={"lazy"} decoding={"async"} width={"2048"} height={"266"} srcSet={"/assets/remote-4622f570a93a14bb-responsive-160.webp 160w, /assets/remote-4622f570a93a14bb-responsive-320.webp 320w, /assets/remote-4622f570a93a14bb-responsive-640.webp 640w, /assets/remote-4622f570a93a14bb-responsive-1280.webp 1280w"} sizes={"(max-width: 640px) calc(100vw - 40px), (max-width: 1024px) 50vw, 318px"} />
 </div>
 </div>
 <div data-layout-node={"n205"} className={"v94 captured-style"}>
@@ -432,7 +432,7 @@ export default function Page5116(){return <div className="page-5116 captured-pag
 </div>
 <div data-layout-node={"n212"} className={"v90 media-widget captured-style"}>
 <div data-layout-node={"n213"} className={"v91 media-widget captured-style"}>
-<img data-layout-node={"n214"} className={"v97 captured-style"} src={"/assets/remote-c675d30bbc587f2c-responsive-640.webp"} alt={"600f26befcd2b500043083e5"} loading={"lazy"} decoding={"async"} width={"300"} height={"166"} srcSet={"/assets/remote-c675d30bbc587f2c-responsive-160.webp 160w, /assets/remote-c675d30bbc587f2c-responsive-320.webp 320w, /assets/remote-c675d30bbc587f2c-responsive-640.webp 640w, /assets/remote-c675d30bbc587f2c-responsive-768.webp 768w"} sizes={"(max-width: 640px) calc(100vw - 40px), (max-width: 1024px) 50vw, 300px"} />
+<img data-layout-node={"n214"} className={"v97 captured-style"} src={"/assets/remote-c675d30bbc587f2c-responsive-640.webp"} alt={"600f26befcd2b500043083e5"} loading={"lazy"} decoding={"async"} width={"768"} height={"427"} srcSet={"/assets/remote-c675d30bbc587f2c-responsive-160.webp 160w, /assets/remote-c675d30bbc587f2c-responsive-320.webp 320w, /assets/remote-c675d30bbc587f2c-responsive-640.webp 640w, /assets/remote-c675d30bbc587f2c-responsive-768.webp 768w"} sizes={"(max-width: 640px) calc(100vw - 40px), (max-width: 1024px) 50vw, 300px"} />
 </div>
 </div>
 <div data-layout-node={"n215"} className={"v94 captured-style"}>
@@ -457,7 +457,7 @@ export default function Page5116(){return <div className="page-5116 captured-pag
 </div>
 <div data-layout-node={"n224"} className={"v90 media-widget captured-style"}>
 <div data-layout-node={"n225"} className={"v91 media-widget captured-style"}>
-<img data-layout-node={"n226"} className={"v98 captured-style"} src={"/assets/remote-924000b869b38e23-responsive-640.webp"} alt={"D Link wordmark.svg"} loading={"lazy"} decoding={"async"} width={"300"} height={"60"} srcSet={"/assets/remote-924000b869b38e23-responsive-160.webp 160w, /assets/remote-924000b869b38e23-responsive-320.webp 320w, /assets/remote-924000b869b38e23-responsive-640.webp 640w, /assets/remote-924000b869b38e23-responsive-768.webp 768w"} sizes={"(max-width: 640px) calc(100vw - 40px), (max-width: 1024px) 50vw, 300px"} />
+<img data-layout-node={"n226"} className={"v98 captured-style"} src={"/assets/remote-924000b869b38e23-responsive-640.webp"} alt={"D Link wordmark.svg"} loading={"lazy"} decoding={"async"} width={"768"} height={"155"} srcSet={"/assets/remote-924000b869b38e23-responsive-160.webp 160w, /assets/remote-924000b869b38e23-responsive-320.webp 320w, /assets/remote-924000b869b38e23-responsive-640.webp 640w, /assets/remote-924000b869b38e23-responsive-768.webp 768w"} sizes={"(max-width: 640px) calc(100vw - 40px), (max-width: 1024px) 50vw, 300px"} />
 </div>
 </div>
 <div data-layout-node={"n227"} className={"v94 captured-style"}>
@@ -478,7 +478,7 @@ export default function Page5116(){return <div className="page-5116 captured-pag
 </div>
 <div data-layout-node={"n234"} className={"v90 media-widget captured-style"}>
 <div data-layout-node={"n235"} className={"v91 media-widget captured-style"}>
-<img data-layout-node={"n236"} className={"v99 captured-style"} src={"/assets/remote-dd620d15c3a5695f-responsive-640.webp"} alt={"Asus Logo"} loading={"lazy"} decoding={"async"} width={"300"} height={"168"} srcSet={"/assets/remote-dd620d15c3a5695f-responsive-160.webp 160w, /assets/remote-dd620d15c3a5695f-responsive-320.webp 320w, /assets/remote-dd620d15c3a5695f-responsive-640.webp 640w, /assets/remote-dd620d15c3a5695f-responsive-768.webp 768w"} sizes={"(max-width: 640px) calc(100vw - 40px), (max-width: 1024px) 50vw, 300px"} />
+<img data-layout-node={"n236"} className={"v99 captured-style"} src={"/assets/remote-dd620d15c3a5695f-responsive-640.webp"} alt={"Asus Logo"} loading={"lazy"} decoding={"async"} width={"768"} height={"432"} srcSet={"/assets/remote-dd620d15c3a5695f-responsive-160.webp 160w, /assets/remote-dd620d15c3a5695f-responsive-320.webp 320w, /assets/remote-dd620d15c3a5695f-responsive-640.webp 640w, /assets/remote-dd620d15c3a5695f-responsive-768.webp 768w"} sizes={"(max-width: 640px) calc(100vw - 40px), (max-width: 1024px) 50vw, 300px"} />
 </div>
 </div>
 <div data-layout-node={"n237"} className={"v94 captured-style"}>
@@ -501,7 +501,7 @@ export default function Page5116(){return <div className="page-5116 captured-pag
 </div>
 <div data-layout-node={"n245"} className={"v90 media-widget captured-style"}>
 <div data-layout-node={"n246"} className={"v91 media-widget captured-style"}>
-<img data-layout-node={"n247"} className={"v101 captured-style"} src={"/assets/remote-2278b5ac68131f7c-responsive-640.webp"} alt={"Google Nest logo (1)"} loading={"lazy"} decoding={"async"} width={"300"} height={"104"} srcSet={"/assets/remote-2278b5ac68131f7c-responsive-160.webp 160w, /assets/remote-2278b5ac68131f7c-responsive-320.webp 320w, /assets/remote-2278b5ac68131f7c-responsive-640.webp 640w, /assets/remote-2278b5ac68131f7c-responsive-768.webp 768w"} sizes={"(max-width: 640px) calc(100vw - 40px), (max-width: 1024px) 50vw, 300px"} />
+<img data-layout-node={"n247"} className={"v101 captured-style"} src={"/assets/remote-2278b5ac68131f7c-responsive-640.webp"} alt={"Google Nest logo (1)"} loading={"lazy"} decoding={"async"} width={"768"} height={"268"} srcSet={"/assets/remote-2278b5ac68131f7c-responsive-160.webp 160w, /assets/remote-2278b5ac68131f7c-responsive-320.webp 320w, /assets/remote-2278b5ac68131f7c-responsive-640.webp 640w, /assets/remote-2278b5ac68131f7c-responsive-768.webp 768w"} sizes={"(max-width: 640px) calc(100vw - 40px), (max-width: 1024px) 50vw, 300px"} />
 </div>
 </div>
 <div data-layout-node={"n248"} className={"v102 text-widget captured-style"}>

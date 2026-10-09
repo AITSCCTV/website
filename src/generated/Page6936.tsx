@@ -45,7 +45,7 @@ export default function Page6936(){return <div className="page-6936 captured-pag
 <div data-layout-node={"n18"} className={"v5 media-widget captured-style"}>
 <div data-layout-node={"n19"} className={"v6 media-widget captured-style"}>
 <SiteLink data-layout-node={"n20"} className={"v15 media-widget captured-style"} href={"https://docs.google.com/forms/d/e/1FAIpQLSelu8hRj4QIM_0bJ4VgXSl_fMcoIItLwYi82iTW-T20xG4P_A/viewform"}>
-<img data-layout-node={"n21"} className={"v16 captured-style"} src={"/assets/remote-b50b3d4e197a6ea1-responsive-640.webp"} alt={"20250121 AITS Smart Home"} loading={"lazy"} decoding={"async"} width={"300"} height={"300"} srcSet={"/assets/remote-b50b3d4e197a6ea1-responsive-160.webp 160w, /assets/remote-b50b3d4e197a6ea1-responsive-320.webp 320w, /assets/remote-b50b3d4e197a6ea1-responsive-640.webp 640w, /assets/remote-b50b3d4e197a6ea1-responsive-768.webp 768w"} sizes={"(max-width: 640px) calc(100vw - 40px), (max-width: 1024px) 50vw, 300px"} />
+<img data-layout-node={"n21"} className={"v16 captured-style"} src={"/assets/remote-b50b3d4e197a6ea1-responsive-640.webp"} alt={"20250121 AITS Smart Home"} loading={"lazy"} decoding={"async"} width={"768"} height={"768"} srcSet={"/assets/remote-b50b3d4e197a6ea1-responsive-160.webp 160w, /assets/remote-b50b3d4e197a6ea1-responsive-320.webp 320w, /assets/remote-b50b3d4e197a6ea1-responsive-640.webp 640w, /assets/remote-b50b3d4e197a6ea1-responsive-768.webp 768w"} sizes={"(max-width: 640px) calc(100vw - 40px), (max-width: 1024px) 50vw, 300px"} />
 </SiteLink>
 </div>
 </div>
@@ -83,7 +83,7 @@ export default function Page6936(){return <div className="page-6936 captured-pag
 <div data-layout-node={"n36"} className={"v5 media-widget captured-style"}>
 <div data-layout-node={"n37"} className={"v6 media-widget captured-style"}>
 <SiteLink data-layout-node={"n38"} className={"v15 media-widget captured-style"} href={"https://docs.google.com/forms/d/e/1FAIpQLSfN_8MOsP4DMEIBHiwBdEYRs0L1tjFH9v9yLjJaVXXzK-gbtg/viewform"}>
-<img data-layout-node={"n39"} className={"v16 captured-style"} src={"/assets/remote-64f7f1875801c695-responsive-640.webp"} alt={"2 CCTV final"} loading={"lazy"} decoding={"async"} width={"300"} height={"300"} srcSet={"/assets/remote-64f7f1875801c695-responsive-160.webp 160w, /assets/remote-64f7f1875801c695-responsive-320.webp 320w, /assets/remote-64f7f1875801c695-responsive-640.webp 640w, /assets/remote-64f7f1875801c695-responsive-768.webp 768w"} sizes={"(max-width: 640px) calc(100vw - 40px), (max-width: 1024px) 50vw, 300px"} />
+<img data-layout-node={"n39"} className={"v16 captured-style"} src={"/assets/remote-64f7f1875801c695-responsive-640.webp"} alt={"2 CCTV final"} loading={"lazy"} decoding={"async"} width={"768"} height={"768"} srcSet={"/assets/remote-64f7f1875801c695-responsive-160.webp 160w, /assets/remote-64f7f1875801c695-responsive-320.webp 320w, /assets/remote-64f7f1875801c695-responsive-640.webp 640w, /assets/remote-64f7f1875801c695-responsive-768.webp 768w"} sizes={"(max-width: 640px) calc(100vw - 40px), (max-width: 1024px) 50vw, 300px"} />
 </SiteLink>
 </div>
 </div>
@@ -121,7 +121,7 @@ export default function Page6936(){return <div className="page-6936 captured-pag
 <div data-layout-node={"n54"} className={"v5 media-widget captured-style"}>
 <div data-layout-node={"n55"} className={"v6 media-widget captured-style"}>
 <SiteLink data-layout-node={"n56"} className={"v15 media-widget captured-style"} href={"https://docs.google.com/forms/d/e/1FAIpQLScNlElCG1nmfOG55mDhZOPjkloGmfjxil77jbTWbmnkBDji7w/viewform"}>
-<img data-layout-node={"n57"} className={"v16 captured-style"} src={"/assets/remote-a2d16f9da6e950c6-responsive-640.webp"} alt={"8 pro lan final"} loading={"lazy"} decoding={"async"} width={"300"} height={"300"} srcSet={"/assets/remote-a2d16f9da6e950c6-responsive-160.webp 160w, /assets/remote-a2d16f9da6e950c6-responsive-320.webp 320w, /assets/remote-a2d16f9da6e950c6-responsive-640.webp 640w, /assets/remote-a2d16f9da6e950c6-responsive-768.webp 768w"} sizes={"(max-width: 640px) calc(100vw - 40px), (max-width: 1024px) 50vw, 300px"} />
+<img data-layout-node={"n57"} className={"v16 captured-style"} src={"/assets/remote-a2d16f9da6e950c6-responsive-640.webp"} alt={"8 pro lan final"} loading={"lazy"} decoding={"async"} width={"768"} height={"768"} srcSet={"/assets/remote-a2d16f9da6e950c6-responsive-160.webp 160w, /assets/remote-a2d16f9da6e950c6-responsive-320.webp 320w, /assets/remote-a2d16f9da6e950c6-responsive-640.webp 640w, /assets/remote-a2d16f9da6e950c6-responsive-768.webp 768w"} sizes={"(max-width: 640px) calc(100vw - 40px), (max-width: 1024px) 50vw, 300px"} />
 </SiteLink>
 </div>
 </div>
@@ -159,7 +159,7 @@ export default function Page6936(){return <div className="page-6936 captured-pag
 <div data-layout-node={"n72"} className={"v5 media-widget captured-style"}>
 <div data-layout-node={"n73"} className={"v6 media-widget captured-style"}>
 <SiteLink data-layout-node={"n74"} className={"v15 media-widget captured-style"} href={"https://docs.google.com/forms/d/e/1FAIpQLSdPHCBm74yRHFM1OHP3PRzMblbGRtt1vRErfegf4I_N7qesRg/viewform"}>
-<img data-layout-node={"n75"} className={"v16 captured-style"} src={"/assets/remote-410133d46775d380-responsive-640.webp"} alt={"9 old and kid final"} loading={"lazy"} decoding={"async"} width={"300"} height={"300"} srcSet={"/assets/remote-410133d46775d380-responsive-160.webp 160w, /assets/remote-410133d46775d380-responsive-320.webp 320w, /assets/remote-410133d46775d380-responsive-640.webp 640w, /assets/remote-410133d46775d380-responsive-768.webp 768w"} sizes={"(max-width: 640px) calc(100vw - 40px), (max-width: 1024px) 50vw, 300px"} />
+<img data-layout-node={"n75"} className={"v16 captured-style"} src={"/assets/remote-410133d46775d380-responsive-640.webp"} alt={"9 old and kid final"} loading={"lazy"} decoding={"async"} width={"768"} height={"768"} srcSet={"/assets/remote-410133d46775d380-responsive-160.webp 160w, /assets/remote-410133d46775d380-responsive-320.webp 320w, /assets/remote-410133d46775d380-responsive-640.webp 640w, /assets/remote-410133d46775d380-responsive-768.webp 768w"} sizes={"(max-width: 640px) calc(100vw - 40px), (max-width: 1024px) 50vw, 300px"} />
 </SiteLink>
 </div>
 </div>

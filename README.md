@@ -69,3 +69,11 @@ All 22 service pages follow the same order: overview, benefits, options/pricing,
 Run `node scripts/restructure-regression.mjs` against a running production preview (set `TEST_ORIGIN`). It checks the 22-page structure at phone and desktop widths, retained/removed sections, original warranty wording, project links, expandable technical content, gallery completeness, archive search/pagination, and legacy redirects.
 
 After preparing a Pages export, `node scripts/restructure-pages.mjs` starts a temporary local static server and verifies project-path links, legacy redirect search/fragment preservation, the no-JavaScript fallback, and responsive assets in Chromium.
+
+## Mobile audit
+
+The mobile audit runner uses Lighthouse 13.5.0 with its default mobile emulation and simulated throttling. Scores are lab measurements, not field Core Web Vitals or Google PageSpeed API results. Install isolated audit tools with `npm install --prefix qa/audit-tools --no-audit --no-fund lighthouse@13.5.0 axe-core@4.14.0`. Then run `node scripts/mobile-audit.mjs`; set `AUDIT_ORIGIN` to a production preview origin and `AUDIT_PHASE` to label the saved HTML/JSON reports. The default origin is the public GitHub Pages preview. Test Chrome comes from the existing Playwright installation.
+
+`TEST_ORIGIN=http://127.0.0.1:3000 AUDIT_PHASE=after node scripts/a11y-audit.mjs` checks all 39 routes at phone width. It opens service details and temporarily disables offscreen rendering optimization during the scan so hidden technical content and deferred sections cannot mask failures. These automated checks still require manual keyboard and visual review.
+
+Card images now use cropped 384/768px WebP thumbnails for the article archive, service project cards and About gallery. Regenerate with `npm run optimize:thumbnails`, then `npm run generate`. Original promotion images and article destinations remain available. Hero image preloads match the phone/desktop CSS variants. Offscreen sections defer initial rendering with `content-visibility`, remembering their rendered height as visitors scroll. Contrast adjustments, descriptive image-link names, consistent headings, visible inline links and keyboard-focusable client galleries retain the existing layout and brand palette.

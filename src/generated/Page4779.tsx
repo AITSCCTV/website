@@ -11,7 +11,7 @@ export default function Page4779(){return <div className="page-4779 captured-pag
 <div data-layout-node={"n2"} className={"v2 captured-style"}>
 <div data-layout-node={"n3"} className={"v3 text-widget captured-style"}>
 <div data-layout-node={"n4"} className={"v4 text-widget captured-style"}>
-<p data-layout-node={"n5"} className={"v5 captured-style"}>
+<p data-layout-node={"n5"} className={"v5 accessible-accent-dark captured-style"}>
 {"FINGERPRINT SCANNER "}
 </p>
 </div>
@@ -29,7 +29,7 @@ export default function Page4779(){return <div className="page-4779 captured-pag
 <div data-layout-node={"n10"} className={"v2 captured-style"}>
 <div data-layout-node={"n11"} className={"v3 text-widget captured-style"}>
 <div data-layout-node={"n12"} className={"v4 text-widget captured-style"}>
-<p data-layout-node={"n13"} className={"v8 captured-style"}>
+<p data-layout-node={"n13"} className={"v8 accessible-accent-dark captured-style"}>
 {"FINGERPRINT SCANNER  SYSTEM"}
 </p>
 </div>
@@ -45,8 +45,8 @@ export default function Page4779(){return <div className="page-4779 captured-pag
 <div data-layout-node={"n18"} className={"v11 text-widget captured-style"}>
 <p data-layout-node={"n19"} className={"v12 captured-style"}>
 {"บริการรับติดตั้ง เครื่องสแกนนิ้ว เครื่องสแกนนิ้วมือ และเครื่องสแกน ได้มาตรฐาน มีเครื่องสแกนนิ้วสำหรับประตูเปิด-ปิด ป้องกันคนเข้าออก ช่วยรักษาความปลอดภัยให้กับอาคารและที่อยู่อาศัย เรามีบริการติดตั้งระบบและออกแบบครบวงจร ด้วยผู้เชี่ยวชาญมืออาชีพที่มีประสบการณ์มากกว่า 20 ปี ให้คำแนะนำ และติดตามลูกค้ากับระบบอย่างใกล้ชิด เพื่อให้ทุกคนปลอดภัย ใช้บริการ "}
-<span data-layout-node={"n20"} className={"v13 captured-style"}>
-<SiteLink data-layout-node={"n21"} className={"v13 captured-style"} href={"/"}>
+<span data-layout-node={"n20"} className={"v13 accessible-accent-dark captured-style"}>
+<SiteLink data-layout-node={"n21"} className={"v13 accessible-accent-dark captured-style"} href={"/"}>
 {"AITSCCTV"}
 </SiteLink>
 </span>
@@ -69,8 +69,8 @@ export default function Page4779(){return <div className="page-4779 captured-pag
 <div data-layout-node={"n30"} className={"v11 text-widget captured-style"}>
 <p data-layout-node={"n31"} className={"v12 captured-style"}>
 {"สำหรับระบบรักษาความปลอดภัยนั้นมีหลากหลายวิธี เช่น ก"}
-<span data-layout-node={"n32"} className={"v13 captured-style"}>
-<SiteLink data-layout-node={"n33"} className={"v13 captured-style"} href={"https://aitscctv.com/fingerprint-scanner/"}>
+<span data-layout-node={"n32"} className={"v13 accessible-accent-dark captured-style"}>
+<SiteLink data-layout-node={"n33"} className={"v13 accessible-accent-dark captured-style"} href={"https://aitscctv.com/fingerprint-scanner/"}>
 {"ารใช้เครื่องสแกนนิ้ว หรือเครื่องสแกนลายนิ้วมือ"}
 </SiteLink>
 </span>
@@ -103,7 +103,7 @@ export default function Page4779(){return <div className="page-4779 captured-pag
 <div data-layout-node={"n46"} className={"v30 captured-style"}>
 <h3 data-layout-node={"n47"} className={"v31 captured-style"}>
 {"ความปลอดภัย ด้วยระบบ "}
-<SiteLink data-layout-node={"n48"} className={"v32 captured-style"} href={"https://aitscctv.com/access-control-automatic-door-system/"}>
+<SiteLink data-layout-node={"n48"} className={"v32 accessible-accent-dark captured-style"} href={"https://aitscctv.com/access-control-automatic-door-system/"}>
 {"Access Control ประตู"}
 </SiteLink>
 </h3>
@@ -204,7 +204,7 @@ export default function Page4779(){return <div className="page-4779 captured-pag
 <div data-layout-node={"n94"} className={"v46 captured-style"}>
 <div data-layout-node={"n95"} className={"v3 text-widget captured-style"}>
 <div data-layout-node={"n96"} className={"v4 text-widget captured-style"}>
-<p data-layout-node={"n97"} className={"v5 captured-style"}>
+<p data-layout-node={"n97"} className={"v5 accessible-accent-dark captured-style"}>
 {"DESIGN AND SET UP FINGERPRINT SCANNER  SYSTEM"}
 </p>
 </div>
@@ -226,7 +226,7 @@ export default function Page4779(){return <div className="page-4779 captured-pag
 <div data-layout-node={"n105"} className={"v49 captured-style"}>
 <div data-layout-node={"n106"} className={"v50 captured-style"}>
 <figure data-layout-node={"n107"} className={"v51 media-widget captured-style"}>
-<img data-layout-node={"n108"} className={"v52 captured-style"} src={"/assets/remote-7002549a70d05766-responsive-640.webp"} alt={"Luxury hotel reception hall lounge restaurant with high ceiling"} loading={"lazy"} decoding={"async"} width={"1536"} height={"1023"} srcSet={"/assets/remote-7002549a70d05766-responsive-160.webp 160w, /assets/remote-7002549a70d05766-responsive-320.webp 320w, /assets/remote-7002549a70d05766-responsive-640.webp 640w, /assets/remote-7002549a70d05766-responsive-1280.webp 1280w"} sizes={"(max-width: 640px) calc(100vw - 40px), (max-width: 1024px) 50vw, 333px"} />
+<img data-layout-node={"n108"} className={"v52 captured-style"} src={"/assets/remote-7002549a70d05766-responsive-640.webp"} alt={"Luxury hotel reception hall lounge restaurant with high ceiling"} loading={"lazy"} decoding={"async"} width={"2048"} height={"1365"} srcSet={"/assets/remote-7002549a70d05766-responsive-160.webp 160w, /assets/remote-7002549a70d05766-responsive-320.webp 320w, /assets/remote-7002549a70d05766-responsive-640.webp 640w, /assets/remote-7002549a70d05766-responsive-1280.webp 1280w"} sizes={"(max-width: 640px) calc(100vw - 40px), (max-width: 1024px) 50vw, 333px"} />
 </figure>
 <div data-layout-node={"n109"} className={"v53 text-widget captured-style"}>
 <h3 data-layout-node={"n110"} className={"v54 captured-style"}>
@@ -240,7 +240,7 @@ export default function Page4779(){return <div className="page-4779 captured-pag
 <div data-layout-node={"n112"} className={"v49 captured-style"}>
 <div data-layout-node={"n113"} className={"v50 captured-style"}>
 <figure data-layout-node={"n114"} className={"v51 media-widget captured-style"}>
-<img data-layout-node={"n115"} className={"v55 captured-style"} src={"/assets/remote-1140d4a44409f76e-responsive-640.webp"} alt={"New buildings with green areas"} loading={"lazy"} decoding={"async"} width={"1536"} height={"1024"} srcSet={"/assets/remote-1140d4a44409f76e-responsive-160.webp 160w, /assets/remote-1140d4a44409f76e-responsive-320.webp 320w, /assets/remote-1140d4a44409f76e-responsive-640.webp 640w, /assets/remote-1140d4a44409f76e-responsive-1280.webp 1280w"} sizes={"(max-width: 640px) calc(100vw - 40px), (max-width: 1024px) 50vw, 333px"} />
+<img data-layout-node={"n115"} className={"v55 captured-style"} src={"/assets/remote-1140d4a44409f76e-responsive-640.webp"} alt={"New buildings with green areas"} loading={"lazy"} decoding={"async"} width={"2560"} height={"1707"} srcSet={"/assets/remote-1140d4a44409f76e-responsive-160.webp 160w, /assets/remote-1140d4a44409f76e-responsive-320.webp 320w, /assets/remote-1140d4a44409f76e-responsive-640.webp 640w, /assets/remote-1140d4a44409f76e-responsive-1280.webp 1280w"} sizes={"(max-width: 640px) calc(100vw - 40px), (max-width: 1024px) 50vw, 333px"} />
 </figure>
 <div data-layout-node={"n116"} className={"v53 text-widget captured-style"}>
 <h3 data-layout-node={"n117"} className={"v54 captured-style"}>
@@ -254,7 +254,7 @@ export default function Page4779(){return <div className="page-4779 captured-pag
 <div data-layout-node={"n119"} className={"v49 captured-style"}>
 <div data-layout-node={"n120"} className={"v50 captured-style"}>
 <figure data-layout-node={"n121"} className={"v51 media-widget captured-style"}>
-<img data-layout-node={"n122"} className={"v55 captured-style"} src={"/assets/remote-efbfd2c4de59e35a-responsive-640.webp"} alt={"Empty classroom due to coronavirus pandemic."} loading={"lazy"} decoding={"async"} width={"1536"} height={"1024"} srcSet={"/assets/remote-efbfd2c4de59e35a-responsive-160.webp 160w, /assets/remote-efbfd2c4de59e35a-responsive-320.webp 320w, /assets/remote-efbfd2c4de59e35a-responsive-640.webp 640w, /assets/remote-efbfd2c4de59e35a-responsive-1280.webp 1280w"} sizes={"(max-width: 640px) calc(100vw - 40px), (max-width: 1024px) 50vw, 333px"} />
+<img data-layout-node={"n122"} className={"v55 captured-style"} src={"/assets/remote-efbfd2c4de59e35a-responsive-640.webp"} alt={"Empty classroom due to coronavirus pandemic."} loading={"lazy"} decoding={"async"} width={"2560"} height={"1707"} srcSet={"/assets/remote-efbfd2c4de59e35a-responsive-160.webp 160w, /assets/remote-efbfd2c4de59e35a-responsive-320.webp 320w, /assets/remote-efbfd2c4de59e35a-responsive-640.webp 640w, /assets/remote-efbfd2c4de59e35a-responsive-1280.webp 1280w"} sizes={"(max-width: 640px) calc(100vw - 40px), (max-width: 1024px) 50vw, 333px"} />
 </figure>
 <div data-layout-node={"n123"} className={"v53 text-widget captured-style"}>
 <h3 data-layout-node={"n124"} className={"v54 captured-style"}>
@@ -412,22 +412,22 @@ export default function Page4779(){return <div className="page-4779 captured-pag
 <div data-layout-node={"n186"} className={"v69 layout-row captured-style"}>
 <div data-layout-node={"n187"} className={"v70 captured-style"}>
 <div data-layout-node={"n188"} className={"v4 captured-style"}>
-<img data-layout-node={"n189"} className={"v71 captured-style"} src={"/assets/remote-42ccadcf8024f905-responsive-300.webp"} alt={"Ajhua logo"} loading={"lazy"} decoding={"async"} width={"150"} height={"150"} srcSet={"/assets/remote-42ccadcf8024f905-responsive-160.webp 160w, /assets/remote-42ccadcf8024f905-responsive-300.webp 300w"} sizes={"150px"} />
+<img data-layout-node={"n189"} className={"v71 captured-style"} src={"/assets/remote-42ccadcf8024f905-responsive-300.webp"} alt={"Ajhua logo"} loading={"lazy"} decoding={"async"} width={"300"} height={"300"} srcSet={"/assets/remote-42ccadcf8024f905-responsive-160.webp 160w, /assets/remote-42ccadcf8024f905-responsive-300.webp 300w"} sizes={"150px"} />
 </div>
 </div>
 <div data-layout-node={"n190"} className={"v70 captured-style"}>
 <div data-layout-node={"n191"} className={"v4 captured-style"}>
-<img data-layout-node={"n192"} className={"v71 captured-style"} src={"/assets/remote-92b4a15c56092b02-responsive-300.webp"} alt={"Zkt"} loading={"lazy"} decoding={"async"} width={"150"} height={"150"} srcSet={"/assets/remote-92b4a15c56092b02-responsive-160.webp 160w, /assets/remote-92b4a15c56092b02-responsive-300.webp 300w"} sizes={"150px"} />
+<img data-layout-node={"n192"} className={"v71 captured-style"} src={"/assets/remote-92b4a15c56092b02-responsive-300.webp"} alt={"Zkt"} loading={"lazy"} decoding={"async"} width={"300"} height={"300"} srcSet={"/assets/remote-92b4a15c56092b02-responsive-160.webp 160w, /assets/remote-92b4a15c56092b02-responsive-300.webp 300w"} sizes={"150px"} />
 </div>
 </div>
 <div data-layout-node={"n193"} className={"v70 captured-style"}>
 <div data-layout-node={"n194"} className={"v4 captured-style"}>
-<img data-layout-node={"n195"} className={"v71 captured-style"} src={"/assets/remote-64107f3c4ba3d23b-responsive-300.webp"} alt={"Hik logo"} loading={"lazy"} decoding={"async"} width={"150"} height={"150"} srcSet={"/assets/remote-64107f3c4ba3d23b-responsive-160.webp 160w, /assets/remote-64107f3c4ba3d23b-responsive-300.webp 300w"} sizes={"150px"} />
+<img data-layout-node={"n195"} className={"v71 captured-style"} src={"/assets/remote-64107f3c4ba3d23b-responsive-300.webp"} alt={"Hik logo"} loading={"lazy"} decoding={"async"} width={"300"} height={"300"} srcSet={"/assets/remote-64107f3c4ba3d23b-responsive-160.webp 160w, /assets/remote-64107f3c4ba3d23b-responsive-300.webp 300w"} sizes={"150px"} />
 </div>
 </div>
 <div data-layout-node={"n196"} className={"v70 captured-style"}>
 <div data-layout-node={"n197"} className={"v4 captured-style"}>
-<img data-layout-node={"n198"} className={"v71 captured-style"} src={"/assets/remote-d6cba1a69cbeac01-responsive-300.webp"} alt={"Hip"} loading={"lazy"} decoding={"async"} width={"150"} height={"150"} srcSet={"/assets/remote-d6cba1a69cbeac01-responsive-160.webp 160w, /assets/remote-d6cba1a69cbeac01-responsive-300.webp 300w"} sizes={"150px"} />
+<img data-layout-node={"n198"} className={"v71 captured-style"} src={"/assets/remote-d6cba1a69cbeac01-responsive-300.webp"} alt={"Hip"} loading={"lazy"} decoding={"async"} width={"300"} height={"300"} srcSet={"/assets/remote-d6cba1a69cbeac01-responsive-160.webp 160w, /assets/remote-d6cba1a69cbeac01-responsive-300.webp 300w"} sizes={"150px"} />
 </div>
 </div>
 </div>
@@ -443,27 +443,27 @@ export default function Page4779(){return <div className="page-4779 captured-pag
 <div data-layout-node={"n203"} className={"v69 layout-row captured-style"}>
 <div data-layout-node={"n204"} className={"v70 captured-style"}>
 <div data-layout-node={"n205"} className={"v4 captured-style"}>
-<img data-layout-node={"n206"} className={"v71 captured-style"} src={"/assets/remote-68254fe22cde4ee8-responsive-300.webp"} alt={"Rcycc logo"} loading={"lazy"} decoding={"async"} width={"150"} height={"150"} srcSet={"/assets/remote-68254fe22cde4ee8-responsive-160.webp 160w, /assets/remote-68254fe22cde4ee8-responsive-300.webp 300w"} sizes={"150px"} />
+<img data-layout-node={"n206"} className={"v71 captured-style"} src={"/assets/remote-68254fe22cde4ee8-responsive-300.webp"} alt={"Rcycc logo"} loading={"lazy"} decoding={"async"} width={"300"} height={"300"} srcSet={"/assets/remote-68254fe22cde4ee8-responsive-160.webp 160w, /assets/remote-68254fe22cde4ee8-responsive-300.webp 300w"} sizes={"150px"} />
 </div>
 </div>
 <div data-layout-node={"n207"} className={"v70 captured-style"}>
 <div data-layout-node={"n208"} className={"v4 captured-style"}>
-<img data-layout-node={"n209"} className={"v71 captured-style"} src={"/assets/remote-751d8ca1e57fe3a1-responsive-300.webp"} alt={"Ruijie logo"} loading={"lazy"} decoding={"async"} width={"150"} height={"150"} srcSet={"/assets/remote-751d8ca1e57fe3a1-responsive-160.webp 160w, /assets/remote-751d8ca1e57fe3a1-responsive-300.webp 300w"} sizes={"150px"} />
+<img data-layout-node={"n209"} className={"v71 captured-style"} src={"/assets/remote-751d8ca1e57fe3a1-responsive-300.webp"} alt={"Ruijie logo"} loading={"lazy"} decoding={"async"} width={"300"} height={"300"} srcSet={"/assets/remote-751d8ca1e57fe3a1-responsive-160.webp 160w, /assets/remote-751d8ca1e57fe3a1-responsive-300.webp 300w"} sizes={"150px"} />
 </div>
 </div>
 <div data-layout-node={"n210"} className={"v70 captured-style"}>
 <div data-layout-node={"n211"} className={"v4 captured-style"}>
-<img data-layout-node={"n212"} className={"v71 captured-style"} src={"/assets/remote-1372ea897ae5931b-responsive-300.webp"} alt={"Link logo"} loading={"lazy"} decoding={"async"} width={"150"} height={"150"} srcSet={"/assets/remote-1372ea897ae5931b-responsive-160.webp 160w, /assets/remote-1372ea897ae5931b-responsive-300.webp 300w"} sizes={"150px"} />
+<img data-layout-node={"n212"} className={"v71 captured-style"} src={"/assets/remote-1372ea897ae5931b-responsive-300.webp"} alt={"Link logo"} loading={"lazy"} decoding={"async"} width={"300"} height={"300"} srcSet={"/assets/remote-1372ea897ae5931b-responsive-160.webp 160w, /assets/remote-1372ea897ae5931b-responsive-300.webp 300w"} sizes={"150px"} />
 </div>
 </div>
 <div data-layout-node={"n213"} className={"v70 captured-style"}>
 <div data-layout-node={"n214"} className={"v4 captured-style"}>
-<img data-layout-node={"n215"} className={"v71 captured-style"} src={"/assets/remote-42ccadcf8024f905-responsive-300.webp"} alt={"Ajhua logo"} loading={"lazy"} decoding={"async"} width={"150"} height={"150"} srcSet={"/assets/remote-42ccadcf8024f905-responsive-160.webp 160w, /assets/remote-42ccadcf8024f905-responsive-300.webp 300w"} sizes={"150px"} />
+<img data-layout-node={"n215"} className={"v71 captured-style"} src={"/assets/remote-42ccadcf8024f905-responsive-300.webp"} alt={"Ajhua logo"} loading={"lazy"} decoding={"async"} width={"300"} height={"300"} srcSet={"/assets/remote-42ccadcf8024f905-responsive-160.webp 160w, /assets/remote-42ccadcf8024f905-responsive-300.webp 300w"} sizes={"150px"} />
 </div>
 </div>
 <div data-layout-node={"n216"} className={"v70 captured-style"}>
 <div data-layout-node={"n217"} className={"v4 captured-style"}>
-<img data-layout-node={"n218"} className={"v71 captured-style"} src={"/assets/remote-090e0fb218b44e59-responsive-300.webp"} alt={"Aruba"} loading={"lazy"} decoding={"async"} width={"150"} height={"150"} srcSet={"/assets/remote-090e0fb218b44e59-responsive-160.webp 160w, /assets/remote-090e0fb218b44e59-responsive-300.webp 300w"} sizes={"150px"} />
+<img data-layout-node={"n218"} className={"v71 captured-style"} src={"/assets/remote-090e0fb218b44e59-responsive-300.webp"} alt={"Aruba"} loading={"lazy"} decoding={"async"} width={"300"} height={"300"} srcSet={"/assets/remote-090e0fb218b44e59-responsive-160.webp 160w, /assets/remote-090e0fb218b44e59-responsive-300.webp 300w"} sizes={"150px"} />
 </div>
 </div>
 </div>
@@ -479,7 +479,7 @@ export default function Page4779(){return <div className="page-4779 captured-pag
 <div data-layout-node={"n223"} className={"v69 media-widget layout-row captured-style"}>
 <div data-layout-node={"n224"} className={"v72 media-widget captured-style"}>
 <div data-layout-node={"n225"} className={"v4 media-widget captured-style"}>
-<img data-layout-node={"n226"} className={"v73 captured-style"} src={"/assets/remote-a6b445d92518448a-responsive-500.webp"} alt={"Yazaki logo"} loading={"lazy"} decoding={"async"} width={"300"} height={"300"} srcSet={"/assets/remote-a6b445d92518448a-responsive-160.webp 160w, /assets/remote-a6b445d92518448a-responsive-320.webp 320w, /assets/remote-a6b445d92518448a-responsive-500.webp 500w"} sizes={"(max-width: 640px) calc(100vw - 40px), (max-width: 1024px) 50vw, 300px"} />
+<img data-layout-node={"n226"} className={"v73 captured-style"} src={"/assets/remote-a6b445d92518448a-responsive-500.webp"} alt={"Yazaki logo"} loading={"lazy"} decoding={"async"} width={"500"} height={"500"} srcSet={"/assets/remote-a6b445d92518448a-responsive-160.webp 160w, /assets/remote-a6b445d92518448a-responsive-320.webp 320w, /assets/remote-a6b445d92518448a-responsive-500.webp 500w"} sizes={"(max-width: 640px) calc(100vw - 40px), (max-width: 1024px) 50vw, 300px"} />
 </div>
 </div>
 </div>

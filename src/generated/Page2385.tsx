@@ -11,7 +11,7 @@ export default function Page2385(){return <div className="page-2385 captured-pag
 <div data-layout-node={"n2"} className={"v2 captured-style"}>
 <div data-layout-node={"n3"} className={"v3 text-widget captured-style"}>
 <div data-layout-node={"n4"} className={"v4 text-widget captured-style"}>
-<p data-layout-node={"n5"} className={"v5 captured-style"}>
+<p data-layout-node={"n5"} className={"v5 accessible-accent-dark captured-style"}>
 {"NETWORK SERVICE"}
 </p>
 </div>
@@ -29,7 +29,7 @@ export default function Page2385(){return <div className="page-2385 captured-pag
 <div data-layout-node={"n10"} className={"v2 captured-style"}>
 <div data-layout-node={"n11"} className={"v3 text-widget captured-style"}>
 <div data-layout-node={"n12"} className={"v4 text-widget captured-style"}>
-<p data-layout-node={"n13"} className={"v5 captured-style"}>
+<p data-layout-node={"n13"} className={"v5 accessible-accent-dark captured-style"}>
 {"CCTV SYSTEM"}
 </p>
 </div>
@@ -98,7 +98,7 @@ export default function Page2385(){return <div className="page-2385 captured-pag
 <div data-layout-node={"n534"} className={"v163 section captured-style"}>
 <div data-layout-node={"n535"} className={"v164 text-widget captured-style"}>
 <div data-layout-node={"n536"} className={"v165 text-widget captured-style"}>
-<p data-layout-node={"n537"} className={"v166 captured-style"}>
+<p data-layout-node={"n537"} className={"v166 accessible-accent-dark captured-style"}>
 {"DESIGN AND SET UP NETWORK"}
 </p>
 </div>
@@ -338,7 +338,7 @@ export default function Page2385(){return <div className="page-2385 captured-pag
 <div data-layout-node={"n76"} className={"v25 section captured-style"}>
 <div data-layout-node={"n77"} className={"v3 text-widget captured-style"}>
 <div data-layout-node={"n78"} className={"v4 text-widget captured-style"}>
-<p data-layout-node={"n79"} className={"v5 captured-style"}>
+<p data-layout-node={"n79"} className={"v5 accessible-accent-dark captured-style"}>
 {"WHAT ARE NETWORK SERVICES\r\n"}
 </p>
 </div>
@@ -478,7 +478,7 @@ export default function Page2385(){return <div className="page-2385 captured-pag
 <div data-layout-node={"n400"} className={"v2 captured-style"}>
 <div data-layout-node={"n401"} className={"v3 text-widget captured-style"}>
 <div data-layout-node={"n402"} className={"v4 text-widget captured-style"}>
-<p data-layout-node={"n403"} className={"v5 captured-style"}>
+<p data-layout-node={"n403"} className={"v5 accessible-accent-dark captured-style"}>
 {"Type OF LAN Cable"}
 </p>
 </div>
@@ -517,7 +517,7 @@ export default function Page2385(){return <div className="page-2385 captured-pag
 <div data-layout-node={"n419"} className={"v13 media-widget captured-style"}>
 <div data-layout-node={"n420"} className={"v3 media-widget captured-style"}>
 <div data-layout-node={"n421"} className={"v4 media-widget captured-style"}>
-<img data-layout-node={"n422"} className={"v143 captured-style"} src={"/assets/remote-52541cadca37dfea-responsive-640.webp"} alt={"CAT 5E"} loading={"lazy"} decoding={"async"} width={"1536"} height={"1536"} srcSet={"/assets/remote-52541cadca37dfea-responsive-160.webp 160w, /assets/remote-52541cadca37dfea-responsive-320.webp 320w, /assets/remote-52541cadca37dfea-responsive-640.webp 640w, /assets/remote-52541cadca37dfea-responsive-1280.webp 1280w"} sizes={"(max-width: 640px) calc(100vw - 40px), (max-width: 1024px) 50vw, 211px"} />
+<img data-layout-node={"n422"} className={"v143 captured-style"} src={"/assets/remote-52541cadca37dfea-responsive-640.webp"} alt={"CAT 5E"} loading={"lazy"} decoding={"async"} width={"1920"} height={"1920"} srcSet={"/assets/remote-52541cadca37dfea-responsive-160.webp 160w, /assets/remote-52541cadca37dfea-responsive-320.webp 320w, /assets/remote-52541cadca37dfea-responsive-640.webp 640w, /assets/remote-52541cadca37dfea-responsive-1280.webp 1280w"} sizes={"(max-width: 640px) calc(100vw - 40px), (max-width: 1024px) 50vw, 211px"} />
 </div>
 </div>
 </div>
@@ -529,7 +529,7 @@ export default function Page2385(){return <div className="page-2385 captured-pag
 <div data-layout-node={"n425"} className={"v144 section media-widget captured-style"}>
 <div data-layout-node={"n426"} className={"v145 media-widget captured-style"}>
 <div data-layout-node={"n427"} className={"v146 media-widget captured-style"}>
-<img data-layout-node={"n428"} className={"v147 captured-style"} src={"/assets/remote-162642b3c6a4b223-responsive-640.webp"} alt={"CAT"} loading={"lazy"} decoding={"async"} width={"1536"} height={"1536"} srcSet={"/assets/remote-162642b3c6a4b223-responsive-160.webp 160w, /assets/remote-162642b3c6a4b223-responsive-320.webp 320w, /assets/remote-162642b3c6a4b223-responsive-640.webp 640w, /assets/remote-162642b3c6a4b223-responsive-1280.webp 1280w"} sizes={"(max-width: 640px) calc(100vw - 40px), (max-width: 1024px) 50vw, 225px"} />
+<img data-layout-node={"n428"} className={"v147 captured-style"} src={"/assets/remote-162642b3c6a4b223-responsive-640.webp"} alt={"CAT"} loading={"lazy"} decoding={"async"} width={"1920"} height={"1920"} srcSet={"/assets/remote-162642b3c6a4b223-responsive-160.webp 160w, /assets/remote-162642b3c6a4b223-responsive-320.webp 320w, /assets/remote-162642b3c6a4b223-responsive-640.webp 640w, /assets/remote-162642b3c6a4b223-responsive-1280.webp 1280w"} sizes={"(max-width: 640px) calc(100vw - 40px), (max-width: 1024px) 50vw, 225px"} />
 </div>
 </div>
 </div>
@@ -581,7 +581,7 @@ export default function Page2385(){return <div className="page-2385 captured-pag
 <div data-layout-node={"n449"} className={"v13 media-widget captured-style"}>
 <div data-layout-node={"n450"} className={"v3 media-widget captured-style"}>
 <div data-layout-node={"n451"} className={"v4 media-widget captured-style"}>
-<img data-layout-node={"n452"} className={"v143 captured-style"} src={"/assets/remote-9ade00e6a0147e4f-responsive-640.webp"} alt={"CAT 6A"} loading={"lazy"} decoding={"async"} width={"1536"} height={"1536"} srcSet={"/assets/remote-9ade00e6a0147e4f-responsive-160.webp 160w, /assets/remote-9ade00e6a0147e4f-responsive-320.webp 320w, /assets/remote-9ade00e6a0147e4f-responsive-640.webp 640w, /assets/remote-9ade00e6a0147e4f-responsive-1280.webp 1280w"} sizes={"(max-width: 640px) calc(100vw - 40px), (max-width: 1024px) 50vw, 211px"} />
+<img data-layout-node={"n452"} className={"v143 captured-style"} src={"/assets/remote-9ade00e6a0147e4f-responsive-640.webp"} alt={"CAT 6A"} loading={"lazy"} decoding={"async"} width={"1920"} height={"1920"} srcSet={"/assets/remote-9ade00e6a0147e4f-responsive-160.webp 160w, /assets/remote-9ade00e6a0147e4f-responsive-320.webp 320w, /assets/remote-9ade00e6a0147e4f-responsive-640.webp 640w, /assets/remote-9ade00e6a0147e4f-responsive-1280.webp 1280w"} sizes={"(max-width: 640px) calc(100vw - 40px), (max-width: 1024px) 50vw, 211px"} />
 </div>
 </div>
 </div>
@@ -593,7 +593,7 @@ export default function Page2385(){return <div className="page-2385 captured-pag
 <div data-layout-node={"n455"} className={"v156 section media-widget captured-style"}>
 <div data-layout-node={"n456"} className={"v3 media-widget captured-style"}>
 <div data-layout-node={"n457"} className={"v4 media-widget captured-style"}>
-<img data-layout-node={"n458"} className={"v157 captured-style"} src={"/assets/remote-b59e0c3f4db6abbc-responsive-640.webp"} alt={"CAT 6E"} loading={"lazy"} decoding={"async"} width={"1536"} height={"1536"} srcSet={"/assets/remote-b59e0c3f4db6abbc-responsive-160.webp 160w, /assets/remote-b59e0c3f4db6abbc-responsive-320.webp 320w, /assets/remote-b59e0c3f4db6abbc-responsive-640.webp 640w, /assets/remote-b59e0c3f4db6abbc-responsive-1280.webp 1280w"} sizes={"(max-width: 640px) calc(100vw - 40px), (max-width: 1024px) 50vw, 225px"} />
+<img data-layout-node={"n458"} className={"v157 captured-style"} src={"/assets/remote-b59e0c3f4db6abbc-responsive-640.webp"} alt={"CAT 6E"} loading={"lazy"} decoding={"async"} width={"1920"} height={"1920"} srcSet={"/assets/remote-b59e0c3f4db6abbc-responsive-160.webp 160w, /assets/remote-b59e0c3f4db6abbc-responsive-320.webp 320w, /assets/remote-b59e0c3f4db6abbc-responsive-640.webp 640w, /assets/remote-b59e0c3f4db6abbc-responsive-1280.webp 1280w"} sizes={"(max-width: 640px) calc(100vw - 40px), (max-width: 1024px) 50vw, 225px"} />
 </div>
 </div>
 </div>
@@ -700,7 +700,7 @@ export default function Page2385(){return <div className="page-2385 captured-pag
 <div data-layout-node={"n270"} className={"v25 section captured-style"}>
 <div data-layout-node={"n271"} className={"v3 text-widget captured-style"}>
 <div data-layout-node={"n272"} className={"v4 text-widget captured-style"}>
-<p data-layout-node={"n273"} className={"v5 captured-style"}>
+<p data-layout-node={"n273"} className={"v5 accessible-accent-dark captured-style"}>
 {"WHAT IS FINER OFTIC"}
 </p>
 </div>
@@ -737,7 +737,7 @@ export default function Page2385(){return <div className="page-2385 captured-pag
 <div data-layout-node={"n287"} className={"v120 section media-widget captured-style"}>
 <div data-layout-node={"n288"} className={"v3 media-widget captured-style"}>
 <div data-layout-node={"n289"} className={"v4 media-widget captured-style"}>
-<img data-layout-node={"n290"} className={"v121 captured-style"} src={"/assets/remote-33520175f1a955cb-responsive-640.webp"} alt={"What is fiber optic"} loading={"lazy"} decoding={"async"} width={"1024"} height={"572"} srcSet={"/assets/remote-33520175f1a955cb-responsive-160.webp 160w, /assets/remote-33520175f1a955cb-responsive-320.webp 320w, /assets/remote-33520175f1a955cb-responsive-640.webp 640w, /assets/remote-33520175f1a955cb-responsive-1200.webp 1200w"} sizes={"(max-width: 640px) calc(100vw - 40px), (max-width: 1024px) 50vw, 535px"} />
+<img data-layout-node={"n290"} className={"v121 captured-style"} src={"/assets/remote-33520175f1a955cb-responsive-640.webp"} alt={"What is fiber optic"} loading={"lazy"} decoding={"async"} width={"1200"} height={"671"} srcSet={"/assets/remote-33520175f1a955cb-responsive-160.webp 160w, /assets/remote-33520175f1a955cb-responsive-320.webp 320w, /assets/remote-33520175f1a955cb-responsive-640.webp 640w, /assets/remote-33520175f1a955cb-responsive-1200.webp 1200w"} sizes={"(max-width: 640px) calc(100vw - 40px), (max-width: 1024px) 50vw, 535px"} />
 </div>
 </div>
 </div>
@@ -750,7 +750,7 @@ export default function Page2385(){return <div className="page-2385 captured-pag
 <div data-layout-node={"n293"} className={"v25 section captured-style"}>
 <div data-layout-node={"n294"} className={"v3 text-widget captured-style"}>
 <div data-layout-node={"n295"} className={"v4 text-widget captured-style"}>
-<p data-layout-node={"n296"} className={"v5 captured-style"}>
+<p data-layout-node={"n296"} className={"v5 accessible-accent-dark captured-style"}>
 {"TYPE OF FINER OFTIC"}
 </p>
 </div>
@@ -827,7 +827,7 @@ export default function Page2385(){return <div className="page-2385 captured-pag
 <div data-layout-node={"n329"} className={"v25 section captured-style"}>
 <div data-layout-node={"n330"} className={"v3 text-widget captured-style"}>
 <div data-layout-node={"n331"} className={"v4 text-widget captured-style"}>
-<p data-layout-node={"n332"} className={"v5 captured-style"}>
+<p data-layout-node={"n332"} className={"v5 accessible-accent-dark captured-style"}>
 {"WHAT IS LAN"}
 </p>
 </div>
@@ -856,7 +856,7 @@ export default function Page2385(){return <div className="page-2385 captured-pag
 <div data-layout-node={"n343"} className={"v100 captured-style"}>
 <div data-layout-node={"n344"} className={"v28 text-widget captured-style"}>
 <div data-layout-node={"n345"} className={"v101 text-widget captured-style"}>
-<h3 data-layout-node={"n346"} className={"v102 captured-style"}>
+<h3 data-layout-node={"n346"} className={"v102 accessible-accent-dark captured-style"}>
 {"บริการรับเดินสายแลน  (สาย Lan) รูปแบบอีเทอร์เน็ต - Ethernet"}
 </h3>
 </div>
@@ -888,7 +888,7 @@ export default function Page2385(){return <div className="page-2385 captured-pag
 <div data-layout-node={"n356"} className={"v100 captured-style"}>
 <div data-layout-node={"n357"} className={"v28 text-widget captured-style"}>
 <div data-layout-node={"n358"} className={"v101 text-widget captured-style"}>
-<h3 data-layout-node={"n359"} className={"v102 captured-style"}>
+<h3 data-layout-node={"n359"} className={"v102 accessible-accent-dark captured-style"}>
 {"บริการรับเดินสายแลน รูปแบบโทเค็นริง - Token Ring"}
 </h3>
 </div>

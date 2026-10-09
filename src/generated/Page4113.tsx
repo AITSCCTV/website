@@ -11,7 +11,7 @@ export default function Page4113(){return <div className="page-4113 captured-pag
 <div data-layout-node={"n2"} className={"v2 captured-style"}>
 <div data-layout-node={"n3"} className={"v3 text-widget captured-style"}>
 <div data-layout-node={"n4"} className={"v4 text-widget captured-style"}>
-<p data-layout-node={"n5"} className={"v5 captured-style"}>
+<p data-layout-node={"n5"} className={"v5 accessible-accent-dark captured-style"}>
 {"TELEPHONY SERVICE"}
 </p>
 </div>
@@ -29,7 +29,7 @@ export default function Page4113(){return <div className="page-4113 captured-pag
 <div data-layout-node={"n10"} className={"v2 captured-style"}>
 <div data-layout-node={"n11"} className={"v3 text-widget captured-style"}>
 <div data-layout-node={"n12"} className={"v4 text-widget captured-style"}>
-<p data-layout-node={"n13"} className={"v8 captured-style"}>
+<p data-layout-node={"n13"} className={"v8 accessible-accent-dark captured-style"}>
 {"TELEPHONE SYSTEM"}
 </p>
 </div>
@@ -87,7 +87,7 @@ export default function Page4113(){return <div className="page-4113 captured-pag
 <div data-layout-node={"n101"} className={"v52 captured-style"}>
 <div data-layout-node={"n102"} className={"v3 text-widget captured-style"}>
 <div data-layout-node={"n103"} className={"v4 text-widget captured-style"}>
-<p data-layout-node={"n104"} className={"v5 captured-style"}>
+<p data-layout-node={"n104"} className={"v5 accessible-accent-dark captured-style"}>
 {"DESIGN AND SET UP TELEPHONE SYSTEM"}
 </p>
 </div>
@@ -302,7 +302,7 @@ export default function Page4113(){return <div className="page-4113 captured-pag
 {"ข้อดีของการใช้โทรศัพท์สำนักงานแต่ละระบบ"}
 </h3>
 <div data-layout-node={"n503"} className={"v171 captured-style"}>
-<div className={"table-scroll"} role={"region"} aria-label={"ตารางเปรียบเทียบ เลื่อนเพื่อดูข้อมูลเพิ่มเติม"} tabIndex={0}>
+<div className={"table-scroll"} role={"region"} aria-label={"ตารางเปรียบเทียบ 1 เลื่อนเพื่อดูข้อมูลเพิ่มเติม"} tabIndex={0}>
 <table data-layout-node={"n504"} className={"v172 captured-style"}>
 <tbody data-layout-node={"n505"} className={"v173 captured-style"}>
 <tr data-layout-node={"n506"} className={"v174 captured-style"}>
@@ -445,7 +445,7 @@ export default function Page4113(){return <div className="page-4113 captured-pag
 <div data-layout-node={"n198"} className={"v73 section captured-style"}>
 <div data-layout-node={"n199"} className={"v3 text-widget captured-style"}>
 <div data-layout-node={"n200"} className={"v4 text-widget captured-style"}>
-<p data-layout-node={"n201"} className={"v5 captured-style"}>
+<p data-layout-node={"n201"} className={"v5 accessible-accent-dark captured-style"}>
 {"WHAT ARE TELEPHONY SERVICE\r\n"}
 </p>
 </div>
@@ -540,7 +540,7 @@ export default function Page4113(){return <div className="page-4113 captured-pag
 {"ระบบโทรศัพท์มีกี่ระบบ"}
 </h3>
 <div data-layout-node={"n426"} className={"v171 captured-style"}>
-<div className={"table-scroll"} role={"region"} aria-label={"ตารางเปรียบเทียบ เลื่อนเพื่อดูข้อมูลเพิ่มเติม"} tabIndex={0}>
+<div className={"table-scroll"} role={"region"} aria-label={"ตารางเปรียบเทียบ 2 เลื่อนเพื่อดูข้อมูลเพิ่มเติม"} tabIndex={0}>
 <table data-layout-node={"n427"} className={"v172 captured-style"}>
 <tbody data-layout-node={"n428"} className={"v173 captured-style"}>
 <tr data-layout-node={"n429"} className={"v174 captured-style"}>
@@ -752,7 +752,7 @@ export default function Page4113(){return <div className="page-4113 captured-pag
 <div data-layout-node={"n90"} className={"v55 captured-style"}>
 <div data-layout-node={"n91"} className={"v4 captured-style"}>
 <figure data-layout-node={"n92"} className={"v56 captured-style"}>
-<img data-layout-node={"n93"} className={"v57 captured-style"} src={"/assets/remote-0dc366bb409c8bbc-responsive-300.webp"} alt={"Nissan"} loading={"lazy"} decoding={"async"} width={"150"} height={"150"} srcSet={"/assets/remote-0dc366bb409c8bbc-responsive-160.webp 160w, /assets/remote-0dc366bb409c8bbc-responsive-300.webp 300w"} sizes={"150px"} />
+<img data-layout-node={"n93"} className={"v57 captured-style"} src={"/assets/remote-0dc366bb409c8bbc-responsive-300.webp"} alt={"Nissan"} loading={"lazy"} decoding={"async"} width={"300"} height={"300"} srcSet={"/assets/remote-0dc366bb409c8bbc-responsive-160.webp 160w, /assets/remote-0dc366bb409c8bbc-responsive-300.webp 300w"} sizes={"150px"} />
 <figcaption data-layout-node={"n94"} className={"v58 captured-style"}>
 {"Nissan Emperor"}
 </figcaption>
@@ -762,7 +762,7 @@ export default function Page4113(){return <div className="page-4113 captured-pag
 <div data-layout-node={"n95"} className={"v55 captured-style"}>
 <div data-layout-node={"n96"} className={"v4 captured-style"}>
 <figure data-layout-node={"n97"} className={"v56 captured-style"}>
-<img data-layout-node={"n98"} className={"v57 captured-style"} src={"/assets/remote-e847ad7c56dd7b80-responsive-300.webp"} alt={"Kt"} loading={"lazy"} decoding={"async"} width={"150"} height={"150"} srcSet={"/assets/remote-e847ad7c56dd7b80-responsive-160.webp 160w, /assets/remote-e847ad7c56dd7b80-responsive-300.webp 300w"} sizes={"150px"} />
+<img data-layout-node={"n98"} className={"v57 captured-style"} src={"/assets/remote-e847ad7c56dd7b80-responsive-300.webp"} alt={"Kt"} loading={"lazy"} decoding={"async"} width={"300"} height={"300"} srcSet={"/assets/remote-e847ad7c56dd7b80-responsive-160.webp 160w, /assets/remote-e847ad7c56dd7b80-responsive-300.webp 300w"} sizes={"150px"} />
 <figcaption data-layout-node={"n99"} className={"v58 captured-style"}>
 {"KT Autopar"}
 </figcaption>
@@ -858,7 +858,7 @@ export default function Page4113(){return <div className="page-4113 captured-pag
 <div data-layout-node={"n373"} className={"v72 captured-style"}>
 <div data-layout-node={"n374"} className={"v3 text-widget captured-style"}>
 <div data-layout-node={"n375"} className={"v4 text-widget captured-style"}>
-<p data-layout-node={"n376"} className={"v5 captured-style"}>
+<p data-layout-node={"n376"} className={"v5 accessible-accent-dark captured-style"}>
 {"WHAT IS TELEPHONY SERVICE"}
 </p>
 </div>
@@ -877,7 +877,7 @@ export default function Page4113(){return <div className="page-4113 captured-pag
 <div data-layout-node={"n382"} className={"v11 layout-row captured-style"}>
 <div data-layout-node={"n383"} className={"v157 media-widget captured-style"}>
 <div data-layout-node={"n384"} className={"v158 media-widget captured-style"}>
-<img data-layout-node={"n385"} className={"v159 captured-style"} src={"/assets/remote-835f83a2212012b9-responsive-640.webp"} alt={"Close up person working call center"} loading={"lazy"} decoding={"async"} width={"767"} height={"512"} srcSet={"/assets/remote-835f83a2212012b9-responsive-160.webp 160w, /assets/remote-835f83a2212012b9-responsive-320.webp 320w, /assets/remote-835f83a2212012b9-responsive-640.webp 640w, /assets/remote-835f83a2212012b9-responsive-1000.webp 1000w"} sizes={"(max-width: 640px) calc(100vw - 40px), (max-width: 1024px) 50vw, 453px"} />
+<img data-layout-node={"n385"} className={"v159 captured-style"} src={"/assets/remote-835f83a2212012b9-responsive-640.webp"} alt={"Close up person working call center"} loading={"lazy"} decoding={"async"} width={"1000"} height={"667"} srcSet={"/assets/remote-835f83a2212012b9-responsive-160.webp 160w, /assets/remote-835f83a2212012b9-responsive-320.webp 320w, /assets/remote-835f83a2212012b9-responsive-640.webp 640w, /assets/remote-835f83a2212012b9-responsive-1000.webp 1000w"} sizes={"(max-width: 640px) calc(100vw - 40px), (max-width: 1024px) 50vw, 453px"} />
 </div>
 </div>
 <div data-layout-node={"n386"} className={"v160 captured-style"}>

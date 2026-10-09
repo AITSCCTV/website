@@ -13,7 +13,8 @@ let capturedRules=new Map(),currentRoute='',english=false;
 const translations=JSON.parse(fs.readFileSync('src/lib/home-en.json','utf8'));
 const imageAssets=JSON.parse(fs.readFileSync('src/lib/image-assets.json','utf8'));
 const iconAssets=JSON.parse(fs.readFileSync('src/lib/icon-assets.json','utf8'));
-const editorial=createEditorialContent(routes,source,imageAssets,translations);
+const thumbnails=JSON.parse(fs.readFileSync('src/lib/thumbnail-assets.json','utf8'));
+const editorial=createEditorialContent(routes,source,imageAssets,translations,thumbnails);
 function responsiveImage(src,sizes){
  const image=imageAssets[src];if(!image)return {};
  const fallback=image.variants.find(v=>v.width>=640)||image.variants.at(-1);
@@ -35,6 +36,29 @@ function rewriteStyle(rule,phone=false){
 }
 function plain(node){return node.type==='text'?node.data:(node.children||[]).map(plain).join('')}
 function walk(node,fn){fn(node);for(const child of node.children||[])walk(child,fn)}
+function accessibleContent(nodes){
+ let level=0,table=0;const rulesFor=n=>capturedRules.get((n.attribs?.class||'').split(' ').find(c=>/^v\d+$/.test(c)))||'';
+ for(const root of nodes)walk(root,n=>{
+  if(n.type!=='tag')return;
+  if(n.name==='li'&&!['ul','ol'].includes(n.parent?.name))n.name='p';
+  const classes=n.attribs.class||'',key=n.attribs['data-layout-node'];
+  if(/^h[1-6]$/.test(n.name)){
+   if(!plain(n).trim()){n.name='div';return}
+   if(currentRoute==='/'&&['n61','n71','n81','n91'].includes(key))n.name='h2';
+   if(currentRoute==='/our-standard/'&&n.name==='h3')n.name='h2';
+   const requested=Number(n.name.slice(1));if(requested>level+1)n.name='h'+(level+1);level=Number(n.name.slice(1));
+  }
+  if(classes.split(' ').includes('table-scroll'))n.attribs['aria-label']='ตารางเปรียบเทียบ '+(++table)+' เลื่อนเพื่อดูข้อมูลเพิ่มเติม';
+  const color=rulesFor(n).match(/(?:^|;)color:([^;]+)/)?.[1];
+  if(color&&/rgb\((?:197, 49, 48|255, 0, 0)\)/.test(color)){
+   let bg;for(let p=n;p;p=p.parent){const value=rulesFor(p).match(/(?:^|;)background-color:([^;]+)/)?.[1];if(value&&!value.includes('rgba(0, 0, 0, 0)')){bg=value;break}}
+   const rgb=bg?.match(/\d+(?:\.\d+)?/g)?.map(Number);const light=rgb&&rgb.slice(0,3).reduce((a,b)=>a+b,0)>500;
+   n.attribs.class=classes+(light?' accessible-accent-light':' accessible-accent-dark');
+  }
+  if(currentRoute==='/career/'&&['strong','em'].includes(n.name))n.attribs.class=classes+' accessible-copy';
+  if(currentRoute==='/let-aits-set-standard/'&&['n31','n32'].includes(key))n.attribs.class=classes+(key==='n31'?' accessible-download-link':' accessible-download-button');
+ });
+}
 function removeRepeatedSections(nodes){
  if(currentRoute==='/')return;
  const sections=new Set();
@@ -131,7 +155,7 @@ function prepare(nodes){
   let sizes=n.attribs.sizes||(width<=200?Math.round(width)+'px':'(max-width: 640px) calc(100vw - 40px), (max-width: 1024px) 50vw, '+Math.min(Math.round(width),1280)+'px');
   if(currentRoute==='/'&&['n1949','n1952','n1955'].includes(n.attribs['data-layout-node']))sizes='30vw';
   const optimized=responsiveImage(n.originalSource,sizes);
-  if(optimized.src){n.attribs.src=optimized.src;n.attribs.srcset=optimized.srcset;n.attribs.sizes=optimized.sizes;n.attribs.width ||= String(optimized.width);n.attribs.height ||= String(optimized.height)}
+  if(optimized.src){n.attribs.src=optimized.src;n.attribs.srcset=optimized.srcset;n.attribs.sizes=optimized.sizes;n.attribs.width=String(optimized.width);n.attribs.height=String(optimized.height)}
   if(n.attribs.style)n.attribs.style=rewriteStyle(n.attribs.style);
  }
 }
@@ -159,6 +183,7 @@ function jsx(node){
  if(rule.includes('max-width:1140px')||rule.includes('max-width:1200px'))node.attribs.class=(node.attribs.class||'')+' layout-inner';
  // Background layers need their own stacking context, not a content-sized hit target.
  if(rule.includes('position:absolute')&&!plain(node).trim()&&!node.children.some(n=>n.name==='img')){
+  if(node.name==='a'){node.name='div';for(const prop of ['href','target','rel','tabindex'])delete node.attribs[prop]}
   node.attribs.class=(node.attribs.class||'')+' design-overlay';
   if(node.parent?.attribs)node.parent.attribs.class=(node.parent.attribs.class||'')+' design-layer';
  }
@@ -177,7 +202,7 @@ function jsx(node){
  if(voids.has(node.name))return '<'+tag+attrs+' />';
  return '<'+tag+attrs+'>\n'+node.children.map(jsx).filter(Boolean).join('\n')+'\n</'+tag+'>';
 }
-const imports=[],registry=[],stylePages=[],serviceContent={},serviceAudit=[];
+const imports=[],registry=[],stylePages=[],serviceContent={},serviceAudit=[],heroes={};
 for(const route of routes){
  if(route.path==='/blog/')continue;
  const html=fs.readFileSync(path.join(source,'pages',route.id+'.html'),'utf8');
@@ -186,10 +211,15 @@ for(const route of routes){
  currentRoute=route.path;english=false;
  const rawCss=fs.readFileSync(path.join(source,'pages',route.id+'.css'),'utf8');
  capturedRules=new Map([...rawCss.matchAll(/\.(v\d+)\{([^}]+)\}/g)].map(m=>[m[1],m[2]]));
+ let firstSection;for(const root of nodes)walk(root,n=>{if(n.attribs?.['data-layout-node']==='n1')firstSection=n});
+ const firstClass=(firstSection?.attribs.class||'').split(' ').find(c=>/^v\d+$/.test(c));
+ const hero=capturedRules.get(firstClass)?.match(/background-image:url\(["']?([^"')]+)["']?\)/)?.[1];
+ if(hero&&imageAssets[hero])heroes[route.path]={phone:imageUrl(hero,true),desktop:imageUrl(hero)};
  removeRepeatedSections(nodes);
  prepare(nodes);
  const restructured=restructureContent(nodes,currentRoute,editorial);
  if(restructured){serviceContent[currentRoute]=restructured.data;serviceAudit.push(restructured.audit)}
+ accessibleContent(nodes);
  // These computed values came from 10%/5% section padding at the reference width.
  // Keep them fluid instead of freezing desktop-sized gaps onto phones.
  const css=rawCss.replace(/(padding-(?:top|right|bottom|left)):152\.075px/g,'$1:10%').replace(/(padding-(?:top|right|bottom|left)):76\.0375px/g,'$1:5%').replace(/\{([^}]+)\}/g,(_,rule)=>'{'+rewriteStyle(rule)+'}');
@@ -206,7 +236,7 @@ for(const route of routes){
   english=true;const en=nodes.map(jsx).join('');english=false;
   fs.writeFileSync('src/generated/HomeEnglish.tsx',prelude+'export default function HomeEnglish(){return <div lang="en" className="page-'+route.id+' english-home captured-page">'+en+'</div>}');
   let feed;for(const n of nodes)walk(n,n=>{if(n.attribs?.['data-layout-node']==='n239')feed=n});
-  const articles=feed.children.filter(n=>n.type==='tag').map(n=>{const all=[];walk(n,x=>all.push(x));const link=all.find(x=>x.name==='a'&&plain(x).trim().length>20);const img=all.find(x=>x.name==='img');return link?{title:plain(link).trim(),titleEn:translations[plain(link).trim()]||null,href:link.attribs.href,image:img?.attribs.src||null,srcSet:img?.attribs.srcset||null,width:Number(img?.attribs.width)||undefined,height:Number(img?.attribs.height)||undefined}:null}).filter(Boolean);
+  const articles=feed.children.filter(n=>n.type==='tag').map(n=>{const all=[];walk(n,x=>all.push(x));const link=all.find(x=>x.name==='a'&&plain(x).trim().length>20);const img=all.find(x=>x.name==='img');return link?{title:plain(link).trim(),titleEn:translations[plain(link).trim()]||null,href:link.attribs.href,...(thumbnails[img?.originalSource]||{image:img?.attribs.src||null,srcSet:img?.attribs.srcset||null,width:Number(img?.attribs.width)||undefined,height:Number(img?.attribs.height)||undefined})}:null}).filter(Boolean);
   fs.writeFileSync('src/generated/articles.json',JSON.stringify(articles,null,2));
  }
  imports.push('import Page'+route.id+' from "./Page'+route.id+'";');
@@ -215,6 +245,7 @@ for(const route of routes){
 writeCaptureStyles(stylePages);
 fs.writeFileSync('src/generated/service-content.json',JSON.stringify(serviceContent,null,2));
 fs.writeFileSync('src/generated/service-structure.json',JSON.stringify(serviceAudit,null,2));
+fs.writeFileSync('src/generated/hero-images.json',JSON.stringify(heroes,null,2));
 fs.writeFileSync(path.join(base,'src/generated/pages.ts'),imports.join('\n')+'\nexport const pages={'+registry.join(',\n')+'};\nexport type PagePath=keyof typeof pages;\n');
 fs.writeFileSync(path.join(base,'src/generated/routes.json'),JSON.stringify(routes));
 console.log('Generated '+registry.length+' typed React pages, '+serviceAudit.length+' structured service pages and the legacy blog alias.');

@@ -21,23 +21,23 @@ export default function Page6443(){return <div className="page-6443 captured-pag
 </div>
 <div data-layout-node={"n9"} className={"v8 text-widget captured-style"}>
 <div data-layout-node={"n10"} className={"v9 text-widget captured-style"}>
-<h1 data-layout-node={"n11"} className={"v10 captured-style"}>
+<h1 data-layout-node={"n11"} className={"v10 accessible-accent-dark captured-style"}>
 {"เป็นส่วนหนึ่งของเรา"}
 </h1>
 </div>
 </div>
 <div data-layout-node={"n12"} className={"v11 text-widget captured-style"}>
 <div data-layout-node={"n13"} className={"v12 text-widget captured-style"}>
-<h3 data-layout-node={"n14"} className={"v13 captured-style"}>
-<strong data-layout-node={"n15"} className={"v14 captured-style"}>
+<h2 data-layout-node={"n14"} className={"v13 captured-style"}>
+<strong data-layout-node={"n15"} className={"v14 accessible-copy captured-style"}>
 {"เติบโตอย่างมั่นคง กับทีมผู้นำด้านเทคโนโลยีบ้านอัจฉริยะและความปลอดภัย"}
 </strong>
-</h3>
+</h2>
 </div>
 </div>
 <div data-layout-node={"n16"} className={"v8 media-widget captured-style"}>
 <div data-layout-node={"n17"} className={"v9 media-widget captured-style"}>
-<img data-layout-node={"n18"} className={"v15 captured-style"} src={"/assets/remote-6d7479cea44818a8-responsive-640.webp"} alt={"Screenshot 2025 08 01 at 11.59.05"} loading={"lazy"} decoding={"async"} width={"768"} height={"356"} srcSet={"/assets/remote-6d7479cea44818a8-responsive-160.webp 160w, /assets/remote-6d7479cea44818a8-responsive-320.webp 320w, /assets/remote-6d7479cea44818a8-responsive-640.webp 640w, /assets/remote-6d7479cea44818a8-responsive-1024.webp 1024w"} sizes={"(max-width: 640px) calc(100vw - 40px), (max-width: 1024px) 50vw, 768px"} />
+<img data-layout-node={"n18"} className={"v15 captured-style"} src={"/assets/remote-6d7479cea44818a8-responsive-640.webp"} alt={"Screenshot 2025 08 01 at 11.59.05"} loading={"lazy"} decoding={"async"} width={"1024"} height={"475"} srcSet={"/assets/remote-6d7479cea44818a8-responsive-160.webp 160w, /assets/remote-6d7479cea44818a8-responsive-320.webp 320w, /assets/remote-6d7479cea44818a8-responsive-640.webp 640w, /assets/remote-6d7479cea44818a8-responsive-1024.webp 1024w"} sizes={"(max-width: 640px) calc(100vw - 40px), (max-width: 1024px) 50vw, 768px"} />
 </div>
 </div>
 <div data-layout-node={"n19"} className={"v16 captured-style"}>
@@ -107,7 +107,7 @@ export default function Page6443(){return <div className="page-6443 captured-pag
 {"📌 พนักงานบัญชี (ประจำ)"}
 </h2>
 <p data-layout-node={"n50"} className={"v32 captured-style"}>
-<strong data-layout-node={"n51"} className={"v33 captured-style"}>
+<strong data-layout-node={"n51"} className={"v33 accessible-copy captured-style"}>
 {"AITS SMART HOME"}
 </strong>
 {" เปิดรับพนักงานบัญชีประจำ"}
@@ -119,7 +119,7 @@ export default function Page6443(){return <div className="page-6443 captured-pag
 {"💰 เงินเดือน 20,000–22,000 บาท"}
 </p>
 <p data-layout-node={"n55"} className={"v32 captured-style"}>
-<strong data-layout-node={"n56"} className={"v33 captured-style"}>
+<strong data-layout-node={"n56"} className={"v33 accessible-copy captured-style"}>
 {"คุณสมบัติ"}
 </strong>
 <br data-layout-node={"n57"} className={"v34 captured-style"} />
@@ -128,7 +128,7 @@ export default function Page6443(){return <div className="page-6443 captured-pag
 {"– หากมีใบ CPD จะพิจารณาเป็นพิเศษ"}
 </p>
 <p data-layout-node={"n59"} className={"v32 captured-style"}>
-<strong data-layout-node={"n60"} className={"v33 captured-style"}>
+<strong data-layout-node={"n60"} className={"v33 accessible-copy captured-style"}>
 {"หน้าที่หลัก"}
 </strong>
 <br data-layout-node={"n61"} className={"v34 captured-style"} />
@@ -136,7 +136,7 @@ export default function Page6443(){return <div className="page-6443 captured-pag
 </p>
 <p data-layout-node={"n62"} className={"v32 captured-style"}>
 {"📩 ส่งใบสมัครมาที่: "}
-<strong data-layout-node={"n63"} className={"v33 captured-style"}>
+<strong data-layout-node={"n63"} className={"v33 accessible-copy captured-style"}>
 <span data-layout-node={"n64"} className={"v35 captured-style"}>
 {"info@aitscctv.com "}
 </span>
@@ -147,7 +147,7 @@ export default function Page6443(){return <div className="page-6443 captured-pag
 </p>
 <blockquote data-layout-node={"n66"} className={"v36 captured-style"}>
 <p data-layout-node={"n67"} className={"v32 captured-style"}>
-<em data-layout-node={"n68"} className={"v37 captured-style"}>
+<em data-layout-node={"n68"} className={"v37 accessible-copy captured-style"}>
 {"ขอคนตั้งใจจริง และมาตรงเวลาเมื่อนัดสัมภาษณ์"}
 </em>
 </p>
@@ -173,7 +173,7 @@ export default function Page6443(){return <div className="page-6443 captured-pag
 {"🔧 ช่างเทคนิคติดตั้ง Access Control"}
 </h2>
 <p data-layout-node={"n78"} className={"v32 captured-style"}>
-<strong data-layout-node={"n79"} className={"v33 captured-style"}>
+<strong data-layout-node={"n79"} className={"v33 accessible-copy captured-style"}>
 {"AITS SMART HOME"}
 </strong>
 {" รับสมัครช่างติดตั้งระบบ Access Control"}
@@ -183,7 +183,7 @@ export default function Page6443(){return <div className="page-6443 captured-pag
 {"💰 เงินเดือนเริ่มต้น 20,000 บาท (ตามประสบการณ์)"}
 </p>
 <p data-layout-node={"n82"} className={"v32 captured-style"}>
-<strong data-layout-node={"n83"} className={"v33 captured-style"}>
+<strong data-layout-node={"n83"} className={"v33 accessible-copy captured-style"}>
 {"คุณสมบัติ"}
 </strong>
 <br data-layout-node={"n84"} className={"v34 captured-style"} />
@@ -196,7 +196,7 @@ export default function Page6443(){return <div className="page-6443 captured-pag
 {"– ขยัน เดินทางได้ มีใบขับขี่จะพิจารณาเพิ่ม"}
 </p>
 <p data-layout-node={"n88"} className={"v32 captured-style"}>
-<strong data-layout-node={"n89"} className={"v33 captured-style"}>
+<strong data-layout-node={"n89"} className={"v33 accessible-copy captured-style"}>
 {"หน้าที่หลัก"}
 </strong>
 <br data-layout-node={"n90"} className={"v34 captured-style"} />
@@ -206,7 +206,7 @@ export default function Page6443(){return <div className="page-6443 captured-pag
 </p>
 <p data-layout-node={"n92"} className={"v32 captured-style"}>
 {"📩 ส่งใบสมัครมาที่: "}
-<strong data-layout-node={"n93"} className={"v33 captured-style"}>
+<strong data-layout-node={"n93"} className={"v33 accessible-copy captured-style"}>
 <span data-layout-node={"n94"} className={"v35 captured-style"}>
 {"info@aitscctv.com "}
 </span>
@@ -217,7 +217,7 @@ export default function Page6443(){return <div className="page-6443 captured-pag
 </p>
 <blockquote data-layout-node={"n96"} className={"v36 captured-style"}>
 <p data-layout-node={"n97"} className={"v32 captured-style"}>
-<em data-layout-node={"n98"} className={"v37 captured-style"}>
+<em data-layout-node={"n98"} className={"v37 accessible-copy captured-style"}>
 {"ขอคนตั้งใจจริง และมาตรงเวลาเมื่อนัดสัมภาษณ์"}
 </em>
 </p>

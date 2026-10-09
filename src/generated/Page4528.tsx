@@ -11,7 +11,7 @@ export default function Page4528(){return <div className="page-4528 captured-pag
 <div data-layout-node={"n2"} className={"v2 captured-style"}>
 <div data-layout-node={"n3"} className={"v3 text-widget captured-style"}>
 <div data-layout-node={"n4"} className={"v4 text-widget captured-style"}>
-<p data-layout-node={"n5"} className={"v5 captured-style"}>
+<p data-layout-node={"n5"} className={"v5 accessible-accent-dark captured-style"}>
 {"CCTV  FOR RENT SERVICE"}
 </p>
 </div>
@@ -29,7 +29,7 @@ export default function Page4528(){return <div className="page-4528 captured-pag
 <div data-layout-node={"n10"} className={"v2 captured-style"}>
 <div data-layout-node={"n11"} className={"v3 text-widget captured-style"}>
 <div data-layout-node={"n12"} className={"v4 text-widget captured-style"}>
-<p data-layout-node={"n13"} className={"v8 captured-style"}>
+<p data-layout-node={"n13"} className={"v8 accessible-accent-dark captured-style"}>
 {"CCTV  FOR RENT SERVICE"}
 </p>
 </div>
@@ -45,8 +45,8 @@ export default function Page4528(){return <div className="page-4528 captured-pag
 <div data-layout-node={"n18"} className={"v11 text-widget captured-style"}>
 <p data-layout-node={"n19"} className={"v12 captured-style"}>
 {"เรามีบริการ เช่ากล้องวงจรปิด กล้อง CCTV กล้องวงจรปิดไร้สาย ดูผ่านโทรศัพท์และยังมีบริการติดตั้งกล้องวงจรปิดสำหรับงานแสดงสินค้า งานอีเวนต์ สำหรับจัดแสดง หรือไซต์งานชั่วคราว เริ่มต้นแค่วันละ 3,500 บาท ได้อุปกรณ์ครบชุด ให้ทุกธุรกิจของคุณปลอดภัย ไร้ความกังวล ป้องกันการโจรกรรม และช่วยสอดส่องเจ้าหน้าที่พนักงานของคุณ ด้วยบริการระดับมืออาชีพที่มีประสบการณ์มากกว่า 20 ปีจาก "}
-<span data-layout-node={"n20"} className={"v13 captured-style"}>
-<SiteLink data-layout-node={"n21"} className={"v13 captured-style"} href={"/"}>
+<span data-layout-node={"n20"} className={"v13 accessible-accent-dark captured-style"}>
+<SiteLink data-layout-node={"n21"} className={"v13 accessible-accent-dark captured-style"} href={"/"}>
 {"AITSCCTV"}
 </SiteLink>
 </span>
@@ -87,8 +87,8 @@ export default function Page4528(){return <div className="page-4528 captured-pag
 <div data-layout-node={"n132"} className={"v11 text-widget captured-style"}>
 <p data-layout-node={"n133"} className={"v12 captured-style"}>
 {"ที่ AITSCCTV เรามีบริการให้เช่ากล้องวงจรปิดสำหรับหลากหลายธุรกิจ หลายองค์กร ไม่ว่าจะเป็นสำหรับงานอีเว้นท์, งานจัดแสดงสินค้า, งานคอนเสิร์ท และไซต์ก่อสร้าง เพื่อช่วยสร้างความปลอดภัย อุ่นใจ 24 ชั่วโมง "}
-<span data-layout-node={"n134"} className={"v13 captured-style"}>
-<SiteLink data-layout-node={"n135"} className={"v13 captured-style"} href={"https://aitscctv.com/cctv-installation/"}>
+<span data-layout-node={"n134"} className={"v13 accessible-accent-dark captured-style"}>
+<SiteLink data-layout-node={"n135"} className={"v13 accessible-accent-dark captured-style"} href={"https://aitscctv.com/cctv-installation/"}>
 {"ช่วยป้องกันและดูแลทรัพย์สิน บุคคลากรในองค์กรของคุณ"}
 </SiteLink>
 </span>
@@ -99,7 +99,7 @@ export default function Page4528(){return <div className="page-4528 captured-pag
 <div data-layout-node={"n137"} className={"v59 section captured-style"}>
 <div data-layout-node={"n138"} className={"v3 media-widget captured-style"}>
 <div data-layout-node={"n139"} className={"v4 media-widget captured-style"}>
-<img data-layout-node={"n140"} className={"v60 captured-style"} src={"/assets/remote-2f004efd74544366-responsive-640.webp"} alt={"Pexels asia culture center"} loading={"lazy"} decoding={"async"} width={"1536"} height={"1023"} srcSet={"/assets/remote-2f004efd74544366-responsive-160.webp 160w, /assets/remote-2f004efd74544366-responsive-320.webp 320w, /assets/remote-2f004efd74544366-responsive-640.webp 640w, /assets/remote-2f004efd74544366-responsive-1280.webp 1280w"} sizes={"(max-width: 640px) calc(100vw - 40px), (max-width: 1024px) 50vw, 218px"} />
+<img data-layout-node={"n140"} className={"v60 captured-style"} src={"/assets/remote-2f004efd74544366-responsive-640.webp"} alt={"Pexels asia culture center"} loading={"lazy"} decoding={"async"} width={"2048"} height={"1365"} srcSet={"/assets/remote-2f004efd74544366-responsive-160.webp 160w, /assets/remote-2f004efd74544366-responsive-320.webp 320w, /assets/remote-2f004efd74544366-responsive-640.webp 640w, /assets/remote-2f004efd74544366-responsive-1280.webp 1280w"} sizes={"(max-width: 640px) calc(100vw - 40px), (max-width: 1024px) 50vw, 218px"} />
 </div>
 </div>
 <div data-layout-node={"n141"} className={"v3 text-widget captured-style"}>
@@ -113,7 +113,7 @@ export default function Page4528(){return <div className="page-4528 captured-pag
 <div data-layout-node={"n144"} className={"v59 section captured-style"}>
 <div data-layout-node={"n145"} className={"v3 media-widget captured-style"}>
 <div data-layout-node={"n146"} className={"v4 media-widget captured-style"}>
-<img data-layout-node={"n147"} className={"v62 captured-style"} src={"/assets/remote-29992c0b04bdc570-responsive-640.webp"} alt={"Pexels matheus bertelli"} loading={"lazy"} decoding={"async"} width={"1536"} height={"1024"} srcSet={"/assets/remote-29992c0b04bdc570-responsive-160.webp 160w, /assets/remote-29992c0b04bdc570-responsive-320.webp 320w, /assets/remote-29992c0b04bdc570-responsive-640.webp 640w, /assets/remote-29992c0b04bdc570-responsive-1280.webp 1280w"} sizes={"(max-width: 640px) calc(100vw - 40px), (max-width: 1024px) 50vw, 218px"} />
+<img data-layout-node={"n147"} className={"v62 captured-style"} src={"/assets/remote-29992c0b04bdc570-responsive-640.webp"} alt={"Pexels matheus bertelli"} loading={"lazy"} decoding={"async"} width={"2560"} height={"1707"} srcSet={"/assets/remote-29992c0b04bdc570-responsive-160.webp 160w, /assets/remote-29992c0b04bdc570-responsive-320.webp 320w, /assets/remote-29992c0b04bdc570-responsive-640.webp 640w, /assets/remote-29992c0b04bdc570-responsive-1280.webp 1280w"} sizes={"(max-width: 640px) calc(100vw - 40px), (max-width: 1024px) 50vw, 218px"} />
 </div>
 </div>
 <div data-layout-node={"n148"} className={"v3 text-widget captured-style"}>
@@ -141,7 +141,7 @@ export default function Page4528(){return <div className="page-4528 captured-pag
 <div data-layout-node={"n158"} className={"v59 section captured-style"}>
 <div data-layout-node={"n159"} className={"v3 media-widget captured-style"}>
 <div data-layout-node={"n160"} className={"v4 media-widget captured-style"}>
-<img data-layout-node={"n161"} className={"v60 captured-style"} src={"/assets/remote-dfbcb12900a7e482-responsive-640.webp"} alt={"Building new concrete houses"} loading={"lazy"} decoding={"async"} width={"1536"} height={"1023"} srcSet={"/assets/remote-dfbcb12900a7e482-responsive-160.webp 160w, /assets/remote-dfbcb12900a7e482-responsive-320.webp 320w, /assets/remote-dfbcb12900a7e482-responsive-640.webp 640w, /assets/remote-dfbcb12900a7e482-responsive-1280.webp 1280w"} sizes={"(max-width: 640px) calc(100vw - 40px), (max-width: 1024px) 50vw, 218px"} />
+<img data-layout-node={"n161"} className={"v60 captured-style"} src={"/assets/remote-dfbcb12900a7e482-responsive-640.webp"} alt={"Building new concrete houses"} loading={"lazy"} decoding={"async"} width={"2048"} height={"1365"} srcSet={"/assets/remote-dfbcb12900a7e482-responsive-160.webp 160w, /assets/remote-dfbcb12900a7e482-responsive-320.webp 320w, /assets/remote-dfbcb12900a7e482-responsive-640.webp 640w, /assets/remote-dfbcb12900a7e482-responsive-1280.webp 1280w"} sizes={"(max-width: 640px) calc(100vw - 40px), (max-width: 1024px) 50vw, 218px"} />
 </div>
 </div>
 <div data-layout-node={"n162"} className={"v3 text-widget captured-style"}>
@@ -159,7 +159,7 @@ export default function Page4528(){return <div className="page-4528 captured-pag
 <div data-layout-node={"n329"} className={"v2 captured-style"}>
 <div data-layout-node={"n330"} className={"v3 text-widget captured-style"}>
 <div data-layout-node={"n331"} className={"v4 text-widget captured-style"}>
-<p data-layout-node={"n332"} className={"v5 captured-style"}>
+<p data-layout-node={"n332"} className={"v5 accessible-accent-dark captured-style"}>
 {"WHY AITSCCTV"}
 </p>
 </div>
@@ -227,15 +227,15 @@ export default function Page4528(){return <div className="page-4528 captured-pag
 <div data-layout-node={"n363"} className={"v141 layout-row captured-style"}>
 <div data-layout-node={"n364"} className={"v142 media-widget captured-style"}>
 <div data-layout-node={"n365"} className={"v143 media-widget captured-style"}>
-<img data-layout-node={"n366"} className={"v144 captured-style"} src={"/assets/remote-9fd1adf7ffc3b82e-responsive-512.webp"} alt={"Alarm"} loading={"lazy"} decoding={"async"} width={"300"} height={"300"} srcSet={"/assets/remote-9fd1adf7ffc3b82e-responsive-160.webp 160w, /assets/remote-9fd1adf7ffc3b82e-responsive-320.webp 320w, /assets/remote-9fd1adf7ffc3b82e-responsive-512.webp 512w"} sizes={"72px"} />
+<img data-layout-node={"n366"} className={"v144 captured-style"} src={"/assets/remote-9fd1adf7ffc3b82e-responsive-512.webp"} alt={"Alarm"} loading={"lazy"} decoding={"async"} width={"512"} height={"512"} srcSet={"/assets/remote-9fd1adf7ffc3b82e-responsive-160.webp 160w, /assets/remote-9fd1adf7ffc3b82e-responsive-320.webp 320w, /assets/remote-9fd1adf7ffc3b82e-responsive-512.webp 512w"} sizes={"72px"} />
 </div>
 </div>
 <div data-layout-node={"n367"} className={"v145 text-widget captured-style"}>
 <div data-layout-node={"n368"} className={"v146 text-widget captured-style"}>
 <p data-layout-node={"n369"} className={"v147 captured-style"}>
 {"หากเกิดเหตุด่วน "}
-<span data-layout-node={"n370"} className={"v148 captured-style"}>
-<SiteLink data-layout-node={"n371"} className={"v148 captured-style"} href={"https://justicechannel.org/popular/cctv-evidence2"}>
+<span data-layout-node={"n370"} className={"v148 accessible-accent-dark captured-style"}>
+<SiteLink data-layout-node={"n371"} className={"v148 accessible-accent-dark captured-style"} href={"https://justicechannel.org/popular/cctv-evidence2"}>
 {"เหตุร้ายสามารถใช้เป็นหลักฐานในการดำเนินคดีต่าง ๆ"}
 </SiteLink>
 </span>
@@ -402,7 +402,7 @@ export default function Page4528(){return <div className="page-4528 captured-pag
 <div data-layout-node={"n166"} className={"v65 captured-style"}>
 <div data-layout-node={"n167"} className={"v3 text-widget captured-style"}>
 <div data-layout-node={"n168"} className={"v4 text-widget captured-style"}>
-<p data-layout-node={"n169"} className={"v5 captured-style"}>
+<p data-layout-node={"n169"} className={"v5 accessible-accent-dark captured-style"}>
 {"CCTV  FOR RENT SERVICE"}
 </p>
 </div>
@@ -432,7 +432,7 @@ export default function Page4528(){return <div className="page-4528 captured-pag
 <div data-layout-node={"n179"} className={"v14 captured-style"}>
 <div data-layout-node={"n180"} className={"v66 captured-style"}>
 <div data-layout-node={"n181"} className={"v67 captured-style"}>
-<div className={"table-scroll"} role={"region"} aria-label={"ตารางเปรียบเทียบ เลื่อนเพื่อดูข้อมูลเพิ่มเติม"} tabIndex={0}>
+<div className={"table-scroll"} role={"region"} aria-label={"ตารางเปรียบเทียบ 1 เลื่อนเพื่อดูข้อมูลเพิ่มเติม"} tabIndex={0}>
 <table data-layout-node={"n182"} className={"v68 captured-style"}>
 <tbody data-layout-node={"n183"} className={"v69 captured-style"}>
 <tr data-layout-node={"n184"} className={"v70 captured-style"}>
@@ -467,7 +467,7 @@ export default function Page4528(){return <div className="page-4528 captured-pag
 </div>
 <div data-layout-node={"n193"} className={"v3 text-widget captured-style"}>
 <div data-layout-node={"n194"} className={"v4 text-widget captured-style"}>
-<p data-layout-node={"n195"} className={"v5 captured-style"}>
+<p data-layout-node={"n195"} className={"v5 accessible-accent-dark captured-style"}>
 {"*หมายเหตุ : ราคานี้ยังไม่รวมค่าติดตั้ง และรื้อถอน \r\n"}
 </p>
 </div>
@@ -482,7 +482,7 @@ export default function Page4528(){return <div className="page-4528 captured-pag
 <div data-layout-node={"n199"} className={"v14 captured-style"}>
 <div data-layout-node={"n200"} className={"v66 captured-style"}>
 <div data-layout-node={"n201"} className={"v67 captured-style"}>
-<div className={"table-scroll"} role={"region"} aria-label={"ตารางเปรียบเทียบ เลื่อนเพื่อดูข้อมูลเพิ่มเติม"} tabIndex={0}>
+<div className={"table-scroll"} role={"region"} aria-label={"ตารางเปรียบเทียบ 2 เลื่อนเพื่อดูข้อมูลเพิ่มเติม"} tabIndex={0}>
 <table data-layout-node={"n202"} className={"v73 captured-style"}>
 <tbody data-layout-node={"n203"} className={"v69 captured-style"}>
 <tr data-layout-node={"n204"} className={"v70 captured-style"}>
@@ -525,7 +525,7 @@ export default function Page4528(){return <div className="page-4528 captured-pag
 <div data-layout-node={"n216"} className={"v14 captured-style"}>
 <div data-layout-node={"n217"} className={"v66 captured-style"}>
 <div data-layout-node={"n218"} className={"v67 captured-style"}>
-<div className={"table-scroll"} role={"region"} aria-label={"ตารางเปรียบเทียบ เลื่อนเพื่อดูข้อมูลเพิ่มเติม"} tabIndex={0}>
+<div className={"table-scroll"} role={"region"} aria-label={"ตารางเปรียบเทียบ 3 เลื่อนเพื่อดูข้อมูลเพิ่มเติม"} tabIndex={0}>
 <table data-layout-node={"n219"} className={"v76 captured-style"}>
 <tbody data-layout-node={"n220"} className={"v69 captured-style"}>
 <tr data-layout-node={"n221"} className={"v70 captured-style"}>

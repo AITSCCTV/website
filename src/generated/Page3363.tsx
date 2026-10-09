@@ -11,7 +11,7 @@ export default function Page3363(){return <div className="page-3363 captured-pag
 <div data-layout-node={"n2"} className={"v2 captured-style"}>
 <div data-layout-node={"n3"} className={"v3 text-widget captured-style"}>
 <div data-layout-node={"n4"} className={"v4 text-widget captured-style"}>
-<p data-layout-node={"n5"} className={"v5 captured-style"}>
+<p data-layout-node={"n5"} className={"v5 accessible-accent-dark captured-style"}>
 {"NETWORK SERVICE"}
 </p>
 </div>
@@ -29,7 +29,7 @@ export default function Page3363(){return <div className="page-3363 captured-pag
 <div data-layout-node={"n10"} className={"v2 captured-style"}>
 <div data-layout-node={"n11"} className={"v3 text-widget captured-style"}>
 <div data-layout-node={"n12"} className={"v4 text-widget captured-style"}>
-<p data-layout-node={"n13"} className={"v5 captured-style"}>
+<p data-layout-node={"n13"} className={"v5 accessible-accent-dark captured-style"}>
 {"Access Control"}
 </p>
 </div>
@@ -53,7 +53,7 @@ export default function Page3363(){return <div className="page-3363 captured-pag
 </div>
 <div data-layout-node={"n24"} className={"v16 media-widget captured-style"}>
 <div data-layout-node={"n25"} className={"v17 media-widget captured-style"}>
-<img data-layout-node={"n26"} className={"v18 captured-style"} src={"/assets/remote-9f93c8fcd1aa7589-responsive-640.webp"} alt={"258235419 1973995712759895 2336030623504850789 n"} loading={"lazy"} decoding={"async"} width={"768"} height={"1154"} srcSet={"/assets/remote-9f93c8fcd1aa7589-responsive-160.webp 160w, /assets/remote-9f93c8fcd1aa7589-responsive-320.webp 320w, /assets/remote-9f93c8fcd1aa7589-responsive-640.webp 640w, /assets/remote-9f93c8fcd1aa7589-responsive-983.webp 983w"} sizes={"182px"} />
+<img data-layout-node={"n26"} className={"v18 captured-style"} src={"/assets/remote-9f93c8fcd1aa7589-responsive-640.webp"} alt={"258235419 1973995712759895 2336030623504850789 n"} loading={"lazy"} decoding={"async"} width={"983"} height={"1478"} srcSet={"/assets/remote-9f93c8fcd1aa7589-responsive-160.webp 160w, /assets/remote-9f93c8fcd1aa7589-responsive-320.webp 320w, /assets/remote-9f93c8fcd1aa7589-responsive-640.webp 640w, /assets/remote-9f93c8fcd1aa7589-responsive-983.webp 983w"} sizes={"182px"} />
 </div>
 </div>
 </div>
@@ -95,7 +95,7 @@ export default function Page3363(){return <div className="page-3363 captured-pag
 <div data-layout-node={"n248"} className={"v85 section captured-style"}>
 <div data-layout-node={"n249"} className={"v130 text-widget captured-style"}>
 <div data-layout-node={"n250"} className={"v4 text-widget captured-style"}>
-<p data-layout-node={"n251"} className={"v5 captured-style"}>
+<p data-layout-node={"n251"} className={"v5 accessible-accent-dark captured-style"}>
 {"BENEFITS"}
 </p>
 </div>
@@ -219,7 +219,7 @@ export default function Page3363(){return <div className="page-3363 captured-pag
 <div data-layout-node={"n43"} className={"v27 section captured-style"}>
 <div data-layout-node={"n44"} className={"v3 text-widget captured-style"}>
 <div data-layout-node={"n45"} className={"v4 text-widget captured-style"}>
-<p data-layout-node={"n46"} className={"v5 captured-style"}>
+<p data-layout-node={"n46"} className={"v5 accessible-accent-dark captured-style"}>
 {"WHAT ARE NETWORK SERVICES\r\n"}
 </p>
 </div>
@@ -316,7 +316,7 @@ export default function Page3363(){return <div className="page-3363 captured-pag
 <div data-layout-node={"n132"} className={"v2 captured-style"}>
 <div data-layout-node={"n133"} className={"v3 text-widget captured-style"}>
 <div data-layout-node={"n134"} className={"v4 text-widget captured-style"}>
-<p data-layout-node={"n135"} className={"v97 captured-style"}>
+<p data-layout-node={"n135"} className={"v97 accessible-accent-dark captured-style"}>
 {"Popular Access Control"}
 </p>
 </div>
@@ -337,7 +337,7 @@ export default function Page3363(){return <div className="page-3363 captured-pag
 <div data-layout-node={"n144"} className={"v102 captured-style"}>
 <div data-layout-node={"n145"} className={"v102 captured-style"}>
 <div data-layout-node={"n146"} className={"v103 captured-style"}>
-<div className={"table-scroll"} role={"region"} aria-label={"ตารางเปรียบเทียบ เลื่อนเพื่อดูข้อมูลเพิ่มเติม"} tabIndex={0}>
+<div className={"table-scroll"} role={"region"} aria-label={"ตารางเปรียบเทียบ 1 เลื่อนเพื่อดูข้อมูลเพิ่มเติม"} tabIndex={0}>
 <table data-layout-node={"n147"} className={"v104 captured-style"}>
 <thead data-layout-node={"n148"} className={"v105 captured-style"}>
 <tr data-layout-node={"n149"} className={"v106 captured-style"}>
@@ -484,7 +484,7 @@ export default function Page3363(){return <div className="page-3363 captured-pag
 <div data-layout-node={"n119"} className={"v85 section captured-style"}>
 <div data-layout-node={"n120"} className={"v86 text-widget captured-style"}>
 <div data-layout-node={"n121"} className={"v87 text-widget captured-style"}>
-<p data-layout-node={"n122"} className={"v88 captured-style"}>
+<p data-layout-node={"n122"} className={"v88 accessible-accent-dark captured-style"}>
 {"WHAT IS Access Control "}
 </p>
 </div>
@@ -498,7 +498,7 @@ export default function Page3363(){return <div className="page-3363 captured-pag
 </div>
 <div data-layout-node={"n126"} className={"v92 media-widget captured-style"}>
 <div data-layout-node={"n127"} className={"v4 media-widget captured-style"}>
-<img data-layout-node={"n128"} className={"v93 captured-style"} src={"/assets/remote-bac1962efcfc38dc-responsive-640.webp"} alt={"273998329 2037869286372537 4036731194936750997 n"} loading={"lazy"} decoding={"async"} width={"300"} height={"225"} srcSet={"/assets/remote-bac1962efcfc38dc-responsive-160.webp 160w, /assets/remote-bac1962efcfc38dc-responsive-320.webp 320w, /assets/remote-bac1962efcfc38dc-responsive-640.webp 640w, /assets/remote-bac1962efcfc38dc-responsive-768.webp 768w"} sizes={"(max-width: 640px) calc(100vw - 40px), (max-width: 1024px) 50vw, 300px"} />
+<img data-layout-node={"n128"} className={"v93 captured-style"} src={"/assets/remote-bac1962efcfc38dc-responsive-640.webp"} alt={"273998329 2037869286372537 4036731194936750997 n"} loading={"lazy"} decoding={"async"} width={"768"} height={"576"} srcSet={"/assets/remote-bac1962efcfc38dc-responsive-160.webp 160w, /assets/remote-bac1962efcfc38dc-responsive-320.webp 320w, /assets/remote-bac1962efcfc38dc-responsive-640.webp 640w, /assets/remote-bac1962efcfc38dc-responsive-768.webp 768w"} sizes={"(max-width: 640px) calc(100vw - 40px), (max-width: 1024px) 50vw, 300px"} />
 </div>
 </div>
 <div data-layout-node={"n129"} className={"v94 captured-style"}>
@@ -513,7 +513,7 @@ export default function Page3363(){return <div className="page-3363 captured-pag
 <div data-layout-node={"n330"} className={"v147 captured-style"}>
 <div data-layout-node={"n331"} className={"v3 text-widget captured-style"}>
 <div data-layout-node={"n332"} className={"v4 text-widget captured-style"}>
-<p data-layout-node={"n333"} className={"v5 captured-style"}>
+<p data-layout-node={"n333"} className={"v5 accessible-accent-dark captured-style"}>
 {"Recommend Brand"}
 </p>
 </div>
@@ -544,38 +544,38 @@ export default function Page3363(){return <div className="page-3363 captured-pag
 <div data-layout-node={"n345"} className={"v101 captured-style"}>
 <div data-layout-node={"n346"} className={"v102 captured-style"}>
 <div data-layout-node={"n347"} className={"v153 captured-style"}>
-<SiteLink data-layout-node={"n348"} className={"v154 design-overlay captured-style"} href={"https://aitscctv.com/wp-content/uploads/2023/04/ajhua-logo.png"}>
+<div data-layout-node={"n348"} className={"v154 design-overlay captured-style"}>
 <div data-layout-node={"n349"} className={"v155 captured-style"}>
 
 </div>
 <div data-layout-node={"n350"} className={"v156 design-overlay captured-style"}>
 
 </div>
-</SiteLink>
-<SiteLink data-layout-node={"n351"} className={"v157 design-overlay captured-style"} href={"https://aitscctv.com/wp-content/uploads/2023/04/zkt.jpg"}>
+</div>
+<div data-layout-node={"n351"} className={"v157 design-overlay captured-style"}>
 <div data-layout-node={"n352"} className={"v155 captured-style"}>
 
 </div>
 <div data-layout-node={"n353"} className={"v156 design-overlay captured-style"}>
 
 </div>
-</SiteLink>
-<SiteLink data-layout-node={"n354"} className={"v158 design-overlay captured-style"} href={"https://aitscctv.com/wp-content/uploads/2023/04/hik-logo.png"}>
+</div>
+<div data-layout-node={"n354"} className={"v158 design-overlay captured-style"}>
 <div data-layout-node={"n355"} className={"v155 captured-style"}>
 
 </div>
 <div data-layout-node={"n356"} className={"v156 design-overlay captured-style"}>
 
 </div>
-</SiteLink>
-<SiteLink data-layout-node={"n357"} className={"v159 design-overlay captured-style"} href={"https://aitscctv.com/wp-content/uploads/2023/04/hip.jpg"}>
+</div>
+<div data-layout-node={"n357"} className={"v159 design-overlay captured-style"}>
 <div data-layout-node={"n358"} className={"v155 captured-style"}>
 
 </div>
 <div data-layout-node={"n359"} className={"v156 design-overlay captured-style"}>
 
 </div>
-</SiteLink>
+</div>
 </div>
 </div>
 </div>
@@ -593,46 +593,46 @@ export default function Page3363(){return <div className="page-3363 captured-pag
 <div data-layout-node={"n365"} className={"v101 captured-style"}>
 <div data-layout-node={"n366"} className={"v102 captured-style"}>
 <div data-layout-node={"n367"} className={"v160 captured-style"}>
-<SiteLink data-layout-node={"n368"} className={"v161 design-overlay captured-style"} href={"https://aitscctv.com/wp-content/uploads/2023/04/rcycc-logo.png"}>
+<div data-layout-node={"n368"} className={"v161 design-overlay captured-style"}>
 <div data-layout-node={"n369"} className={"v162 captured-style"}>
 
 </div>
 <div data-layout-node={"n370"} className={"v163 design-overlay captured-style"}>
 
 </div>
-</SiteLink>
-<SiteLink data-layout-node={"n371"} className={"v164 design-overlay captured-style"} href={"https://aitscctv.com/wp-content/uploads/2023/04/ruijie-logo.png"}>
+</div>
+<div data-layout-node={"n371"} className={"v164 design-overlay captured-style"}>
 <div data-layout-node={"n372"} className={"v162 captured-style"}>
 
 </div>
 <div data-layout-node={"n373"} className={"v163 design-overlay captured-style"}>
 
 </div>
-</SiteLink>
-<SiteLink data-layout-node={"n374"} className={"v165 design-overlay captured-style"} href={"https://aitscctv.com/wp-content/uploads/2023/04/link-logo.png"}>
+</div>
+<div data-layout-node={"n374"} className={"v165 design-overlay captured-style"}>
 <div data-layout-node={"n375"} className={"v162 captured-style"}>
 
 </div>
 <div data-layout-node={"n376"} className={"v163 design-overlay captured-style"}>
 
 </div>
-</SiteLink>
-<SiteLink data-layout-node={"n377"} className={"v166 design-overlay captured-style"} href={"https://aitscctv.com/wp-content/uploads/2023/04/ajhua-logo.png"}>
+</div>
+<div data-layout-node={"n377"} className={"v166 design-overlay captured-style"}>
 <div data-layout-node={"n378"} className={"v162 captured-style"}>
 
 </div>
 <div data-layout-node={"n379"} className={"v163 design-overlay captured-style"}>
 
 </div>
-</SiteLink>
-<SiteLink data-layout-node={"n380"} className={"v167 design-overlay captured-style"} href={"https://aitscctv.com/wp-content/uploads/2023/04/aruba.png"}>
+</div>
+<div data-layout-node={"n380"} className={"v167 design-overlay captured-style"}>
 <div data-layout-node={"n381"} className={"v162 captured-style"}>
 
 </div>
 <div data-layout-node={"n382"} className={"v163 design-overlay captured-style"}>
 
 </div>
-</SiteLink>
+</div>
 </div>
 </div>
 </div>
@@ -650,14 +650,14 @@ export default function Page3363(){return <div className="page-3363 captured-pag
 <div data-layout-node={"n388"} className={"v101 captured-style"}>
 <div data-layout-node={"n389"} className={"v102 captured-style"}>
 <div data-layout-node={"n390"} className={"v153 captured-style"}>
-<SiteLink data-layout-node={"n391"} className={"v154 design-overlay captured-style"} href={"https://aitscctv.com/wp-content/uploads/2023/04/yazaki-logo.png"}>
+<div data-layout-node={"n391"} className={"v154 design-overlay captured-style"}>
 <div data-layout-node={"n392"} className={"v155 captured-style"}>
 
 </div>
 <div data-layout-node={"n393"} className={"v156 design-overlay captured-style"}>
 
 </div>
-</SiteLink>
+</div>
 </div>
 </div>
 </div>

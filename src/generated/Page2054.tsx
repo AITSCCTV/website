@@ -12,7 +12,7 @@ export default function Page2054(){return <div className="page-2054 captured-pag
 <div data-layout-node={"n4"} className={"v4 layout-row captured-style"}>
 <div data-layout-node={"n5"} className={"v5 text-widget captured-style"}>
 <div data-layout-node={"n6"} className={"v6 text-widget captured-style"}>
-<p data-layout-node={"n7"} className={"v7 captured-style"}>
+<p data-layout-node={"n7"} className={"v7 accessible-accent-dark captured-style"}>
 {"ABOUT US"}
 </p>
 </div>
@@ -34,7 +34,7 @@ export default function Page2054(){return <div className="page-2054 captured-pag
 <div data-layout-node={"n14"} className={"v11 layout-row captured-style"}>
 <div data-layout-node={"n15"} className={"v12 text-widget captured-style"}>
 <div data-layout-node={"n16"} className={"v13 text-widget captured-style"}>
-<p data-layout-node={"n17"} className={"v14 captured-style"}>
+<p data-layout-node={"n17"} className={"v14 accessible-accent-dark captured-style"}>
 {"A.I.T.S. COMPANY LIMITED"}
 </p>
 </div>
@@ -68,7 +68,7 @@ export default function Page2054(){return <div className="page-2054 captured-pag
 <div data-layout-node={"n32"} className={"v25 layout-row captured-style"}>
 <div data-layout-node={"n33"} className={"v12 media-widget captured-style"}>
 <div data-layout-node={"n34"} className={"v26 media-widget captured-style"}>
-<img data-layout-node={"n35"} className={"v27 captured-style"} src={"/assets/remote-24f54bcc6ba38c03-responsive-640.webp"} alt={"Cropped Logo AITS Square 1.png"} loading={"lazy"} decoding={"async"} width={"300"} height={"299"} srcSet={"/assets/remote-24f54bcc6ba38c03-responsive-160.webp 160w, /assets/remote-24f54bcc6ba38c03-responsive-320.webp 320w, /assets/remote-24f54bcc6ba38c03-responsive-640.webp 640w, /assets/remote-24f54bcc6ba38c03-responsive-760.webp 760w"} sizes={"(max-width: 640px) calc(100vw - 40px), (max-width: 1024px) 50vw, 300px"} />
+<img data-layout-node={"n35"} className={"v27 captured-style"} src={"/assets/remote-24f54bcc6ba38c03-responsive-640.webp"} alt={"Cropped Logo AITS Square 1.png"} loading={"lazy"} decoding={"async"} width={"760"} height={"759"} srcSet={"/assets/remote-24f54bcc6ba38c03-responsive-160.webp 160w, /assets/remote-24f54bcc6ba38c03-responsive-320.webp 320w, /assets/remote-24f54bcc6ba38c03-responsive-640.webp 640w, /assets/remote-24f54bcc6ba38c03-responsive-760.webp 760w"} sizes={"(max-width: 640px) calc(100vw - 40px), (max-width: 1024px) 50vw, 300px"} />
 </div>
 </div>
 <div data-layout-node={"n36"} className={"v12 text-widget captured-style"}>
@@ -99,7 +99,7 @@ export default function Page2054(){return <div className="page-2054 captured-pag
 <div data-layout-node={"n45"} className={"v11 layout-row captured-style"}>
 <div data-layout-node={"n46"} className={"v12 text-widget captured-style"}>
 <div data-layout-node={"n47"} className={"v13 text-widget captured-style"}>
-<p data-layout-node={"n48"} className={"v14 captured-style"}>
+<p data-layout-node={"n48"} className={"v14 accessible-accent-dark captured-style"}>
 {"MISSION, VISION, VALUES"}
 </p>
 </div>
@@ -125,14 +125,14 @@ export default function Page2054(){return <div className="page-2054 captured-pag
 <div data-layout-node={"n59"} className={"v37 captured-style"}>
 <div data-layout-node={"n60"} className={"v38 captured-style"}>
 <div data-layout-node={"n61"} className={"v38 captured-style"}>
-<div data-layout-node={"n62"} className={"v39 captured-style"}>
-<span data-layout-node={"n63"} className={"v40 captured-style"}>
+<div data-layout-node={"n62"} className={"v39 accessible-accent-dark captured-style"}>
+<span data-layout-node={"n63"} className={"v40 accessible-accent-dark captured-style"}>
 
 </span>
-<span data-layout-node={"n64"} className={"v41 numeric-label captured-style"}>
+<span data-layout-node={"n64"} className={"v41 numeric-label accessible-accent-dark captured-style"}>
 {"0"}
 </span>
-<span data-layout-node={"n65"} className={"v42 captured-style"}>
+<span data-layout-node={"n65"} className={"v42 accessible-accent-dark captured-style"}>
 
 </span>
 </div>
@@ -151,14 +151,14 @@ export default function Page2054(){return <div className="page-2054 captured-pag
 <div data-layout-node={"n70"} className={"v37 captured-style"}>
 <div data-layout-node={"n71"} className={"v38 captured-style"}>
 <div data-layout-node={"n72"} className={"v38 captured-style"}>
-<div data-layout-node={"n73"} className={"v39 captured-style"}>
-<span data-layout-node={"n74"} className={"v40 captured-style"}>
+<div data-layout-node={"n73"} className={"v39 accessible-accent-dark captured-style"}>
+<span data-layout-node={"n74"} className={"v40 accessible-accent-dark captured-style"}>
 
 </span>
-<span data-layout-node={"n75"} className={"v41 numeric-label captured-style"}>
+<span data-layout-node={"n75"} className={"v41 numeric-label accessible-accent-dark captured-style"}>
 {"0"}
 </span>
-<span data-layout-node={"n76"} className={"v42 captured-style"}>
+<span data-layout-node={"n76"} className={"v42 accessible-accent-dark captured-style"}>
 
 </span>
 </div>
@@ -177,14 +177,14 @@ export default function Page2054(){return <div className="page-2054 captured-pag
 <div data-layout-node={"n81"} className={"v37 captured-style"}>
 <div data-layout-node={"n82"} className={"v38 captured-style"}>
 <div data-layout-node={"n83"} className={"v38 captured-style"}>
-<div data-layout-node={"n84"} className={"v39 captured-style"}>
-<span data-layout-node={"n85"} className={"v40 captured-style"}>
+<div data-layout-node={"n84"} className={"v39 accessible-accent-dark captured-style"}>
+<span data-layout-node={"n85"} className={"v40 accessible-accent-dark captured-style"}>
 
 </span>
-<span data-layout-node={"n86"} className={"v41 numeric-label captured-style"}>
+<span data-layout-node={"n86"} className={"v41 numeric-label accessible-accent-dark captured-style"}>
 {"0"}
 </span>
-<span data-layout-node={"n87"} className={"v42 captured-style"}>
+<span data-layout-node={"n87"} className={"v42 accessible-accent-dark captured-style"}>
 
 </span>
 </div>
@@ -208,7 +208,7 @@ export default function Page2054(){return <div className="page-2054 captured-pag
 <div data-layout-node={"n91"} className={"v46 captured-style"}>
 <div data-layout-node={"n92"} className={"v47 text-widget captured-style"}>
 <div data-layout-node={"n93"} className={"v48 text-widget captured-style"}>
-<p data-layout-node={"n94"} className={"v49 captured-style"}>
+<p data-layout-node={"n94"} className={"v49 accessible-accent-dark captured-style"}>
 {"OUR SERVICES"}
 </p>
 </div>
@@ -377,7 +377,7 @@ export default function Page2054(){return <div className="page-2054 captured-pag
 <div data-layout-node={"n171"} className={"v11 layout-row captured-style"}>
 <div data-layout-node={"n172"} className={"v12 text-widget captured-style"}>
 <div data-layout-node={"n173"} className={"v13 text-widget captured-style"}>
-<p data-layout-node={"n174"} className={"v14 captured-style"}>
+<p data-layout-node={"n174"} className={"v14 accessible-accent-dark captured-style"}>
 {"OUR HISTORY"}
 </p>
 </div>
@@ -416,7 +416,7 @@ export default function Page2054(){return <div className="page-2054 captured-pag
 <div data-layout-node={"n190"} className={"v75 layout-row captured-style"}>
 <div data-layout-node={"n191"} className={"v76 text-widget captured-style"}>
 <div data-layout-node={"n192"} className={"v77 text-widget captured-style"}>
-<p data-layout-node={"n193"} className={"v78 captured-style"}>
+<p data-layout-node={"n193"} className={"v78 accessible-accent-dark captured-style"}>
 {"2548 – 2552"}
 </p>
 </div>
@@ -443,7 +443,7 @@ export default function Page2054(){return <div className="page-2054 captured-pag
 <div data-layout-node={"n202"} className={"v75 layout-row captured-style"}>
 <div data-layout-node={"n203"} className={"v76 text-widget captured-style"}>
 <div data-layout-node={"n204"} className={"v77 text-widget captured-style"}>
-<p data-layout-node={"n205"} className={"v78 captured-style"}>
+<p data-layout-node={"n205"} className={"v78 accessible-accent-dark captured-style"}>
 {"2553 – 2554"}
 </p>
 </div>
@@ -475,7 +475,7 @@ export default function Page2054(){return <div className="page-2054 captured-pag
 <div data-layout-node={"n216"} className={"v75 layout-row captured-style"}>
 <div data-layout-node={"n217"} className={"v76 text-widget captured-style"}>
 <div data-layout-node={"n218"} className={"v77 text-widget captured-style"}>
-<p data-layout-node={"n219"} className={"v78 captured-style"}>
+<p data-layout-node={"n219"} className={"v78 accessible-accent-dark captured-style"}>
 {"2555 – 2557"}
 </p>
 </div>
@@ -522,7 +522,7 @@ export default function Page2054(){return <div className="page-2054 captured-pag
 <div data-layout-node={"n236"} className={"v75 layout-row captured-style"}>
 <div data-layout-node={"n237"} className={"v76 text-widget captured-style"}>
 <div data-layout-node={"n238"} className={"v77 text-widget captured-style"}>
-<p data-layout-node={"n239"} className={"v78 captured-style"}>
+<p data-layout-node={"n239"} className={"v78 accessible-accent-dark captured-style"}>
 {"2558 – 2562\r\n"}
 </p>
 </div>
@@ -554,7 +554,7 @@ export default function Page2054(){return <div className="page-2054 captured-pag
 <div data-layout-node={"n250"} className={"v89 layout-row captured-style"}>
 <div data-layout-node={"n251"} className={"v76 text-widget captured-style"}>
 <div data-layout-node={"n252"} className={"v90 text-widget captured-style"}>
-<p data-layout-node={"n253"} className={"v91 captured-style"}>
+<p data-layout-node={"n253"} className={"v91 accessible-accent-dark captured-style"}>
 {"2563-2564\r\n"}
 </p>
 </div>
@@ -588,7 +588,7 @@ export default function Page2054(){return <div className="page-2054 captured-pag
 <div data-layout-node={"n262"} className={"v97 captured-style"}>
 <div data-layout-node={"n263"} className={"v98 text-widget captured-style"}>
 <div data-layout-node={"n264"} className={"v13 text-widget captured-style"}>
-<p data-layout-node={"n265"} className={"v99 captured-style"}>
+<p data-layout-node={"n265"} className={"v99 accessible-accent-dark captured-style"}>
 {"OUR CLIENTS"}
 </p>
 </div>
@@ -686,9 +686,9 @@ export default function Page2054(){return <div className="page-2054 captured-pag
 <div data-layout-node={"n325"} className={"v124 layout-row captured-style"}>
 <div data-layout-node={"n326"} className={"v125 text-widget captured-style"}>
 <div data-layout-node={"n327"} className={"v126 text-widget captured-style"}>
-<p data-layout-node={"n328"} className={"v127 large-copy captured-style"}>
+<p data-layout-node={"n328"} className={"v127 large-copy accessible-accent-dark captured-style"}>
 {"“อย่าให้โจรมาติดกล้อง"}
-<br data-layout-node={"n329"} className={"v128 captured-style"} />
+<br data-layout-node={"n329"} className={"v128 accessible-accent-dark captured-style"} />
 {"วงจรปิดให้คุณเลยครับ”"}
 </p>
 </div>

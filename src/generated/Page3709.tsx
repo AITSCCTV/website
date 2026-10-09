@@ -11,7 +11,7 @@ export default function Page3709(){return <div className="page-3709 captured-pag
 <div data-layout-node={"n2"} className={"v2 captured-style"}>
 <div data-layout-node={"n3"} className={"v3 text-widget captured-style"}>
 <div data-layout-node={"n4"} className={"v4 text-widget captured-style"}>
-<p data-layout-node={"n5"} className={"v5 captured-style"}>
+<p data-layout-node={"n5"} className={"v5 accessible-accent-dark captured-style"}>
 {"SOLAR CELL SERVICE"}
 </p>
 </div>
@@ -34,7 +34,7 @@ export default function Page3709(){return <div className="page-3709 captured-pag
 </div>
 <div data-layout-node={"n14"} className={"v3 text-widget captured-style"}>
 <div data-layout-node={"n15"} className={"v4 text-widget captured-style"}>
-<p data-layout-node={"n16"} className={"v9 captured-style"}>
+<p data-layout-node={"n16"} className={"v9 accessible-accent-dark captured-style"}>
 {"SOLAR CELL SYSTEM"}
 </p>
 </div>
@@ -93,7 +93,7 @@ export default function Page3709(){return <div className="page-3709 captured-pag
 <div data-layout-node={"n333"} className={"v24 section captured-style"}>
 <div data-layout-node={"n334"} className={"v3 text-widget captured-style"}>
 <div data-layout-node={"n335"} className={"v4 text-widget captured-style"}>
-<p data-layout-node={"n336"} className={"v5 captured-style"}>
+<p data-layout-node={"n336"} className={"v5 accessible-accent-dark captured-style"}>
 {"WHY SHOULD  SOLAR CELL"}
 </p>
 </div>
@@ -187,7 +187,7 @@ export default function Page3709(){return <div className="page-3709 captured-pag
 <div data-layout-node={"n84"} className={"v53 captured-style"}>
 <div data-layout-node={"n85"} className={"v3 text-widget captured-style"}>
 <div data-layout-node={"n86"} className={"v4 text-widget captured-style"}>
-<p data-layout-node={"n87"} className={"v5 captured-style"}>
+<p data-layout-node={"n87"} className={"v5 accessible-accent-dark captured-style"}>
 {"WHAT ARE SOLAR CELL SERVICES\r\n"}
 </p>
 </div>
@@ -330,7 +330,7 @@ export default function Page3709(){return <div className="page-3709 captured-pag
 </div>
 <div data-layout-node={"n252"} className={"v131 captured-style"}>
 <div data-layout-node={"n253"} className={"v4 captured-style"}>
-<img data-layout-node={"n254"} className={"v132 captured-style"} src={"/assets/remote-0255621b17a8867d-responsive-300.webp"} alt={"Huawei"} loading={"lazy"} decoding={"async"} width={"150"} height={"150"} srcSet={"/assets/remote-0255621b17a8867d-responsive-160.webp 160w, /assets/remote-0255621b17a8867d-responsive-300.webp 300w"} sizes={"150px"} />
+<img data-layout-node={"n254"} className={"v132 captured-style"} src={"/assets/remote-0255621b17a8867d-responsive-300.webp"} alt={"Huawei"} loading={"lazy"} decoding={"async"} width={"300"} height={"300"} srcSet={"/assets/remote-0255621b17a8867d-responsive-160.webp 160w, /assets/remote-0255621b17a8867d-responsive-300.webp 300w"} sizes={"150px"} />
 </div>
 </div>
 </div>
@@ -357,7 +357,7 @@ export default function Page3709(){return <div className="page-3709 captured-pag
 {"บริการติดตั้งระบบโซล่าเซลล์"}
 </h3>
 <div data-layout-node={"n279"} className={"v138 captured-style"}>
-<div className={"table-scroll"} role={"region"} aria-label={"ตารางเปรียบเทียบ เลื่อนเพื่อดูข้อมูลเพิ่มเติม"} tabIndex={0}>
+<div className={"table-scroll"} role={"region"} aria-label={"ตารางเปรียบเทียบ 1 เลื่อนเพื่อดูข้อมูลเพิ่มเติม"} tabIndex={0}>
 <table data-layout-node={"n280"} className={"v139 captured-style"}>
 <tbody data-layout-node={"n281"} className={"v140 captured-style"}>
 <tr data-layout-node={"n282"} className={"v141 captured-style"}>
@@ -530,7 +530,7 @@ export default function Page3709(){return <div className="page-3709 captured-pag
 <div data-layout-node={"n257"} className={"v24 section captured-style"}>
 <div data-layout-node={"n258"} className={"v3 text-widget captured-style"}>
 <div data-layout-node={"n259"} className={"v4 text-widget captured-style"}>
-<p data-layout-node={"n260"} className={"v5 captured-style"}>
+<p data-layout-node={"n260"} className={"v5 accessible-accent-dark captured-style"}>
 {"WHAT IS SOLAR CELL"}
 </p>
 </div>
@@ -547,7 +547,7 @@ export default function Page3709(){return <div className="page-3709 captured-pag
 </div>
 <div data-layout-node={"n265"} className={"v3 media-widget captured-style"}>
 <div data-layout-node={"n266"} className={"v4 media-widget captured-style"}>
-<img data-layout-node={"n267"} className={"v133 captured-style"} src={"/assets/remote-9f3d8e01632c194f-responsive-640.webp"} alt={"Solar panels on the roof"} loading={"lazy"} decoding={"async"} width={"768"} height={"403"} srcSet={"/assets/remote-9f3d8e01632c194f-responsive-160.webp 160w, /assets/remote-9f3d8e01632c194f-responsive-320.webp 320w, /assets/remote-9f3d8e01632c194f-responsive-640.webp 640w, /assets/remote-9f3d8e01632c194f-responsive-1024.webp 1024w"} sizes={"(max-width: 640px) calc(100vw - 40px), (max-width: 1024px) 50vw, 768px"} />
+<img data-layout-node={"n267"} className={"v133 captured-style"} src={"/assets/remote-9f3d8e01632c194f-responsive-640.webp"} alt={"Solar panels on the roof"} loading={"lazy"} decoding={"async"} width={"1024"} height={"538"} srcSet={"/assets/remote-9f3d8e01632c194f-responsive-160.webp 160w, /assets/remote-9f3d8e01632c194f-responsive-320.webp 320w, /assets/remote-9f3d8e01632c194f-responsive-640.webp 640w, /assets/remote-9f3d8e01632c194f-responsive-1024.webp 1024w"} sizes={"(max-width: 640px) calc(100vw - 40px), (max-width: 1024px) 50vw, 768px"} />
 </div>
 </div>
 <div data-layout-node={"n268"} className={"v134 captured-style"}>

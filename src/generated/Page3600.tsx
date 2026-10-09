@@ -11,7 +11,7 @@ export default function Page3600(){return <div className="page-3600 captured-pag
 <div data-layout-node={"n2"} className={"v2 captured-style"}>
 <div data-layout-node={"n3"} className={"v3 text-widget captured-style"}>
 <div data-layout-node={"n4"} className={"v4 text-widget captured-style"}>
-<p data-layout-node={"n5"} className={"v5 captured-style"}>
+<p data-layout-node={"n5"} className={"v5 accessible-accent-dark captured-style"}>
 {"SECURITY SERVICE"}
 </p>
 </div>
@@ -29,12 +29,12 @@ export default function Page3600(){return <div className="page-3600 captured-pag
 <div data-layout-node={"n10"} className={"v2 captured-style"}>
 <div data-layout-node={"n11"} className={"v3 media-widget captured-style"}>
 <div data-layout-node={"n12"} className={"v4 media-widget captured-style"}>
-<img data-layout-node={"n13"} className={"v8 captured-style"} src={"/assets/remote-907878ad3e6b9730-responsive-640.webp"} alt={"Smoke and fire detection3"} loading={"lazy"} decoding={"async"} width={"1024"} height={"537"} srcSet={"/assets/remote-907878ad3e6b9730-responsive-160.webp 160w, /assets/remote-907878ad3e6b9730-responsive-320.webp 320w, /assets/remote-907878ad3e6b9730-responsive-640.webp 640w, /assets/remote-907878ad3e6b9730-responsive-1200.webp 1200w"} sizes={"(max-width: 640px) calc(100vw - 40px), (max-width: 1024px) 50vw, 1140px"} />
+<img data-layout-node={"n13"} className={"v8 captured-style"} src={"/assets/remote-907878ad3e6b9730-responsive-640.webp"} alt={"Smoke and fire detection3"} loading={"lazy"} decoding={"async"} width={"1200"} height={"630"} srcSet={"/assets/remote-907878ad3e6b9730-responsive-160.webp 160w, /assets/remote-907878ad3e6b9730-responsive-320.webp 320w, /assets/remote-907878ad3e6b9730-responsive-640.webp 640w, /assets/remote-907878ad3e6b9730-responsive-1200.webp 1200w"} sizes={"(max-width: 640px) calc(100vw - 40px), (max-width: 1024px) 50vw, 1140px"} />
 </div>
 </div>
 <div data-layout-node={"n14"} className={"v3 text-widget captured-style"}>
 <div data-layout-node={"n15"} className={"v4 text-widget captured-style"}>
-<p data-layout-node={"n16"} className={"v9 captured-style"}>
+<p data-layout-node={"n16"} className={"v9 accessible-accent-dark captured-style"}>
 {"SECURITY SYSTEM"}
 </p>
 </div>
@@ -101,7 +101,7 @@ export default function Page3600(){return <div className="page-3600 captured-pag
 <div data-layout-node={"n196"} className={"v2 captured-style"}>
 <div data-layout-node={"n197"} className={"v3 text-widget captured-style"}>
 <div data-layout-node={"n198"} className={"v4 text-widget captured-style"}>
-<p data-layout-node={"n199"} className={"v5 captured-style"}>
+<p data-layout-node={"n199"} className={"v5 accessible-accent-dark captured-style"}>
 {"DESIGN AND SET UP SECURITY SYSTEM"}
 </p>
 </div>
@@ -294,7 +294,7 @@ export default function Page3600(){return <div className="page-3600 captured-pag
 <div data-layout-node={"n304"} className={"v2 captured-style"}>
 <div data-layout-node={"n305"} className={"v3 text-widget captured-style"}>
 <div data-layout-node={"n306"} className={"v4 text-widget captured-style"}>
-<p data-layout-node={"n307"} className={"v5 captured-style"}>
+<p data-layout-node={"n307"} className={"v5 accessible-accent-dark captured-style"}>
 {"WHY SHOULD SECURITY SYSTEM"}
 </p>
 </div>
@@ -427,7 +427,7 @@ export default function Page3600(){return <div className="page-3600 captured-pag
 <div data-layout-node={"n47"} className={"v33 section captured-style"}>
 <div data-layout-node={"n48"} className={"v3 text-widget captured-style"}>
 <div data-layout-node={"n49"} className={"v4 text-widget captured-style"}>
-<p data-layout-node={"n50"} className={"v5 captured-style"}>
+<p data-layout-node={"n50"} className={"v5 accessible-accent-dark captured-style"}>
 {"WHAT ARE SECURITY SYSTEM\r\n"}
 </p>
 </div>
@@ -526,7 +526,7 @@ export default function Page3600(){return <div className="page-3600 captured-pag
 </div>
 <div data-layout-node={"n133"} className={"v88 captured-style"}>
 <div data-layout-node={"n134"} className={"v4 captured-style"}>
-<img data-layout-node={"n135"} className={"v89 captured-style"} src={"/assets/remote-018b8b72f474ded9-responsive-300.webp"} alt={"Lumi"} loading={"lazy"} decoding={"async"} width={"150"} height={"150"} srcSet={"/assets/remote-018b8b72f474ded9-responsive-160.webp 160w, /assets/remote-018b8b72f474ded9-responsive-300.webp 300w"} sizes={"150px"} />
+<img data-layout-node={"n135"} className={"v89 captured-style"} src={"/assets/remote-018b8b72f474ded9-responsive-300.webp"} alt={"Lumi"} loading={"lazy"} decoding={"async"} width={"300"} height={"300"} srcSet={"/assets/remote-018b8b72f474ded9-responsive-160.webp 160w, /assets/remote-018b8b72f474ded9-responsive-300.webp 300w"} sizes={"150px"} />
 </div>
 </div>
 </div>
@@ -539,7 +539,7 @@ export default function Page3600(){return <div className="page-3600 captured-pag
 <div data-layout-node={"n361"} className={"v118 captured-style"}>
 <div data-layout-node={"n362"} className={"v3 text-widget captured-style"}>
 <div data-layout-node={"n363"} className={"v4 text-widget captured-style"}>
-<p data-layout-node={"n364"} className={"v9 captured-style"}>
+<p data-layout-node={"n364"} className={"v9 accessible-accent-dark captured-style"}>
 {"SECURITY SYSTEM"}
 </p>
 </div>
@@ -623,7 +623,7 @@ export default function Page3600(){return <div className="page-3600 captured-pag
 <div data-layout-node={"n291"} className={"v2 captured-style"}>
 <div data-layout-node={"n292"} className={"v3 text-widget captured-style"}>
 <div data-layout-node={"n293"} className={"v4 text-widget captured-style"}>
-<p data-layout-node={"n294"} className={"v5 captured-style"}>
+<p data-layout-node={"n294"} className={"v5 accessible-accent-dark captured-style"}>
 {"WHAT IS SECURITY SYSTEM"}
 </p>
 </div>
@@ -637,7 +637,7 @@ export default function Page3600(){return <div className="page-3600 captured-pag
 </div>
 <div data-layout-node={"n298"} className={"v3 media-widget captured-style"}>
 <div data-layout-node={"n299"} className={"v4 media-widget captured-style"}>
-<img data-layout-node={"n300"} className={"v111 captured-style"} src={"/assets/remote-8726988daa572453-responsive-640.webp"} alt={"Notification"} loading={"lazy"} decoding={"async"} width={"768"} height={"403"} srcSet={"/assets/remote-8726988daa572453-responsive-160.webp 160w, /assets/remote-8726988daa572453-responsive-320.webp 320w, /assets/remote-8726988daa572453-responsive-640.webp 640w, /assets/remote-8726988daa572453-responsive-1024.webp 1024w"} sizes={"(max-width: 640px) calc(100vw - 40px), (max-width: 1024px) 50vw, 1140px"} />
+<img data-layout-node={"n300"} className={"v111 captured-style"} src={"/assets/remote-8726988daa572453-responsive-640.webp"} alt={"Notification"} loading={"lazy"} decoding={"async"} width={"1024"} height={"538"} srcSet={"/assets/remote-8726988daa572453-responsive-160.webp 160w, /assets/remote-8726988daa572453-responsive-320.webp 320w, /assets/remote-8726988daa572453-responsive-640.webp 640w, /assets/remote-8726988daa572453-responsive-1024.webp 1024w"} sizes={"(max-width: 640px) calc(100vw - 40px), (max-width: 1024px) 50vw, 1140px"} />
 </div>
 </div>
 <div data-layout-node={"n301"} className={"v112 captured-style"}>

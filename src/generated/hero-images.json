@@ -1,0 +1,98 @@
+{
+  "/about-us/": {
+    "phone": "/assets/remote-e3c736fe9e310cec-responsive-640.webp",
+    "desktop": "/assets/remote-e3c736fe9e310cec-responsive-1280.webp"
+  },
+  "/": {
+    "phone": "/assets/6d13be545fba361d-responsive-640.webp",
+    "desktop": "/assets/6d13be545fba361d-responsive-1280.webp"
+  },
+  "/window-film/": {
+    "phone": "/assets/remote-261a32fbb0e46098-responsive-640.webp",
+    "desktop": "/assets/remote-261a32fbb0e46098-responsive-1200.webp"
+  },
+  "/internet-system/": {
+    "phone": "/assets/remote-58caedc77d622c95-responsive-640.webp",
+    "desktop": "/assets/remote-58caedc77d622c95-responsive-1200.webp"
+  },
+  "/internet-system/access-point/": {
+    "phone": "/assets/remote-9361f4969aa2bb1e-responsive-640.webp",
+    "desktop": "/assets/remote-9361f4969aa2bb1e-responsive-1280.webp"
+  },
+  "/internet-system/wi-fi/": {
+    "phone": "/assets/remote-af5c5096b38b8d9c-responsive-640.webp",
+    "desktop": "/assets/remote-af5c5096b38b8d9c-responsive-1280.webp"
+  },
+  "/cctv-camera-service/": {
+    "phone": "/assets/remote-76858b80135bc76c-responsive-640.webp",
+    "desktop": "/assets/remote-76858b80135bc76c-responsive-1200.webp"
+  },
+  "/cctv-camera-service/sixteen-cctv-camera/": {
+    "phone": "/assets/remote-76858b80135bc76c-responsive-640.webp",
+    "desktop": "/assets/remote-76858b80135bc76c-responsive-1200.webp"
+  },
+  "/cctv-camera-service/four-cctv-camera/": {
+    "phone": "/assets/remote-76858b80135bc76c-responsive-640.webp",
+    "desktop": "/assets/remote-76858b80135bc76c-responsive-1200.webp"
+  },
+  "/cctv-camera-service/eight-cctv-camera/": {
+    "phone": "/assets/remote-76858b80135bc76c-responsive-640.webp",
+    "desktop": "/assets/remote-76858b80135bc76c-responsive-1200.webp"
+  },
+  "/access-control-system/": {
+    "phone": "/assets/remote-76858b80135bc76c-responsive-640.webp",
+    "desktop": "/assets/remote-76858b80135bc76c-responsive-1200.webp"
+  },
+  "/access-control-system/key-card-door/": {
+    "phone": "/assets/remote-76858b80135bc76c-responsive-640.webp",
+    "desktop": "/assets/remote-76858b80135bc76c-responsive-1200.webp"
+  },
+  "/access-control-system/card-scanner/": {
+    "phone": "/assets/remote-76858b80135bc76c-responsive-640.webp",
+    "desktop": "/assets/remote-76858b80135bc76c-responsive-1200.webp"
+  },
+  "/access-control-system/fingerprint-scanner/": {
+    "phone": "/assets/remote-76858b80135bc76c-responsive-640.webp",
+    "desktop": "/assets/remote-76858b80135bc76c-responsive-1200.webp"
+  },
+  "/solar-cell-system/": {
+    "phone": "/assets/remote-e0aa76cf9db9f9c8-responsive-640.webp",
+    "desktop": "/assets/remote-e0aa76cf9db9f9c8-responsive-1200.webp"
+  },
+  "/home-automation/": {
+    "phone": "/assets/remote-6cc7c96805885a1e-responsive-640.webp",
+    "desktop": "/assets/remote-6cc7c96805885a1e-responsive-1200.webp"
+  },
+  "/network-service/": {
+    "phone": "/assets/remote-76858b80135bc76c-responsive-640.webp",
+    "desktop": "/assets/remote-76858b80135bc76c-responsive-1200.webp"
+  },
+  "/network-service/lan-cable/": {
+    "phone": "/assets/remote-76858b80135bc76c-responsive-640.webp",
+    "desktop": "/assets/remote-76858b80135bc76c-responsive-1200.webp"
+  },
+  "/network-service/fiberoptic-cable/": {
+    "phone": "/assets/remote-76858b80135bc76c-responsive-640.webp",
+    "desktop": "/assets/remote-76858b80135bc76c-responsive-1200.webp"
+  },
+  "/security-system/": {
+    "phone": "/assets/remote-907878ad3e6b9730-responsive-640.webp",
+    "desktop": "/assets/remote-907878ad3e6b9730-responsive-1200.webp"
+  },
+  "/telephone-system/": {
+    "phone": "/assets/remote-76858b80135bc76c-responsive-640.webp",
+    "desktop": "/assets/remote-76858b80135bc76c-responsive-1200.webp"
+  },
+  "/cctv-rental-service/": {
+    "phone": "/assets/remote-76858b80135bc76c-responsive-640.webp",
+    "desktop": "/assets/remote-76858b80135bc76c-responsive-1200.webp"
+  },
+  "/smart-meeting-room/": {
+    "phone": "/assets/remote-59f5d55dbb1e735f-responsive-640.webp",
+    "desktop": "/assets/remote-59f5d55dbb1e735f-responsive-1280.webp"
+  },
+  "/home-renovation/": {
+    "phone": "/assets/remote-3185cbf41da28747-responsive-640.webp",
+    "desktop": "/assets/remote-3185cbf41da28747-responsive-1280.webp"
+  }
+}

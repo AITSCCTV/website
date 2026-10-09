@@ -92,7 +92,7 @@ main .page-1751 .review-card{width:100%!important;padding:0!important;min-width:
  main .page-1751 .smart-card figure a{display:block;width:100%!important;height:100%!important}
  main .page-1751 .smart-card img{width:96px!important;height:112px!important;object-fit:cover!important;border-radius:8px}
  main .page-1751 .smart-card figure+div{width:100%!important;padding:0!important;margin:0!important}
- main .page-1751 .smart-card h3{font-size:19px!important;line-height:1.3!important;margin-bottom:8px!important}
+ main .page-1751 .smart-card :is(h2,h3){font-size:19px!important;line-height:1.3!important;margin-bottom:8px!important}
  main .page-1751 .smart-card p{font-size:14px!important;line-height:1.65!important;margin:0!important}
  main .page-1751 .service-cards{display:grid!important;grid-template-columns:repeat(2,minmax(0,1fr));gap:12px!important;padding:0!important;width:100%!important}
  main .page-1751 .service-card{width:100%!important;min-width:0!important;margin:0!important;padding:0!important;display:flex!important}
@@ -227,3 +227,23 @@ main .page-1751 .review-card{width:100%!important;padding:0!important;min-width:
 .archive-portfolio-link{display:inline-flex;align-items:center;min-height:44px;margin-bottom:24px;text-decoration:underline}
 @media(max-width:1024px){.service-contents{grid-template-columns:repeat(2,minmax(0,1fr))}.service-contents a:last-child{grid-column:1/-1}.service-trust{flex-direction:column;align-items:flex-start;gap:4px}.service-trust a{white-space:normal}.service-benefit-list{grid-template-columns:1fr}.service-stage-heading h2{font-size:25px}.service-contact-actions{grid-template-columns:1fr;gap:12px}.service-project-grid{grid-template-columns:repeat(2,minmax(0,1fr))}.about-team-grid{grid-template-columns:repeat(3,minmax(0,1fr))}}
 @media(max-width:640px){.service-project-grid{grid-template-columns:1fr}.about-team-grid{grid-template-columns:repeat(2,minmax(0,1fr));gap:12px}.service-contents{padding:20px}.service-stage-heading{padding:24px 20px 8px}.service-projects,.service-benefit-list,.service-pricing-note,.service-trust,.service-detail{padding-inline:20px}.service-contact,.service-warranty{margin-inline:20px}.service-contact h3{font-size:22px}.service-stage [data-layout-node].section{padding-block:28px!important}}
+
+/* Audit fixes preserve the palette while improving text contrast and semantics. */
+main .accessible-accent-dark{color:#ff7775!important}
+main .accessible-accent-light{color:#b52727!important}
+main .accessible-copy{color:#eee!important}
+main .accessible-download-link{color:#29458f!important}
+main .accessible-download-button{color:#fff!important}
+main p a:not(.action-link){text-decoration:underline!important;text-underline-offset:.15em}
+.floating-line{color:#07391c}
+[tabindex="0"]:focus-visible{outline:3px solid #168bda;outline-offset:4px}
+.archive-grid img{height:auto;aspect-ratio:4/3;object-fit:cover}
+@media(max-width:1024px){main .page-1751 .smart-card .media-widget img{height:112px!important}}
+@media(max-width:1024px){
+ main .page-1751 .review-card .media-widget{height:220px!important;overflow:hidden}
+ main .page-1751 .review-card .media-widget img{height:220px!important;object-fit:cover!important}
+}
+/* Keep offscreen sections out of initial layout; rendered heights are remembered. */
+@supports(content-visibility:auto){
+ .captured-page>[data-layout-node="n0"]>.section:nth-child(n+3),.service-stage:not(#service-overview){content-visibility:auto;contain-intrinsic-size:auto 900px}
+}
