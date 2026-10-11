@@ -4,6 +4,7 @@ import type {Metadata} from 'next';
 import {notFound} from 'next/navigation';
 import {englishPages} from '../../../../generated/english-pages';
 import {HeroPreload} from '../../../../components/HeroPreload';
+import {PageIdentity} from '../../../../components/StructuredData';
 import type {PagePath} from '../../../../generated/pages';
 
 type Props={params:Promise<{slug:string[]}>};
@@ -16,5 +17,5 @@ export async function generateMetadata({params}:Props):Promise<Metadata>{
 }
 export default async function EnglishPage({params}:Props){
  const path=pathFor((await params).slug),data=englishPages[path];if(!data)notFound();
- const {Component}=data;return <><HeroPreload path={path}/><PageStyles id={String(data.id)}/><Component/></>;
+ const {Component}=data;return <><PageIdentity path={'/en'+path} title={data.title} description={pageDescription(data.description,data.title,'en')} language="en"/><HeroPreload path={path}/><PageStyles id={String(data.id)}/><Component/></>;
 }

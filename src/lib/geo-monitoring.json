@@ -1,0 +1,32 @@
+{
+  "purpose": "Repeatable Thailand-first AI visibility measurement; not a GEO score or a ranking guarantee.",
+  "domain": "https://aitscctv.com/",
+  "preview": "https://aitscctv.github.io/website/",
+  "platforms": ["ChatGPT Search", "Google AI Mode", "Microsoft Copilot", "Perplexity"],
+  "language": "th",
+  "country": "TH",
+  "questions": [
+    {"id":"brand-services","intent":"branded","prompt":"AITSCCTV ให้บริการอะไรบ้าง และติดต่อได้ทางไหน"},
+    {"id":"brand-projects","intent":"branded","prompt":"AITSCCTV มีตัวอย่างผลงานติดตั้งกล้องวงจรปิดอะไรบ้าง"},
+    {"id":"cctv-provider","intent":"provider","prompt":"แนะนำบริษัทติดตั้งกล้องวงจรปิดในกรุงเทพ พร้อมแหล่งข้อมูลประกอบ"},
+    {"id":"cctv-warehouse","intent":"research","prompt":"ติดตั้งกล้องวงจรปิดสำหรับโกดัง ควรเลือกแบบไหนและวางแผนอย่างไร"},
+    {"id":"cctv-phone","intent":"research","prompt":"ต้องการติดตั้งกล้องวงจรปิดที่บ้านและดูผ่านมือถือ ควรพิจารณาอะไรบ้าง"},
+    {"id":"event-rental","intent":"provider","prompt":"ต้องการเช่ากล้องวงจรปิดสำหรับงานอีเวนต์ในกรุงเทพ มีผู้ให้บริการที่ไหนบ้าง"},
+    {"id":"office-network","intent":"provider","prompt":"แนะนำผู้ให้บริการวางระบบเครือข่ายและ WiFi สำหรับสำนักงานในกรุงเทพ"},
+    {"id":"lan-comparison","intent":"comparison","prompt":"สาย LAN CAT6 กับ CAT6a ต่างกันอย่างไร ควรใช้แบบไหนในสำนักงาน"},
+    {"id":"access-control","intent":"research","prompt":"ระบบ Access Control สำหรับสำนักงานควรเลือกอย่างไร"},
+    {"id":"smart-home","intent":"provider","prompt":"ต้องการติดตั้ง Smart Home ในกรุงเทพ ควรเลือกผู้ให้บริการจากอะไร"},
+    {"id":"security-system","intent":"research","prompt":"กล้องวงจรปิด ระบบกันขโมย และระบบแจ้งเหตุเพลิงไหม้ ต่างกันอย่างไร"},
+    {"id":"flood-sensor","intent":"opportunity-research","prompt":"ระบบแจ้งเตือนระดับน้ำสำหรับโรงงานในไทยควรใช้อะไร"}
+  ],
+  "recordFields": ["questionId", "platform", "modelOrMode", "timestamp", "locale", "searchEnabled", "brandMention", "citedUrls", "competitors", "answerEvidence", "runOutcome"],
+  "initialStatus": "AI-platform baseline not collected. Ordinary web search confirmed original-site discoverability on 2026-10-11; this is not evidence of AI recommendation share.",
+  "measurementNotes": [
+    "Run the same questions in fresh conversations with web search enabled. Record the interface, locale and date; repeat runs because answers vary.",
+    "Keep branded, provider and research questions separate. Do not infer nonbranded visibility from a branded lookup.",
+    "Use cited-answer share as a sample-specific metric, and record errors or unavailable AI answers separately from valid answers with no citation.",
+    "A crawler visit, standard search listing or passing technical audit does not prove an AI citation.",
+    "Water-level sensing is a research opportunity, not a verified AITSCCTV service claim.",
+    "Use Bing AI Performance, Search Console and attributable referral/enquiry data alongside sampled answers. Platform reports have different coverage."
+  ]
+}

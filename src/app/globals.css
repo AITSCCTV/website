@@ -318,3 +318,9 @@ main .page-40 .contact-map-link{display:inline-flex;align-items:center;justify-c
 html[lang="zh-Hans"] :is(body,h1,h2,h3,h4,p,a,li,button,input,summary,th,td,span){font-family:"PingFang SC","Microsoft YaHei","Noto Sans CJK SC",system-ui,sans-serif!important;letter-spacing:normal}
 html[lang="zh-Hans"] :is(p,li,td){line-height:1.7}
 html[lang="zh-Hans"] :is(h1,h2,h3){text-wrap:balance;overflow-wrap:anywhere}
+.article-directory{max-width:1200px;margin:0 auto 48px;padding:0 24px;color:#ddd;overflow-wrap:anywhere}
+.article-directory summary{cursor:pointer;min-height:44px;padding:12px 0;font-size:18px;font-weight:600}
+.article-directory nav{display:block;width:100%;font-size:inherit}
+.article-directory ul{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:8px 32px;padding-left:24px;margin-top:16px}
+.article-directory a{display:block;padding:10px 0;min-height:44px;text-decoration:underline;text-underline-offset:3px}
+@media(max-width:640px){.article-directory{padding:0 20px}.article-directory ul{grid-template-columns:1fr}}

@@ -33,6 +33,7 @@ jobs:
       - run: node scripts/prepare-pages.mjs
       - run: node scripts/verify-pages.mjs
       - run: node scripts/verify-seo.mjs
+      - run: node scripts/verify-geo.mjs
       - uses: actions/upload-pages-artifact@v3
         with:
           path: out

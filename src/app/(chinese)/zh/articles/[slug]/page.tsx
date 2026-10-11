@@ -3,6 +3,7 @@ import type {Metadata} from 'next';
 import {notFound} from 'next/navigation';
 import {SiteLink} from '../../../../../components/SiteLink';
 import articles from '../../../../../generated/chinese-editorial.json';
+import {ArticleIdentity} from '../../../../../components/StructuredData';
 
 type Props={params:Promise<{slug:string}>};
 export const dynamicParams=false;
@@ -16,6 +17,7 @@ export default async function ChineseArticle({params}:Props){
  const slug=(await params).slug,article=articles.find(a=>slugFor(a.href)===slug);if(!article)notFound();
  const body=process.env.GITHUB_PAGES==='true'?article.body.replace(/href="\/zh\//g,'href="/website/zh/'):article.body;
  return <article className="english-editorial" lang="zh-Hans">
+  <ArticleIdentity article={article} language="zh-Hans"/>
   <SiteLink prefetch={false} className="english-editorial-back" href="/zh/articles/">← 文章与项目案例</SiteLink>
   <h1>{article.title}</h1>
   <time dateTime={article.date}>{new Intl.DateTimeFormat('zh-CN',{day:'numeric',month:'long',year:'numeric',timeZone:'Asia/Bangkok'}).format(new Date(article.date+'+07:00'))}</time>

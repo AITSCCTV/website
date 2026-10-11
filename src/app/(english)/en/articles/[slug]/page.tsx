@@ -3,6 +3,7 @@ import type {Metadata} from 'next';
 import {notFound} from 'next/navigation';
 import {SiteLink} from '../../../../../components/SiteLink';
 import articles from '../../../../../generated/english-editorial.json';
+import {ArticleIdentity} from '../../../../../components/StructuredData';
 
 type Props={params:Promise<{slug:string}>};
 export const dynamicParams=false;
@@ -16,6 +17,7 @@ export default async function EnglishArticle({params}:Props){
  const slug=(await params).slug,article=articles.find(a=>slugFor(a.href)===slug);if(!article)notFound();
  const body=process.env.GITHUB_PAGES==='true'?article.body.replace(/href="\/en\//g,'href="/website/en/'):article.body;
  return <article className="english-editorial" lang="en">
+  <ArticleIdentity article={article} language="en"/>
   <SiteLink prefetch={false} className="english-editorial-back" href="/en/articles/">← Articles & project stories</SiteLink>
   <h1>{article.title}</h1>
   <time dateTime={article.date}>{new Intl.DateTimeFormat('en-GB',{day:'numeric',month:'long',year:'numeric',timeZone:'Asia/Bangkok'}).format(new Date(article.date+'+07:00'))}</time>

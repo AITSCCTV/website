@@ -1,10 +1,20 @@
 # AITSCCTV frontend
 
+## GEO preparation
+
+Shared layouts publish server-rendered LocalBusiness and WebSite JSON-LD using company facts already shown in the footer. Pages describe their language and canonical URL; the nine navigation services also describe their provider. English and Chinese articles include their existing publication date, publisher, image and Thai source. No ratings, named authors, opening hours or service coverage are inferred. JSON-LD is escaped for safe inline rendering and adds no executable client script.
+
+The three article archives have native expandable directories containing every available article link in the initial HTML. Search and pagination still work, and the directory works without JavaScript. This improves discovery of the existing collection; it does not migrate the remaining WordPress posts.
+
+After a GitHub Pages export, run `node scripts/verify-geo.mjs`. It validates deployment URLs, language, company/publisher references, source dates and complete directory links on every sitemap page, saving `qa/geo/technical-audit.json`. CI runs this check before deployment. These are technical checks, not an AI visibility score.
+
+`src/lib/geo-monitoring.json` defines twelve Thai questions and the evidence fields for comparable AI-search samples. Actual ChatGPT/Copilot/Google/Perplexity baseline results still need to be collected; ordinary web search is not substituted for those results. Domain verification in Search Console and Bing Webmaster Tools, crawl/CDN checks on the eventual production host, company review of published facts, and full WordPress content reconciliation remain launch requirements. Use the production domain for visibility reporting, and avoid treating the GitHub preview as a second authoritative business website.
+
 GitHub Pages preview: https://aitscctv.github.io/website/
 
 The Pages workflow builds and deploys every push to `main`. In repository Settings → Pages, select **GitHub Actions** as the source. Pages must be available for the repository's visibility and account plan.
 
-For a Pages build, set `GITHUB_PAGES=true`, run `npm run build`, then `node scripts/prepare-pages.mjs`. Deploy the `out` directory. The export uses `/website` as its base path; the preparation step prefixes captured public asset URLs in HTML, client bundles, RSC payloads and CSS. Normal local development and server builds still run at `/`. Preview search indexing remains disabled.
+For a Pages build, set `GITHUB_PAGES=true`, run `npm run build`, then `node scripts/prepare-pages.mjs`. Deploy the `out` directory. The export uses `/website` as its base path; the preparation step prefixes captured public asset URLs in HTML, client bundles, RSC payloads and CSS. Normal local development and server builds still run at `/`. The current preview permits indexing and uses self-referencing preview canonical URLs; review preview indexing and production canonical settings during migration.
 
 Next.js, React, TypeScript and Tailwind frontend with Thai and English versions of every page, plus 118 English article and project bodies.
 
@@ -40,7 +50,7 @@ With the local server running, `npm run verify` checks routes and assets. Instal
 
 Homepage standards cards are removed. The article archive remains at `/articles/`; English pages use `/en/`, with the archive at `/en/articles/` and full article bodies under `/en/articles/<id>-<title>/`. The language switch preserves the matching page; English articles link back to their original Thai WordPress articles.
 
-This is a preview build: search indexing is disabled and live CMS updates are not connected. External forms and technician login use their existing destinations. Original media may contain Thai text or audio. See README.txt for details.
+This is a preview build: live CMS updates are not connected. External forms and technician login use their existing destinations. Original media may contain Thai text or audio. See README.txt for details.
 
 ## Responsive layouts
 
@@ -54,7 +64,7 @@ Static raster images have local WebP candidates at up to 160, 320, 640 and 1280 
 
 After adding or changing captured images, run `npm run optimize:images`, then `npm run generate`. The optimizer downloads external originals into the ignored `qa/image-originals` cache. The versioned `src/lib/image-assets.json` and `public/assets` variants make regular builds independent of WordPress. Check `qa/image-optimization.json` for failures. Node Sharp is pinned as a development dependency.
 
-Header and footer links use `prefetch={false}` while retaining Next.js client navigation. Kanit uses three weights (300, 400, 600); the other text weights map to these. Legacy icon fonts are replaced with small SVG masks made from their original outlines. Versioned icons need no Python during normal builds. Optional `scripts/export-svg-icons.py` requires fonttools and brotli to regenerate outlines; copyright and Font Awesome license notices are included with the assets.
+Header and footer links use native navigation without Next.js prefetching. Kanit uses two weights (400, 600); other text weights map to these. Legacy icon fonts are replaced with small SVG masks made from their original outlines. Versioned icons need no Python during normal builds. Optional `scripts/export-svg-icons.py` requires fonttools and brotli to regenerate outlines; copyright and Font Awesome license notices are included with the assets.
 
 The generator keeps only rendered classes, factors 46 common declarations into `public/pages/shared.css`, and groups identical remaining rules. Source captures are kept intact for future regeneration. After service restructuring, captured CSS is approximately 1.1 MB across 35 generated pages, down from 6 MB; these are uncompressed totals, not per-visit downloads.
 
