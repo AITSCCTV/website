@@ -2,6 +2,7 @@ import type {NextConfig} from 'next';
 const config:NextConfig={
  trailingSlash:true,
  poweredByHeader:false,
+ experimental:{inlineCss:true},
  env:{NEXT_PUBLIC_SITE_BASE_PATH:process.env.GITHUB_PAGES==='true'?'/website':''},
  distDir:process.env.NODE_ENV==='development'?'.next-dev':'.next',
  ...(process.env.GITHUB_PAGES==='true'?{

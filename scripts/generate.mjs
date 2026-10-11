@@ -33,7 +33,7 @@ function rewriteStyle(rule,phone=false){
  const family=rule.match(/font-family:([^;]+)/)?.[1]?.replaceAll('"','');
  const weight=rule.match(/font-weight:(\d+)/)?.[1];
  const icon=iconContent&&iconAssets[family+'|'+weight+'|'+iconContent[1].codePointAt(0).toString(16)];
- rule=rule.replace(/font-weight:(500|700)/g,(_,weight)=>'font-weight:'+(weight==='500'?'400':'600')).replace(/font-family:(?:"Font Awesome 5 (?:Free|Brands)"|eicons)/g,'font-family:Kanit, sans-serif');
+ rule=rule.replace(/font-weight:(300|500|700)/g,(_,weight)=>'font-weight:'+(weight==='700'?'600':'400')).replace(/font-family:(?:"Font Awesome 5 (?:Free|Brands)"|eicons)/g,'font-family:Kanit, sans-serif');
  rule=rule.replace(/url\(["']?([^"')]+)["']?\)/g,(_,url)=>'url("'+imageUrl(url,phone)+'")');
  if(icon){
   rule=rule.replace(/(?:content|width|height|display|background-color|background-image|vertical-align):[^;]+;?/g,'');

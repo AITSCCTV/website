@@ -16,6 +16,7 @@ for(const locale of ['','/en','/zh']){
   expect(await page.locator('meta[name="robots"]').getAttribute('content')).not.toContain('noindex');
   if(route!=='/articles/')await expect(page.locator('style[data-page-styles]')).toHaveCount(2);
   expect(await page.locator('link[rel="stylesheet"][href*="/pages/"]').count()).toBe(0);
+  expect(await page.locator('link[rel="stylesheet"]').count()).toBe(0);
   const links=await page.locator('a[href^="/"]').evaluateAll(nodes=>nodes.map(n=>n.getAttribute('href')));
   if(base)expect(links.filter(href=>!href.startsWith(base+'/')&&!href.startsWith('//'))).toEqual([]);
   checks.push(locale+route);
