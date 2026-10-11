@@ -9,7 +9,7 @@ const slugFor=(href:string)=>href.split('/').filter(Boolean).at(-1);
 export function generateStaticParams(){return articles.map(article=>({slug:slugFor(article.href)}))}
 export async function generateMetadata({params}:Props):Promise<Metadata>{
  const slug=(await params).slug,article=articles.find(a=>slugFor(a.href)===slug);
- return article?{title:article.title+' | AITSCCTV',description:article.description,alternates:{canonical:'https://aitscctv.com'+article.href,languages:{th:article.original,en:'https://aitscctv.com'+article.href}}}:{title:'Article not found | AITSCCTV'};
+ return article?{title:article.title+' | AITSCCTV',description:article.description,alternates:{canonical:'https://aitscctv.com'+article.href,languages:{th:article.original,en:'https://aitscctv.com'+article.href,'zh-Hans':'https://aitscctv.com'+article.href.replace(/^\/en\//,'/zh/')}}}:{title:'Article not found | AITSCCTV'};
 }
 export default async function EnglishArticle({params}:Props){
  const slug=(await params).slug,article=articles.find(a=>slugFor(a.href)===slug);if(!article)notFound();

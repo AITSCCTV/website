@@ -314,3 +314,7 @@ main .page-40 .contact-map-link{display:inline-flex;align-items:center;justify-c
 .english-editorial-contact h2{font-size:22px!important;color:#fff}
 .english-editorial-contact a{display:block;min-height:44px;line-height:1.5;padding-block:10px}
 @media(max-width:640px){.english-editorial{padding:28px 20px 40px}.english-editorial-body :is(h2,h3,h4,h5,h6){font-size:21px!important}}
+
+html[lang="zh-Hans"] :is(body,h1,h2,h3,h4,p,a,li,button,input,summary,th,td,span){font-family:"PingFang SC","Microsoft YaHei","Noto Sans CJK SC",system-ui,sans-serif!important;letter-spacing:normal}
+html[lang="zh-Hans"] :is(p,li,td){line-height:1.7}
+html[lang="zh-Hans"] :is(h1,h2,h3){text-wrap:balance;overflow-wrap:anywhere}

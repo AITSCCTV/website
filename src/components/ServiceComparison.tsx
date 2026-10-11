@@ -1,3 +1,5 @@
+import type {ContentLanguage} from '../lib/locale-path';
+import {uiText} from '../lib/localization-ui';
 import {translateText} from '../lib/localization';
 const lanRows=[
  ['CAT 5e','เครือข่าย Gigabit สำหรับบ้านและสำนักงาน','ทางเลือกสำหรับการใช้งานทั่วไป เลือกสายและหัวต่อที่ได้มาตรฐาน'],
@@ -13,7 +15,7 @@ const securityRows=[
  ['ระบบแจ้งเหตุเพลิงไหม้ (Fire Alarm System)','ตรวจจับควันหรือความร้อน และส่งสัญญาณเตือน','บ้าน อาคาร และสำนักงานที่ต้องการแจ้งเตือนอัคคีภัย'],
 ];
 
-export function ServiceComparison({kind,english=false}:{kind:'lan'|'security';english?:boolean}){
+export function ServiceComparison({kind,english=false}:{kind:'lan'|'security';english?:ContentLanguage}){
  const lan=kind==='lan',id=`${kind}-comparison`;
  const title=translateText(lan?'เปรียบเทียบประเภทสาย LAN':'เปรียบเทียบระบบรักษาความปลอดภัย',english);
  return <div className="service-comparison" id={id}>
@@ -22,7 +24,7 @@ export function ServiceComparison({kind,english=false}:{kind:'lan'|'security';en
   <p>{translateText(lan?'เลือกสายให้เหมาะกับความเร็ว ระยะทาง และอุปกรณ์ที่ใช้งาน':'เลือกระบบตามเหตุที่ต้องการตรวจจับและลักษณะพื้นที่ โดยสามารถใช้หลายระบบร่วมกันได้',english)}</p>
   <p className="comparison-scroll-hint" id={`${id}-hint`}>{translateText("เลื่อนตารางซ้าย–ขวาเพื่อดูข้อมูลทั้งหมด",english)}</p>
   <div className="comparison-scroll" role="region" aria-labelledby={`${id}-heading`} aria-describedby={`${id}-hint`} tabIndex={0}>
-   <table><caption className="screen-reader-text">{title}</caption><thead><tr>{(lan?['ประเภทสาย','เหมาะกับการใช้งาน','ข้อควรพิจารณา']:['ระบบ','หน้าที่หลัก','เหมาะกับพื้นที่']).map(label=><th scope="col" key={label}>{english&&label==='หน้าที่หลัก'?'Main function':translateText(label,english)}</th>)}</tr></thead>
+   <table><caption className="screen-reader-text">{title}</caption><thead><tr>{(lan?['ประเภทสาย','เหมาะกับการใช้งาน','ข้อควรพิจารณา']:['ระบบ','หน้าที่หลัก','เหมาะกับพื้นที่']).map(label=><th scope="col" key={label}>{english&&label==='หน้าที่หลัก'?uiText('Main function',english):translateText(label,english)}</th>)}</tr></thead>
     <tbody>{(lan?lanRows:securityRows).map(([label,...cells])=><tr key={label}><th scope="row">{translateText(label,english)}</th>{cells.map(cell=><td key={cell}>{translateText(cell,english)}</td>)}</tr>)}</tbody>
    </table>
   </div>

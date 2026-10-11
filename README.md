@@ -8,6 +8,8 @@ For a Pages build, set `GITHUB_PAGES=true`, run `npm run build`, then `node scri
 
 Next.js, React, TypeScript and Tailwind frontend with Thai and English versions of every page, plus 118 English article and project bodies.
 
+Simplified Chinese is available at `/zh/`, with the same pages and 118 translated article/project bodies. The header switches between matching Thai, English and Chinese routes. Original image artwork, video audio and external forms/technician portal retain their source language. Chinese uses system fonts; it does not download a large CJK font.
+
 ## Run locally
 
 Requires Node.js 20.19 or later.
@@ -71,6 +73,10 @@ All 22 service pages follow the same order: overview, benefits, options/pricing,
 Translations are stored in `src/lib/site-en.json` and `src/lib/home-en.json`. No OpenAI key or runtime translation service is required. `npm run generate` rebuilds translated pages and article bodies from these dictionaries and the cached public posts in `design-source/editorial/posts.json`. The article compiler removes unsafe markup and empty links, localizes related article/service links, and uses responsive local images. The client archive imports only a small article index; full bodies render on the server or during static export.
 
 Run `node scripts/check-english.mjs` to check generated page metadata, service content, video labels, article titles, summaries, body text and accessibility labels for untranslated Thai. This check also runs in the deployment pipeline. To incorporate later CMS updates, refresh the editorial cache, translate newly discovered content, regenerate and verify before publishing.
+
+Chinese copy is versioned in `src/lib/site-zh.json`; the compact `ui-zh.json` contains only interface/home labels for client components. Full article bodies stay outside client dictionaries. `npm run generate` also runs `scripts/generate-chinese.mjs`. `scripts/prepare-chinese-translations.mjs` is an optional preparation tool that sends only published English copy to a public translation endpoint; generated drafts require review, and translations are never fetched at runtime. No translation API key is needed by the website.
+
+Run `node scripts/check-chinese.mjs` for article coverage, original links, language tags, untranslated Thai and AITSCCTV brand integrity. Set `TEST_ORIGIN` to a production preview and run `node scripts/chinese-regression.mjs` for all 154 Chinese routes at phone/desktop widths, language metadata, matching switches, search, pagination, video controls and runtime errors. Set `AXE=true` with the documented isolated axe installation for accessibility checks.
 
 Against a prepared static export preview, set `TEST_ORIGIN` to its `/website` URL and run `node scripts/english-regression.mjs` for all 154 English routes at 320, 768 and 1440px, metadata, language switches, runtime errors and no-JavaScript article access. Run `node scripts/english-navigation.mjs` to check archive search, article navigation and browser back. Export processing preserves React text-record byte lengths when prefixing assets, and normalizes Windows segment-cache filenames for the browser router.
 

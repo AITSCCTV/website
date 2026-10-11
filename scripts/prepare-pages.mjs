@@ -12,10 +12,11 @@ const rewriteAssets=text=>text.replace(/(?<![\w/.])\/(assets|pages)\//g,'/websit
 function rewriteFlight(text){
  const bytes=Buffer.from(text),parts=[];let offset=0;
  while(offset<bytes.length){
-  const rest=bytes.subarray(offset).toString();
+  const rest=bytes.subarray(offset,Math.min(offset+80,bytes.length)).toString();
   const record=rest.match(/^([0-9a-f]+):T([0-9a-f]+),/);
   if(record){
    const start=offset+Buffer.byteLength(record[0]),end=start+parseInt(record[2],16);
+   if(end>bytes.length)throw new Error('Invalid Flight text-record byte length');
    const payload=rewriteAssets(bytes.subarray(start,end).toString());
    parts.push(`${record[1]}:T${Buffer.byteLength(payload).toString(16)},${payload}`);offset=end;
   }else{
@@ -61,7 +62,7 @@ prepare('out');
 // GitHub Pages has no server redirect rules. Redirect the legacy article URL
 // before downloading the app runtime, preserving its query and fragment. A
 // no-JavaScript visitor also gets a redirect and the visible archive link.
-for(const locale of ['', 'en/']){
+for(const locale of ['', 'en/', 'zh/']){
  const legacy=`out/${locale}blog/index.html`,destination=`/website/${locale}articles/`;
  if(!fs.existsSync(legacy))continue;
  const html=fs.readFileSync(legacy,'utf8');

@@ -10,7 +10,7 @@ const pathFor=(slug:string[])=>('/'+slug.join('/')+'/') as PagePath;
 export function generateStaticParams(){return Object.keys(englishPages).filter(path=>path!=='/').map(path=>({slug:path.split('/').filter(Boolean)}))}
 export async function generateMetadata({params}:Props):Promise<Metadata>{
  const path=pathFor((await params).slug),page=englishPages[path];
- return page?{title:page.title,description:page.description,alternates:{canonical:'https://aitscctv.com/en'+path,languages:{th:'https://aitscctv.com'+path,en:'https://aitscctv.com/en'+path}}}:{title:'Page not found | AITSCCTV'};
+ return page?{title:page.title,description:page.description,alternates:{canonical:'https://aitscctv.com/en'+path,languages:{th:'https://aitscctv.com'+path,en:'https://aitscctv.com/en'+path,'zh-Hans':'https://aitscctv.com/zh'+path}}}:{title:'Page not found | AITSCCTV'};
 }
 export default async function EnglishPage({params}:Props){
  const path=pathFor((await params).slug),data=englishPages[path];if(!data)notFound();

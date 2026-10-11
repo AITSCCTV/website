@@ -1,0 +1,501 @@
+// Generated from the design capture. Corrections are applied in the generator.
+import {Fragment} from "react";
+import {SiteLink} from "../components/SiteLink";
+import {VideoFrame} from "../components/VideoFrame";
+import {LogoCarousel} from "../components/LogoCarousel";
+import {ContactPhone} from "../components/ContactPhone";
+import {ServiceTrust,ServiceContents,ServiceBenefits,ServicePricing,ServiceWarranty,ServiceProjects,ServiceContact,AboutTeamGallery} from "../components/ServiceContent";
+export default function ChinesePage4741(){return <div lang="zh-Hans" className="page-4741 english-page captured-page"><div data-layout-node={"n0"} className={"v0 captured-style"}>
+<section id={"service-overview"} className={"service-stage"} data-service-stage={"overview"}>
+<div data-layout-node={"n1"} className={"v1 section captured-style"}>
+<div data-layout-node={"n2"} className={"v2 captured-style"}>
+<div data-layout-node={"n3"} className={"v3 text-widget captured-style"}>
+<div data-layout-node={"n4"} className={"v4 text-widget captured-style"}>
+<p data-layout-node={"n5"} className={"v5 accessible-accent-dark captured-style"}>
+{"卡片扫描仪  "}
+</p>
+</div>
+</div>
+<div data-layout-node={"n6"} className={"v3 text-widget captured-style"}>
+<div data-layout-node={"n7"} className={"v4 text-widget captured-style"}>
+<p data-layout-node={"n8"} className={"v6 large-copy captured-style"}>
+{"感应卡读卡器安装"}
+<br data-layout-node={"n9"} className={"v7 captured-style"} />
+{"卡片扫描仪"}
+</p>
+</div>
+</div>
+</div>
+</div>
+<div data-layout-node={"n10"} className={"v8 section captured-style"}>
+<div data-layout-node={"n11"} className={"v2 captured-style"}>
+<div data-layout-node={"n12"} className={"v3 text-widget captured-style"}>
+<div data-layout-node={"n13"} className={"v4 text-widget captured-style"}>
+<p data-layout-node={"n14"} className={"v9 accessible-accent-dark captured-style"}>
+{"卡片扫描仪系统"}
+</p>
+</div>
+</div>
+<div data-layout-node={"n15"} className={"v3 text-widget captured-style"}>
+<div data-layout-node={"n16"} className={"v4 text-widget captured-style"}>
+<h1 data-layout-node={"n17"} className={"v10 captured-style"}>
+{"优质卡扫描仪、感应读卡器和钥匙卡门安装以及周到的服务。"}
+</h1>
+</div>
+</div>
+<div data-layout-node={"n18"} className={"v11 text-widget captured-style"}>
+<div data-layout-node={"n19"} className={"v12 text-widget captured-style"}>
+<p data-layout-node={"n20"} className={"v13 captured-style"}>
+{"我们为家庭和办公室提供完整的卡扫描仪、感应读卡器和钥匙卡门安全装置。我们的技术人员拥有 20 多年的经验，为系统设计提供建议，并密切支持系统，以使用国际标准最大限度地提高客户安全性和满意度。"}
+<span data-layout-node={"n21"} className={"v14 accessible-accent-dark captured-style"}>
+<SiteLink data-layout-node={"n22"} className={"v14 accessible-accent-dark captured-style"} href={"/zh/"}>
+{"AITSCCTV"}
+</SiteLink>
+</span>
+{"您可以信赖的领先公司"}
+</p>
+</div>
+</div>
+<div data-layout-node={"n23"} className={"v15 section captured-style"}>
+<div data-layout-node={"n24"} className={"v16 layout-row captured-style layout-row"}>
+<div data-layout-node={"n25"} className={"v17 section captured-style"}>
+<div data-layout-node={"n26"} className={"v18 captured-style"}>
+<div data-layout-node={"n27"} className={"v19 text-widget captured-style"}>
+<div data-layout-node={"n28"} className={"v20 text-widget captured-style"}>
+<h2 data-layout-node={"n29"} className={"v21 captured-style"}>
+{"安装卡片扫描仪和钥匙卡门系统"}
+<br data-layout-node={"n30"} className={"v22 captured-style"} />
+{"为什么选择我们？"}
+</h2>
+</div>
+</div>
+<div data-layout-node={"n31"} className={"v11 captured-style"}>
+<div data-layout-node={"n32"} className={"v12 captured-style"}>
+{"卡片扫描仪在办公室、家庭和其他住宅物业中很受欢迎。卡片扫描和钥匙卡门可提高安全性并记录进出情况，安装和操作简单。 AITSCCTV 由拥有 20 多年经验、深受许多办事处信赖的专家团队安装符合标准的卡片扫描仪设备。"}
+</div>
+</div>
+</div>
+</div>
+<div data-layout-node={"n33"} className={"v17 section media-widget captured-style"}>
+<div data-layout-node={"n34"} className={"v23 media-widget captured-style"}>
+<div data-layout-node={"n35"} className={"v3 media-widget captured-style"}>
+<div data-layout-node={"n36"} className={"v4 media-widget captured-style"}>
+<img data-layout-node={"n37"} className={"v24 captured-style"} src={"/assets/remote-145fee94a640b3eb-responsive-640.webp"} alt={"智能家居平板墙"} loading={"lazy"} decoding={"async"} width={"6720"} height={"4480"} srcSet={"/assets/remote-145fee94a640b3eb-responsive-160.webp 160w, /assets/remote-145fee94a640b3eb-responsive-320.webp 320w, /assets/remote-145fee94a640b3eb-responsive-640.webp 640w, /assets/remote-145fee94a640b3eb-responsive-1280.webp 1280w"} sizes={"(max-width: 640px) calc(100vw - 40px), (max-width: 1024px) 50vw, 540px"} />
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div data-layout-node={"n38"} className={"v25 section layout-row captured-style layout-row"}>
+<div data-layout-node={"n39"} className={"v26 captured-style"}>
+<div data-layout-node={"n40"} className={"v27 captured-style"}>
+<div data-layout-node={"n41"} className={"v28 captured-style"}>
+<figure data-layout-node={"n42"} className={"v29 media-widget captured-style"}>
+<img data-layout-node={"n43"} className={"v30 captured-style"} src={"/assets/remote-0bae88980c400ac8-responsive-512.webp"} alt={"家庭安全"} loading={"lazy"} decoding={"async"} width={"512"} height={"512"} srcSet={"/assets/remote-0bae88980c400ac8-responsive-160.webp 160w, /assets/remote-0bae88980c400ac8-responsive-320.webp 320w, /assets/remote-0bae88980c400ac8-responsive-512.webp 512w"} sizes={"67px"} />
+</figure>
+<div data-layout-node={"n44"} className={"v31 captured-style"}>
+<h3 data-layout-node={"n45"} className={"v32 captured-style"}>
+{"安全通过"}
+<SiteLink data-layout-node={"n46"} className={"v33 accessible-accent-dark captured-style"} href={"https://aitscctv.com/access-control-automatic-door-system/"}>
+{"门禁控制"}
+</SiteLink>
+</h3>
+<p data-layout-node={"n47"} className={"v34 captured-style"}>
+{"通过限制进入来帮助保护场所安全"}
+</p>
+</div>
+</div>
+</div>
+</div>
+<div data-layout-node={"n48"} className={"v26 captured-style"}>
+<div data-layout-node={"n49"} className={"v27 captured-style"}>
+<div data-layout-node={"n50"} className={"v28 captured-style"}>
+<figure data-layout-node={"n51"} className={"v29 media-widget captured-style"}>
+<img data-layout-node={"n52"} className={"v35 captured-style"} src={"/assets/remote-4ec2380225a0077c-responsive-512.webp"} alt={"评级"} loading={"lazy"} decoding={"async"} width={"512"} height={"512"} srcSet={"/assets/remote-4ec2380225a0077c-responsive-160.webp 160w, /assets/remote-4ec2380225a0077c-responsive-320.webp 320w, /assets/remote-4ec2380225a0077c-responsive-512.webp 512w"} sizes={"50px"} />
+</figure>
+<div data-layout-node={"n53"} className={"v31 captured-style"}>
+<h3 data-layout-node={"n54"} className={"v32 captured-style"}>
+{"符合标准的卡片扫描仪"}
+</h3>
+<p data-layout-node={"n55"} className={"v34 captured-style"}>
+{"我们的感应式读卡器使用现代化的、符合标准的设备。"}
+</p>
+</div>
+</div>
+</div>
+</div>
+<div data-layout-node={"n56"} className={"v26 captured-style"}>
+<div data-layout-node={"n57"} className={"v27 captured-style"}>
+<div data-layout-node={"n58"} className={"v28 captured-style"}>
+<figure data-layout-node={"n59"} className={"v29 media-widget captured-style"}>
+<img data-layout-node={"n60"} className={"v35 captured-style"} src={"/assets/remote-896080ede2dca52b-responsive-512.webp"} alt={"证据"} loading={"lazy"} decoding={"async"} width={"512"} height={"512"} srcSet={"/assets/remote-896080ede2dca52b-responsive-160.webp 160w, /assets/remote-896080ede2dca52b-responsive-320.webp 320w, /assets/remote-896080ede2dca52b-responsive-512.webp 512w"} sizes={"50px"} />
+</figure>
+<div data-layout-node={"n61"} className={"v31 captured-style"}>
+<h3 data-layout-node={"n62"} className={"v32 captured-style"}>
+{"近距离阅读器帮助跟踪访问"}
+</h3>
+<p data-layout-node={"n63"} className={"v34 captured-style"}>
+{"记录人员进入和离开，并提供日志供以后查看。"}
+</p>
+</div>
+</div>
+</div>
+</div>
+<div data-layout-node={"n64"} className={"v26 captured-style"}>
+<div data-layout-node={"n65"} className={"v27 captured-style"}>
+<div data-layout-node={"n66"} className={"v28 captured-style"}>
+<figure data-layout-node={"n67"} className={"v29 media-widget captured-style"}>
+<img data-layout-node={"n68"} className={"v30 captured-style"} src={"/assets/remote-4ade2fff0128b3c8-responsive-512.webp"} alt={"非接触式"} loading={"lazy"} decoding={"async"} width={"512"} height={"512"} srcSet={"/assets/remote-4ade2fff0128b3c8-responsive-160.webp 160w, /assets/remote-4ade2fff0128b3c8-responsive-320.webp 320w, /assets/remote-4ade2fff0128b3c8-responsive-512.webp 512w"} sizes={"67px"} />
+</figure>
+<div data-layout-node={"n69"} className={"v31 captured-style"}>
+<h3 data-layout-node={"n70"} className={"v32 captured-style"}>
+{"易于使用的卡片扫描仪"}
+</h3>
+<p data-layout-node={"n71"} className={"v34 captured-style"}>
+{"避免携带钥匙和其他笨重的设备；您所需要的只是一张钥匙卡。"}
+</p>
+</div>
+</div>
+</div>
+</div>
+<div data-layout-node={"n72"} className={"v26 captured-style"}>
+<div data-layout-node={"n73"} className={"v27 captured-style"}>
+<div data-layout-node={"n74"} className={"v28 captured-style"}>
+<figure data-layout-node={"n75"} className={"v29 media-widget captured-style"}>
+<img data-layout-node={"n76"} className={"v30 captured-style"} src={"/assets/remote-1ab2c180da5127bf-responsive-512.webp"} alt={"家庭自动化"} loading={"lazy"} decoding={"async"} width={"512"} height={"512"} srcSet={"/assets/remote-1ab2c180da5127bf-responsive-160.webp 160w, /assets/remote-1ab2c180da5127bf-responsive-320.webp 320w, /assets/remote-1ab2c180da5127bf-responsive-512.webp 512w"} sizes={"67px"} />
+</figure>
+<div data-layout-node={"n77"} className={"v31 captured-style"}>
+<h3 data-layout-node={"n78"} className={"v32 captured-style"}>
+{"记录信息"}
+</h3>
+<p data-layout-node={"n79"} className={"v34 captured-style"}>
+{"如果发生意外事件（例如入侵或非法活动），请查看历史记录。"}
+</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<ServiceTrust english="zh" />
+</section>
+<ServiceContents english="zh" />
+<section id={"service-benefits"} className={"service-stage"} data-service-stage={"benefits"}>
+<div className={"service-stage-heading"}>
+<h2>
+{"优点和用途"}
+</h2>
+</div>
+<ServiceBenefits path={"/access-control-system/card-scanner/"} english="zh" />
+<details className={"service-detail"}>
+<summary>
+{"详细的好处和用途"}
+</summary>
+<div className={"service-detail-content"}>
+<div data-layout-node={"n91"} className={"v8 section captured-style"}>
+<div data-layout-node={"n92"} className={"v47 captured-style"}>
+<div data-layout-node={"n93"} className={"v3 text-widget captured-style"}>
+<div data-layout-node={"n94"} className={"v4 text-widget captured-style"}>
+<p data-layout-node={"n95"} className={"v5 accessible-accent-dark captured-style"}>
+{"设计和设置卡片扫描仪系统"}
+</p>
+</div>
+</div>
+<div data-layout-node={"n96"} className={"v3 text-widget captured-style"}>
+<div data-layout-node={"n97"} className={"v4 text-widget captured-style"}>
+<h2 data-layout-node={"n98"} className={"v48 captured-style"}>
+{"谁应该安装卡片扫描仪或感应读卡器？"}
+</h2>
+</div>
+</div>
+<div data-layout-node={"n99"} className={"v11 text-widget captured-style"}>
+<div data-layout-node={"n100"} className={"v12 text-widget captured-style"}>
+<p data-layout-node={"n101"} className={"v13 captured-style"}>
+<span data-layout-node={"n102"} className={"v14 accessible-accent-dark captured-style"}>
+<SiteLink data-layout-node={"n103"} className={"v14 accessible-accent-dark captured-style"} href={"https://aitscctv.com/access-control-system-1/"}>
+{"安装卡片扫描仪有很多好处"}
+</SiteLink>
+</span>
+{"适合许多地点和组织，包括家庭、其他住宅、宿舍和教育机构，例如："}
+</p>
+</div>
+</div>
+<div data-layout-node={"n104"} className={"v49 section layout-row captured-style layout-row"}>
+<div data-layout-node={"n105"} className={"v26 captured-style"}>
+<div data-layout-node={"n106"} className={"v50 captured-style"}>
+<div data-layout-node={"n107"} className={"v51 captured-style"}>
+<figure data-layout-node={"n108"} className={"v52 media-widget captured-style"}>
+<img data-layout-node={"n109"} className={"v53 captured-style"} src={"/assets/remote-7002549a70d05766-responsive-640.webp"} alt={"高天花板的豪华酒店接待厅休息室餐厅"} loading={"lazy"} decoding={"async"} width={"2048"} height={"1365"} srcSet={"/assets/remote-7002549a70d05766-responsive-160.webp 160w, /assets/remote-7002549a70d05766-responsive-320.webp 320w, /assets/remote-7002549a70d05766-responsive-640.webp 640w, /assets/remote-7002549a70d05766-responsive-1280.webp 1280w"} sizes={"(max-width: 640px) calc(100vw - 40px), (max-width: 1024px) 50vw, 333px"} />
+</figure>
+<div data-layout-node={"n110"} className={"v54 text-widget captured-style"}>
+<h3 data-layout-node={"n111"} className={"v55 captured-style"}>
+{"酒店刷卡器安装"}
+</h3>
+</div>
+</div>
+</div>
+</div>
+<div data-layout-node={"n112"} className={"v26 captured-style"}>
+<div data-layout-node={"n113"} className={"v50 captured-style"}>
+<div data-layout-node={"n114"} className={"v51 captured-style"}>
+<figure data-layout-node={"n115"} className={"v52 media-widget captured-style"}>
+<img data-layout-node={"n116"} className={"v56 captured-style"} src={"/assets/remote-1140d4a44409f76e-responsive-640.webp"} alt={"带有绿地的新建筑"} loading={"lazy"} decoding={"async"} width={"2560"} height={"1707"} srcSet={"/assets/remote-1140d4a44409f76e-responsive-160.webp 160w, /assets/remote-1140d4a44409f76e-responsive-320.webp 320w, /assets/remote-1140d4a44409f76e-responsive-640.webp 640w, /assets/remote-1140d4a44409f76e-responsive-1280.webp 1280w"} sizes={"(max-width: 640px) calc(100vw - 40px), (max-width: 1024px) 50vw, 333px"} />
+</figure>
+<div data-layout-node={"n117"} className={"v54 text-widget captured-style"}>
+<h3 data-layout-node={"n118"} className={"v55 captured-style"}>
+{"宿舍卡扫描仪安装"}
+</h3>
+</div>
+</div>
+</div>
+</div>
+<div data-layout-node={"n119"} className={"v26 captured-style"}>
+<div data-layout-node={"n120"} className={"v50 captured-style"}>
+<div data-layout-node={"n121"} className={"v51 captured-style"}>
+<figure data-layout-node={"n122"} className={"v52 media-widget captured-style"}>
+<img data-layout-node={"n123"} className={"v56 captured-style"} src={"/assets/remote-efbfd2c4de59e35a-responsive-640.webp"} alt={"由于冠状病毒大流行，教室空荡荡。"} loading={"lazy"} decoding={"async"} width={"2560"} height={"1707"} srcSet={"/assets/remote-efbfd2c4de59e35a-responsive-160.webp 160w, /assets/remote-efbfd2c4de59e35a-responsive-320.webp 320w, /assets/remote-efbfd2c4de59e35a-responsive-640.webp 640w, /assets/remote-efbfd2c4de59e35a-responsive-1280.webp 1280w"} sizes={"(max-width: 640px) calc(100vw - 40px), (max-width: 1024px) 50vw, 333px"} />
+</figure>
+<div data-layout-node={"n124"} className={"v54 text-widget captured-style"}>
+<h3 data-layout-node={"n125"} className={"v55 captured-style"}>
+{"为教育机构安装读卡器"}
+</h3>
+</div>
+</div>
+</div>
+</div>
+<div data-layout-node={"n126"} className={"v26 captured-style"}>
+<div data-layout-node={"n127"} className={"v50 captured-style"}>
+<div data-layout-node={"n128"} className={"v51 captured-style"}>
+<figure data-layout-node={"n129"} className={"v52 media-widget captured-style"}>
+<img data-layout-node={"n130"} className={"v57 captured-style"} src={"/assets/remote-df61ea53a33c2503-responsive-640.webp"} alt={"现代办公室设计与人工智能产生的计算机技术成功"} loading={"lazy"} decoding={"async"} width={"1000"} height={"571"} srcSet={"/assets/remote-df61ea53a33c2503-responsive-160.webp 160w, /assets/remote-df61ea53a33c2503-responsive-320.webp 320w, /assets/remote-df61ea53a33c2503-responsive-640.webp 640w, /assets/remote-df61ea53a33c2503-responsive-1000.webp 1000w"} sizes={"(max-width: 640px) calc(100vw - 40px), (max-width: 1024px) 50vw, 333px"} />
+</figure>
+<div data-layout-node={"n131"} className={"v54 text-widget captured-style"}>
+<h3 data-layout-node={"n132"} className={"v55 captured-style"}>
+{"办公卡扫描仪安装"}
+</h3>
+</div>
+</div>
+</div>
+</div>
+<div data-layout-node={"n133"} className={"v26 captured-style"}>
+<div data-layout-node={"n134"} className={"v50 captured-style"}>
+<div data-layout-node={"n135"} className={"v51 captured-style"}>
+<figure data-layout-node={"n136"} className={"v52 media-widget captured-style"}>
+<img data-layout-node={"n137"} className={"v58 captured-style"} src={"/assets/remote-255c347e8ec0e98f-responsive-640.webp"} alt={"空荡荡的走廊背景"} loading={"lazy"} decoding={"async"} width={"3500"} height={"2502"} srcSet={"/assets/remote-255c347e8ec0e98f-responsive-160.webp 160w, /assets/remote-255c347e8ec0e98f-responsive-320.webp 320w, /assets/remote-255c347e8ec0e98f-responsive-640.webp 640w, /assets/remote-255c347e8ec0e98f-responsive-1280.webp 1280w"} sizes={"(max-width: 640px) calc(100vw - 40px), (max-width: 1024px) 50vw, 333px"} />
+</figure>
+<div data-layout-node={"n138"} className={"v54 text-widget captured-style"}>
+<h3 data-layout-node={"n139"} className={"v55 captured-style"}>
+{"医疗机构卡扫描仪安装"}
+</h3>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</details>
+</section>
+<section id={"service-options"} className={"service-stage"} data-service-stage={"options"}>
+<div className={"service-stage-heading"}>
+<h2>
+{"服务选项和定价"}
+</h2>
+</div>
+<ServicePricing path={"/access-control-system/card-scanner/"} english="zh" />
+<div data-layout-node={"n140"} className={"v8 section captured-style"}>
+<div data-layout-node={"n141"} className={"v59 captured-style"}>
+<div data-layout-node={"n142"} className={"v3 text-widget captured-style"}>
+<div data-layout-node={"n143"} className={"v4 text-widget captured-style"}>
+<h2 data-layout-node={"n144"} className={"v10 captured-style"}>
+{"为您的应用选择卡片扫描仪"}
+</h2>
+</div>
+</div>
+<div data-layout-node={"n145"} className={"v11 captured-style"}>
+<div data-layout-node={"n146"} className={"v12 captured-style"}>
+<p data-layout-node={"n147"} className={"v13 captured-style"}>
+{"AITSCCTV 提供流行的 HIP 卡扫描仪型号和"}
+<span data-layout-node={"n148"} className={"v14 accessible-accent-dark captured-style"}>
+<SiteLink data-layout-node={"n149"} className={"v14 accessible-accent-dark captured-style"} href={"https://www.tpa.or.th/writer/read_this_book_topic.php?bookID=6066&pageid=14&read=true&count=true"}>
+{"钥匙卡读卡器"}
+</SiteLink>
+</span>
+{"或价格实惠的钥匙卡门，由专业人士安装。证卡扫描仪支持不同的功能来适应应用程序，包括："}
+</p>
+<ul data-layout-node={"n150"} className={"v60 captured-style"}>
+<li data-layout-node={"n151"} className={"v61 captured-style"}>
+<h3 data-layout-node={"n152"} className={"v62 captured-style"}>
+<span data-layout-node={"n153"} className={"v63 captured-style"}>
+<strong data-layout-node={"n154"} className={"v63 captured-style"}>
+{"门禁卡扫描仪或感应读卡器"}
+</strong>
+</span>
+</h3>
+</li>
+</ul>
+<p data-layout-node={"n155"} className={"v13 captured-style"}>
+{"控制打开和关闭，无需记录使用时间。适合一般用途，例如住宅和其他住宅物业。"}
+</p>
+<ul data-layout-node={"n156"} className={"v60 captured-style"}>
+<li data-layout-node={"n157"} className={"v61 captured-style"}>
+<h3 data-layout-node={"n158"} className={"v62 captured-style"}>
+<span data-layout-node={"n159"} className={"v63 captured-style"}>
+<strong data-layout-node={"n160"} className={"v63 captured-style"}>
+{"考勤和门禁卡扫描仪或感应读卡器"}
+</strong>
+</span>
+</h3>
+</li>
+</ul>
+<p data-layout-node={"n161"} className={"v13 captured-style"}>
+{"扫描卡、配置时区并记录进出时间。适用于需要考勤记录的宿舍、教育机构、办公室等。"}
+</p>
+<ul data-layout-node={"n162"} className={"v60 captured-style"}>
+<li data-layout-node={"n163"} className={"v61 captured-style"}>
+<h3 data-layout-node={"n164"} className={"v62 captured-style"}>
+<strong data-layout-node={"n165"} className={"v64 captured-style"}>
+<span data-layout-node={"n166"} className={"v63 captured-style"}>
+{"考勤卡扫描仪或感应读卡器"}
+</span>
+</strong>
+</h3>
+</li>
+</ul>
+<p data-layout-node={"n167"} className={"v13 captured-style"}>
+{"记录进入和退出时间并将数据传输到计算机进行存储。"}
+</p>
+</div>
+</div>
+</div>
+</div>
+<div data-layout-node={"n168"} className={"v65 section captured-style"}>
+<div data-layout-node={"n169"} className={"v66 captured-style"}>
+<div data-layout-node={"n170"} className={"v3 text-widget captured-style"}>
+<div data-layout-node={"n171"} className={"v4 text-widget captured-style"}>
+<h2 data-layout-node={"n172"} className={"v48 captured-style"}>
+{"领先品牌读卡器安装"}
+</h2>
+</div>
+</div>
+<div data-layout-node={"n173"} className={"v67 text-widget captured-style"}>
+<div data-layout-node={"n174"} className={"v68 text-widget captured-style"}>
+<h2 data-layout-node={"n175"} className={"v69 captured-style"}>
+{"AITSCCTV 推荐我们用于卡片扫描仪、感应读卡器和钥匙卡门设备的优质且符合标准的品牌。我们精心挑选产品，以帮助确保客户及其场所的安全。"}
+</h2>
+</div>
+</div>
+<div data-layout-node={"n176"} className={"v3 text-widget captured-style"}>
+<div data-layout-node={"n177"} className={"v4 text-widget captured-style"}>
+<h3 data-layout-node={"n178"} className={"v70 captured-style"}>
+{"领先的读卡器品牌"}
+</h3>
+</div>
+</div>
+<div data-layout-node={"n179"} className={"v71 section captured-style"}>
+<div data-layout-node={"n180"} className={"v72 layout-row captured-style layout-row"}>
+<div data-layout-node={"n181"} className={"v73 captured-style"}>
+<div data-layout-node={"n182"} className={"v4 captured-style"}>
+<img data-layout-node={"n183"} className={"v74 captured-style"} src={"/assets/remote-42ccadcf8024f905-responsive-300.webp"} alt={"阿华标志"} loading={"lazy"} decoding={"async"} width={"300"} height={"300"} srcSet={"/assets/remote-42ccadcf8024f905-responsive-160.webp 160w, /assets/remote-42ccadcf8024f905-responsive-300.webp 300w"} sizes={"150px"} />
+</div>
+</div>
+<div data-layout-node={"n184"} className={"v73 captured-style"}>
+<div data-layout-node={"n185"} className={"v4 captured-style"}>
+<img data-layout-node={"n186"} className={"v74 captured-style"} src={"/assets/remote-92b4a15c56092b02-responsive-300.webp"} alt={"兹克特"} loading={"lazy"} decoding={"async"} width={"300"} height={"300"} srcSet={"/assets/remote-92b4a15c56092b02-responsive-160.webp 160w, /assets/remote-92b4a15c56092b02-responsive-300.webp 300w"} sizes={"150px"} />
+</div>
+</div>
+<div data-layout-node={"n187"} className={"v73 captured-style"}>
+<div data-layout-node={"n188"} className={"v4 captured-style"}>
+<img data-layout-node={"n189"} className={"v74 captured-style"} src={"/assets/remote-64107f3c4ba3d23b-responsive-300.webp"} alt={"海康标志"} loading={"lazy"} decoding={"async"} width={"300"} height={"300"} srcSet={"/assets/remote-64107f3c4ba3d23b-responsive-160.webp 160w, /assets/remote-64107f3c4ba3d23b-responsive-300.webp 300w"} sizes={"150px"} />
+</div>
+</div>
+<div data-layout-node={"n190"} className={"v73 captured-style"}>
+<div data-layout-node={"n191"} className={"v4 captured-style"}>
+<img data-layout-node={"n192"} className={"v74 captured-style"} src={"/assets/remote-d6cba1a69cbeac01-responsive-300.webp"} alt={"臀部"} loading={"lazy"} decoding={"async"} width={"300"} height={"300"} srcSet={"/assets/remote-d6cba1a69cbeac01-responsive-160.webp 160w, /assets/remote-d6cba1a69cbeac01-responsive-300.webp 300w"} sizes={"150px"} />
+</div>
+</div>
+</div>
+</div>
+<div data-layout-node={"n193"} className={"v3 text-widget captured-style"}>
+<div data-layout-node={"n194"} className={"v4 text-widget captured-style"}>
+<h3 data-layout-node={"n195"} className={"v70 captured-style"}>
+{"接入交换机和网络交换机领先品牌"}
+</h3>
+</div>
+</div>
+<div data-layout-node={"n196"} className={"v71 section captured-style"}>
+<div data-layout-node={"n197"} className={"v72 layout-row captured-style layout-row"}>
+<div data-layout-node={"n198"} className={"v73 captured-style"}>
+<div data-layout-node={"n199"} className={"v4 captured-style"}>
+<img data-layout-node={"n200"} className={"v74 captured-style"} src={"/assets/remote-68254fe22cde4ee8-responsive-300.webp"} alt={"Rcycc标志"} loading={"lazy"} decoding={"async"} width={"300"} height={"300"} srcSet={"/assets/remote-68254fe22cde4ee8-responsive-160.webp 160w, /assets/remote-68254fe22cde4ee8-responsive-300.webp 300w"} sizes={"150px"} />
+</div>
+</div>
+<div data-layout-node={"n201"} className={"v73 captured-style"}>
+<div data-layout-node={"n202"} className={"v4 captured-style"}>
+<img data-layout-node={"n203"} className={"v74 captured-style"} src={"/assets/remote-751d8ca1e57fe3a1-responsive-300.webp"} alt={"锐捷标志"} loading={"lazy"} decoding={"async"} width={"300"} height={"300"} srcSet={"/assets/remote-751d8ca1e57fe3a1-responsive-160.webp 160w, /assets/remote-751d8ca1e57fe3a1-responsive-300.webp 300w"} sizes={"150px"} />
+</div>
+</div>
+<div data-layout-node={"n204"} className={"v73 captured-style"}>
+<div data-layout-node={"n205"} className={"v4 captured-style"}>
+<img data-layout-node={"n206"} className={"v74 captured-style"} src={"/assets/remote-1372ea897ae5931b-responsive-300.webp"} alt={"链接标志"} loading={"lazy"} decoding={"async"} width={"300"} height={"300"} srcSet={"/assets/remote-1372ea897ae5931b-responsive-160.webp 160w, /assets/remote-1372ea897ae5931b-responsive-300.webp 300w"} sizes={"150px"} />
+</div>
+</div>
+<div data-layout-node={"n207"} className={"v73 captured-style"}>
+<div data-layout-node={"n208"} className={"v4 captured-style"}>
+<img data-layout-node={"n209"} className={"v74 captured-style"} src={"/assets/remote-42ccadcf8024f905-responsive-300.webp"} alt={"阿华标志"} loading={"lazy"} decoding={"async"} width={"300"} height={"300"} srcSet={"/assets/remote-42ccadcf8024f905-responsive-160.webp 160w, /assets/remote-42ccadcf8024f905-responsive-300.webp 300w"} sizes={"150px"} />
+</div>
+</div>
+<div data-layout-node={"n210"} className={"v73 captured-style"}>
+<div data-layout-node={"n211"} className={"v4 captured-style"}>
+<img data-layout-node={"n212"} className={"v74 captured-style"} src={"/assets/remote-090e0fb218b44e59-responsive-300.webp"} alt={"阿鲁巴岛"} loading={"lazy"} decoding={"async"} width={"300"} height={"300"} srcSet={"/assets/remote-090e0fb218b44e59-responsive-160.webp 160w, /assets/remote-090e0fb218b44e59-responsive-300.webp 300w"} sizes={"150px"} />
+</div>
+</div>
+</div>
+</div>
+<div data-layout-node={"n213"} className={"v3 text-widget captured-style"}>
+<div data-layout-node={"n214"} className={"v4 text-widget captured-style"}>
+<h3 data-layout-node={"n215"} className={"v70 captured-style"}>
+{"电缆品牌"}
+</h3>
+</div>
+</div>
+<div data-layout-node={"n216"} className={"v71 section media-widget captured-style"}>
+<div data-layout-node={"n217"} className={"v72 media-widget layout-row captured-style layout-row"}>
+<div data-layout-node={"n218"} className={"v75 media-widget captured-style"}>
+<div data-layout-node={"n219"} className={"v4 media-widget captured-style"}>
+<img data-layout-node={"n220"} className={"v76 captured-style"} src={"/assets/remote-a6b445d92518448a-responsive-500.webp"} alt={"矢崎标志"} loading={"lazy"} decoding={"async"} width={"500"} height={"500"} srcSet={"/assets/remote-a6b445d92518448a-responsive-160.webp 160w, /assets/remote-a6b445d92518448a-responsive-320.webp 320w, /assets/remote-a6b445d92518448a-responsive-500.webp 500w"} sizes={"(max-width: 640px) calc(100vw - 40px), (max-width: 1024px) 50vw, 300px"} />
+</div>
+</div>
+</div>
+</div>
+<div data-layout-node={"n221"} className={"v77 video-shell captured-style"}>
+<div data-layout-node={"n222"} className={"v78 video-shell captured-style"}>
+<div data-layout-node={"n223"} className={"v79 video-shell captured-style"}>
+<VideoFrame src={"https://www.youtube.com/embed/o8-vmIs4v1w?controls=1&rel=0&playsinline=0&modestbranding=0&autoplay=0&enablejsapi=1&origin=https%3A%2F%2Faitscctv.com&widgetid=1&forigin=https%3A%2F%2Faitscctv.com%2Faccess-control-system%2Fcard-scanner%2F&aoriginsup=1&vf=1"} english="zh" style={{"width":"684px","maxWidth":"100%","aspectRatio":"684/384.75","display":"flex","margin":"0px"}} />
+</div>
+</div>
+</div>
+</div>
+</div>
+<ServiceWarranty path={"/access-control-system/card-scanner/"} english="zh" />
+</section>
+<section id={"service-projects"} className={"service-stage"} data-service-stage={"projects"}>
+<div className={"service-stage-heading"}>
+<h2>
+{"相关项目及内容"}
+</h2>
+</div>
+<ServiceProjects path={"/access-control-system/card-scanner/"} english="zh" />
+</section>
+<section id={"service-contact"} className={"service-stage"} data-service-stage={"contact"}>
+<div className={"service-stage-heading"}>
+<h2>
+{"索取报价并联系我们的团队"}
+</h2>
+</div>
+<ServiceContact path={"/access-control-system/card-scanner/"} english="zh" />
+</section>
+</div></div>}

@@ -4,6 +4,7 @@ import {parseDocument} from 'htmlparser2';
 import {attributesToProps} from 'html-react-parser';
 import {writeCaptureStyles} from './capture-styles.mjs';
 import {generateEnglishEditorial} from './english-editorial.mjs';
+import {execFileSync} from 'node:child_process';
 import {createEditorialContent,restructureContent} from './restructure-content.mjs';
 const base=process.cwd(), source=path.join(base,'design-source');
 for(const dir of ['src/generated','src/app','public/assets','public/pages'])fs.mkdirSync(path.join(base,dir),{recursive:true});
@@ -303,3 +304,4 @@ fs.writeFileSync('src/generated/english-pages.ts',importsEn.join('\n')+'\nexport
 fs.mkdirSync('qa/english',{recursive:true});
 fs.writeFileSync('qa/english/pending-captured.json',JSON.stringify([...englishMissing],null,2));
 console.log('English catalogue: '+englishMissing.size+' captured strings still require translation.');
+execFileSync(process.execPath,['scripts/generate-chinese.mjs'],{stdio:'inherit'});
