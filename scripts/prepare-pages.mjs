@@ -8,7 +8,7 @@ import path from 'node:path';
 if(process.env.GITHUB_PAGES!=='true')throw new Error('Set GITHUB_PAGES=true before building for Pages.');
 // inlineCss currently emits root /static/media paths on the Linux exporter.
 // Normalize these in both inline styles/Flight records and external CSS.
-const rewriteAssets=text=>text.replace(/(?<![\w/.])\/(assets|pages)\//g,'/website/$1/').replace(/(?<![\w/.])\/static\/media\//g,'/website/_next/static/media/');
+const rewriteAssets=text=>text.replace(/url\((["']?)\.\.\/assets\//g,'url($1/assets/').replace(/(?<![\w/.])\/(assets|pages)\//g,'/website/$1/').replace(/(?<![\w/.])\/static\/media\//g,'/website/_next/static/media/');
 // Flight's large text records declare their UTF-8 byte length. Changing image
 // paths without updating that length corrupts article hydration/navigation.
 function rewriteFlight(text){
