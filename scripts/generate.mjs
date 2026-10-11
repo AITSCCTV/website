@@ -305,3 +305,5 @@ fs.mkdirSync('qa/english',{recursive:true});
 fs.writeFileSync('qa/english/pending-captured.json',JSON.stringify([...englishMissing],null,2));
 console.log('English catalogue: '+englishMissing.size+' captured strings still require translation.');
 execFileSync(process.execPath,['scripts/generate-chinese.mjs'],{stdio:'inherit'});
+
+execFileSync(process.execPath,['scripts/generate-navigation-data.mjs'],{stdio:'inherit'});

@@ -1,6 +1,6 @@
 "use client";
 import {usePathname} from "next/navigation";
-import translations from "../lib/home-en.json";
+import translations from "../lib/navigation-en.json";
 import {services} from '../lib/navigation';
 import {SiteLink} from './SiteLink';
 import {localePath,languageFor} from '../lib/locale-path';

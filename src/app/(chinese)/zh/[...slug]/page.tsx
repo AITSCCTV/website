@@ -1,3 +1,4 @@
+import {PageStyles} from '../../../../components/PageStyles';
 import {siteUrl,pageDescription} from '../../../../lib/seo';
 import type {Metadata} from 'next';
 import {notFound} from 'next/navigation';
@@ -15,5 +16,5 @@ export async function generateMetadata({params}:Props):Promise<Metadata>{
 }
 export default async function ChinesePage({params}:Props){
  const path=pathFor((await params).slug),data=chinesePages[path];if(!data)notFound();
- const {Component}=data;return <><HeroPreload path={path}/><link rel="stylesheet" href={'/pages/'+data.id+'.css'}/><Component/></>;
+ const {Component}=data;return <><HeroPreload path={path}/><PageStyles id={String(data.id)}/><Component/></>;
 }
