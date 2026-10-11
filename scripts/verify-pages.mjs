@@ -1,6 +1,6 @@
 import fs from 'node:fs';
 import path from 'node:path';
-import {parseDocument} from 'htmlparser2';
+import {parseDocument,DomUtils} from 'htmlparser2';
 
 const root=path.resolve('out'),origin='https://aitscctv.github.io';
 const issues=[],checked=new Set();
@@ -17,6 +17,7 @@ function check(value,from){
  if(!fs.existsSync(target))issues.push(`${from}: missing ${value}`);
 }
 function visit(node,file){
+ if(node.name==='style')for(const match of DomUtils.textContent(node).matchAll(/url\(["']?([^"')]+)["']?\)/g))check(match[1],file);
  for(const key of ['src','href','poster'])check(node.attribs?.[key],file);
  for(const candidate of (node.attribs?.srcset||'').split(','))if(candidate.trim())check(candidate.trim().split(/\s+/)[0],file);
  for(const child of node.children||[])visit(child,file);
