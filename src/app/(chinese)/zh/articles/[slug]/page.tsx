@@ -1,3 +1,4 @@
+import {siteUrl} from '../../../../../lib/seo';
 import type {Metadata} from 'next';
 import {notFound} from 'next/navigation';
 import {SiteLink} from '../../../../../components/SiteLink';
@@ -9,7 +10,7 @@ const slugFor=(href:string)=>href.split('/').filter(Boolean).at(-1);
 export function generateStaticParams(){return articles.map(article=>({slug:slugFor(article.href)}))}
 export async function generateMetadata({params}:Props):Promise<Metadata>{
  const slug=(await params).slug,article=articles.find(a=>slugFor(a.href)===slug);
- return article?{title:article.title+' | AITSCCTV',description:article.description,alternates:{canonical:'https://aitscctv.com'+article.href,languages:{th:article.original,en:'https://aitscctv.com'+article.english,'zh-Hans':'https://aitscctv.com'+article.href}}}:{title:'文章未找到 | AITSCCTV'};
+ return article?{title:article.title+' | AITSCCTV',description:article.description,alternates:{canonical:siteUrl('')+article.href,languages:{th:article.original,en:siteUrl('')+article.english,'zh-Hans':siteUrl('')+article.href}}}:{title:'文章未找到 | AITSCCTV'};
 }
 export default async function ChineseArticle({params}:Props){
  const slug=(await params).slug,article=articles.find(a=>slugFor(a.href)===slug);if(!article)notFound();

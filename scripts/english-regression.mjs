@@ -1,5 +1,6 @@
 import fs from 'node:fs';import {chromium,expect} from '@playwright/test';
 const origin=process.env.TEST_ORIGIN||'http://127.0.0.1:3005/website';
+const seoOrigin=origin.includes('/website')?'https://aitscctv.github.io/website':'https://aitscctv.com';
 fs.mkdirSync('qa/english',{recursive:true});
 const articles=JSON.parse(fs.readFileSync('src/generated/english-editorial.json'));
 const pages=JSON.parse(fs.readFileSync('design-source/routes.json')).filter(r=>r.path!=='/blog/').map(r=>'/en'+r.path);pages.push('/en/articles/');
@@ -12,9 +13,9 @@ for(const width of [320,768,1440]){await page.setViewportSize({width,height:900}
  expect(await page.locator('main').innerText()).not.toMatch(/[\u0e00-\u0e7f]/);
  expect(await page.evaluate(()=>document.documentElement.scrollWidth-innerWidth)).toBeLessThanOrEqual(1);
  const article=articles.find(a=>a.href===route);await expect(page.locator('.language-switch a').first()).toHaveAttribute('href',article?.original||'/website'+route.replace(/^\/en/,'')||'/website/');
- expect(await page.locator('link[rel="canonical"]').getAttribute('href')).toBe('https://aitscctv.com'+route);
- await expect(page.locator('link[hreflang="en"]')).toHaveAttribute('href','https://aitscctv.com'+route);
- await expect(page.locator('link[hreflang="th"]')).toHaveAttribute('href',article?.original||'https://aitscctv.com'+route.replace(/^\/en/,''));
+ expect(await page.locator('link[rel="canonical"]').getAttribute('href')).toBe(seoOrigin+route);
+ await expect(page.locator('link[hreflang="en"]')).toHaveAttribute('href',seoOrigin+route);
+ await expect(page.locator('link[hreflang="th"]')).toHaveAttribute('href',article?.original||seoOrigin+route.replace(/^\/en/,''));
  const clipped=await page.locator('main h1,main h2,main h3,main p').evaluateAll(es=>es.filter(e=>{const r=e.getBoundingClientRect();return r.height&&r.width&&!e.closest('.table-scroll,.client-marquee')&&(r.left< -2||r.right>innerWidth+2)}).map(e=>e.textContent.slice(0,80)));expect(clipped).toEqual([]);
  checks.push({route,width});
 }catch(e){failures.push({route,width,error:e.message.slice(0,1600)})}}console.log('Width',width,'checks',checks.length,'failures',failures.length);}

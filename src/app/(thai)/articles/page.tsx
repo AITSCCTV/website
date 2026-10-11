@@ -1,3 +1,4 @@
+import {siteUrl} from '../../../lib/seo';
 import {ArticleArchive} from '../../../components/ArticleArchive';
-export const metadata={title:'บทความและผลงาน | AITSCCTV',alternates:{canonical:'https://aitscctv.com/articles/',languages:{th:'https://aitscctv.com/articles/',en:'https://aitscctv.com/en/articles/','zh-Hans':'https://aitscctv.com/zh/articles/'}}};
+export const metadata={title:'บทความและผลงาน | AITSCCTV',description:'อ่านบทความและผลงาน AITSCCTV เกี่ยวกับกล้องวงจรปิด สมาร์ทโฮม ระบบเครือข่ายและระบบความปลอดภัยในประเทศไทย',alternates:{canonical:siteUrl('/articles/'),languages:{th:siteUrl('/articles/'),en:siteUrl('/en/articles/'),'zh-Hans':siteUrl('/zh/articles/')}}};
 export default function Articles(){return <ArticleArchive/>}

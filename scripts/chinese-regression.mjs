@@ -1,5 +1,6 @@
 import fs from 'node:fs';import {chromium,expect} from '@playwright/test';
 const origin=process.env.TEST_ORIGIN||'http://127.0.0.1:3006',base=origin.includes('/website')?'/website':'';
+const seoOrigin=origin.includes('/website')?'https://aitscctv.github.io/website':'https://aitscctv.com';
 const articles=JSON.parse(fs.readFileSync('src/generated/chinese-editorial.json'));
 const pages=JSON.parse(fs.readFileSync('design-source/routes.json')).filter(r=>r.path!=='/blog/').map(r=>'/zh'+r.path);pages.push('/zh/articles/');
 const previous=process.env.INTERACTIONS_ONLY==='true'?JSON.parse(fs.readFileSync('qa/chinese/regression.json')):{checks:[],failures:[]};
@@ -12,7 +13,7 @@ for(const width of process.env.INTERACTIONS_ONLY==='true'?[]:[320,1440]){await p
  const copy=await page.locator('main').innerText();expect(copy).not.toMatch(/[\u0e00-\u0e7f]/);expect(copy).toMatch(/[\u4e00-\u9fff]/);expect(copy).not.toMatch(/Articles & project stories|Looking for|Discuss your|View more installation|Read article|Our Services|REASONS FOR|Central Television/);
  expect(await page.evaluate(()=>document.documentElement.scrollWidth-innerWidth)).toBeLessThanOrEqual(1);
  const article=articles.find(a=>a.href===route);await expect(page.locator('.language-switch a').nth(0)).toHaveAttribute('href',article?.original||base+route.replace(/^\/zh/,''));await expect(page.locator('.language-switch a').nth(1)).toHaveAttribute('href',base+route.replace(/^\/zh/,'/en'));await expect(page.locator('.language-switch a').nth(2)).toHaveAttribute('aria-current','page');
- expect(await page.locator('link[rel="canonical"]').getAttribute('href')).toBe('https://aitscctv.com'+route);await expect(page.locator('link[hreflang="zh-Hans"]')).toHaveAttribute('href','https://aitscctv.com'+route);await expect(page.locator('link[hreflang="en"]')).toHaveAttribute('href','https://aitscctv.com'+route.replace(/^\/zh/,'/en'));
+ expect(await page.locator('link[rel="canonical"]').getAttribute('href')).toBe(seoOrigin+route);await expect(page.locator('link[hreflang="zh-Hans"]')).toHaveAttribute('href',seoOrigin+route);await expect(page.locator('link[hreflang="en"]')).toHaveAttribute('href',seoOrigin+route.replace(/^\/zh/,'/en'));
  if(width===320&&process.env.AXE==='true'){await page.addStyleTag({content:'main *{content-visibility:visible!important}'});await page.addScriptTag({path:'qa/audit-tools/node_modules/axe-core/axe.min.js'});const violations=await page.evaluate(async()=>{const r=await axe.run(document,{runOnly:{type:'tag',values:['wcag2a','wcag2aa','wcag21aa','best-practice']}});return r.violations.map(v=>({id:v.id,nodes:v.nodes.map(n=>n.target)}))});expect(violations).toEqual([])}
  checks.push({route,width});
  }catch(e){failures.push({route,width,error:e.message.slice(0,1500)})}if((checks.length+failures.length)%30===0)console.log('Checked',checks.length+failures.length,'failures',failures.length)}console.log('Width',width,'checks',checks.length,'failures',failures.length)}
